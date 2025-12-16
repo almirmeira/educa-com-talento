@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="pathGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+    <filter id="glow1">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="500" fill="url(#bg1)"/>
+
+  <!-- Title -->
+  <text x="450" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">SUA JORNADA DE TRANSFORMAÇÃO</text>
+  <text x="450" y="65" font-family="Arial, sans-serif" font-size="12" fill="#888" text-anchor="middle">30 aulas para dominar o foco e a produtividade</text>
+
+  <!-- Path/Road -->
+  <path d="M 50 400 Q 200 380 300 320 Q 400 260 500 280 Q 600 300 700 220 Q 800 140 850 100"
+        stroke="url(#pathGrad)" stroke-width="8" fill="none" stroke-linecap="round" filter="url(#glow1)"/>
+
+  <!-- Module 1 markers -->
+  <g>
+    <!-- Start point -->
+    <circle cx="50" cy="400" r="15" fill="#ef4444"/>
+    <text x="50" y="405" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">VOCÊ</text>
+    <text x="50" y="430" font-family="Arial, sans-serif" font-size="9" fill="#888" text-anchor="middle">Agora</text>
+
+    <!-- Fundamentos -->
+    <circle cx="180" cy="370" r="12" fill="#f59e0b"/>
+    <text x="180" y="374" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">1-5</text>
+    <text x="180" y="355" font-family="Arial, sans-serif" font-size="9" fill="#f59e0b" text-anchor="middle">Fundamentos</text>
+
+    <!-- Atenção -->
+    <circle cx="300" cy="320" r="12" fill="#22c55e"/>
+    <text x="300" y="324" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">6-10</text>
+    <text x="300" y="305" font-family="Arial, sans-serif" font-size="9" fill="#22c55e" text-anchor="middle">Atenção</text>
+
+    <!-- Aprendizagem -->
+    <circle cx="420" cy="270" r="12" fill="#3b82f6"/>
+    <text x="420" y="274" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">11-15</text>
+    <text x="420" y="255" font-family="Arial, sans-serif" font-size="9" fill="#3b82f6" text-anchor="middle">Aprendizagem</text>
+
+    <!-- Produtividade -->
+    <circle cx="550" cy="285" r="12" fill="#8b5cf6"/>
+    <text x="550" y="289" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">16-20</text>
+    <text x="550" y="270" font-family="Arial, sans-serif" font-size="9" fill="#8b5cf6" text-anchor="middle">Produtividade</text>
+
+    <!-- Foco Disperso -->
+    <circle cx="680" cy="230" r="12" fill="#ec4899"/>
+    <text x="680" y="234" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">21-25</text>
+    <text x="680" y="215" font-family="Arial, sans-serif" font-size="9" fill="#ec4899" text-anchor="middle">Foco Disperso</text>
+
+    <!-- Maestria -->
+    <circle cx="800" cy="150" r="12" fill="#14b8a6"/>
+    <text x="800" y="154" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">26-30</text>
+    <text x="800" y="135" font-family="Arial, sans-serif" font-size="9" fill="#14b8a6" text-anchor="middle">Maestria</text>
+
+    <!-- End point (star) -->
+    <polygon points="850,100 855,115 870,115 858,125 863,140 850,130 837,140 842,125 830,115 845,115" fill="#fbbf24" filter="url(#glow1)"/>
+    <text x="850" y="165" font-family="Arial, sans-serif" font-size="10" fill="#fbbf24" text-anchor="middle" font-weight="bold">MAESTRIA</text>
+  </g>
+
+  <!-- Module boxes -->
+  <g transform="translate(50, 440)">
+    <rect x="0" y="0" width="120" height="45" rx="5" fill="#1e1b4b"/>
+    <text x="60" y="18" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">MÓDULO 1</text>
+    <text x="60" y="32" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Aulas 1-20</text>
+    <text x="60" y="42" font-family="Arial, sans-serif" font-size="7" fill="#667eea" text-anchor="middle">Hiperfoco</text>
+  </g>
+
+  <g transform="translate(180, 440)">
+    <rect x="0" y="0" width="120" height="45" rx="5" fill="#1e1b4b"/>
+    <text x="60" y="18" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">MÓDULO 2</text>
+    <text x="60" y="32" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Aulas 21-30</text>
+    <text x="60" y="42" font-family="Arial, sans-serif" font-size="7" fill="#764ba2" text-anchor="middle">Foco Disperso</text>
+  </g>
+
+  <!-- Why box -->
+  <rect x="600" y="380" width="280" height="100" rx="10" fill="#2a2a4a" stroke="#fbbf24" stroke-width="2"/>
+  <text x="740" y="405" font-family="Arial, sans-serif" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">SEU "PORQUÊ"</text>
+  <text x="740" y="425" font-family="Arial, sans-serif" font-size="10" fill="#ccc" text-anchor="middle">Qual seu objetivo profundo?</text>
+  <text x="740" y="445" font-family="Arial, sans-serif" font-size="10" fill="#ccc" text-anchor="middle">O que te motiva a continuar</text>
+  <text x="740" y="465" font-family="Arial, sans-serif" font-size="10" fill="#ccc" text-anchor="middle">mesmo nos dias difíceis?</text>
+
+  <text x="880" y="495" font-family="Arial, sans-serif" font-size="9" fill="#444" text-anchor="end">Aula 01</text>
+</svg>

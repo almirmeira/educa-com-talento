@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">CONSOLIDAÇÃO - MÓDULO 1</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Sistema Integrado de Hiperfoco</text>
+
+  <!-- 4 Blocks summary -->
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="180" height="130" rx="10" fill="#2a2a4a" stroke="#ef4444" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial" font-size="10" fill="#ef4444" text-anchor="middle" font-weight="bold">BLOCO 1</text>
+    <text x="90" y="45" font-family="Arial" font-size="9" fill="white" text-anchor="middle">FUNDAMENTOS</text>
+    <text x="15" y="70" font-family="Arial" font-size="8" fill="#888">✓ Seu porquê</text>
+    <text x="15" y="85" font-family="Arial" font-size="8" fill="#888">✓ Equação R=T×I×E</text>
+    <text x="15" y="100" font-family="Arial" font-size="8" fill="#888">✓ 4 premissas</text>
+    <text x="15" y="115" font-family="Arial" font-size="8" fill="#888">✓ Equilíbrio estável</text>
+  </g>
+
+  <g transform="translate(260, 100)">
+    <rect x="0" y="0" width="180" height="130" rx="10" fill="#2a2a4a" stroke="#f59e0b" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold">BLOCO 2</text>
+    <text x="90" y="45" font-family="Arial" font-size="9" fill="white" text-anchor="middle">ATENÇÃO</text>
+    <text x="15" y="70" font-family="Arial" font-size="8" fill="#888">✓ Espaço atencional</text>
+    <text x="15" y="85" font-family="Arial" font-size="8" fill="#888">✓ Rituais de entrada</text>
+    <text x="15" y="100" font-family="Arial" font-size="8" fill="#888">✓ Gerenciar interrupções</text>
+    <text x="15" y="115" font-family="Arial" font-size="8" fill="#888">✓ Memorização ativa</text>
+  </g>
+
+  <g transform="translate(470, 100)">
+    <rect x="0" y="0" width="180" height="130" rx="10" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial" font-size="10" fill="#22c55e" text-anchor="middle" font-weight="bold">BLOCO 3</text>
+    <text x="90" y="45" font-family="Arial" font-size="9" fill="white" text-anchor="middle">APRENDIZAGEM</text>
+    <text x="15" y="70" font-family="Arial" font-size="8" fill="#888">✓ Leitura ativa (SQ3R)</text>
+    <text x="15" y="85" font-family="Arial" font-size="8" fill="#888">✓ Mapas mentais</text>
+    <text x="15" y="100" font-family="Arial" font-size="8" fill="#888">✓ Inteligência emocional</text>
+    <text x="15" y="115" font-family="Arial" font-size="8" fill="#888">✓ 4 pilares de energia</text>
+  </g>
+
+  <g transform="translate(680, 100)">
+    <rect x="0" y="0" width="180" height="130" rx="10" fill="#2a2a4a" stroke="#3b82f6" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial" font-size="10" fill="#3b82f6" text-anchor="middle" font-weight="bold">BLOCO 4</text>
+    <text x="90" y="45" font-family="Arial" font-size="9" fill="white" text-anchor="middle">PRODUTIVIDADE</text>
+    <text x="15" y="70" font-family="Arial" font-size="8" fill="#888">✓ Loop do hábito</text>
+    <text x="15" y="85" font-family="Arial" font-size="8" fill="#888">✓ Vencer procrastinação</text>
+    <text x="15" y="100" font-family="Arial" font-size="8" fill="#888">✓ 3 níveis planejamento</text>
+    <text x="15" y="115" font-family="Arial" font-size="8" fill="#888">✓ Stack de ferramentas</text>
+  </g>
+
+  <!-- Integration -->
+  <rect x="100" y="260" width="700" height="100" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="290" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">SEU SISTEMA INTEGRADO</text>
+  
+  <text x="200" y="320" font-family="Arial" font-size="9" fill="#ef4444" text-anchor="middle">Porquê claro</text>
+  <text x="280" y="330" font-family="Arial" font-size="16" fill="#444">→</text>
+  <text x="350" y="320" font-family="Arial" font-size="9" fill="#f59e0b" text-anchor="middle">Proteger atenção</text>
+  <text x="430" y="330" font-family="Arial" font-size="16" fill="#444">→</text>
+  <text x="510" y="320" font-family="Arial" font-size="9" fill="#22c55e" text-anchor="middle">Técnicas ativas</text>
+  <text x="590" y="330" font-family="Arial" font-size="16" fill="#444">→</text>
+  <text x="700" y="320" font-family="Arial" font-size="9" fill="#3b82f6" text-anchor="middle">Hábitos e rotinas</text>
+
+  <text x="450" y="350" font-family="Arial" font-size="10" fill="#888" text-anchor="middle">Cada bloco se conecta e reforça os outros</text>
+
+  <!-- What's next -->
+  <rect x="200" y="380" width="500" height="90" rx="10" fill="#2a2a4a" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="450" y="410" font-family="Arial" font-size="12" fill="#8b5cf6" text-anchor="middle" font-weight="bold">PRÓXIMO: MÓDULO 2 - FOCO DISPERSO</text>
+  <text x="450" y="435" font-family="Arial" font-size="10" fill="#ccc" text-anchor="middle">O outro lado da moeda: como usar o modo difuso do cérebro</text>
+  <text x="450" y="455" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">Criatividade, insight, recuperação e maestria</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 20</text>
+</svg>

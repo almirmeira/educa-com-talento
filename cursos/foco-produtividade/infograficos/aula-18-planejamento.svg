@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">OS 3 NÍVEIS DE PLANEJAMENTO</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Longo prazo, semanal e diário</text>
+
+  <!-- Pyramid -->
+  <polygon points="450,90 200,280 700,280" fill="#2a2a4a" stroke="#667eea" stroke-width="2"/>
+  <line x1="300" y1="190" x2="600" y2="190" stroke="#667eea" stroke-width="1"/>
+  <line x1="250" y1="235" x2="650" y2="235" stroke="#667eea" stroke-width="1"/>
+
+  <!-- Labels on pyramid -->
+  <text x="450" y="145" font-family="Arial" font-size="11" fill="#ef4444" text-anchor="middle" font-weight="bold">LONGO PRAZO</text>
+  <text x="450" y="160" font-family="Arial" font-size="8" fill="#ccc" text-anchor="middle">Semestre/Ano</text>
+
+  <text x="450" y="215" font-family="Arial" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="bold">SEMANAL</text>
+  <text x="450" y="228" font-family="Arial" font-size="8" fill="#ccc" text-anchor="middle">7 dias</text>
+
+  <text x="450" y="260" font-family="Arial" font-size="11" fill="#22c55e" text-anchor="middle" font-weight="bold">DIÁRIO</text>
+  <text x="450" y="273" font-family="Arial" font-size="8" fill="#ccc" text-anchor="middle">Hoje</text>
+
+  <!-- Details boxes -->
+  <g transform="translate(50, 300)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#1e1b4b"/>
+    <text x="125" y="25" font-family="Arial" font-size="10" fill="#ef4444" text-anchor="middle" font-weight="bold">📅 LONGO PRAZO</text>
+    <text x="20" y="50" font-family="Arial" font-size="8" fill="#888">• Objetivos do semestre/prova</text>
+    <text x="20" y="65" font-family="Arial" font-size="8" fill="#888">• Marcos e deadlines</text>
+    <text x="20" y="80" font-family="Arial" font-size="8" fill="#888">• Reverse engineering do objetivo</text>
+  </g>
+
+  <g transform="translate(325, 300)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#1e1b4b"/>
+    <text x="125" y="25" font-family="Arial" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold">📊 SEMANAL</text>
+    <text x="20" y="50" font-family="Arial" font-size="8" fill="#888">• Domingo: revisar + planejar</text>
+    <text x="20" y="65" font-family="Arial" font-size="8" fill="#888">• Distribuir tarefas nos dias</text>
+    <text x="20" y="80" font-family="Arial" font-size="8" fill="#888">• Flexibilidade para imprevistos</text>
+  </g>
+
+  <g transform="translate(600, 300)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#1e1b4b"/>
+    <text x="125" y="25" font-family="Arial" font-size="10" fill="#22c55e" text-anchor="middle" font-weight="bold">✅ DIÁRIO</text>
+    <text x="20" y="50" font-family="Arial" font-size="8" fill="#888">• Top 3 MITs (Most Important)</text>
+    <text x="20" y="65" font-family="Arial" font-size="8" fill="#888">• Time blocking</text>
+    <text x="20" y="80" font-family="Arial" font-size="8" fill="#888">• Revisão noturna</text>
+  </g>
+
+  <!-- Key insight -->
+  <rect x="200" y="420" width="500" height="55" rx="10" fill="#2a2a4a" stroke="#fbbf24" stroke-width="1"/>
+  <text x="450" y="445" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">MITs: As 3 tarefas que, se feitas, fazem o dia valer a pena</text>
+  <text x="450" y="465" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">Faça-as no seu horário de pico de energia</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 18</text>
+</svg>

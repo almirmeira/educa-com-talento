@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550">
+  <rect width="900" height="550" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">SUA JORNADA ESTÁ APENAS COMEÇANDO</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Encerramento do Curso</text>
+
+  <!-- Course summary -->
+  <rect x="100" y="90" width="700" height="120" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="115" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">O QUE VOCÊ CONQUISTOU</text>
+
+  <g transform="translate(140, 130)">
+    <rect x="0" y="0" width="120" height="60" rx="8" fill="#ef4444" opacity="0.8"/>
+    <text x="60" y="25" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">Fundamentos</text>
+    <text x="60" y="42" font-family="Arial" font-size="8" fill="white" text-anchor="middle">Aulas 1-5</text>
+  </g>
+  <g transform="translate(280, 130)">
+    <rect x="0" y="0" width="120" height="60" rx="8" fill="#f59e0b" opacity="0.8"/>
+    <text x="60" y="25" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">Atenção</text>
+    <text x="60" y="42" font-family="Arial" font-size="8" fill="white" text-anchor="middle">Aulas 6-10</text>
+  </g>
+  <g transform="translate(420, 130)">
+    <rect x="0" y="0" width="120" height="60" rx="8" fill="#22c55e" opacity="0.8"/>
+    <text x="60" y="25" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">Aprendizagem</text>
+    <text x="60" y="42" font-family="Arial" font-size="8" fill="white" text-anchor="middle">Aulas 11-15</text>
+  </g>
+  <g transform="translate(560, 130)">
+    <rect x="0" y="0" width="120" height="60" rx="8" fill="#3b82f6" opacity="0.8"/>
+    <text x="60" y="25" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">Produtividade</text>
+    <text x="60" y="42" font-family="Arial" font-size="8" fill="white" text-anchor="middle">Aulas 16-20</text>
+  </g>
+
+  <!-- Module 2 -->
+  <g transform="translate(280, 230)">
+    <rect x="0" y="0" width="160" height="60" rx="8" fill="#8b5cf6" opacity="0.8"/>
+    <text x="80" y="25" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">Foco Disperso</text>
+    <text x="80" y="42" font-family="Arial" font-size="8" fill="white" text-anchor="middle">Aulas 21-25</text>
+  </g>
+  <g transform="translate(460, 230)">
+    <rect x="0" y="0" width="160" height="60" rx="8" fill="#ec4899" opacity="0.8"/>
+    <text x="80" y="25" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">Maestria</text>
+    <text x="80" y="42" font-family="Arial" font-size="8" fill="white" text-anchor="middle">Aulas 26-30</text>
+  </g>
+
+  <!-- Continuity plan -->
+  <text x="450" y="330" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">PLANO DE CONTINUIDADE</text>
+
+  <g transform="translate(100, 350)">
+    <rect x="0" y="0" width="200" height="80" rx="10" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <text x="100" y="25" font-family="Arial" font-size="10" fill="#22c55e" text-anchor="middle" font-weight="bold">📅 PRÓXIMOS 30 DIAS</text>
+    <text x="100" y="48" font-family="Arial" font-size="8" fill="#ccc" text-anchor="middle">Implementar 1 técnica/semana</text>
+    <text x="100" y="65" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Manter diário de prática</text>
+  </g>
+
+  <g transform="translate(350, 350)">
+    <rect x="0" y="0" width="200" height="80" rx="10" fill="#2a2a4a" stroke="#3b82f6" stroke-width="2"/>
+    <text x="100" y="25" font-family="Arial" font-size="10" fill="#3b82f6" text-anchor="middle" font-weight="bold">📊 3 MESES</text>
+    <text x="100" y="48" font-family="Arial" font-size="8" fill="#ccc" text-anchor="middle">Sistema consolidado</text>
+    <text x="100" y="65" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Ajustes baseados em resultados</text>
+  </g>
+
+  <g transform="translate(600, 350)">
+    <rect x="0" y="0" width="200" height="80" rx="10" fill="#2a2a4a" stroke="#f59e0b" stroke-width="2"/>
+    <text x="100" y="25" font-family="Arial" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold">🏆 1 ANO</text>
+    <text x="100" y="48" font-family="Arial" font-size="8" fill="#ccc" text-anchor="middle">Identidade de aprendiz</text>
+    <text x="100" y="65" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Maestria como estilo de vida</text>
+  </g>
+
+  <!-- Final message -->
+  <rect x="150" y="455" width="600" height="70" rx="10" fill="#1e1b4b" stroke="#fbbf24" stroke-width="2"/>
+  <text x="450" y="483" font-family="Arial" font-size="14" fill="#fbbf24" text-anchor="middle" font-weight="bold">O CONHECIMENTO SÓ TEM VALOR QUANDO APLICADO</text>
+  <text x="450" y="508" font-family="Arial" font-size="10" fill="#ccc" text-anchor="middle">Comece HOJE. Seja imperfeito. Seja consistente. Os resultados virão.</text>
+
+  <text x="880" y="540" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 30</text>
+</svg>

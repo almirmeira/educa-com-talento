@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">TÉCNICA SQ3R - LEITURA ATIVA</text>
+  <text x="450" y="65" font-family="Arial, sans-serif" font-size="12" fill="#888" text-anchor="middle">Transforme leitura passiva em aprendizado profundo</text>
+
+  <!-- 5 steps in flow -->
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="140" height="120" rx="10" fill="#2a2a4a" stroke="#ef4444" stroke-width="2"/>
+    <text x="70" y="30" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🔍</text>
+    <text x="70" y="55" font-family="Arial, sans-serif" font-size="12" fill="#ef4444" text-anchor="middle" font-weight="bold">1. SURVEY</text>
+    <text x="70" y="75" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Examine antes</text>
+    <text x="70" y="90" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Títulos, gráficos,</text>
+    <text x="70" y="102" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">conclusões</text>
+  </g>
+  <text x="205" y="160" font-family="Arial, sans-serif" font-size="24" fill="#444">→</text>
+
+  <g transform="translate(220, 100)">
+    <rect x="0" y="0" width="140" height="120" rx="10" fill="#2a2a4a" stroke="#f59e0b" stroke-width="2"/>
+    <text x="70" y="30" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">❓</text>
+    <text x="70" y="55" font-family="Arial, sans-serif" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="bold">2. QUESTION</text>
+    <text x="70" y="75" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Crie perguntas</text>
+    <text x="70" y="90" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Transforme títulos</text>
+    <text x="70" y="102" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">em questões</text>
+  </g>
+  <text x="375" y="160" font-family="Arial, sans-serif" font-size="24" fill="#444">→</text>
+
+  <g transform="translate(390, 100)">
+    <rect x="0" y="0" width="140" height="120" rx="10" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <text x="70" y="30" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">📖</text>
+    <text x="70" y="55" font-family="Arial, sans-serif" font-size="12" fill="#22c55e" text-anchor="middle" font-weight="bold">3. READ</text>
+    <text x="70" y="75" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Leia buscando</text>
+    <text x="70" y="90" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">respostas para</text>
+    <text x="70" y="102" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">suas perguntas</text>
+  </g>
+  <text x="545" y="160" font-family="Arial, sans-serif" font-size="24" fill="#444">→</text>
+
+  <g transform="translate(560, 100)">
+    <rect x="0" y="0" width="140" height="120" rx="10" fill="#2a2a4a" stroke="#3b82f6" stroke-width="2"/>
+    <text x="70" y="30" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🗣️</text>
+    <text x="70" y="55" font-family="Arial, sans-serif" font-size="12" fill="#3b82f6" text-anchor="middle" font-weight="bold">4. RECITE</text>
+    <text x="70" y="75" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Feche e recite</text>
+    <text x="70" y="90" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Diga em voz alta</text>
+    <text x="70" y="102" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">o que entendeu</text>
+  </g>
+  <text x="715" y="160" font-family="Arial, sans-serif" font-size="24" fill="#444">→</text>
+
+  <g transform="translate(730, 100)">
+    <rect x="0" y="0" width="140" height="120" rx="10" fill="#2a2a4a" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="70" y="30" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🔄</text>
+    <text x="70" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b5cf6" text-anchor="middle" font-weight="bold">5. REVIEW</text>
+    <text x="70" y="75" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Revise depois</text>
+    <text x="70" y="90" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Repetição</text>
+    <text x="70" y="102" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">espaçada</text>
+  </g>
+
+  <!-- Comparison -->
+  <rect x="100" y="250" width="300" height="120" rx="10" fill="#2a2a4a" stroke="#ef4444" stroke-width="2"/>
+  <text x="250" y="280" font-family="Arial, sans-serif" font-size="12" fill="#ef4444" text-anchor="middle" font-weight="bold">❌ LEITURA PASSIVA</text>
+  <text x="250" y="305" font-family="Arial, sans-serif" font-size="10" fill="#ccc" text-anchor="middle">Olhos passam pelas palavras</text>
+  <text x="250" y="325" font-family="Arial, sans-serif" font-size="10" fill="#ccc" text-anchor="middle">Mente em outro lugar</text>
+  <text x="250" y="350" font-family="Arial, sans-serif" font-size="10" fill="#ef4444" text-anchor="middle">Retenção: ~10%</text>
+
+  <rect x="500" y="250" width="300" height="120" rx="10" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+  <text x="650" y="280" font-family="Arial, sans-serif" font-size="12" fill="#22c55e" text-anchor="middle" font-weight="bold">✅ LEITURA ATIVA (SQ3R)</text>
+  <text x="650" y="305" font-family="Arial, sans-serif" font-size="10" fill="#ccc" text-anchor="middle">Busca ativa por respostas</text>
+  <text x="650" y="325" font-family="Arial, sans-serif" font-size="10" fill="#ccc" text-anchor="middle">Processamento profundo</text>
+  <text x="650" y="350" font-family="Arial, sans-serif" font-size="10" fill="#22c55e" text-anchor="middle">Retenção: ~70%</text>
+
+  <rect x="200" y="400" width="500" height="60" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="425" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="bold">Uma leitura ativa vale mais que 5 leituras passivas</text>
+  <text x="450" y="445" font-family="Arial, sans-serif" font-size="10" fill="#888" text-anchor="middle">O esforço inicial compensa na retenção de longo prazo</text>
+
+  <text x="880" y="490" font-family="Arial, sans-serif" font-size="9" fill="#444" text-anchor="end">Aula 11</text>
+</svg>

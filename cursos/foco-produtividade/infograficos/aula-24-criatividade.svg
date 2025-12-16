@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">O PROCESSO CRIATIVO</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Graham Wallas - 4 Estágios da Criatividade</text>
+
+  <!-- 4 Stages flow -->
+  <g transform="translate(50, 110)">
+    <rect x="0" y="0" width="180" height="140" rx="10" fill="#2a2a4a" stroke="#3b82f6" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial" font-size="24" text-anchor="middle">📚</text>
+    <text x="90" y="55" font-family="Arial" font-size="12" fill="#3b82f6" text-anchor="middle" font-weight="bold">1. PREPARAÇÃO</text>
+    <text x="90" y="80" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Imersão no problema</text>
+    <text x="90" y="100" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Pesquisar, estudar,</text>
+    <text x="90" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">colecionar informações</text>
+    <text x="90" y="135" font-family="Arial" font-size="8" fill="#3b82f6" text-anchor="middle">MODO FOCADO</text>
+  </g>
+  <text x="245" y="180" font-family="Arial" font-size="20" fill="#444">→</text>
+
+  <g transform="translate(260, 110)">
+    <rect x="0" y="0" width="180" height="140" rx="10" fill="#2a2a4a" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial" font-size="24" text-anchor="middle">🌙</text>
+    <text x="90" y="55" font-family="Arial" font-size="12" fill="#8b5cf6" text-anchor="middle" font-weight="bold">2. INCUBAÇÃO</text>
+    <text x="90" y="80" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Deixar "de molho"</text>
+    <text x="90" y="100" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Descanso, atividades</text>
+    <text x="90" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">não relacionadas</text>
+    <text x="90" y="135" font-family="Arial" font-size="8" fill="#8b5cf6" text-anchor="middle">MODO DIFUSO</text>
+  </g>
+  <text x="455" y="180" font-family="Arial" font-size="20" fill="#444">→</text>
+
+  <g transform="translate(470, 110)">
+    <rect x="0" y="0" width="180" height="140" rx="10" fill="#2a2a4a" stroke="#fbbf24" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial" font-size="24" text-anchor="middle">💡</text>
+    <text x="90" y="55" font-family="Arial" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">3. ILUMINAÇÃO</text>
+    <text x="90" y="80" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">O "Eureka!"</text>
+    <text x="90" y="100" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Insight surge</text>
+    <text x="90" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">inesperadamente</text>
+    <text x="90" y="135" font-family="Arial" font-size="8" fill="#fbbf24" text-anchor="middle">TRANSIÇÃO</text>
+  </g>
+  <text x="665" y="180" font-family="Arial" font-size="20" fill="#444">→</text>
+
+  <g transform="translate(680, 110)">
+    <rect x="0" y="0" width="180" height="140" rx="10" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial" font-size="24" text-anchor="middle">🔧</text>
+    <text x="90" y="55" font-family="Arial" font-size="12" fill="#22c55e" text-anchor="middle" font-weight="bold">4. VERIFICAÇÃO</text>
+    <text x="90" y="80" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Testar a ideia</text>
+    <text x="90" y="100" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Refinar, aplicar,</text>
+    <text x="90" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">validar</text>
+    <text x="90" y="135" font-family="Arial" font-size="8" fill="#22c55e" text-anchor="middle">MODO FOCADO</text>
+  </g>
+
+  <!-- Techniques for incubation -->
+  <rect x="100" y="280" width="700" height="120" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="305" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">ATIVADORES DO MODO DIFUSO</text>
+
+  <text x="200" y="340" font-family="Arial" font-size="10" fill="#22c55e" text-anchor="middle">🚿 Banho</text>
+  <text x="350" y="340" font-family="Arial" font-size="10" fill="#3b82f6" text-anchor="middle">🚶 Caminhada</text>
+  <text x="500" y="340" font-family="Arial" font-size="10" fill="#8b5cf6" text-anchor="middle">🛋️ Descanso</text>
+  <text x="650" y="340" font-family="Arial" font-size="10" fill="#f59e0b" text-anchor="middle">🧹 Tarefas simples</text>
+
+  <text x="450" y="380" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">Atividades que ocupam as mãos, mas liberam a mente</text>
+
+  <!-- Key insight -->
+  <rect x="200" y="420" width="500" height="55" rx="10" fill="#2a2a4a" stroke="#fbbf24" stroke-width="1"/>
+  <text x="450" y="445" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">CRIATIVIDADE = PREPARAÇÃO + ESPAÇO PARA INSIGHT</text>
+  <text x="450" y="465" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">Não force. Alimente o problema e depois solte.</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 24</text>
+</svg>

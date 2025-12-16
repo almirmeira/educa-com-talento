@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">OS 4 TIPOS DE PROCRASTINADOR</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Identifique o seu para vencê-lo</text>
+
+  <!-- 4 Types -->
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="180" height="170" rx="10" fill="#2a2a4a" stroke="#ef4444" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial" font-size="24" text-anchor="middle">😰</text>
+    <text x="90" y="55" font-family="Arial" font-size="11" fill="#ef4444" text-anchor="middle" font-weight="bold">O ANSIOSO</text>
+    <text x="90" y="80" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Medo de errar</text>
+    <text x="90" y="100" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">paralisa</text>
+    <text x="15" y="125" font-family="Arial" font-size="8" fill="#888">Solução:</text>
+    <text x="15" y="140" font-family="Arial" font-size="8" fill="#888">Regra dos 2 minutos</text>
+    <text x="15" y="155" font-family="Arial" font-size="8" fill="#888">"Feito > Perfeito"</text>
+  </g>
+
+  <g transform="translate(260, 100)">
+    <rect x="0" y="0" width="180" height="170" rx="10" fill="#2a2a4a" stroke="#f59e0b" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial" font-size="24" text-anchor="middle">🎢</text>
+    <text x="90" y="55" font-family="Arial" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="bold">O THRILL-SEEKER</text>
+    <text x="90" y="80" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Precisa da adrenalina</text>
+    <text x="90" y="100" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">do prazo</text>
+    <text x="15" y="125" font-family="Arial" font-size="8" fill="#888">Solução:</text>
+    <text x="15" y="140" font-family="Arial" font-size="8" fill="#888">Criar prazos artificiais</text>
+    <text x="15" y="155" font-family="Arial" font-size="8" fill="#888">Gamificar tarefas</text>
+  </g>
+
+  <g transform="translate(470, 100)">
+    <rect x="0" y="0" width="180" height="170" rx="10" fill="#2a2a4a" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial" font-size="24" text-anchor="middle">😤</text>
+    <text x="90" y="55" font-family="Arial" font-size="11" fill="#8b5cf6" text-anchor="middle" font-weight="bold">O REBELDE</text>
+    <text x="90" y="80" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Resiste a</text>
+    <text x="90" y="100" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">obrigações</text>
+    <text x="15" y="125" font-family="Arial" font-size="8" fill="#888">Solução:</text>
+    <text x="15" y="140" font-family="Arial" font-size="8" fill="#888">Conectar com SEU porquê</text>
+    <text x="15" y="155" font-family="Arial" font-size="8" fill="#888">Autonomia na execução</text>
+  </g>
+
+  <g transform="translate(680, 100)">
+    <rect x="0" y="0" width="180" height="170" rx="10" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial" font-size="24" text-anchor="middle">🤔</text>
+    <text x="90" y="55" font-family="Arial" font-size="11" fill="#22c55e" text-anchor="middle" font-weight="bold">O INDECISO</text>
+    <text x="90" y="80" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Análise paralisa</text>
+    <text x="90" y="100" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">a ação</text>
+    <text x="15" y="125" font-family="Arial" font-size="8" fill="#888">Solução:</text>
+    <text x="15" y="140" font-family="Arial" font-size="8" fill="#888">Tempo limite para decisões</text>
+    <text x="15" y="155" font-family="Arial" font-size="8" fill="#888">"Bom o suficiente"</text>
+  </g>
+
+  <!-- Universal strategies -->
+  <rect x="100" y="300" width="700" height="130" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="325" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">TÉCNICAS UNIVERSAIS</text>
+
+  <text x="200" y="360" font-family="Arial" font-size="10" fill="#3b82f6" text-anchor="middle" font-weight="bold">⏱️ Regra 2 min</text>
+  <text x="200" y="380" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Começa em 2 min ou menos?</text>
+  <text x="200" y="395" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Faça AGORA</text>
+
+  <text x="450" y="360" font-family="Arial" font-size="10" fill="#22c55e" text-anchor="middle" font-weight="bold">🎁 Temptation Bundling</text>
+  <text x="450" y="380" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Junte tarefa chata com</text>
+  <text x="450" y="395" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">algo prazeroso</text>
+
+  <text x="700" y="360" font-family="Arial" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold">🐸 Eat the Frog</text>
+  <text x="700" y="380" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Tarefa mais difícil</text>
+  <text x="700" y="395" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">primeiro</text>
+
+  <text x="450" y="450" font-family="Arial" font-size="11" fill="#ccc" text-anchor="middle">A procrastinação é um problema de regulação EMOCIONAL, não de gestão de tempo</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 17</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">RECUPERAÇÃO E RENOVAÇÃO</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">O descanso é parte do treinamento</text>
+
+  <!-- Stress-Recovery cycle -->
+  <rect x="100" y="100" width="700" height="120" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="125" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">CICLO ESTRESSE-RECUPERAÇÃO</text>
+
+  <rect x="180" y="145" width="130" height="50" rx="8" fill="#ef4444"/>
+  <text x="245" y="175" font-family="Arial" font-size="10" fill="white" text-anchor="middle" font-weight="bold">ESTRESSE</text>
+
+  <text x="330" y="175" font-family="Arial" font-size="20" fill="#444">→</text>
+
+  <rect x="360" y="145" width="130" height="50" rx="8" fill="#22c55e"/>
+  <text x="425" y="175" font-family="Arial" font-size="10" fill="white" text-anchor="middle" font-weight="bold">RECUPERAÇÃO</text>
+
+  <text x="510" y="175" font-family="Arial" font-size="20" fill="#444">→</text>
+
+  <rect x="540" y="145" width="130" height="50" rx="8" fill="#8b5cf6"/>
+  <text x="605" y="175" font-family="Arial" font-size="10" fill="white" text-anchor="middle" font-weight="bold">CRESCIMENTO</text>
+
+  <text x="450" y="210" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">Sem recuperação adequada, não há supercompensação</text>
+
+  <!-- Two types of recovery -->
+  <g transform="translate(50, 250)">
+    <rect x="0" y="0" width="380" height="150" rx="10" fill="#2a2a4a" stroke="#3b82f6" stroke-width="2"/>
+    <text x="190" y="30" font-family="Arial" font-size="12" fill="#3b82f6" text-anchor="middle" font-weight="bold">⚡ MICRO-RECUPERAÇÃO</text>
+    <text x="190" y="55" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Durante o dia</text>
+    <text x="30" y="85" font-family="Arial" font-size="9" fill="#888">• Pausas entre pomodoros</text>
+    <text x="30" y="105" font-family="Arial" font-size="9" fill="#888">• Respirações conscientes</text>
+    <text x="30" y="125" font-family="Arial" font-size="9" fill="#888">• Alongamentos rápidos</text>
+    <text x="30" y="145" font-family="Arial" font-size="9" fill="#888">• Olhar para longe (20-20-20)</text>
+  </g>
+
+  <g transform="translate(470, 250)">
+    <rect x="0" y="0" width="380" height="150" rx="10" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <text x="190" y="30" font-family="Arial" font-size="12" fill="#22c55e" text-anchor="middle" font-weight="bold">🌿 MACRO-RECUPERAÇÃO</text>
+    <text x="190" y="55" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Dia livre / Final de semana</text>
+    <text x="30" y="85" font-family="Arial" font-size="9" fill="#888">• 1 dia sem estudo por semana</text>
+    <text x="30" y="105" font-family="Arial" font-size="9" fill="#888">• Contato com natureza</text>
+    <text x="30" y="125" font-family="Arial" font-size="9" fill="#888">• Hobbies desconectados</text>
+    <text x="30" y="145" font-family="Arial" font-size="9" fill="#888">• Socialização real</text>
+  </g>
+
+  <!-- Burnout prevention -->
+  <rect x="150" y="420" width="600" height="60" rx="10" fill="#1e1b4b" stroke="#ef4444" stroke-width="2"/>
+  <text x="450" y="445" font-family="Arial" font-size="11" fill="#ef4444" text-anchor="middle" font-weight="bold">⚠️ PREVENÇÃO DE BURNOUT</text>
+  <text x="450" y="468" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Sinais: irritação constante, perda de interesse, fadiga que não passa, insônia</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 27</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">A DANÇA ENTRE OS MODOS</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Alternância estratégica para aprendizado profundo</text>
+
+  <!-- Oscillation visual -->
+  <rect x="100" y="100" width="700" height="150" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="125" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">RITMO DE ALTERNÂNCIA</text>
+
+  <!-- Wave pattern -->
+  <path d="M 150 200 Q 225 130 300 200 Q 375 270 450 200 Q 525 130 600 200 Q 675 270 750 200" 
+        stroke="url(#waveGrad)" stroke-width="4" fill="none"/>
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ef4444"/>
+      <stop offset="25%" style="stop-color:#8b5cf6"/>
+      <stop offset="50%" style="stop-color:#ef4444"/>
+      <stop offset="75%" style="stop-color:#8b5cf6"/>
+      <stop offset="100%" style="stop-color:#ef4444"/>
+    </linearGradient>
+  </defs>
+
+  <text x="225" y="145" font-family="Arial" font-size="9" fill="#ef4444" text-anchor="middle">FOCADO</text>
+  <text x="375" y="235" font-family="Arial" font-size="9" fill="#8b5cf6" text-anchor="middle">DIFUSO</text>
+  <text x="525" y="145" font-family="Arial" font-size="9" fill="#ef4444" text-anchor="middle">FOCADO</text>
+  <text x="675" y="235" font-family="Arial" font-size="9" fill="#8b5cf6" text-anchor="middle">DIFUSO</text>
+
+  <!-- Practical patterns -->
+  <g transform="translate(50, 280)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#2a2a4a" stroke="#3b82f6" stroke-width="2"/>
+    <text x="125" y="25" font-family="Arial" font-size="10" fill="#3b82f6" text-anchor="middle" font-weight="bold">⚡ MICRO-ALTERNÂNCIA</text>
+    <text x="125" y="50" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">25-50 min foco</text>
+    <text x="125" y="70" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">5-10 min difuso</text>
+    <text x="125" y="90" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Dentro de uma sessão</text>
+  </g>
+
+  <g transform="translate(325, 280)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <text x="125" y="25" font-family="Arial" font-size="10" fill="#22c55e" text-anchor="middle" font-weight="bold">📅 DIÁRIA</text>
+    <text x="125" y="50" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Manhã: blocos de foco</text>
+    <text x="125" y="70" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Tarde: pausas + difuso</text>
+    <text x="125" y="90" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Ao longo do dia</text>
+  </g>
+
+  <g transform="translate(600, 280)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#2a2a4a" stroke="#f59e0b" stroke-width="2"/>
+    <text x="125" y="25" font-family="Arial" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold">🗓️ SEMANAL</text>
+    <text x="125" y="50" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Dias de estudo intenso</text>
+    <text x="125" y="70" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Dias de descanso real</text>
+    <text x="125" y="90" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Ciclo semanal</text>
+  </g>
+
+  <!-- Personal rhythm -->
+  <rect x="150" y="400" width="600" height="75" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="425" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">ENCONTRE SEU RITMO PESSOAL</text>
+  <text x="450" y="450" font-family="Arial" font-size="10" fill="#ccc" text-anchor="middle">Observe: quando você naturalmente precisa de pausas?</text>
+  <text x="450" y="468" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">Ultradiano: ciclos de 90-120 min são naturais do corpo</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 25</text>
+</svg>

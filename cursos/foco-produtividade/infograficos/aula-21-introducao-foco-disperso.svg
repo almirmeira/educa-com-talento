@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">MODO FOCADO vs MODO DIFUSO</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Seu cérebro tem dois modos complementares</text>
+
+  <!-- Two brain modes -->
+  <g transform="translate(100, 100)">
+    <rect x="0" y="0" width="300" height="250" rx="15" fill="#2a2a4a" stroke="#ef4444" stroke-width="3"/>
+    <text x="150" y="40" font-family="Arial" font-size="40" text-anchor="middle">🎯</text>
+    <text x="150" y="75" font-family="Arial" font-size="16" fill="#ef4444" text-anchor="middle" font-weight="bold">MODO FOCADO</text>
+    <text x="150" y="100" font-family="Arial" font-size="10" fill="#ccc" text-anchor="middle">Ativação: Córtex Pré-Frontal</text>
+    
+    <text x="30" y="130" font-family="Arial" font-size="9" fill="#888">Características:</text>
+    <text x="30" y="150" font-family="Arial" font-size="9" fill="#ccc">• Atenção concentrada</text>
+    <text x="30" y="168" font-family="Arial" font-size="9" fill="#ccc">• Pensamento sequencial</text>
+    <text x="30" y="186" font-family="Arial" font-size="9" fill="#ccc">• Resolução de problemas</text>
+    <text x="30" y="204" font-family="Arial" font-size="9" fill="#ccc">• Análise lógica</text>
+    
+    <text x="150" y="235" font-family="Arial" font-size="9" fill="#ef4444" text-anchor="middle" font-weight="bold">QUANDO: Estudando, trabalhando</text>
+  </g>
+
+  <g transform="translate(500, 100)">
+    <rect x="0" y="0" width="300" height="250" rx="15" fill="#2a2a4a" stroke="#8b5cf6" stroke-width="3"/>
+    <text x="150" y="40" font-family="Arial" font-size="40" text-anchor="middle">🌊</text>
+    <text x="150" y="75" font-family="Arial" font-size="16" fill="#8b5cf6" text-anchor="middle" font-weight="bold">MODO DIFUSO</text>
+    <text x="150" y="100" font-family="Arial" font-size="10" fill="#ccc" text-anchor="middle">Ativação: Default Mode Network</text>
+    
+    <text x="30" y="130" font-family="Arial" font-size="9" fill="#888">Características:</text>
+    <text x="30" y="150" font-family="Arial" font-size="9" fill="#ccc">• Atenção relaxada</text>
+    <text x="30" y="168" font-family="Arial" font-size="9" fill="#ccc">• Conexões inesperadas</text>
+    <text x="30" y="186" font-family="Arial" font-size="9" fill="#ccc">• Insights e "eureka"</text>
+    <text x="30" y="204" font-family="Arial" font-size="9" fill="#ccc">• Consolidação de memórias</text>
+    
+    <text x="150" y="235" font-family="Arial" font-size="9" fill="#8b5cf6" text-anchor="middle" font-weight="bold">QUANDO: Caminhando, chuveiro, dormindo</text>
+  </g>
+
+  <!-- Connection -->
+  <text x="450" y="220" font-family="Arial" font-size="30" fill="#444" text-anchor="middle">⟷</text>
+
+  <!-- Key insight -->
+  <rect x="150" y="380" width="600" height="90" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="410" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">A DANÇA ENTRE OS MODOS</text>
+  <text x="450" y="435" font-family="Arial" font-size="10" fill="#ccc" text-anchor="middle">Aprendizado profundo requer ALTERNAR entre os dois modos</text>
+  <text x="450" y="455" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">Foco intenso → Pausa real → Insight surge → Foco para aplicar</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 21</text>
+</svg>

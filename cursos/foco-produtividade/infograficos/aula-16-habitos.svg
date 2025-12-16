@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">O LOOP DO HÁBITO</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Charles Duhigg - O Poder do Hábito</text>
+
+  <!-- Circular loop -->
+  <circle cx="450" cy="230" r="120" fill="none" stroke="#333" stroke-width="3"/>
+  
+  <!-- Three points on circle -->
+  <circle cx="450" cy="110" r="45" fill="#ef4444"/>
+  <text x="450" y="105" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">GATILHO</text>
+  <text x="450" y="120" font-family="Arial" font-size="9" fill="white" text-anchor="middle">🔔</text>
+  
+  <circle cx="330" cy="290" r="45" fill="#f59e0b"/>
+  <text x="330" y="285" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">ROTINA</text>
+  <text x="330" y="300" font-family="Arial" font-size="9" fill="white" text-anchor="middle">⚡</text>
+  
+  <circle cx="570" cy="290" r="45" fill="#22c55e"/>
+  <text x="570" y="285" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">RECOMPENSA</text>
+  <text x="570" y="300" font-family="Arial" font-size="9" fill="white" text-anchor="middle">🎁</text>
+
+  <!-- Arrows between -->
+  <path d="M 485 125 Q 520 160 540 250" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 530 325 Q 450 370 370 325" stroke="#666" stroke-width="2" fill="none"/>
+  <path d="M 295 260 Q 270 180 410 125" stroke="#666" stroke-width="2" fill="none"/>
+
+  <!-- Example -->
+  <rect x="100" y="380" width="700" height="100" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="405" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">EXEMPLO: HÁBITO DE ESTUDO</text>
+  
+  <text x="200" y="440" font-family="Arial" font-size="10" fill="#ef4444" text-anchor="middle" font-weight="bold">Gatilho</text>
+  <text x="200" y="460" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Alarme 19h + mesa limpa</text>
+
+  <text x="370" y="435" font-family="Arial" font-size="16" fill="#444">→</text>
+  
+  <text x="450" y="440" font-family="Arial" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold">Rotina</text>
+  <text x="450" y="460" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">2 pomodoros de estudo</text>
+
+  <text x="540" y="435" font-family="Arial" font-size="16" fill="#444">→</text>
+  
+  <text x="700" y="440" font-family="Arial" font-size="10" fill="#22c55e" text-anchor="middle" font-weight="bold">Recompensa</text>
+  <text x="700" y="460" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Episódio de série + satisfação</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 16</text>
+</svg>

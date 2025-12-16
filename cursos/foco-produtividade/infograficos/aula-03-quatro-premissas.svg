@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="550" fill="url(#bg3)"/>
+
+  <text x="450" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">AS 4 PREMISSAS FUNDAMENTAIS</text>
+  <text x="450" y="65" font-family="Arial, sans-serif" font-size="12" fill="#888" text-anchor="middle">As regras do jogo da atenção que você precisa aceitar</text>
+
+  <!-- Premissa 1 -->
+  <g transform="translate(50, 90)">
+    <rect x="0" y="0" width="380" height="100" rx="15" fill="#2a2a4a" stroke="#ef4444" stroke-width="2"/>
+    <circle cx="50" cy="50" r="30" fill="#ef4444"/>
+    <text x="50" y="58" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">1</text>
+    <text x="220" y="35" font-family="Arial, sans-serif" font-size="14" fill="#ef4444" text-anchor="middle" font-weight="bold">ATENÇÃO É LIMITADA</text>
+    <text x="220" y="55" font-family="Arial, sans-serif" font-size="11" fill="#ccc" text-anchor="middle">Seu "tanque" comporta apenas 3-4 itens</text>
+    <text x="220" y="75" font-family="Arial, sans-serif" font-size="11" fill="#888" text-anchor="middle">Multitarefa é um MITO</text>
+    <text x="350" y="85" font-family="Arial, sans-serif" font-size="20">⛽</text>
+  </g>
+
+  <!-- Premissa 2 -->
+  <g transform="translate(470, 90)">
+    <rect x="0" y="0" width="380" height="100" rx="15" fill="#2a2a4a" stroke="#f59e0b" stroke-width="2"/>
+    <circle cx="50" cy="50" r="30" fill="#f59e0b"/>
+    <text x="50" y="58" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">2</text>
+    <text x="220" y="35" font-family="Arial, sans-serif" font-size="14" fill="#f59e0b" text-anchor="middle" font-weight="bold">FOCO É INTENCIONAL</text>
+    <text x="220" y="55" font-family="Arial, sans-serif" font-size="11" fill="#ccc" text-anchor="middle">Não vem automaticamente</text>
+    <text x="220" y="75" font-family="Arial, sans-serif" font-size="11" fill="#888" text-anchor="middle">É uma ESCOLHA consciente</text>
+    <text x="350" y="85" font-family="Arial, sans-serif" font-size="20">🎯</text>
+  </g>
+
+  <!-- Premissa 3 -->
+  <g transform="translate(50, 210)">
+    <rect x="0" y="0" width="380" height="100" rx="15" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <circle cx="50" cy="50" r="30" fill="#22c55e"/>
+    <text x="50" y="58" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">3</text>
+    <text x="220" y="35" font-family="Arial, sans-serif" font-size="14" fill="#22c55e" text-anchor="middle" font-weight="bold">AMBIENTE DETERMINA 80%</text>
+    <text x="220" y="55" font-family="Arial, sans-serif" font-size="11" fill="#ccc" text-anchor="middle">Seu espaço molda seu foco</text>
+    <text x="220" y="75" font-family="Arial, sans-serif" font-size="11" fill="#888" text-anchor="middle">Design > Força de vontade</text>
+    <text x="350" y="85" font-family="Arial, sans-serif" font-size="20">🏠</text>
+  </g>
+
+  <!-- Premissa 4 -->
+  <g transform="translate(470, 210)">
+    <rect x="0" y="0" width="380" height="100" rx="15" fill="#2a2a4a" stroke="#8b5cf6" stroke-width="2"/>
+    <circle cx="50" cy="50" r="30" fill="#8b5cf6"/>
+    <text x="50" y="58" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">4</text>
+    <text x="220" y="35" font-family="Arial, sans-serif" font-size="14" fill="#8b5cf6" text-anchor="middle" font-weight="bold">MENTE VAGUEIA (47%)</text>
+    <text x="220" y="55" font-family="Arial, sans-serif" font-size="11" fill="#ccc" text-anchor="middle">É natural e esperado</text>
+    <text x="220" y="75" font-family="Arial, sans-serif" font-size="11" fill="#888" text-anchor="middle">Não se culpe, REDIRECIONE</text>
+    <text x="350" y="85" font-family="Arial, sans-serif" font-size="20">🌊</text>
+  </g>
+
+  <!-- Central insight -->
+  <rect x="200" y="340" width="500" height="80" rx="15" fill="#1e1b4b"/>
+  <text x="450" y="370" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" font-weight="bold">ACEITAR ESSAS VERDADES É LIBERTADOR</text>
+  <text x="450" y="395" font-family="Arial, sans-serif" font-size="11" fill="#888" text-anchor="middle">Quando você entende as regras, pode jogar estrategicamente</text>
+
+  <!-- Action items -->
+  <g transform="translate(100, 440)">
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" fill="#ef4444">→ Trate atenção como recurso precioso</text>
+    <text x="200" y="15" font-family="Arial, sans-serif" font-size="11" fill="#f59e0b">→ Escolha focar conscientemente</text>
+    <text x="400" y="15" font-family="Arial, sans-serif" font-size="11" fill="#22c55e">→ Otimize seu ambiente</text>
+    <text x="600" y="15" font-family="Arial, sans-serif" font-size="11" fill="#8b5cf6">→ Redirecione sem culpa</text>
+  </g>
+
+  <!-- Visual: Tank gauge -->
+  <g transform="translate(100, 480)">
+    <rect x="0" y="0" width="150" height="30" rx="5" fill="#333" stroke="#ef4444"/>
+    <rect x="2" y="2" width="50" height="26" rx="3" fill="#ef4444"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">3-4 itens máx</text>
+  </g>
+
+  <text x="880" y="540" font-family="Arial, sans-serif" font-size="9" fill="#444" text-anchor="end">Aula 03</text>
+</svg>

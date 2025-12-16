@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">OS 4 PILARES DA ENERGIA</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Base física para performance mental</text>
+
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="180" height="180" rx="15" fill="#2a2a4a" stroke="#3b82f6" stroke-width="3"/>
+    <text x="90" y="35" font-family="Arial" font-size="30" text-anchor="middle">😴</text>
+    <text x="90" y="65" font-family="Arial" font-size="14" fill="#3b82f6" text-anchor="middle" font-weight="bold">SONO</text>
+    <text x="90" y="90" font-family="Arial" font-size="10" fill="white" text-anchor="middle">7-9 horas</text>
+    <text x="90" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Consolida memórias</text>
+    <text x="90" y="130" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Limpa toxinas</text>
+    <text x="90" y="145" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Regula humor</text>
+    <text x="90" y="170" font-family="Arial" font-size="8" fill="#ef4444" text-anchor="middle">Dormir mal = estudar mal</text>
+  </g>
+
+  <g transform="translate(260, 100)">
+    <rect x="0" y="0" width="180" height="180" rx="15" fill="#2a2a4a" stroke="#22c55e" stroke-width="3"/>
+    <text x="90" y="35" font-family="Arial" font-size="30" text-anchor="middle">🥗</text>
+    <text x="90" y="65" font-family="Arial" font-size="14" fill="#22c55e" text-anchor="middle" font-weight="bold">ALIMENTAÇÃO</text>
+    <text x="90" y="90" font-family="Arial" font-size="10" fill="white" text-anchor="middle">Combustível cerebral</text>
+    <text x="90" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">✓ Proteínas + gorduras boas</text>
+    <text x="90" y="130" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">✓ Evitar picos de açúcar</text>
+    <text x="90" y="145" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">✓ Refeições leves antes</text>
+    <text x="90" y="170" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">de estudar</text>
+  </g>
+
+  <g transform="translate(470, 100)">
+    <rect x="0" y="0" width="180" height="180" rx="15" fill="#2a2a4a" stroke="#06b6d4" stroke-width="3"/>
+    <text x="90" y="35" font-family="Arial" font-size="30" text-anchor="middle">💧</text>
+    <text x="90" y="65" font-family="Arial" font-size="14" fill="#06b6d4" text-anchor="middle" font-weight="bold">HIDRATAÇÃO</text>
+    <text x="90" y="90" font-family="Arial" font-size="10" fill="white" text-anchor="middle">2-3 litros/dia</text>
+    <text x="90" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Desidratação leve já</text>
+    <text x="90" y="130" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">prejudica cognição</text>
+    <text x="90" y="155" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Tenha água sempre</text>
+    <text x="90" y="170" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">à mão</text>
+  </g>
+
+  <g transform="translate(680, 100)">
+    <rect x="0" y="0" width="180" height="180" rx="15" fill="#2a2a4a" stroke="#f59e0b" stroke-width="3"/>
+    <text x="90" y="35" font-family="Arial" font-size="30" text-anchor="middle">🏃</text>
+    <text x="90" y="65" font-family="Arial" font-size="14" fill="#f59e0b" text-anchor="middle" font-weight="bold">MOVIMENTO</text>
+    <text x="90" y="90" font-family="Arial" font-size="10" fill="white" text-anchor="middle">20 min/dia mínimo</text>
+    <text x="90" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Aumenta BDNF</text>
+    <text x="90" y="130" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">(fertilizante neural)</text>
+    <text x="90" y="155" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Pausas com movimento</text>
+    <text x="90" y="170" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">entre blocos</text>
+  </g>
+
+  <rect x="150" y="310" width="600" height="80" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="340" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">O BÁSICO VEM ANTES DO AVANÇADO</text>
+  <text x="450" y="365" font-family="Arial" font-size="10" fill="#ccc" text-anchor="middle">Não adianta técnicas sofisticadas se você está dormindo mal,</text>
+  <text x="450" y="380" font-family="Arial" font-size="10" fill="#ccc" text-anchor="middle">comendo mal, desidratado e sedentário</text>
+
+  <text x="450" y="430" font-family="Arial" font-size="11" fill="#888" text-anchor="middle">Auditoria semanal: Como estão meus 4 pilares?</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 14</text>
+</svg>

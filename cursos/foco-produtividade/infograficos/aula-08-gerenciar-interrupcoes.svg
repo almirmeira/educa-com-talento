@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+
+  <text x="450" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">O CUSTO DAS INTERRUPÇÕES</text>
+  <text x="450" y="65" font-family="Arial, sans-serif" font-size="12" fill="#888" text-anchor="middle">Cada interrupção custa muito mais do que parece</text>
+
+  <!-- Main stat -->
+  <rect x="300" y="90" width="300" height="100" rx="15" fill="#ef4444" opacity="0.2" stroke="#ef4444" stroke-width="2"/>
+  <text x="450" y="135" font-family="Arial, sans-serif" font-size="48" fill="#ef4444" text-anchor="middle" font-weight="bold">23 min</text>
+  <text x="450" y="165" font-family="Arial, sans-serif" font-size="12" fill="#ccc" text-anchor="middle">para retomar o foco profundo</text>
+  <text x="450" y="180" font-family="Arial, sans-serif" font-size="9" fill="#888" text-anchor="middle">(Pesquisa: Universidade da Califórnia)</text>
+
+  <!-- Types of interruptions -->
+  <text x="450" y="220" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" font-weight="bold">TIPOS DE INTERRUPÇÃO</text>
+
+  <g transform="translate(50, 240)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#2a2a4a" stroke="#ef4444" stroke-width="2"/>
+    <text x="125" y="25" font-family="Arial, sans-serif" font-size="11" fill="#ef4444" text-anchor="middle" font-weight="bold">🚨 EXTERNAS URGENTES</text>
+    <text x="125" y="50" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Emergências reais</text>
+    <text x="125" y="70" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Protocolo: Avaliar, lidar, anotar</text>
+    <text x="125" y="85" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">onde parou, voltar sem culpa</text>
+  </g>
+
+  <g transform="translate(325, 240)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#2a2a4a" stroke="#f59e0b" stroke-width="2"/>
+    <text x="125" y="25" font-family="Arial, sans-serif" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="bold">📱 EXTERNAS NÃO-URGENTES</text>
+    <text x="125" y="50" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">A maioria das interrupções</text>
+    <text x="125" y="70" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Protocolo: "Estou focado,</text>
+    <text x="125" y="85" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">te procuro em [horário]"</text>
+  </g>
+
+  <g transform="translate(600, 240)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#2a2a4a" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="125" y="25" font-family="Arial, sans-serif" font-size="11" fill="#8b5cf6" text-anchor="middle" font-weight="bold">🧠 AUTO-INTERRUPÇÕES</text>
+    <text x="125" y="50" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">As mais traiçoeiras</text>
+    <text x="125" y="70" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Protocolo: Anotar impulso</text>
+    <text x="125" y="85" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">em vez de agir nele</text>
+  </g>
+
+  <!-- Recovery technique -->
+  <text x="450" y="370" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" font-weight="bold">TÉCNICA DE RECUPERAÇÃO</text>
+
+  <g transform="translate(150, 385)">
+    <rect x="0" y="0" width="180" height="60" rx="8" fill="#1e1b4b"/>
+    <text x="90" y="20" font-family="Arial, sans-serif" font-size="10" fill="#22c55e" text-anchor="middle" font-weight="bold">1. ONDE EU ESTAVA</text>
+    <text x="90" y="40" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Pause 10s e reconstrua</text>
+    <text x="90" y="52" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">mentalmente o contexto</text>
+  </g>
+
+  <text x="350" y="420" font-family="Arial, sans-serif" font-size="20" fill="#444">→</text>
+
+  <g transform="translate(370, 385)">
+    <rect x="0" y="0" width="180" height="60" rx="8" fill="#1e1b4b"/>
+    <text x="90" y="20" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6" text-anchor="middle" font-weight="bold">2. NOTAS DE CONTEXTO</text>
+    <text x="90" y="40" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Sempre deixe um rascunho</text>
+    <text x="90" y="52" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">do pensamento atual</text>
+  </g>
+
+  <text x="570" y="420" font-family="Arial, sans-serif" font-size="20" fill="#444">→</text>
+
+  <g transform="translate(590, 385)">
+    <rect x="0" y="0" width="180" height="60" rx="8" fill="#1e1b4b"/>
+    <text x="90" y="20" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold">3. MINI-RITUAL</text>
+    <text x="90" y="40" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">3 respirações + releia</text>
+    <text x="90" y="52" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">última anotação + retome</text>
+  </g>
+
+  <text x="880" y="490" font-family="Arial, sans-serif" font-size="9" fill="#444" text-anchor="end">Aula 08</text>
+</svg>

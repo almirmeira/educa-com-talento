@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="550" fill="url(#bg4)"/>
+
+  <text x="450" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">FOCO DIRECIONADO vs FOCO SEDUZIDO</text>
+  <text x="450" y="65" font-family="Arial, sans-serif" font-size="12" fill="#888" text-anchor="middle">A diferença entre prazer vazio e satisfação profunda</text>
+
+  <!-- Left side: Foco Seduzido -->
+  <g transform="translate(50, 90)">
+    <rect x="0" y="0" width="380" height="350" rx="15" fill="#2a2a4a" stroke="#ef4444" stroke-width="3"/>
+    <text x="190" y="35" font-family="Arial, sans-serif" font-size="16" fill="#ef4444" text-anchor="middle" font-weight="bold">❌ FOCO SEDUZIDO</text>
+
+    <!-- Icons -->
+    <text x="60" y="80" font-family="Arial, sans-serif" font-size="30">📱</text>
+    <text x="120" y="80" font-family="Arial, sans-serif" font-size="30">📺</text>
+    <text x="180" y="80" font-family="Arial, sans-serif" font-size="30">🎮</text>
+    <text x="240" y="80" font-family="Arial, sans-serif" font-size="30">💬</text>
+    <text x="300" y="80" font-family="Arial, sans-serif" font-size="30">🔔</text>
+
+    <!-- Dopamine graph -->
+    <text x="20" y="120" font-family="Arial, sans-serif" font-size="10" fill="#888">Dopamina:</text>
+    <rect x="20" y="130" width="340" height="60" rx="5" fill="#1a1a2e"/>
+    <path d="M 30 175 L 60 140 L 70 180 L 100 145 L 110 175 L 140 150 L 150 178 L 180 148 L 190 175 L 220 152 L 230 178" stroke="#ef4444" stroke-width="2" fill="none"/>
+    <text x="280" y="165" font-family="Arial, sans-serif" font-size="9" fill="#ef4444">Picos e quedas</text>
+
+    <!-- Characteristics -->
+    <text x="20" y="215" font-family="Arial, sans-serif" font-size="11" fill="#ccc">• Capturado por estímulos externos</text>
+    <text x="20" y="235" font-family="Arial, sans-serif" font-size="11" fill="#ccc">• Prazer imediato mas vazio</text>
+    <text x="20" y="255" font-family="Arial, sans-serif" font-size="11" fill="#ccc">• Cria dependência</text>
+    <text x="20" y="275" font-family="Arial, sans-serif" font-size="11" fill="#ccc">• Deixa ansiedade e culpa</text>
+    <text x="20" y="295" font-family="Arial, sans-serif" font-size="11" fill="#ccc">• Tempo "some" sem perceber</text>
+
+    <!-- Result -->
+    <rect x="20" y="310" width="340" height="30" rx="5" fill="#ef4444" opacity="0.3"/>
+    <text x="190" y="330" font-family="Arial, sans-serif" font-size="11" fill="#ef4444" text-anchor="middle" font-weight="bold">RESULTADO: Vazio + Nada aprendido</text>
+  </g>
+
+  <!-- Right side: Foco Direcionado -->
+  <g transform="translate(470, 90)">
+    <rect x="0" y="0" width="380" height="350" rx="15" fill="#2a2a4a" stroke="#22c55e" stroke-width="3"/>
+    <text x="190" y="35" font-family="Arial, sans-serif" font-size="16" fill="#22c55e" text-anchor="middle" font-weight="bold">✅ FOCO DIRECIONADO</text>
+
+    <!-- Icons -->
+    <text x="60" y="80" font-family="Arial, sans-serif" font-size="30">📚</text>
+    <text x="120" y="80" font-family="Arial, sans-serif" font-size="30">✍️</text>
+    <text x="180" y="80" font-family="Arial, sans-serif" font-size="30">🎯</text>
+    <text x="240" y="80" font-family="Arial, sans-serif" font-size="30">💡</text>
+    <text x="300" y="80" font-family="Arial, sans-serif" font-size="30">🏆</text>
+
+    <!-- Dopamine graph -->
+    <text x="20" y="120" font-family="Arial, sans-serif" font-size="10" fill="#888">Dopamina:</text>
+    <rect x="20" y="130" width="340" height="60" rx="5" fill="#1a1a2e"/>
+    <path d="M 30 175 L 80 170 L 130 165 L 180 158 L 230 150 L 280 145 L 330 140" stroke="#22c55e" stroke-width="2" fill="none"/>
+    <text x="280" y="175" font-family="Arial, sans-serif" font-size="9" fill="#22c55e">Crescente e estável</text>
+
+    <!-- Characteristics -->
+    <text x="20" y="215" font-family="Arial, sans-serif" font-size="11" fill="#ccc">• Escolhido conscientemente</text>
+    <text x="20" y="235" font-family="Arial, sans-serif" font-size="11" fill="#ccc">• Esforço inicial, satisfação duradoura</text>
+    <text x="20" y="255" font-family="Arial, sans-serif" font-size="11" fill="#ccc">• Cria competência</text>
+    <text x="20" y="275" font-family="Arial, sans-serif" font-size="11" fill="#ccc">• Deixa orgulho e paz</text>
+    <text x="20" y="295" font-family="Arial, sans-serif" font-size="11" fill="#ccc">• Tempo bem investido</text>
+
+    <!-- Result -->
+    <rect x="20" y="310" width="340" height="30" rx="5" fill="#22c55e" opacity="0.3"/>
+    <text x="190" y="330" font-family="Arial, sans-serif" font-size="11" fill="#22c55e" text-anchor="middle" font-weight="bold">RESULTADO: Realização + Progresso real</text>
+  </g>
+
+  <!-- Bottom insight -->
+  <rect x="150" y="460" width="600" height="70" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="490" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" font-weight="bold">A ESCOLHA É SUA, A CADA MOMENTO</text>
+  <text x="450" y="515" font-family="Arial, sans-serif" font-size="11" fill="#888" text-anchor="middle">Você pode resetar seu sistema de recompensa em 2-3 semanas de prática consciente</text>
+
+  <text x="880" y="540" font-family="Arial, sans-serif" font-size="9" fill="#444" text-anchor="end">Aula 04</text>
+</svg>

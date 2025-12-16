@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs>
+    <linearGradient id="bg7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="500" fill="url(#bg7)"/>
+
+  <text x="450" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">RITUAIS DE ENTRADA NO FOCO</text>
+  <text x="450" y="65" font-family="Arial, sans-serif" font-size="12" fill="#888" text-anchor="middle">Crie um "botão de liga" para seu estado de hiperfoco</text>
+
+  <!-- 4 Elements -->
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="180" height="120" rx="15" fill="#2a2a4a" stroke="#ef4444" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="25" text-anchor="middle">🔄</text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" fill="#ef4444" text-anchor="middle" font-weight="bold">CONSISTÊNCIA</text>
+    <text x="90" y="80" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Mesmo ritual,</text>
+    <text x="90" y="95" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">sempre igual</text>
+  </g>
+
+  <g transform="translate(260, 100)">
+    <rect x="0" y="0" width="180" height="120" rx="15" fill="#2a2a4a" stroke="#f59e0b" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="25" text-anchor="middle">📋</text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="bold">SEQUÊNCIA</text>
+    <text x="90" y="80" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Ordem específica</text>
+    <text x="90" y="95" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">dos passos</text>
+  </g>
+
+  <g transform="translate(470, 100)">
+    <rect x="0" y="0" width="180" height="120" rx="15" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="25" text-anchor="middle">🌉</text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" fill="#22c55e" text-anchor="middle" font-weight="bold">TRANSIÇÃO</text>
+    <text x="90" y="80" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Do disperso</text>
+    <text x="90" y="95" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">ao focado</text>
+  </g>
+
+  <g transform="translate(680, 100)">
+    <rect x="0" y="0" width="180" height="120" rx="15" fill="#2a2a4a" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="25" text-anchor="middle">⚓</text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" fill="#8b5cf6" text-anchor="middle" font-weight="bold">ÂNCORA</text>
+    <text x="90" y="80" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Elemento sensorial</text>
+    <text x="90" y="95" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">(chá, música, aroma)</text>
+  </g>
+
+  <!-- Example rituals -->
+  <text x="450" y="260" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" font-weight="bold">EXEMPLOS DE RITUAIS</text>
+
+  <!-- 2 min ritual -->
+  <g transform="translate(50, 280)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#1e1b4b"/>
+    <text x="125" y="25" font-family="Arial, sans-serif" font-size="11" fill="#3b82f6" text-anchor="middle" font-weight="bold">⚡ RITUAL RELÂMPAGO (2 min)</text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="9" fill="#ccc">1. 3 respirações profundas</text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="9" fill="#ccc">2. Declarar: "Hora de foco"</text>
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="9" fill="#ccc">3. Começar imediatamente</text>
+  </g>
+
+  <!-- 5 min ritual -->
+  <g transform="translate(325, 280)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#1e1b4b"/>
+    <text x="125" y="25" font-family="Arial, sans-serif" font-size="11" fill="#22c55e" text-anchor="middle" font-weight="bold">☕ RITUAL SIMPLES (5 min)</text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="9" fill="#ccc">1. Guardar celular em outro cômodo</text>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="9" fill="#ccc">2. Limpar mesa</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="9" fill="#ccc">3. 5 respirações + abrir material</text>
+  </g>
+
+  <!-- 10 min ritual -->
+  <g transform="translate(600, 280)">
+    <rect x="0" y="0" width="250" height="100" rx="10" fill="#1e1b4b"/>
+    <text x="125" y="25" font-family="Arial, sans-serif" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="bold">🧘 RITUAL COMPLETO (10 min)</text>
+    <text x="20" y="45" font-family="Arial, sans-serif" font-size="8" fill="#ccc">1. Preparar chá/café (âncora)</text>
+    <text x="20" y="57" font-family="Arial, sans-serif" font-size="8" fill="#ccc">2. Revisar objetivos do dia</text>
+    <text x="20" y="69" font-family="Arial, sans-serif" font-size="8" fill="#ccc">3. Organizar ambiente</text>
+    <text x="20" y="81" font-family="Arial, sans-serif" font-size="8" fill="#ccc">4. 2 min respiração + música foco</text>
+    <text x="20" y="93" font-family="Arial, sans-serif" font-size="8" fill="#ccc">5. Reler última página estudada</text>
+  </g>
+
+  <!-- Timeline -->
+  <rect x="100" y="400" width="700" height="60" rx="10" fill="#2a2a4a"/>
+  <text x="450" y="420" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle" font-weight="bold">TEMPO PARA CONDICIONAMENTO</text>
+
+  <line x1="150" y1="445" x2="750" y2="445" stroke="#444" stroke-width="2"/>
+  <circle cx="150" cy="445" r="5" fill="#ef4444"/>
+  <text x="150" y="458" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Início</text>
+
+  <circle cx="350" cy="445" r="5" fill="#f59e0b"/>
+  <text x="350" y="458" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">1 semana</text>
+
+  <circle cx="550" cy="445" r="5" fill="#22c55e"/>
+  <text x="550" y="458" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">2-3 semanas</text>
+
+  <circle cx="750" cy="445" r="8" fill="#22c55e"/>
+  <text x="750" y="458" font-family="Arial, sans-serif" font-size="8" fill="#22c55e" text-anchor="middle" font-weight="bold">AUTOMÁTICO!</text>
+
+  <text x="880" y="490" font-family="Arial, sans-serif" font-size="9" fill="#444" text-anchor="end">Aula 07</text>
+</svg>

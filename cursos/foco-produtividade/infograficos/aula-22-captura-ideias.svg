@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">SISTEMA DE CAPTURA DE IDEIAS</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Ideias são voláteis - capture antes que desapareçam</text>
+
+  <!-- 3 Principles -->
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="250" height="150" rx="10" fill="#2a2a4a" stroke="#ef4444" stroke-width="2"/>
+    <text x="125" y="35" font-family="Arial" font-size="24" text-anchor="middle">📍</text>
+    <text x="125" y="60" font-family="Arial" font-size="12" fill="#ef4444" text-anchor="middle" font-weight="bold">ONIPRESENTE</text>
+    <text x="125" y="90" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Sempre tenha onde anotar</text>
+    <text x="125" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Celular, papel, app de voz</text>
+    <text x="125" y="135" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Não confie na memória!</text>
+  </g>
+
+  <g transform="translate(325, 100)">
+    <rect x="0" y="0" width="250" height="150" rx="10" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <text x="125" y="35" font-family="Arial" font-size="24" text-anchor="middle">⚡</text>
+    <text x="125" y="60" font-family="Arial" font-size="12" fill="#22c55e" text-anchor="middle" font-weight="bold">RÁPIDO</text>
+    <text x="125" y="90" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Capture em segundos</text>
+    <text x="125" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Não filtre, não organize</text>
+    <text x="125" y="135" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Apenas capture o essencial</text>
+  </g>
+
+  <g transform="translate(600, 100)">
+    <rect x="0" y="0" width="250" height="150" rx="10" fill="#2a2a4a" stroke="#3b82f6" stroke-width="2"/>
+    <text x="125" y="35" font-family="Arial" font-size="24" text-anchor="middle">🔄</text>
+    <text x="125" y="60" font-family="Arial" font-size="12" fill="#3b82f6" text-anchor="middle" font-weight="bold">PROCESSÁVEL</text>
+    <text x="125" y="90" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Revise e organize depois</text>
+    <text x="125" y="115" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Inbox → Decisão</text>
+    <text x="125" y="135" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Revisão diária/semanal</text>
+  </g>
+
+  <!-- Flow -->
+  <rect x="100" y="280" width="700" height="100" rx="10" fill="#1e1b4b"/>
+  <text x="450" y="305" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">O FLUXO DA IDEIA</text>
+
+  <circle cx="180" cy="345" r="25" fill="#ef4444"/>
+  <text x="180" y="350" font-family="Arial" font-size="8" fill="white" text-anchor="middle">💡 Surge</text>
+
+  <text x="230" y="350" font-family="Arial" font-size="16" fill="#444">→</text>
+
+  <circle cx="300" cy="345" r="25" fill="#f59e0b"/>
+  <text x="300" y="350" font-family="Arial" font-size="8" fill="white" text-anchor="middle">📝 Captura</text>
+
+  <text x="350" y="350" font-family="Arial" font-size="16" fill="#444">→</text>
+
+  <circle cx="420" cy="345" r="25" fill="#22c55e"/>
+  <text x="420" y="350" font-family="Arial" font-size="8" fill="white" text-anchor="middle">📥 Inbox</text>
+
+  <text x="470" y="350" font-family="Arial" font-size="16" fill="#444">→</text>
+
+  <circle cx="540" cy="345" r="25" fill="#3b82f6"/>
+  <text x="540" y="350" font-family="Arial" font-size="8" fill="white" text-anchor="middle">🔍 Processa</text>
+
+  <text x="590" y="350" font-family="Arial" font-size="16" fill="#444">→</text>
+
+  <circle cx="660" cy="345" r="25" fill="#8b5cf6"/>
+  <text x="660" y="350" font-family="Arial" font-size="8" fill="white" text-anchor="middle">📂 Destino</text>
+
+  <text x="710" y="350" font-family="Arial" font-size="16" fill="#444">→</text>
+
+  <circle cx="780" cy="345" r="25" fill="#ec4899"/>
+  <text x="780" y="350" font-family="Arial" font-size="8" fill="white" text-anchor="middle">✅ Ação</text>
+
+  <!-- Incubation -->
+  <rect x="200" y="400" width="500" height="70" rx="10" fill="#2a2a4a" stroke="#fbbf24" stroke-width="1"/>
+  <text x="450" y="425" font-family="Arial" font-size="11" fill="#fbbf24" text-anchor="middle" font-weight="bold">🥚 INCUBAÇÃO</text>
+  <text x="450" y="450" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Algumas ideias precisam "marinar". Deixe no inbox e revise depois.</text>
+  <text x="450" y="465" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">A mente continua processando em segundo plano</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 22</text>
+</svg>

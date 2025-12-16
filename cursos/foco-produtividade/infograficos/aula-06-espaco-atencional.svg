@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550">
+  <defs>
+    <linearGradient id="bg6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <filter id="glow6"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <rect width="900" height="550" fill="url(#bg6)"/>
+
+  <text x="450" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">SEU ESPAÇO ATENCIONAL</text>
+  <text x="450" y="65" font-family="Arial, sans-serif" font-size="12" fill="#888" text-anchor="middle">A arena mental onde acontece todo processamento consciente</text>
+
+  <!-- Main arena -->
+  <ellipse cx="450" cy="260" rx="180" ry="140" fill="none" stroke="#6366f1" stroke-width="4" filter="url(#glow6)"/>
+  <text x="450" y="130" font-family="Arial, sans-serif" font-size="11" fill="#6366f1" text-anchor="middle" font-weight="bold">CAPACIDADE: 3-4 ITENS</text>
+
+  <!-- Items inside -->
+  <circle cx="380" cy="220" r="40" fill="#22c55e" opacity="0.9"/>
+  <text x="380" y="215" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle" font-weight="bold">TAREFA</text>
+  <text x="380" y="228" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">PRINCIPAL</text>
+
+  <circle cx="520" cy="230" r="32" fill="#3b82f6" opacity="0.85"/>
+  <text x="520" y="227" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">CONCEITO</text>
+  <text x="520" y="238" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">ATIVO</text>
+
+  <circle cx="410" cy="300" r="28" fill="#a855f7" opacity="0.8"/>
+  <text x="410" y="297" font-family="Arial, sans-serif" font-size="7" fill="white" text-anchor="middle">MEMÓRIA</text>
+  <text x="410" y="307" font-family="Arial, sans-serif" font-size="7" fill="white" text-anchor="middle">TRABALHO</text>
+
+  <circle cx="490" cy="295" r="22" fill="#f59e0b" opacity="0.5"/>
+  <text x="490" y="298" font-family="Arial, sans-serif" font-size="7" fill="white" text-anchor="middle">LIMITE!</text>
+
+  <!-- Invaders -->
+  <g transform="translate(80, 180)">
+    <rect width="100" height="55" rx="8" fill="#ef4444" opacity="0.85"/>
+    <text x="50" y="20" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle" font-weight="bold">NOTIFICAÇÕES</text>
+    <text x="50" y="40" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">📱🔔</text>
+    <line x1="100" y1="30" x2="180" y2="60" stroke="#ef4444" stroke-width="2" stroke-dasharray="5,3"/>
+  </g>
+
+  <g transform="translate(720, 160)">
+    <rect width="100" height="55" rx="8" fill="#f97316" opacity="0.85"/>
+    <text x="50" y="20" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle" font-weight="bold">PREOCUPAÇÕES</text>
+    <text x="50" y="40" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">😰💭</text>
+    <line x1="0" y1="40" x2="-80" y2="70" stroke="#f97316" stroke-width="2" stroke-dasharray="5,3"/>
+  </g>
+
+  <g transform="translate(80, 300)">
+    <rect width="100" height="55" rx="8" fill="#eab308" opacity="0.85"/>
+    <text x="50" y="20" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle" font-weight="bold">LOOPS MENTAIS</text>
+    <text x="50" y="40" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🔄🔄</text>
+    <line x1="100" y1="20" x2="180" y2="-10" stroke="#eab308" stroke-width="2" stroke-dasharray="5,3"/>
+  </g>
+
+  <g transform="translate(720, 290)">
+    <rect width="100" height="55" rx="8" fill="#ec4899" opacity="0.85"/>
+    <text x="50" y="20" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle" font-weight="bold">MULTITAREFA</text>
+    <text x="50" y="40" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🔀📋</text>
+    <line x1="0" y1="20" x2="-80" y2="-10" stroke="#ec4899" stroke-width="2" stroke-dasharray="5,3"/>
+  </g>
+
+  <!-- Shield -->
+  <text x="450" y="385" font-family="Arial, sans-serif" font-size="35" text-anchor="middle">🛡️</text>
+  <text x="450" y="415" font-family="Arial, sans-serif" font-size="11" fill="#6366f1" text-anchor="middle" font-weight="bold">PROTEJA SEU ESPAÇO</text>
+
+  <!-- Protection tips -->
+  <rect x="100" y="440" width="700" height="90" rx="15" fill="#1e1b4b" opacity="0.9"/>
+  <text x="450" y="465" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="bold">COMO PROTEGER:</text>
+
+  <text x="140" y="490" font-family="Arial, sans-serif" font-size="10" fill="#22c55e">✓ Unitarefa radical</text>
+  <text x="140" y="510" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">✓ Brain dump antes de focar</text>
+  <text x="400" y="490" font-family="Arial, sans-serif" font-size="10" fill="#a855f7">✓ Eliminar gatilhos visuais</text>
+  <text x="400" y="510" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b">✓ Comunicar horários de foco</text>
+  <text x="660" y="490" font-family="Arial, sans-serif" font-size="10" fill="#ec4899">✓ Fechar loops abertos</text>
+  <text x="660" y="510" font-family="Arial, sans-serif" font-size="10" fill="#6366f1">✓ Expandir com treino</text>
+
+  <text x="880" y="545" font-family="Arial, sans-serif" font-size="9" fill="#444" text-anchor="end">Aula 06</text>
+</svg>

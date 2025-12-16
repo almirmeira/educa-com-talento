@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#1a1a2e"/>
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">MINDFULNESS E MEDITAÇÃO</text>
+  <text x="450" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Treinando o músculo da atenção</text>
+
+  <!-- Brain visualization -->
+  <circle cx="200" cy="200" r="80" fill="#2a2a4a" stroke="#8b5cf6" stroke-width="3"/>
+  <text x="200" y="195" font-family="Arial" font-size="40" text-anchor="middle">🧠</text>
+  <text x="200" y="230" font-family="Arial" font-size="10" fill="#8b5cf6" text-anchor="middle">Neuroplasticidade</text>
+  
+  <text x="200" y="310" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">8 semanas de prática:</text>
+  <text x="200" y="330" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">• Córtex pré-frontal mais denso</text>
+  <text x="200" y="348" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">• Amígdala menos reativa</text>
+  <text x="200" y="366" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">• Melhor controle atencional</text>
+
+  <!-- Meditation techniques -->
+  <g transform="translate(350, 100)">
+    <rect x="0" y="0" width="230" height="130" rx="10" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <text x="115" y="30" font-family="Arial" font-size="11" fill="#22c55e" text-anchor="middle" font-weight="bold">🌬️ RESPIRAÇÃO BÁSICA</text>
+    <text x="20" y="55" font-family="Arial" font-size="9" fill="#ccc">1. Sente-se confortavelmente</text>
+    <text x="20" y="75" font-family="Arial" font-size="9" fill="#ccc">2. Foque na respiração</text>
+    <text x="20" y="95" font-family="Arial" font-size="9" fill="#ccc">3. Mente vagou? Volte ao ar</text>
+    <text x="20" y="115" font-family="Arial" font-size="9" fill="#ccc">4. Comece com 5 minutos</text>
+  </g>
+
+  <g transform="translate(610, 100)">
+    <rect x="0" y="0" width="230" height="130" rx="10" fill="#2a2a4a" stroke="#3b82f6" stroke-width="2"/>
+    <text x="115" y="30" font-family="Arial" font-size="11" fill="#3b82f6" text-anchor="middle" font-weight="bold">👁️ BODY SCAN</text>
+    <text x="20" y="55" font-family="Arial" font-size="9" fill="#ccc">1. Deite-se</text>
+    <text x="20" y="75" font-family="Arial" font-size="9" fill="#ccc">2. Percorra corpo lentamente</text>
+    <text x="20" y="95" font-family="Arial" font-size="9" fill="#ccc">3. Pés → cabeça</text>
+    <text x="20" y="115" font-family="Arial" font-size="9" fill="#ccc">4. Note sensações sem julgar</text>
+  </g>
+
+  <g transform="translate(350, 250)">
+    <rect x="0" y="0" width="230" height="130" rx="10" fill="#2a2a4a" stroke="#f59e0b" stroke-width="2"/>
+    <text x="115" y="30" font-family="Arial" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="bold">🎯 FOCO ÚNICO</text>
+    <text x="20" y="55" font-family="Arial" font-size="9" fill="#ccc">1. Escolha um objeto (vela)</text>
+    <text x="20" y="75" font-family="Arial" font-size="9" fill="#ccc">2. Mantenha atenção nele</text>
+    <text x="20" y="95" font-family="Arial" font-size="9" fill="#ccc">3. Treina concentração</text>
+    <text x="20" y="115" font-family="Arial" font-size="9" fill="#ccc">4. Avançado: aumentar tempo</text>
+  </g>
+
+  <g transform="translate(610, 250)">
+    <rect x="0" y="0" width="230" height="130" rx="10" fill="#2a2a4a" stroke="#ec4899" stroke-width="2"/>
+    <text x="115" y="30" font-family="Arial" font-size="11" fill="#ec4899" text-anchor="middle" font-weight="bold">🌊 ATENÇÃO ABERTA</text>
+    <text x="20" y="55" font-family="Arial" font-size="9" fill="#ccc">1. Sente-se relaxado</text>
+    <text x="20" y="75" font-family="Arial" font-size="9" fill="#ccc">2. Note tudo que surge</text>
+    <text x="20" y="95" font-family="Arial" font-size="9" fill="#ccc">3. Sem fixar em nada</text>
+    <text x="20" y="115" font-family="Arial" font-size="9" fill="#ccc">4. Consciência panorâmica</text>
+  </g>
+
+  <!-- 21 day challenge -->
+  <rect x="200" y="400" width="500" height="75" rx="10" fill="#1e1b4b" stroke="#fbbf24" stroke-width="2"/>
+  <text x="450" y="425" font-family="Arial" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">🏆 DESAFIO: 21 DIAS DE MINDFULNESS</text>
+  <text x="450" y="450" font-family="Arial" font-size="10" fill="#ccc" text-anchor="middle">5 minutos por dia, sem interrupção, por 21 dias</text>
+  <text x="450" y="468" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">Apps: Headspace, Calm, Insight Timer (grátis)</text>
+
+  <text x="880" y="490" font-family="Arial" font-size="9" fill="#444" text-anchor="end">Aula 26</text>
+</svg>

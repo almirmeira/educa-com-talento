@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550">
+  <rect width="900" height="550" fill="#1a1a2e"/>
+
+  <text x="450" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">OS 10 MAIORES LADRÕES DE TEMPO</text>
+  <text x="450" y="65" font-family="Arial, sans-serif" font-size="12" fill="#888" text-anchor="middle">Parecem produtivos, mas drenam horas sem retorno</text>
+
+  <!-- 10 thieves in grid -->
+  <g transform="translate(50, 90)">
+    <rect x="0" y="0" width="155" height="65" rx="8" fill="#2a2a4a" stroke="#ef4444" stroke-width="1"/>
+    <text x="78" y="25" font-family="Arial, sans-serif" font-size="10" fill="#ef4444" text-anchor="middle" font-weight="bold">1. REDES SOCIAIS</text>
+    <text x="78" y="42" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">"Só uma olhadinha"</text>
+    <text x="78" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">📱</text>
+  </g>
+
+  <g transform="translate(220, 90)">
+    <rect x="0" y="0" width="155" height="65" rx="8" fill="#2a2a4a" stroke="#f59e0b" stroke-width="1"/>
+    <text x="78" y="25" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold">2. E-MAIL CONTÍNUO</text>
+    <text x="78" y="42" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Checar a cada 5 min</text>
+    <text x="78" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">📧</text>
+  </g>
+
+  <g transform="translate(390, 90)">
+    <rect x="0" y="0" width="155" height="65" rx="8" fill="#2a2a4a" stroke="#22c55e" stroke-width="1"/>
+    <text x="78" y="25" font-family="Arial, sans-serif" font-size="10" fill="#22c55e" text-anchor="middle" font-weight="bold">3. REUNIÕES INÚTEIS</text>
+    <text x="78" y="42" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Poderiam ser e-mail</text>
+    <text x="78" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🗓️</text>
+  </g>
+
+  <g transform="translate(560, 90)">
+    <rect x="0" y="0" width="155" height="65" rx="8" fill="#2a2a4a" stroke="#3b82f6" stroke-width="1"/>
+    <text x="78" y="25" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6" text-anchor="middle" font-weight="bold">4. PERFECCIONISMO</text>
+    <text x="78" y="42" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">3h polindo o que já estava bom</text>
+    <text x="78" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">✨</text>
+  </g>
+
+  <g transform="translate(730, 90)">
+    <rect x="0" y="0" width="155" height="65" rx="8" fill="#2a2a4a" stroke="#8b5cf6" stroke-width="1"/>
+    <text x="78" y="25" font-family="Arial, sans-serif" font-size="10" fill="#8b5cf6" text-anchor="middle" font-weight="bold">5. SEM PLANEJAMENTO</text>
+    <text x="78" y="42" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Não saber o que fazer</text>
+    <text x="78" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">❓</text>
+  </g>
+
+  <g transform="translate(50, 170)">
+    <rect x="0" y="0" width="155" height="65" rx="8" fill="#2a2a4a" stroke="#ec4899" stroke-width="1"/>
+    <text x="78" y="25" font-family="Arial, sans-serif" font-size="10" fill="#ec4899" text-anchor="middle" font-weight="bold">6. PROCRASTINAÇÃO</text>
+    <text x="78" y="42" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Tarefas fáceis antes</text>
+    <text x="78" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🦥</text>
+  </g>
+
+  <g transform="translate(220, 170)">
+    <rect x="0" y="0" width="155" height="65" rx="8" fill="#2a2a4a" stroke="#14b8a6" stroke-width="1"/>
+    <text x="78" y="25" font-family="Arial, sans-serif" font-size="10" fill="#14b8a6" text-anchor="middle" font-weight="bold">7. MULTITAREFA</text>
+    <text x="78" y="42" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">3 coisas mal feitas</text>
+    <text x="78" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🔀</text>
+  </g>
+
+  <g transform="translate(390, 170)">
+    <rect x="0" y="0" width="155" height="65" rx="8" fill="#2a2a4a" stroke="#fbbf24" stroke-width="1"/>
+    <text x="78" y="25" font-family="Arial, sans-serif" font-size="10" fill="#fbbf24" text-anchor="middle" font-weight="bold">8. NÃO DIZER NÃO</text>
+    <text x="78" y="42" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Aceitar tudo</text>
+    <text x="78" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🤝</text>
+  </g>
+
+  <g transform="translate(560, 170)">
+    <rect x="0" y="0" width="155" height="65" rx="8" fill="#2a2a4a" stroke="#a3e635" stroke-width="1"/>
+    <text x="78" y="25" font-family="Arial, sans-serif" font-size="10" fill="#a3e635" text-anchor="middle" font-weight="bold">9. DESORGANIZAÇÃO</text>
+    <text x="78" y="42" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Tempo procurando</text>
+    <text x="78" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🗂️</text>
+  </g>
+
+  <g transform="translate(730, 170)">
+    <rect x="0" y="0" width="155" height="65" rx="8" fill="#2a2a4a" stroke="#f472b6" stroke-width="1"/>
+    <text x="78" y="25" font-family="Arial, sans-serif" font-size="10" fill="#f472b6" text-anchor="middle" font-weight="bold">10. SEM PRIORIZAÇÃO</text>
+    <text x="78" y="42" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Tudo é urgente</text>
+    <text x="78" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🔥</text>
+  </g>
+
+  <!-- Strategies -->
+  <text x="450" y="280" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" font-weight="bold">ESTRATÉGIAS DE ELIMINAÇÃO</text>
+
+  <g transform="translate(100, 300)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="#1e1b4b"/>
+    <text x="150" y="25" font-family="Arial, sans-serif" font-size="11" fill="#22c55e" text-anchor="middle" font-weight="bold">📦 BATCH PROCESSING</text>
+    <text x="150" y="45" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Agrupe tarefas similares</text>
+    <text x="150" y="60" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Ex: Responder e-mails 2x/dia, não ao longo dele</text>
+  </g>
+
+  <g transform="translate(500, 300)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="#1e1b4b"/>
+    <text x="150" y="25" font-family="Arial, sans-serif" font-size="11" fill="#3b82f6" text-anchor="middle" font-weight="bold">⏱️ TIME BOXING</text>
+    <text x="150" y="45" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Defina tempo máximo</text>
+    <text x="150" y="60" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Ex: "Máximo 30 min nessa tarefa"</text>
+  </g>
+
+  <g transform="translate(100, 400)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="#1e1b4b"/>
+    <text x="150" y="25" font-family="Arial, sans-serif" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="bold">⚡ REGRA DOS 2 MINUTOS</text>
+    <text x="150" y="45" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Se leva menos de 2min, faça agora</text>
+    <text x="150" y="60" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Se leva mais, agende</text>
+  </g>
+
+  <g transform="translate(500, 400)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="#1e1b4b"/>
+    <text x="150" y="25" font-family="Arial, sans-serif" font-size="11" fill="#ef4444" text-anchor="middle" font-weight="bold">🗑️ ELIMINAÇÃO TOTAL</text>
+    <text x="150" y="45" font-family="Arial, sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Pergunte: E se eu NÃO fizer?</text>
+    <text x="150" y="60" font-family="Arial, sans-serif" font-size="8" fill="#888" text-anchor="middle">Muitas coisas nem precisam ser feitas</text>
+  </g>
+
+  <text x="880" y="540" font-family="Arial, sans-serif" font-size="9" fill="#444" text-anchor="end">Aula 09</text>
+</svg>
