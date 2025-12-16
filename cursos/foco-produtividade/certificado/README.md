@@ -9,6 +9,14 @@ Modelo de certificado para cursos do Educa com Talento.
 | `certificado-conclusao.svg` | Template visual em SVG (editável) |
 | `certificado-conclusao.html` | Versão HTML para visualização e impressão |
 
+## Logo
+
+O certificado utiliza o logo oficial do Educa com Talento, disponível em:
+- **Website**: `/site/public/logo.png`
+- **Moodle**: `http://[servidor]:8080/local/logo.png`
+
+O logo é automaticamente carregado no template do Custom Certificate.
+
 ## Campos Variáveis
 
 O certificado usa campos que serão preenchidos automaticamente pelo Moodle:

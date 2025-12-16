@@ -62,9 +62,11 @@
   <!-- Header com gradiente -->
   <rect x="50" y="50" width="1022" height="100" fill="url(#headerGrad)" rx="4"/>
 
-  <!-- Logo placeholder (círculo com iniciais) -->
-  <circle cx="110" cy="100" r="35" fill="#ffffff" opacity="0.2"/>
-  <text x="110" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#ffffff">ET</text>
+  <!-- Logo do Educa com Talento -->
+  <rect x="70" y="65" width="70" height="70" fill="#ffffff" rx="8" opacity="0.95"/>
+  <image x="75" y="70" width="60" height="60" href="../../../site/public/logo.png" preserveAspectRatio="xMidYMid meet"/>
+  <!-- Fallback text se imagem não carregar -->
+  <text x="110" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#667eea" opacity="0">ET</text>
 
   <!-- Nome da instituição -->
   <text x="170" y="92" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#ffffff">Educa com Talento</text>
