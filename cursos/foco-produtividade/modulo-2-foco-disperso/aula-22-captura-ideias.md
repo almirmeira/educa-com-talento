@@ -137,3 +137,13 @@ Submeta seu sistema + análise da semana na área **"📤 Envio de Atividade - A
 ---
 
 *Aula 22 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O Sistema de Captura de Ideias segue 3 princípios e um fluxo de 6 etapas.
+
+![Infográfico Aula 22](../infograficos/aula-22-captura-ideias.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

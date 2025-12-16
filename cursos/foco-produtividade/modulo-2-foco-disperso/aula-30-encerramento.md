@@ -204,3 +204,13 @@ Submeta sua reflexão + plano + declaração na área **"📤 Envio de Atividade
 **Parabéns por completar o curso FOCO E PRODUTIVIDADE NOS ESTUDOS!**
 
 *Aula 30 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O Encerramento resume sua jornada e apresenta o Plano de Continuidade.
+
+![Infográfico Aula 30](../infograficos/aula-30-encerramento.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

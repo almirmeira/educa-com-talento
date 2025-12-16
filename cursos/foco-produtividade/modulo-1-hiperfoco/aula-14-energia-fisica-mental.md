@@ -127,3 +127,13 @@ Submeta sua atividade na área **"📤 Envio de Atividade - Aula 14"** do Moodle
 ---
 
 *Aula 14 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Os 4 Pilares da Energia (Sono, Alimentação, Hidratação, Movimento) são a base para performance mental.
+
+![Infográfico Aula 14](../infograficos/aula-14-energia-fisica-mental.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

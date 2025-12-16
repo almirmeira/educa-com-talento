@@ -125,3 +125,13 @@ Submeta sua atividade na área **"📤 Envio de Atividade - Aula 13"** do Moodle
 ---
 
 *Aula 13 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O Termômetro Emocional ajuda a fazer check-in antes de estudar.
+
+![Infográfico Aula 13](../infograficos/aula-13-inteligencia-emocional.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

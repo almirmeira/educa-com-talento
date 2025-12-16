@@ -134,3 +134,13 @@ Submeta seu rastreamento + mudanças + comparação na área **"📤 Envio de At
 ---
 
 *Aula 23 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Os Ciclos do Sono e sua relação com memória.
+
+![Infográfico Aula 23](../infograficos/aula-23-sono-memoria.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

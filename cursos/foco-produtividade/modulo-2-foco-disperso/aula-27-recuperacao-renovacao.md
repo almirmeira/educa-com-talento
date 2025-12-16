@@ -136,3 +136,13 @@ Submeta sua auditoria + plano + comparação na área **"📤 Envio de Atividade
 ---
 
 *Aula 27 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O Ciclo Estresse-Recuperação-Crescimento.
+
+![Infográfico Aula 27](../infograficos/aula-27-recuperacao.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

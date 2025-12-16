@@ -166,3 +166,13 @@ Submeta seu ritual + registro dos 5 dias na área **"📤 Envio de Atividade - A
 ---
 
 *Aula 07 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Os Rituais de Entrada funcionam como um 'botão de liga' para o estado de hiperfoco. Veja exemplos de rituais de 2, 5 e 10 minutos.
+
+![Infográfico Aula 7](../infograficos/aula-07-rituais-entrada.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

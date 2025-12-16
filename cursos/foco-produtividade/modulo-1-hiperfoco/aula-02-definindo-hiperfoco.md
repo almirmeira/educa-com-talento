@@ -224,3 +224,13 @@ Na **Aula 3**, vamos descobrir as **Quatro Premissas Fundamentais** sobre como n
 ---
 
 *Aula 02 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+A Equação da Hiperprodutividade (R = T × I × E) demonstra visualmente por que 2 horas de estudo focado superam 6 horas de estudo disperso. O segredo está na intensidade e estratégia, não nas horas.
+
+![Infográfico Aula 2](../infograficos/aula-02-equacao-hiperprodutividade.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

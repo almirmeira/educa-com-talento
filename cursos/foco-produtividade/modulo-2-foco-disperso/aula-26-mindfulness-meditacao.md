@@ -137,3 +137,13 @@ Submeta seu registro de 21 dias + reflexão na área **"📤 Envio de Atividade 
 ---
 
 *Aula 26 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+As 4 Técnicas de Meditação para treinar o músculo da atenção.
+
+![Infográfico Aula 26](../infograficos/aula-26-mindfulness.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

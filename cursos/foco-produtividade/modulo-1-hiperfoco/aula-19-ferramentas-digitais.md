@@ -130,3 +130,13 @@ Submeta seu stack definido + screenshot das configurações na área **"📤 Env
 ---
 
 *Aula 19 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O Stack Mínimo de Ferramentas mostra as 3 categorias essenciais.
+
+![Infográfico Aula 19](../infograficos/aula-19-ferramentas.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

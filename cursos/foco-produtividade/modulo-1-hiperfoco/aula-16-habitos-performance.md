@@ -130,3 +130,13 @@ Submeta seu plano de hábito + tracker preenchido na área **"📤 Envio de Ativ
 ---
 
 *Aula 16 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O Loop do Hábito de Charles Duhigg (Gatilho → Rotina → Recompensa).
+
+![Infográfico Aula 16](../infograficos/aula-16-habitos.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

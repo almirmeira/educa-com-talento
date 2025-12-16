@@ -137,3 +137,13 @@ Submeta sua análise + resultado da aplicação na área **"📤 Envio de Ativid
 ---
 
 *Aula 17 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Os 4 Tipos de Procrastinador ajudam você a identificar seu padrão e aplicar a solução.
+
+![Infográfico Aula 17](../infograficos/aula-17-procrastinacao.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

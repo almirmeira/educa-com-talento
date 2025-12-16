@@ -148,3 +148,13 @@ Submeta seu registro + análise + ritmo definido na área **"📤 Envio de Ativi
 ---
 
 *Aula 25 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+A Dança entre os Modos visualiza o ritmo de alternância.
+
+![Infográfico Aula 25](../infograficos/aula-25-alternancia.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

@@ -241,3 +241,13 @@ Na **Aula 4**, vamos mergulhar na diferença entre **Foco Direcionado** e **Foco
 ---
 
 *Aula 03 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+As 4 Premissas Fundamentais são as regras do jogo da atenção que você precisa aceitar: atenção limitada, foco intencional, ambiente determinante e mente que vagueia naturalmente.
+
+![Infográfico Aula 3](../infograficos/aula-03-quatro-premissas.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

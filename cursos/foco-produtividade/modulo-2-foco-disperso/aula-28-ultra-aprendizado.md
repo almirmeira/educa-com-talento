@@ -152,3 +152,13 @@ Submeta seu plano + resultados da primeira semana na área **"📤 Envio de Ativ
 ---
 
 *Aula 28 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Os 9 Princípios do Ultra-Aprendizado de Scott Young.
+
+![Infográfico Aula 28](../infograficos/aula-28-ultra-aprendizado.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

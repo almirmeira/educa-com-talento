@@ -118,3 +118,13 @@ Submeta sua atividade na área **"📤 Envio de Atividade - Aula 11"** do Moodle
 ---
 
 *Aula 11 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O método SQ3R transforma leitura passiva (10% retenção) em leitura ativa (70% retenção).
+
+![Infográfico Aula 11](../infograficos/aula-11-leitura-ativa.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

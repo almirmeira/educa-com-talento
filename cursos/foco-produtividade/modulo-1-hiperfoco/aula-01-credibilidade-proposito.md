@@ -203,3 +203,13 @@ Na **Aula 2**, vamos definir com precisão o que são **Hiperfoco** e **Hiperpro
 ---
 
 *Aula 01 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Este infográfico ilustra sua jornada de transformação ao longo das 30 aulas, mostrando os 6 blocos temáticos e os 2 módulos do curso. Visualize o caminho do iniciante à maestria.
+
+![Infográfico Aula 1](../infograficos/aula-01-jornada-curso.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

@@ -149,3 +149,13 @@ Submeta seu sistema documentado + primeira revisão na área **"📤 Envio de At
 ---
 
 *Aula 29 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Sistemas vs Objetivos (James Clear).
+
+![Infográfico Aula 29](../infograficos/aula-29-sistemas-sustentaveis.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

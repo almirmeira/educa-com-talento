@@ -149,3 +149,13 @@ Submeta seu diário + análise + planos na área **"📤 Envio de Atividade - Au
 ---
 
 *Aula 08 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O Custo das Interrupções mostra que cada interrupção custa 23 minutos para retomar o foco profundo.
+
+![Infográfico Aula 8](../infograficos/aula-08-gerenciar-interrupcoes.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

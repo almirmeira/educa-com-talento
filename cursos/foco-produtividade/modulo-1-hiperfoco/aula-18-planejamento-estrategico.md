@@ -137,3 +137,13 @@ Submeta seu planejamento reverso + plano semanal + plano diário na área **"�
 ---
 
 *Aula 18 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Os 3 Níveis de Planejamento formam uma pirâmide onde cada nível alimenta o próximo.
+
+![Infográfico Aula 18](../infograficos/aula-18-planejamento.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

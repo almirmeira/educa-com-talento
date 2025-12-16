@@ -187,3 +187,13 @@ Submeta seu brain dump + categorização + reflexão da sessão teste na área *
 ---
 
 *Aula 06 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Visualize seu Espaço Atencional como uma arena mental com capacidade limitada (3-4 itens). O infográfico mostra os 4 tipos de invasores e como protegê-lo.
+
+![Infográfico Aula 6](../infograficos/aula-06-espaco-atencional.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

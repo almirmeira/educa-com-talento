@@ -140,3 +140,13 @@ Submeta seu registro do experimento na área **"📤 Envio de Atividade - Aula 2
 ---
 
 *Aula 21 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Os 2 Modos do Cérebro (Focado e Difuso) são complementares.
+
+![Infográfico Aula 21](../infograficos/aula-21-introducao-foco-disperso.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

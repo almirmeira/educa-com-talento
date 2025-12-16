@@ -174,3 +174,13 @@ Submeta seu sistema integrado + reflexão na área **"📤 Envio de Atividade - 
 ---
 
 *Aula 20 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+A Consolidação do Módulo 1 integra visualmente os 4 blocos em um sistema único.
+
+![Infográfico Aula 20](../infograficos/aula-20-consolidacao-m1.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

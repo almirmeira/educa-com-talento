@@ -253,3 +253,13 @@ Na **Aula 5**, última do bloco de Fundamentos, vamos aprender sobre **Equilíbr
 ---
 
 *Aula 04 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+Compare visualmente o Foco Seduzido versus o Foco Direcionado. A escolha é sua a cada momento.
+
+![Infográfico Aula 4](../infograficos/aula-04-foco-direcionado-vs-seduzido.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

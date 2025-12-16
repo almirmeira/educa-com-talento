@@ -125,3 +125,13 @@ Submeta seu exercício na área **"📤 Envio de Atividade - Aula 24"**.
 ---
 
 *Aula 24 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O Processo Criativo em 4 Estágios mostra como alternar entre modos.
+
+![Infográfico Aula 24](../infograficos/aula-24-criatividade.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

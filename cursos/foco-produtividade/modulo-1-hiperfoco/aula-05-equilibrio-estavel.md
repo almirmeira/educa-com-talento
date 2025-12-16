@@ -338,3 +338,13 @@ No **Bloco 2: Atenção** (Aulas 6-10), você vai aprender:
 ---
 
 *Aula 05 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O diagrama de Equilíbrio Estável vs Instável mostra por que criar um sistema onde focar seja o padrão é melhor que depender de força de vontade.
+
+![Infográfico Aula 5](../infograficos/aula-05-equilibrio-estavel.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+

@@ -128,3 +128,13 @@ Submeta sua atividade na área **"📤 Envio de Atividade - Aula 15"** do Moodle
 ---
 
 *Aula 15 de 30 - Curso Foco e Produtividade nos Estudos - Educa com Talento*
+
+
+## Infográfico da Aula
+
+O Ciclo Pomodoro visualizado junto com variações (Relâmpago, Clássico, Estendido).
+
+![Infográfico Aula 15](../infograficos/aula-15-pomodoro.svg)
+
+> **Dica de uso**: Este infográfico pode ser exibido durante a videoaula ou disponibilizado como material de apoio para download.
+
