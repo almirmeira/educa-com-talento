@@ -1,81 +1,47 @@
 # Certificado de Conclusão
 
-Modelo de certificado para cursos do Educa com Talento.
+Modelo de certificado para o curso Foco e Produtividade nos Estudos.
 
 ## Arquivos
 
 | Arquivo | Descrição |
 |---------|-----------|
-| `certificado-conclusao.svg` | Template visual em SVG (editável) |
-| `certificado-conclusao.html` | Versão HTML para visualização e impressão |
+|  | Fundo verde claro com borda decorativa |
+|  | Logo Educa com Talento (sem fundo branco) |
+|  | Template visual em SVG |
+|  | Versão HTML para preview |
 
-## Logo
+## Configuração no Moodle
 
-O certificado utiliza o logo oficial do Educa com Talento, disponível em:
-- **Website**: `/site/public/logo.png`
-- **Moodle**: `http://[servidor]:8080/local/logo.png`
+O certificado usa o plugin **Custom Certificate** (mod_customcert) com 14 elementos:
 
-O logo é automaticamente carregado no template do Custom Certificate.
-
-## Campos Variáveis
-
-O certificado usa campos que serão preenchidos automaticamente pelo Moodle:
-
-| Campo | Descrição |
-|-------|-----------|
-| `{NOME_COMPLETO}` | Nome completo do participante |
-| `{DATA_CONCLUSAO}` | Data de conclusão do curso (DD/MM/AAAA) |
-| `{CODIGO_VERIFICACAO}` | Código único para verificação de autenticidade |
-| `{CERTIFICADO_ID}` | ID do certificado no sistema |
+| Elemento | Tipo | Posição |
+|----------|------|---------|
+| Fundo verde | bgimage | 0,0 |
+| Logo centralizado | image | 121mm x 12mm |
+| Título | text | centro, 48mm |
+| Nome do aluno | studentname | centro, 82mm |
+| Nome do curso | coursename | centro, 110mm |
+| Carga horária | text | centro, 123mm |
+| Data | date | centro, 132mm |
+| Rosangela Sousa | text | 80mm x 162mm |
+| Almir Meira Alves | text | 217mm x 162mm |
+| QR Code | qrcode | 138mm x 175mm (centralizado) |
 
 ## Especificações
 
 - **Formato**: A4 Paisagem (297mm x 210mm)
 - **Carga Horária**: 30 horas
 - **Modalidade**: Online
-- **Validação**: Rosangela Sousa (Diretora Pedagógica) e Almir Meira Alves (Diretor Executivo)
+- **Cores**: Preto (#000000) e Cinza (#444444)
+- **Fundo**: Verde claro (#dcfce7 → #bbf7d0)
+- **Fonte**: Helvetica / Helvetica Bold
 
-## Configuração no Moodle
+## Validação
 
-O certificado é gerado pelo plugin **Custom Certificate** (mod_customcert).
-
-### Requisitos para obter o certificado:
-1. Concluir todas as 30 aulas
-2. Realizar todas as atividades práticas
-3. Enviar os entregáveis de cada aula
-4. Obter nota mínima de 60% nas atividades
-
-### Elementos do template:
-- Borda decorativa com gradiente roxo
-- Logo do Educa com Talento
-- Título "CERTIFICADO de Conclusão"
-- Nome do participante (dinâmico)
-- Nome do curso (dinâmico)
-- Data de conclusão (dinâmico)
-- Assinaturas dos diretores
-- Código de verificação (dinâmico)
-- QR Code para verificação online
-
-## Verificação
-
-Certificados podem ser verificados em: `educacomtalento.com.br/verificar`
-
-## Cores do Template
-
-| Elemento | Cor |
-|----------|-----|
-| Gradiente principal | `#667eea` → `#764ba2` |
-| Dourado decorativo | `#f5af19` → `#f7d354` |
-| Texto título | `#667eea` |
-| Texto subtítulo | `#764ba2` |
-| Texto corpo | `#333333` / `#555555` |
-| Texto secundário | `#666666` / `#888888` |
-
-## Fontes
-
-- **Títulos**: Georgia, Playfair Display
-- **Corpo**: Arial, Open Sans
-- **Código**: Courier, monospace
+- **Rosangela Sousa** - Diretora Pedagógica
+- **Almir Meira Alves** - Diretor Executivo
+- **QR Code** para verificação e uso no LinkedIn
 
 ---
 
