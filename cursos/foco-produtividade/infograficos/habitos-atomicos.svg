@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#1a1a2e"/>
+
+  <text x="400" y="40" font-family="Arial" font-size="28" font-weight="bold" fill="white" text-anchor="middle">⚡ HÁBITOS ATÔMICOS</text>
+  <text x="400" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">James Clear - As 4 Leis da Mudança de Comportamento</text>
+
+  <!-- 4 Laws -->
+  <g transform="translate(50, 100)">
+    <!-- Law 1 -->
+    <rect x="0" y="0" width="160" height="180" rx="15" fill="#2a2a4a" stroke="#ef4444" stroke-width="3"/>
+    <circle cx="80" cy="35" r="22" fill="#ef4444"/>
+    <text x="80" y="42" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">1</text>
+    <text x="80" y="75" font-family="Arial" font-size="12" fill="#ef4444" text-anchor="middle" font-weight="bold">TORNE</text>
+    <text x="80" y="92" font-family="Arial" font-size="12" fill="#ef4444" text-anchor="middle" font-weight="bold">ÓBVIO</text>
+    <text x="80" y="120" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Deixe visível</text>
+    <text x="80" y="140" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Ex: Livro na mesa,</text>
+    <text x="80" y="155" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">app na home</text>
+    <text x="80" y="175" font-family="Arial" font-size="14" text-anchor="middle">👁️</text>
+  </g>
+
+  <g transform="translate(225, 100)">
+    <!-- Law 2 -->
+    <rect x="0" y="0" width="160" height="180" rx="15" fill="#2a2a4a" stroke="#f59e0b" stroke-width="3"/>
+    <circle cx="80" cy="35" r="22" fill="#f59e0b"/>
+    <text x="80" y="42" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">2</text>
+    <text x="80" y="75" font-family="Arial" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="bold">TORNE</text>
+    <text x="80" y="92" font-family="Arial" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="bold">ATRAENTE</text>
+    <text x="80" y="120" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Associe a prazer</text>
+    <text x="80" y="140" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Ex: Música favorita</text>
+    <text x="80" y="155" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">só ao estudar</text>
+    <text x="80" y="175" font-family="Arial" font-size="14" text-anchor="middle">✨</text>
+  </g>
+
+  <g transform="translate(400, 100)">
+    <!-- Law 3 -->
+    <rect x="0" y="0" width="160" height="180" rx="15" fill="#2a2a4a" stroke="#22c55e" stroke-width="3"/>
+    <circle cx="80" cy="35" r="22" fill="#22c55e"/>
+    <text x="80" y="42" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">3</text>
+    <text x="80" y="75" font-family="Arial" font-size="12" fill="#22c55e" text-anchor="middle" font-weight="bold">TORNE</text>
+    <text x="80" y="92" font-family="Arial" font-size="12" fill="#22c55e" text-anchor="middle" font-weight="bold">FÁCIL</text>
+    <text x="80" y="120" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Reduza a fricção</text>
+    <text x="80" y="140" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Ex: Regra dos 2 min,</text>
+    <text x="80" y="155" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">material pronto</text>
+    <text x="80" y="175" font-family="Arial" font-size="14" text-anchor="middle">🎯</text>
+  </g>
+
+  <g transform="translate(575, 100)">
+    <!-- Law 4 -->
+    <rect x="0" y="0" width="160" height="180" rx="15" fill="#2a2a4a" stroke="#3b82f6" stroke-width="3"/>
+    <circle cx="80" cy="35" r="22" fill="#3b82f6"/>
+    <text x="80" y="42" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">4</text>
+    <text x="80" y="75" font-family="Arial" font-size="12" fill="#3b82f6" text-anchor="middle" font-weight="bold">TORNE</text>
+    <text x="80" y="92" font-family="Arial" font-size="12" fill="#3b82f6" text-anchor="middle" font-weight="bold">SATISFATÓRIO</text>
+    <text x="80" y="120" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Recompensa imediata</text>
+    <text x="80" y="140" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Ex: Marcar checklist,</text>
+    <text x="80" y="155" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">pequena celebração</text>
+    <text x="80" y="175" font-family="Arial" font-size="14" text-anchor="middle">🎁</text>
+  </g>
+
+  <!-- Key message -->
+  <rect x="100" y="300" width="600" height="50" rx="10" fill="#1e1b4b"/>
+  <text x="400" y="325" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">1% MELHOR TODO DIA = 37x MELHOR EM 1 ANO</text>
+  <text x="400" y="342" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">Pequenas mudanças, resultados extraordinários</text>
+
+  <rect x="150" y="360" width="500" height="30" rx="8" fill="#2a2a4a"/>
+  <text x="400" y="380" font-family="Arial" font-size="10" fill="white" text-anchor="middle">💪 Você não sobe ao nível dos seus objetivos, você cai ao nível dos seus sistemas</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#1a1a2e"/>
+
+  <text x="400" y="40" font-family="Arial" font-size="28" font-weight="bold" fill="white" text-anchor="middle">📋 MATRIZ DE EISENHOWER</text>
+  <text x="400" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Priorize pelo que realmente importa</text>
+
+  <!-- Axes labels -->
+  <text x="400" y="95" font-family="Arial" font-size="11" fill="#888" text-anchor="middle">← URGENTE                                                           NÃO URGENTE →</text>
+  
+  <!-- Left label (vertical) -->
+  <text x="95" y="220" font-family="Arial" font-size="11" fill="#888" text-anchor="middle" transform="rotate(-90 95 220)">IMPORTANTE ↑</text>
+
+  <!-- Matrix -->
+  <g transform="translate(130, 105)">
+    <!-- Q1: Urgente + Importante -->
+    <rect x="0" y="0" width="250" height="120" rx="10" fill="#ef4444" opacity="0.9"/>
+    <text x="125" y="30" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">FAÇA AGORA</text>
+    <text x="125" y="55" font-family="Arial" font-size="11" fill="white" text-anchor="middle">Urgente + Importante</text>
+    <text x="125" y="80" font-family="Arial" font-size="10" fill="white" text-anchor="middle" opacity="0.8">Crises, prazos, emergências</text>
+    <text x="125" y="100" font-family="Arial" font-size="20" text-anchor="middle">🔥</text>
+
+    <!-- Q2: Não Urgente + Importante -->
+    <rect x="260" y="0" width="250" height="120" rx="10" fill="#22c55e" opacity="0.9"/>
+    <text x="385" y="30" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">AGENDE</text>
+    <text x="385" y="55" font-family="Arial" font-size="11" fill="white" text-anchor="middle">Não Urgente + Importante</text>
+    <text x="385" y="80" font-family="Arial" font-size="10" fill="white" text-anchor="middle" opacity="0.8">Planejamento, estudo, saúde</text>
+    <text x="385" y="100" font-family="Arial" font-size="20" text-anchor="middle">📅</text>
+
+    <!-- Q3: Urgente + Não Importante -->
+    <rect x="0" y="130" width="250" height="120" rx="10" fill="#f59e0b" opacity="0.9"/>
+    <text x="125" y="160" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">DELEGUE</text>
+    <text x="125" y="185" font-family="Arial" font-size="11" fill="white" text-anchor="middle">Urgente + Não Importante</text>
+    <text x="125" y="210" font-family="Arial" font-size="10" fill="white" text-anchor="middle" opacity="0.8">Interrupções, algumas reuniões</text>
+    <text x="125" y="230" font-family="Arial" font-size="20" text-anchor="middle">👥</text>
+
+    <!-- Q4: Não Urgente + Não Importante -->
+    <rect x="260" y="130" width="250" height="120" rx="10" fill="#6b7280" opacity="0.9"/>
+    <text x="385" y="160" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">ELIMINE</text>
+    <text x="385" y="185" font-family="Arial" font-size="11" fill="white" text-anchor="middle">Não Urgente + Não Importante</text>
+    <text x="385" y="210" font-family="Arial" font-size="10" fill="white" text-anchor="middle" opacity="0.8">Distrações, redes sociais</text>
+    <text x="385" y="230" font-family="Arial" font-size="20" text-anchor="middle">🗑️</text>
+  </g>
+
+  <!-- Key insight -->
+  <rect x="150" y="355" width="500" height="35" rx="8" fill="#1e1b4b"/>
+  <text x="400" y="377" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">🎯 FOQUE NO Q2: É onde está o crescimento real (antes de virar urgente)</text>
+</svg>

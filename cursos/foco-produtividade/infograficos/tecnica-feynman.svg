@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#1a1a2e"/>
+
+  <text x="400" y="40" font-family="Arial" font-size="28" font-weight="bold" fill="white" text-anchor="middle">🧠 TÉCNICA FEYNMAN</text>
+  <text x="400" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">"Se você não consegue explicar de forma simples, você não entendeu bem o suficiente"</text>
+
+  <!-- 4 Steps -->
+  <g transform="translate(50, 100)">
+    <!-- Step 1 -->
+    <rect x="0" y="0" width="160" height="140" rx="15" fill="#2a2a4a" stroke="#ef4444" stroke-width="2"/>
+    <circle cx="80" cy="35" r="20" fill="#ef4444"/>
+    <text x="80" y="42" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">1</text>
+    <text x="80" y="70" font-family="Arial" font-size="11" fill="#ef4444" text-anchor="middle" font-weight="bold">ESCOLHA</text>
+    <text x="80" y="90" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Selecione um</text>
+    <text x="80" y="105" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">conceito para</text>
+    <text x="80" y="120" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">aprender</text>
+    <text x="170" y="75" font-family="Arial" font-size="24" fill="#444">→</text>
+  </g>
+
+  <g transform="translate(220, 100)">
+    <!-- Step 2 -->
+    <rect x="0" y="0" width="160" height="140" rx="15" fill="#2a2a4a" stroke="#f59e0b" stroke-width="2"/>
+    <circle cx="80" cy="35" r="20" fill="#f59e0b"/>
+    <text x="80" y="42" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">2</text>
+    <text x="80" y="70" font-family="Arial" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="bold">EXPLIQUE</text>
+    <text x="80" y="90" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Ensine como se</text>
+    <text x="80" y="105" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">fosse para uma</text>
+    <text x="80" y="120" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">criança de 12 anos</text>
+    <text x="170" y="75" font-family="Arial" font-size="24" fill="#444">→</text>
+  </g>
+
+  <g transform="translate(390, 100)">
+    <!-- Step 3 -->
+    <rect x="0" y="0" width="160" height="140" rx="15" fill="#2a2a4a" stroke="#22c55e" stroke-width="2"/>
+    <circle cx="80" cy="35" r="20" fill="#22c55e"/>
+    <text x="80" y="42" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">3</text>
+    <text x="80" y="70" font-family="Arial" font-size="11" fill="#22c55e" text-anchor="middle" font-weight="bold">IDENTIFIQUE</text>
+    <text x="80" y="90" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Onde travou?</text>
+    <text x="80" y="105" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Volte à fonte</text>
+    <text x="80" y="120" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">e estude mais</text>
+    <text x="170" y="75" font-family="Arial" font-size="24" fill="#444">→</text>
+  </g>
+
+  <g transform="translate(560, 100)">
+    <!-- Step 4 -->
+    <rect x="0" y="0" width="160" height="140" rx="15" fill="#2a2a4a" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="80" cy="35" r="20" fill="#3b82f6"/>
+    <text x="80" y="42" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">4</text>
+    <text x="80" y="70" font-family="Arial" font-size="11" fill="#3b82f6" text-anchor="middle" font-weight="bold">SIMPLIFIQUE</text>
+    <text x="80" y="90" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">Use analogias</text>
+    <text x="80" y="105" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">e exemplos do</text>
+    <text x="80" y="120" font-family="Arial" font-size="9" fill="#ccc" text-anchor="middle">dia-a-dia</text>
+  </g>
+
+  <!-- Why it works -->
+  <g transform="translate(100, 265)">
+    <rect x="0" y="0" width="600" height="80" rx="10" fill="#1e1b4b"/>
+    <text x="300" y="25" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">POR QUE FUNCIONA</text>
+    
+    <text x="120" y="55" font-family="Arial" font-size="10" fill="#22c55e" text-anchor="middle">✓ Expõe lacunas</text>
+    <text x="120" y="70" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">no conhecimento</text>
+
+    <text x="300" y="55" font-family="Arial" font-size="10" fill="#3b82f6" text-anchor="middle">✓ Força compreensão</text>
+    <text x="300" y="70" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">profunda</text>
+
+    <text x="480" y="55" font-family="Arial" font-size="10" fill="#f59e0b" text-anchor="middle">✓ Cria conexões</text>
+    <text x="480" y="70" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">memoráveis</text>
+  </g>
+
+  <rect x="150" y="355" width="500" height="35" rx="8" fill="#2a2a4a"/>
+  <text x="400" y="377" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">💡 Se você consegue ensinar, você realmente aprendeu</text>
+</svg>

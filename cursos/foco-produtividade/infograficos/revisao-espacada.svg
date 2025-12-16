@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#1a1a2e"/>
+
+  <text x="400" y="40" font-family="Arial" font-size="28" font-weight="bold" fill="white" text-anchor="middle">🔄 REVISÃO ESPAÇADA</text>
+  <text x="400" y="65" font-family="Arial" font-size="12" fill="#888" text-anchor="middle">Vença a Curva do Esquecimento com intervalos estratégicos</text>
+
+  <!-- Forgetting curve -->
+  <g transform="translate(50, 90)">
+    <rect x="0" y="0" width="300" height="150" rx="10" fill="#1e1b4b"/>
+    <text x="150" y="25" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">CURVA DO ESQUECIMENTO</text>
+    
+    <text x="25" y="50" font-family="Arial" font-size="8" fill="#888">100%</text>
+    <text x="25" y="90" font-family="Arial" font-size="8" fill="#888">50%</text>
+    <text x="25" y="130" font-family="Arial" font-size="8" fill="#888">0%</text>
+
+    <!-- Without review -->
+    <path d="M 50 50 Q 100 90 150 115 Q 200 130 280 135" stroke="#ef4444" stroke-width="3" fill="none"/>
+    <text x="285" y="135" font-family="Arial" font-size="8" fill="#ef4444">Sem revisão</text>
+
+    <!-- With spaced repetition -->
+    <path d="M 50 50 L 80 75 L 85 55 L 120 70 L 125 55 L 170 65 L 175 55 L 230 60 L 235 55 L 280 58" stroke="#22c55e" stroke-width="3" fill="none"/>
+    <text x="285" y="58" font-family="Arial" font-size="8" fill="#22c55e">Com revisão</text>
+  </g>
+
+  <!-- Timeline -->
+  <g transform="translate(400, 90)">
+    <rect x="0" y="0" width="350" height="150" rx="10" fill="#1e1b4b"/>
+    <text x="175" y="25" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">INTERVALOS ÓTIMOS</text>
+
+    <line x1="30" y1="80" x2="320" y2="80" stroke="#444" stroke-width="2"/>
+    
+    <circle cx="30" cy="80" r="8" fill="#ef4444"/>
+    <text x="30" y="100" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">1º dia</text>
+
+    <circle cx="80" cy="80" r="8" fill="#f59e0b"/>
+    <text x="80" y="100" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">3º dia</text>
+
+    <circle cx="130" cy="80" r="8" fill="#fbbf24"/>
+    <text x="130" y="100" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">7º dia</text>
+
+    <circle cx="190" cy="80" r="8" fill="#84cc16"/>
+    <text x="190" y="100" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">14º dia</text>
+
+    <circle cx="250" cy="80" r="8" fill="#22c55e"/>
+    <text x="250" y="100" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">30º dia</text>
+
+    <circle cx="310" cy="80" r="10" fill="#22c55e"/>
+    <text x="310" y="100" font-family="Arial" font-size="8" fill="#22c55e" text-anchor="middle" font-weight="bold">90º dia</text>
+
+    <text x="175" y="130" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">Cada revisão fortalece a memória</text>
+  </g>
+
+  <!-- How to apply -->
+  <g transform="translate(50, 260)">
+    <rect x="0" y="0" width="700" height="80" rx="10" fill="#2a2a4a"/>
+    <text x="350" y="25" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">COMO APLICAR</text>
+    
+    <text x="120" y="55" font-family="Arial" font-size="10" fill="#3b82f6" text-anchor="middle" font-weight="bold">📱 Anki</text>
+    <text x="120" y="70" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Flashcards automáticos</text>
+
+    <text x="280" y="55" font-family="Arial" font-size="10" fill="#22c55e" text-anchor="middle" font-weight="bold">📅 Calendário</text>
+    <text x="280" y="70" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Agende revisões</text>
+
+    <text x="440" y="55" font-family="Arial" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold">📝 Active Recall</text>
+    <text x="440" y="70" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Tente lembrar antes de reler</text>
+
+    <text x="600" y="55" font-family="Arial" font-size="10" fill="#8b5cf6" text-anchor="middle" font-weight="bold">🧠 Teste-se</text>
+    <text x="600" y="70" font-family="Arial" font-size="8" fill="#888" text-anchor="middle">Simule provas</text>
+  </g>
+
+  <rect x="150" y="355" width="500" height="35" rx="8" fill="#1e1b4b"/>
+  <text x="400" y="377" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">💡 Revisar no momento certo = Lembrar para sempre</text>
+</svg>
