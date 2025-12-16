@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f093fb"/>
+      <stop offset="100%" style="stop-color:#f5576c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="550" fill="#fff5f5"/>
+
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">ENSINO EXPOSITIVO</text>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">Características, Vantagens e Limitações</text>
+
+  <!-- O que é -->
+  <g transform="translate(40, 100)">
+    <rect x="0" y="0" width="340" height="120" rx="12" fill="white" stroke="#f5576c" stroke-width="2"/>
+    <text x="170" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f5576c" text-anchor="middle">O QUE É?</text>
+    <text x="20" y="55" font-family="Arial, sans-serif" font-size="11" fill="#666">Método centrado no professor, que</text>
+    <text x="20" y="72" font-family="Arial, sans-serif" font-size="11" fill="#666">transmite conhecimento de forma</text>
+    <text x="20" y="89" font-family="Arial, sans-serif" font-size="11" fill="#666">organizada e estruturada aos alunos.</text>
+    <text x="290" y="90" font-family="Arial, sans-serif" font-size="40" text-anchor="middle">📢</text>
+  </g>
+
+  <!-- Vantagens -->
+  <g transform="translate(40, 240)">
+    <rect x="0" y="0" width="340" height="150" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <rect x="0" y="0" width="340" height="40" rx="12 12 0 0" fill="#43e97b"/>
+    <text x="170" y="27" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">✅ VANTAGENS</text>
+
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">• Organização clara do conteúdo</text>
+    <text x="20" y="83" font-family="Arial, sans-serif" font-size="11" fill="#666">• Eficiência temporal</text>
+    <text x="20" y="101" font-family="Arial, sans-serif" font-size="11" fill="#666">• Atende grandes grupos</text>
+    <text x="20" y="119" font-family="Arial, sans-serif" font-size="11" fill="#666">• Introduz conceitos complexos</text>
+    <text x="20" y="137" font-family="Arial, sans-serif" font-size="11" fill="#666">• Padronização do ensino</text>
+  </g>
+
+  <!-- Limitações -->
+  <g transform="translate(420, 100)">
+    <rect x="0" y="0" width="340" height="150" rx="12" fill="white" stroke="#f5576c" stroke-width="2"/>
+    <rect x="0" y="0" width="340" height="40" rx="12 12 0 0" fill="#f5576c"/>
+    <text x="170" y="27" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">⚠️ LIMITAÇÕES</text>
+
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">• Risco de passividade do aluno</text>
+    <text x="20" y="83" font-family="Arial, sans-serif" font-size="11" fill="#666">• Foco na memorização</text>
+    <text x="20" y="101" font-family="Arial, sans-serif" font-size="11" fill="#666">• Pouca interação</text>
+    <text x="20" y="119" font-family="Arial, sans-serif" font-size="11" fill="#666">• Não atende todos os estilos</text>
+    <text x="20" y="137" font-family="Arial, sans-serif" font-size="11" fill="#666">• Desengajamento ao longo do tempo</text>
+  </g>
+
+  <!-- Quando usar -->
+  <g transform="translate(420, 270)">
+    <rect x="0" y="0" width="340" height="120" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <rect x="0" y="0" width="340" height="40" rx="12 12 0 0" fill="#4facfe"/>
+    <text x="170" y="27" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">📌 QUANDO USAR?</text>
+
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">• Introdução de novos conceitos</text>
+    <text x="20" y="83" font-family="Arial, sans-serif" font-size="11" fill="#666">• Conteúdos densos e complexos</text>
+    <text x="20" y="101" font-family="Arial, sans-serif" font-size="11" fill="#666">• Contextualização histórica</text>
+  </g>
+
+  <!-- Tipos -->
+  <g transform="translate(40, 410)">
+    <rect x="0" y="0" width="720" height="90" rx="12" fill="url(#headerGrad)"/>
+    <text x="360" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">TIPOS DE AULA EXPOSITIVA</text>
+
+    <g transform="translate(50, 40)">
+      <rect x="0" y="0" width="180" height="40" rx="6" fill="white" opacity="0.9"/>
+      <text x="90" y="17" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f5576c" text-anchor="middle">MONOLOGADA</text>
+      <text x="90" y="32" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Professor fala, aluno ouve</text>
+    </g>
+
+    <g transform="translate(270, 40)">
+      <rect x="0" y="0" width="180" height="40" rx="6" fill="white" opacity="0.9"/>
+      <text x="90" y="17" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#43e97b" text-anchor="middle">DIALOGADA</text>
+      <text x="90" y="32" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Com perguntas e interação</text>
+    </g>
+
+    <g transform="translate(490, 40)">
+      <rect x="0" y="0" width="180" height="40" rx="6" fill="white" opacity="0.9"/>
+      <text x="90" y="17" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4facfe" text-anchor="middle">DEMONSTRATIVA</text>
+      <text x="90" y="32" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Com exemplos práticos</text>
+    </g>
+  </g>
+
+  <text x="400" y="530" font-family="Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 2, Aula 5</text>
+</svg>

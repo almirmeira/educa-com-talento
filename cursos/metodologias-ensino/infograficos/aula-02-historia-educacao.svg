@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="600" fill="#faf5ff"/>
+
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">DA ANTIGUIDADE À IDADE MÉDIA</text>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">A evolução do ensino através dos séculos</text>
+
+  <!-- Timeline -->
+  <line x1="100" y1="300" x2="700" y2="300" stroke="#ddd" stroke-width="4"/>
+
+  <!-- Pré-História -->
+  <g transform="translate(100, 120)">
+    <circle cx="0" cy="180" r="12" fill="#667eea"/>
+    <rect x="-70" y="0" width="140" height="140" rx="10" fill="white" stroke="#667eea" stroke-width="2"/>
+    <text x="0" y="30" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🗣️</text>
+    <text x="0" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#667eea" text-anchor="middle">PRÉ-HISTÓRIA</text>
+    <text x="0" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Transmissão</text>
+    <text x="0" y="90" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">oral</text>
+    <text x="0" y="110" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Aprender</text>
+    <text x="0" y="125" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">fazendo</text>
+  </g>
+
+  <!-- Grécia -->
+  <g transform="translate(250, 120)">
+    <circle cx="0" cy="180" r="12" fill="#4facfe"/>
+    <rect x="-70" y="0" width="140" height="140" rx="10" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <text x="0" y="30" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🏛️</text>
+    <text x="0" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#4facfe" text-anchor="middle">GRÉCIA ANTIGA</text>
+    <text x="0" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Sócrates</text>
+    <text x="0" y="90" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Platão</text>
+    <text x="0" y="110" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Diálogo e</text>
+    <text x="0" y="125" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">questionamento</text>
+  </g>
+
+  <!-- Roma -->
+  <g transform="translate(400, 120)">
+    <circle cx="0" cy="180" r="12" fill="#f5576c"/>
+    <rect x="-70" y="0" width="140" height="140" rx="10" fill="white" stroke="#f5576c" stroke-width="2"/>
+    <text x="0" y="30" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">⚔️</text>
+    <text x="0" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f5576c" text-anchor="middle">ROMA</text>
+    <text x="0" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Retórica</text>
+    <text x="0" y="90" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Oratória</text>
+    <text x="0" y="110" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Formação</text>
+    <text x="0" y="125" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">cidadã</text>
+  </g>
+
+  <!-- Idade Média -->
+  <g transform="translate(550, 120)">
+    <circle cx="0" cy="180" r="12" fill="#43e97b"/>
+    <rect x="-70" y="0" width="140" height="140" rx="10" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <text x="0" y="30" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">⛪</text>
+    <text x="0" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#43e97b" text-anchor="middle">IDADE MÉDIA</text>
+    <text x="0" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Monastérios</text>
+    <text x="0" y="90" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Universidades</text>
+    <text x="0" y="110" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Escolástica</text>
+    <text x="0" y="125" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Memorização</text>
+  </g>
+
+  <!-- Renascimento -->
+  <g transform="translate(700, 120)">
+    <circle cx="0" cy="180" r="12" fill="#ffc107"/>
+    <rect x="-70" y="0" width="140" height="140" rx="10" fill="white" stroke="#ffc107" stroke-width="2"/>
+    <text x="0" y="30" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🎨</text>
+    <text x="0" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffc107" text-anchor="middle">RENASCIMENTO</text>
+    <text x="0" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Humanismo</text>
+    <text x="0" y="90" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Pensamento</text>
+    <text x="0" y="110" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">crítico</text>
+    <text x="0" y="125" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Ciência</text>
+  </g>
+
+  <!-- Legado -->
+  <g transform="translate(40, 350)">
+    <rect x="0" y="0" width="720" height="200" rx="12" fill="white" stroke="#667eea" stroke-width="2"/>
+    <text x="360" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#667eea" text-anchor="middle">LEGADO PARA A EDUCAÇÃO MODERNA</text>
+
+    <g transform="translate(30, 50)">
+      <circle cx="30" cy="30" r="25" fill="#e8f5e9"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">💬</text>
+      <text x="30" y="75" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Diálogo</text>
+      <text x="30" y="90" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Sócrates</text>
+    </g>
+
+    <g transform="translate(150, 50)">
+      <circle cx="30" cy="30" r="25" fill="#e3f2fd"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">❓</text>
+      <text x="30" y="75" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Questionar</text>
+      <text x="30" y="90" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Maiêutica</text>
+    </g>
+
+    <g transform="translate(270, 50)">
+      <circle cx="30" cy="30" r="25" fill="#fce4ec"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">🎤</text>
+      <text x="30" y="75" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Oratória</text>
+      <text x="30" y="90" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Roma</text>
+    </g>
+
+    <g transform="translate(390, 50)">
+      <circle cx="30" cy="30" r="25" fill="#fff8e1"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">📚</text>
+      <text x="30" y="75" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Sistematização</text>
+      <text x="30" y="90" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Universidades</text>
+    </g>
+
+    <g transform="translate(510, 50)">
+      <circle cx="30" cy="30" r="25" fill="#e8f5e9"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">🔬</text>
+      <text x="30" y="75" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Método</text>
+      <text x="30" y="90" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Científico</text>
+    </g>
+
+    <g transform="translate(630, 50)">
+      <circle cx="30" cy="30" r="25" fill="#e3f2fd"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">🌟</text>
+      <text x="30" y="75" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Humanismo</text>
+      <text x="30" y="90" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Renascimento</text>
+    </g>
+
+    <text x="360" y="180" font-family="Arial, sans-serif" font-size="12" fill="#667eea" text-anchor="middle" font-style="italic">"Conhecer o passado para transformar o presente"</text>
+  </g>
+
+  <text x="400" y="580" font-family="Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 1, Aula 2</text>
+</svg>

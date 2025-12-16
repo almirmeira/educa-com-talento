@@ -146,6 +146,11 @@ nano .env
 
 ## Cursos Disponíveis
 
+| Curso | Carga Horária | Aulas | Módulos | Status |
+|-------|---------------|-------|---------|--------|
+| [Foco e Produtividade nos Estudos](./cursos/foco-produtividade/) | 30h | 30 | 2 | ✅ Ativo |
+| [Metodologias de Ensino](./cursos/metodologias-ensino/) | 40h | 20 | 5 | ✅ Ativo |
+
 ### FOCO E PRODUTIVIDADE NOS ESTUDOS
 
 Curso completo sobre técnicas de foco, produtividade e aprendizado efetivo.
@@ -160,6 +165,23 @@ Curso completo sobre técnicas de foco, produtividade e aprendizado efetivo.
 - Infográficos
 - Materiais de apoio
 - Links adicionais
+
+### METODOLOGIAS DE ENSINO
+
+Curso completo para educadores sobre metodologias de ensino tradicionais e inovadoras.
+
+**Estrutura:**
+- **Módulo 1**: Fundamentos e Evolução (4 aulas)
+- **Módulo 2**: Metodologias Clássicas (4 aulas)
+- **Módulo 3**: Metodologias Ativas (4 aulas)
+- **Módulo 4**: Tecnologia e Socioemocional (4 aulas)
+- **Módulo 5**: Implementação e Avaliação (4 aulas)
+
+**Conteúdo inclui:**
+- Videoaulas
+- Infográficos detalhados por aula
+- Objetivos de aprendizagem
+- Atividades práticas
 
 > Veja documentação completa em [docs/CURSOS.md](docs/CURSOS.md)
 

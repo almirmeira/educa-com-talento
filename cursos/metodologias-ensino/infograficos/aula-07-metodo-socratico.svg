@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f093fb"/>
+      <stop offset="100%" style="stop-color:#f5576c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="550" fill="#fff5f5"/>
+
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">MÉTODO SOCRÁTICO</text>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">A Arte de Questionar</text>
+
+  <!-- Sócrates -->
+  <g transform="translate(40, 100)">
+    <circle cx="80" cy="80" r="60" fill="white" stroke="#667eea" stroke-width="3"/>
+    <text x="80" y="70" font-family="Arial, sans-serif" font-size="40" text-anchor="middle">🏛️</text>
+    <text x="80" y="100" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#667eea" text-anchor="middle">SÓCRATES</text>
+  </g>
+
+  <g transform="translate(180, 100)">
+    <rect x="0" y="0" width="280" height="160" rx="12" fill="white" stroke="#667eea" stroke-width="2"/>
+    <text x="140" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#667eea" text-anchor="middle">A MAIÊUTICA</text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">"Só sei que nada sei"</text>
+    <text x="20" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666">A arte de "dar à luz" o conhecimento</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="10" fill="#666">através de perguntas que levam o</text>
+    <text x="20" y="115" font-family="Arial, sans-serif" font-size="10" fill="#666">interlocutor a descobrir a verdade</text>
+    <text x="20" y="135" font-family="Arial, sans-serif" font-size="10" fill="#666">por si mesmo.</text>
+  </g>
+
+  <!-- Ciclo de Perguntas -->
+  <g transform="translate(500, 100)">
+    <rect x="0" y="0" width="260" height="160" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <text x="130" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4facfe" text-anchor="middle">CICLO DO QUESTIONAMENTO</text>
+
+    <g transform="translate(30, 45)">
+      <circle cx="30" cy="30" r="25" fill="#e3f2fd"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">1</text>
+      <text x="80" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Pergunta</text>
+      <text x="80" y="40" font-family="Arial, sans-serif" font-size="10" fill="#666">inicial</text>
+    </g>
+
+    <g transform="translate(130, 45)">
+      <circle cx="30" cy="30" r="25" fill="#e8f5e9"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">2</text>
+      <text x="80" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Resposta</text>
+      <text x="80" y="40" font-family="Arial, sans-serif" font-size="10" fill="#666">do aluno</text>
+    </g>
+
+    <g transform="translate(30, 100)">
+      <circle cx="30" cy="30" r="25" fill="#fff8e1"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">3</text>
+      <text x="80" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Nova pergunta</text>
+      <text x="80" y="40" font-family="Arial, sans-serif" font-size="10" fill="#666">aprofundando</text>
+    </g>
+
+    <g transform="translate(130, 100)">
+      <circle cx="30" cy="30" r="25" fill="#fce4ec"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">4</text>
+      <text x="80" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Descoberta</text>
+      <text x="80" y="40" font-family="Arial, sans-serif" font-size="10" fill="#666">do saber</text>
+    </g>
+  </g>
+
+  <!-- Tipos de Perguntas -->
+  <g transform="translate(40, 280)">
+    <rect x="0" y="0" width="720" height="140" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <text x="360" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#43e97b" text-anchor="middle">TIPOS DE PERGUNTAS SOCRÁTICAS</text>
+
+    <g transform="translate(20, 45)">
+      <rect x="0" y="0" width="160" height="80" rx="8" fill="#e8f5e9"/>
+      <text x="80" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2e7d32" text-anchor="middle">ESCLARECIMENTO</text>
+      <text x="80" y="40" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">"O que você quer</text>
+      <text x="80" y="55" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">dizer com...?"</text>
+      <text x="80" y="70" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">"Pode dar um exemplo?"</text>
+    </g>
+
+    <g transform="translate(195, 45)">
+      <rect x="0" y="0" width="160" height="80" rx="8" fill="#e3f2fd"/>
+      <text x="80" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565c0" text-anchor="middle">SUPOSIÇÕES</text>
+      <text x="80" y="40" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">"O que você está</text>
+      <text x="80" y="55" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">assumindo?"</text>
+      <text x="80" y="70" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">"Isso sempre é verdade?"</text>
+    </g>
+
+    <g transform="translate(370, 45)">
+      <rect x="0" y="0" width="160" height="80" rx="8" fill="#fff8e1"/>
+      <text x="80" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e65100" text-anchor="middle">EVIDÊNCIAS</text>
+      <text x="80" y="40" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">"Como você sabe?"</text>
+      <text x="80" y="55" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">"Qual a fonte dessa</text>
+      <text x="80" y="70" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">informação?"</text>
+    </g>
+
+    <g transform="translate(545, 45)">
+      <rect x="0" y="0" width="160" height="80" rx="8" fill="#fce4ec"/>
+      <text x="80" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#c2185b" text-anchor="middle">IMPLICAÇÕES</text>
+      <text x="80" y="40" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">"Se isso é verdade,</text>
+      <text x="80" y="55" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">então...?"</text>
+      <text x="80" y="70" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">"Quais as consequências?"</text>
+    </g>
+  </g>
+
+  <!-- Benefícios -->
+  <g transform="translate(40, 440)">
+    <rect x="0" y="0" width="720" height="60" rx="12" fill="url(#headerGrad)"/>
+    <text x="360" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">BENEFÍCIOS DO MÉTODO</text>
+    <text x="120" y="45" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">🧠 Pensamento crítico</text>
+    <text x="300" y="45" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">💡 Autonomia intelectual</text>
+    <text x="480" y="45" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">🔍 Análise profunda</text>
+    <text x="660" y="45" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">💬 Diálogo construtivo</text>
+  </g>
+
+  <text x="400" y="530" font-family="Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 2, Aula 7</text>
+</svg>

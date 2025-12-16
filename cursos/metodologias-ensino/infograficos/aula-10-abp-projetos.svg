@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4facfe"/>
+      <stop offset="100%" style="stop-color:#00f2fe"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="550" fill="#f0f9ff"/>
+
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">APRENDIZAGEM BASEADA EM PROJETOS</text>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">Projetos reais, aprendizado significativo</text>
+
+  <!-- Etapas do Projeto -->
+  <g transform="translate(40, 100)">
+    <text x="360" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4facfe" text-anchor="middle">ETAPAS DA ABP</text>
+
+    <g transform="translate(0, 40)">
+      <circle cx="50" cy="40" r="35" fill="white" stroke="#667eea" stroke-width="2"/>
+      <text x="50" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">💡</text>
+      <text x="50" y="55" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#667eea" text-anchor="middle">1</text>
+      <text x="50" y="95" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">PROBLEMA</text>
+      <text x="50" y="108" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Desafio real</text>
+    </g>
+
+    <line x1="90" y1="80" x2="130" y2="80" stroke="#ddd" stroke-width="2" stroke-dasharray="5,3"/>
+
+    <g transform="translate(120, 40)">
+      <circle cx="50" cy="40" r="35" fill="white" stroke="#4facfe" stroke-width="2"/>
+      <text x="50" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">🔍</text>
+      <text x="50" y="55" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4facfe" text-anchor="middle">2</text>
+      <text x="50" y="95" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">PESQUISA</text>
+      <text x="50" y="108" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Investigação</text>
+    </g>
+
+    <line x1="210" y1="80" x2="250" y2="80" stroke="#ddd" stroke-width="2" stroke-dasharray="5,3"/>
+
+    <g transform="translate(240, 40)">
+      <circle cx="50" cy="40" r="35" fill="white" stroke="#43e97b" stroke-width="2"/>
+      <text x="50" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">📋</text>
+      <text x="50" y="55" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#43e97b" text-anchor="middle">3</text>
+      <text x="50" y="95" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">PLANEJAMENTO</text>
+      <text x="50" y="108" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Organização</text>
+    </g>
+
+    <line x1="330" y1="80" x2="370" y2="80" stroke="#ddd" stroke-width="2" stroke-dasharray="5,3"/>
+
+    <g transform="translate(360, 40)">
+      <circle cx="50" cy="40" r="35" fill="white" stroke="#ffc107" stroke-width="2"/>
+      <text x="50" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">🛠️</text>
+      <text x="50" y="55" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#ffc107" text-anchor="middle">4</text>
+      <text x="50" y="95" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">CRIAÇÃO</text>
+      <text x="50" y="108" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Desenvolvimento</text>
+    </g>
+
+    <line x1="450" y1="80" x2="490" y2="80" stroke="#ddd" stroke-width="2" stroke-dasharray="5,3"/>
+
+    <g transform="translate(480, 40)">
+      <circle cx="50" cy="40" r="35" fill="white" stroke="#f5576c" stroke-width="2"/>
+      <text x="50" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">🎤</text>
+      <text x="50" y="55" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f5576c" text-anchor="middle">5</text>
+      <text x="50" y="95" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">APRESENTAÇÃO</text>
+      <text x="50" y="108" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Compartilhar</text>
+    </g>
+
+    <line x1="570" y1="80" x2="610" y2="80" stroke="#ddd" stroke-width="2" stroke-dasharray="5,3"/>
+
+    <g transform="translate(600, 40)">
+      <circle cx="50" cy="40" r="35" fill="white" stroke="#9c27b0" stroke-width="2"/>
+      <text x="50" y="35" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">📊</text>
+      <text x="50" y="55" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#9c27b0" text-anchor="middle">6</text>
+      <text x="50" y="95" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">AVALIAÇÃO</text>
+      <text x="50" y="108" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Reflexão</text>
+    </g>
+  </g>
+
+  <!-- Competências -->
+  <g transform="translate(40, 270)">
+    <rect x="0" y="0" width="340" height="160" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <text x="170" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#43e97b" text-anchor="middle">COMPETÊNCIAS DESENVOLVIDAS</text>
+
+    <g transform="translate(20, 40)">
+      <circle cx="20" cy="20" r="15" fill="#e8f5e9"/>
+      <text x="20" y="25" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🤝</text>
+      <text x="50" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Colaboração</text>
+    </g>
+
+    <g transform="translate(170, 40)">
+      <circle cx="20" cy="20" r="15" fill="#e3f2fd"/>
+      <text x="20" y="25" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">💬</text>
+      <text x="50" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Comunicação</text>
+    </g>
+
+    <g transform="translate(20, 80)">
+      <circle cx="20" cy="20" r="15" fill="#fff8e1"/>
+      <text x="20" y="25" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🧠</text>
+      <text x="50" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Pensamento Crítico</text>
+    </g>
+
+    <g transform="translate(170, 80)">
+      <circle cx="20" cy="20" r="15" fill="#fce4ec"/>
+      <text x="20" y="25" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🎨</text>
+      <text x="50" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Criatividade</text>
+    </g>
+
+    <g transform="translate(20, 120)">
+      <circle cx="20" cy="20" r="15" fill="#e8f5e9"/>
+      <text x="20" y="25" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🎯</text>
+      <text x="50" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Liderança</text>
+    </g>
+
+    <g transform="translate(170, 120)">
+      <circle cx="20" cy="20" r="15" fill="#e3f2fd"/>
+      <text x="20" y="25" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">⏰</text>
+      <text x="50" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Gestão de Tempo</text>
+    </g>
+  </g>
+
+  <!-- Papel do Professor -->
+  <g transform="translate(420, 270)">
+    <rect x="0" y="0" width="340" height="160" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <text x="170" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4facfe" text-anchor="middle">PAPEL DO PROFESSOR</text>
+
+    <text x="170" y="60" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">👨‍🏫</text>
+
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="10" fill="#666">• Facilitador, não transmissor</text>
+    <text x="20" y="112" font-family="Arial, sans-serif" font-size="10" fill="#666">• Orientar, não dar respostas</text>
+    <text x="20" y="129" font-family="Arial, sans-serif" font-size="10" fill="#666">• Conectar teoria e prática</text>
+    <text x="20" y="146" font-family="Arial, sans-serif" font-size="10" fill="#666">• Avaliar processo e produto</text>
+  </g>
+
+  <!-- Dica -->
+  <g transform="translate(40, 450)">
+    <rect x="0" y="0" width="720" height="50" rx="12" fill="url(#headerGrad)"/>
+    <text x="360" y="32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">💡 Projetos autênticos conectados à vida real geram maior engajamento e aprendizado significativo</text>
+  </g>
+
+  <text x="400" y="530" font-family="Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 3, Aula 10</text>
+</svg>

@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#43e97b"/>
+      <stop offset="100%" style="stop-color:#38f9d7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="800" fill="#f0fff4"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="100" fill="url(#greenGrad)"/>
+  <text x="400" y="45" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white" text-anchor="middle">COMPETÊNCIAS SOCIOEMOCIONAIS</text>
+  <text x="400" y="75" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">O lado humano da educação</text>
+
+  <!-- Central Circle -->
+  <circle cx="400" cy="340" r="80" fill="white" stroke="#43e97b" stroke-width="3"/>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32" text-anchor="middle">ALUNO</text>
+  <text x="400" y="350" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32" text-anchor="middle">INTEGRAL</text>
+
+  <!-- Autoconhecimento -->
+  <g transform="translate(200, 160)">
+    <circle cx="0" cy="0" r="55" fill="white" stroke="#667eea" stroke-width="2"/>
+    <text x="0" y="-15" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🪞</text>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#667eea" text-anchor="middle">AUTO</text>
+    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#667eea" text-anchor="middle">CONHECIMENTO</text>
+    <line x1="40" y1="30" x2="150" y2="110" stroke="#ddd" stroke-width="2"/>
+  </g>
+
+  <!-- Autogestão -->
+  <g transform="translate(600, 160)">
+    <circle cx="0" cy="0" r="55" fill="white" stroke="#f5576c" stroke-width="2"/>
+    <text x="0" y="-15" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">⚙️</text>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f5576c" text-anchor="middle">AUTO</text>
+    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f5576c" text-anchor="middle">GESTÃO</text>
+    <line x1="-40" y1="30" x2="-150" y2="110" stroke="#ddd" stroke-width="2"/>
+  </g>
+
+  <!-- Consciência Social -->
+  <g transform="translate(130, 400)">
+    <circle cx="0" cy="0" r="55" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <text x="0" y="-15" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🤝</text>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#4facfe" text-anchor="middle">CONSCIÊNCIA</text>
+    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#4facfe" text-anchor="middle">SOCIAL</text>
+    <line x1="50" y1="-20" x2="190" y2="-35" stroke="#ddd" stroke-width="2"/>
+  </g>
+
+  <!-- Relacionamentos -->
+  <g transform="translate(670, 400)">
+    <circle cx="0" cy="0" r="55" fill="white" stroke="#ffc107" stroke-width="2"/>
+    <text x="0" y="-15" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">💬</text>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffc107" text-anchor="middle">RELACIO</text>
+    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffc107" text-anchor="middle">NAMENTOS</text>
+    <line x1="-50" y1="-20" x2="-190" y2="-35" stroke="#ddd" stroke-width="2"/>
+  </g>
+
+  <!-- Tomada de Decisão -->
+  <g transform="translate(400, 520)">
+    <circle cx="0" cy="0" r="55" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <text x="0" y="-15" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🎯</text>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#43e97b" text-anchor="middle">DECISÃO</text>
+    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#43e97b" text-anchor="middle">RESPONSÁVEL</text>
+    <line x1="0" y1="-55" x2="0" y2="-100" stroke="#ddd" stroke-width="2"/>
+  </g>
+
+  <!-- Detalhes -->
+  <g transform="translate(40, 600)">
+    <rect x="0" y="0" width="720" height="150" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <text x="360" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32" text-anchor="middle">NA PRÁTICA PEDAGÓGICA</text>
+
+    <g transform="translate(20, 50)">
+      <rect x="0" y="0" width="130" height="80" rx="8" fill="#e8f5e9"/>
+      <text x="65" y="25" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">💚</text>
+      <text x="65" y="45" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Empatia</text>
+      <text x="65" y="60" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Escuta ativa</text>
+      <text x="65" y="72" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">e acolhimento</text>
+    </g>
+
+    <g transform="translate(160, 50)">
+      <rect x="0" y="0" width="130" height="80" rx="8" fill="#e3f2fd"/>
+      <text x="65" y="25" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">😌</text>
+      <text x="65" y="45" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Gestão Emocional</text>
+      <text x="65" y="60" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Ansiedade e</text>
+      <text x="65" y="72" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">frustração</text>
+    </g>
+
+    <g transform="translate(300, 50)">
+      <rect x="0" y="0" width="130" height="80" rx="8" fill="#fce4ec"/>
+      <text x="65" y="25" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">🛡️</text>
+      <text x="65" y="45" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Prevenção</text>
+      <text x="65" y="60" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Bullying e</text>
+      <text x="65" y="72" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">conflitos</text>
+    </g>
+
+    <g transform="translate(440, 50)">
+      <rect x="0" y="0" width="130" height="80" rx="8" fill="#fff8e1"/>
+      <text x="65" y="25" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">🏠</text>
+      <text x="65" y="45" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Acolhimento</text>
+      <text x="65" y="60" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Ambiente</text>
+      <text x="65" y="72" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">seguro</text>
+    </g>
+
+    <g transform="translate(580, 50)">
+      <rect x="0" y="0" width="130" height="80" rx="8" fill="#e8f5e9"/>
+      <text x="65" y="25" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">🌈</text>
+      <text x="65" y="45" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333" text-anchor="middle">Inclusão</text>
+      <text x="65" y="60" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Diversidade</text>
+      <text x="65" y="72" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">e respeito</text>
+    </g>
+  </g>
+
+  <!-- Footer -->
+  <text x="400" y="780" font-family="Arial, sans-serif" font-size="12" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 4: Tecnologia e Socioemocional</text>
+</svg>

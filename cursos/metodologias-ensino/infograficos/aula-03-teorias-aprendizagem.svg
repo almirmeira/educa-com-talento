@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="650" fill="#faf5ff"/>
+
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">TEORIAS DE APRENDIZAGEM DO SÉCULO XX</text>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">Do Behaviorismo ao Construtivismo</text>
+
+  <!-- Behaviorismo -->
+  <g transform="translate(40, 100)">
+    <rect x="0" y="0" width="220" height="240" rx="12" fill="white" stroke="#f5576c" stroke-width="2"/>
+    <rect x="0" y="0" width="220" height="50" rx="12 12 0 0" fill="#f5576c"/>
+    <text x="110" y="32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">BEHAVIORISMO</text>
+
+    <text x="110" y="80" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🔔</text>
+    <text x="110" y="105" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f5576c" text-anchor="middle">B.F. Skinner</text>
+
+    <text x="20" y="130" font-family="Arial, sans-serif" font-size="10" fill="#666">• Estímulo → Resposta</text>
+    <text x="20" y="148" font-family="Arial, sans-serif" font-size="10" fill="#666">• Condicionamento operante</text>
+    <text x="20" y="166" font-family="Arial, sans-serif" font-size="10" fill="#666">• Reforço e punição</text>
+    <text x="20" y="184" font-family="Arial, sans-serif" font-size="10" fill="#666">• Comportamento observável</text>
+
+    <rect x="15" y="200" width="190" height="30" rx="5" fill="#fce4ec"/>
+    <text x="110" y="220" font-family="Arial, sans-serif" font-size="9" fill="#c2185b" text-anchor="middle">Aluno: receptor passivo</text>
+  </g>
+
+  <!-- Construtivismo Piaget -->
+  <g transform="translate(290, 100)">
+    <rect x="0" y="0" width="220" height="240" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <rect x="0" y="0" width="220" height="50" rx="12 12 0 0" fill="#4facfe"/>
+    <text x="110" y="32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">CONSTRUTIVISMO</text>
+
+    <text x="110" y="80" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🧩</text>
+    <text x="110" y="105" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#4facfe" text-anchor="middle">Jean Piaget</text>
+
+    <text x="20" y="130" font-family="Arial, sans-serif" font-size="10" fill="#666">• Estágios de desenvolvimento</text>
+    <text x="20" y="148" font-family="Arial, sans-serif" font-size="10" fill="#666">• Assimilação e acomodação</text>
+    <text x="20" y="166" font-family="Arial, sans-serif" font-size="10" fill="#666">• Conflito cognitivo</text>
+    <text x="20" y="184" font-family="Arial, sans-serif" font-size="10" fill="#666">• Construção ativa</text>
+
+    <rect x="15" y="200" width="190" height="30" rx="5" fill="#e3f2fd"/>
+    <text x="110" y="220" font-family="Arial, sans-serif" font-size="9" fill="#1565c0" text-anchor="middle">Aluno: construtor do conhecimento</text>
+  </g>
+
+  <!-- Sociointeracionismo -->
+  <g transform="translate(540, 100)">
+    <rect x="0" y="0" width="220" height="240" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <rect x="0" y="0" width="220" height="50" rx="12 12 0 0" fill="#43e97b"/>
+    <text x="110" y="32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">SOCIOINTERACIONISMO</text>
+
+    <text x="110" y="80" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🤝</text>
+    <text x="110" y="105" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#43e97b" text-anchor="middle">Lev Vygotsky</text>
+
+    <text x="20" y="130" font-family="Arial, sans-serif" font-size="10" fill="#666">• Zona de Desenvolvimento</text>
+    <text x="20" y="148" font-family="Arial, sans-serif" font-size="10" fill="#666">• Mediação social</text>
+    <text x="20" y="166" font-family="Arial, sans-serif" font-size="10" fill="#666">• Linguagem como ferramenta</text>
+    <text x="20" y="184" font-family="Arial, sans-serif" font-size="10" fill="#666">• Cultura e aprendizagem</text>
+
+    <rect x="15" y="200" width="190" height="30" rx="5" fill="#e8f5e9"/>
+    <text x="110" y="220" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32" text-anchor="middle">Aluno: ser social e cultural</text>
+  </g>
+
+  <!-- ZDP -->
+  <g transform="translate(40, 370)">
+    <rect x="0" y="0" width="350" height="140" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <text x="175" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#43e97b" text-anchor="middle">ZONA DE DESENVOLVIMENTO PROXIMAL</text>
+
+    <circle cx="80" cy="85" r="35" fill="#ffebee"/>
+    <text x="80" y="80" font-family="Arial, sans-serif" font-size="9" fill="#c62828" text-anchor="middle">Não</text>
+    <text x="80" y="92" font-family="Arial, sans-serif" font-size="9" fill="#c62828" text-anchor="middle">consegue</text>
+
+    <circle cx="175" cy="85" r="45" fill="#e8f5e9" stroke="#43e97b" stroke-width="2" stroke-dasharray="5,3"/>
+    <text x="175" y="80" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32" text-anchor="middle">ZDP</text>
+    <text x="175" y="92" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32" text-anchor="middle">Com ajuda</text>
+
+    <circle cx="270" cy="85" r="35" fill="#e3f2fd"/>
+    <text x="270" y="80" font-family="Arial, sans-serif" font-size="9" fill="#1565c0" text-anchor="middle">Consegue</text>
+    <text x="270" y="92" font-family="Arial, sans-serif" font-size="9" fill="#1565c0" text-anchor="middle">sozinho</text>
+  </g>
+
+  <!-- Comparativo -->
+  <g transform="translate(410, 370)">
+    <rect x="0" y="0" width="350" height="140" rx="12" fill="white" stroke="#667eea" stroke-width="2"/>
+    <text x="175" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#667eea" text-anchor="middle">PAPEL DO PROFESSOR</text>
+
+    <g transform="translate(20, 40)">
+      <rect x="0" y="0" width="100" height="80" rx="6" fill="#fce4ec"/>
+      <text x="50" y="25" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#c2185b" text-anchor="middle">Behaviorismo</text>
+      <text x="50" y="45" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">📢</text>
+      <text x="50" y="65" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Transmissor</text>
+    </g>
+
+    <g transform="translate(125, 40)">
+      <rect x="0" y="0" width="100" height="80" rx="6" fill="#e3f2fd"/>
+      <text x="50" y="25" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#1565c0" text-anchor="middle">Construtivismo</text>
+      <text x="50" y="45" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🎯</text>
+      <text x="50" y="65" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Facilitador</text>
+    </g>
+
+    <g transform="translate(230, 40)">
+      <rect x="0" y="0" width="100" height="80" rx="6" fill="#e8f5e9"/>
+      <text x="50" y="25" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#2e7d32" text-anchor="middle">Vygotsky</text>
+      <text x="50" y="45" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🤝</text>
+      <text x="50" y="65" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Mediador</text>
+    </g>
+  </g>
+
+  <!-- Outros teóricos -->
+  <g transform="translate(40, 530)">
+    <rect x="0" y="0" width="720" height="70" rx="12" fill="url(#headerGrad)"/>
+    <text x="360" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">OUTRAS CONTRIBUIÇÕES IMPORTANTES</text>
+
+    <text x="120" y="52" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">📖 Ausubel: Aprendizagem Significativa</text>
+    <text x="360" y="52" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">🧠 Gardner: Inteligências Múltiplas</text>
+    <text x="600" y="52" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">🌍 Freire: Pedagogia Libertadora</text>
+  </g>
+
+  <text x="400" y="630" font-family="Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 1, Aula 3</text>
+</svg>

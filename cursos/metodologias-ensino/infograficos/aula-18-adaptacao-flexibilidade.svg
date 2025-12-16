@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fa709a"/>
+      <stop offset="100%" style="stop-color:#fee140"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="#fffef5"/>
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">ADAPTAÇÃO E FLEXIBILIDADE</text>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">Respondendo às necessidades da turma</text>
+
+  <g transform="translate(40, 100)">
+    <rect x="0" y="0" width="340" height="160" rx="12" fill="white" stroke="#9c27b0" stroke-width="2"/>
+    <text x="170" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#9c27b0" text-anchor="middle">QUANDO ADAPTAR?</text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="10" fill="#666">🚨 Turma não está engajada</text>
+    <text x="20" y="68" font-family="Arial, sans-serif" font-size="10" fill="#666">❓ Muitas dúvidas surgindo</text>
+    <text x="20" y="86" font-family="Arial, sans-serif" font-size="10" fill="#666">⏰ Tempo diferente do planejado</text>
+    <text x="20" y="104" font-family="Arial, sans-serif" font-size="10" fill="#666">🎯 Objetivos não sendo atingidos</text>
+    <text x="20" y="122" font-family="Arial, sans-serif" font-size="10" fill="#666">💡 Oportunidade inesperada surge</text>
+    <text x="20" y="140" font-family="Arial, sans-serif" font-size="10" fill="#666">🔄 Contexto mudou</text>
+  </g>
+
+  <g transform="translate(420, 100)">
+    <rect x="0" y="0" width="340" height="160" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <text x="170" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#43e97b" text-anchor="middle">COMO ADAPTAR?</text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="10" fill="#666">🔄 Mude a atividade, não o objetivo</text>
+    <text x="20" y="68" font-family="Arial, sans-serif" font-size="10" fill="#666">📊 Use recursos alternativos</text>
+    <text x="20" y="86" font-family="Arial, sans-serif" font-size="10" fill="#666">👥 Reorganize grupos</text>
+    <text x="20" y="104" font-family="Arial, sans-serif" font-size="10" fill="#666">⏱️ Ajuste o ritmo</text>
+    <text x="20" y="122" font-family="Arial, sans-serif" font-size="10" fill="#666">💬 Pergunte aos alunos</text>
+    <text x="20" y="140" font-family="Arial, sans-serif" font-size="10" fill="#666">🎯 Simplifique se necessário</text>
+  </g>
+
+  <g transform="translate(40, 280)">
+    <rect x="0" y="0" width="720" height="100" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <text x="360" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4facfe" text-anchor="middle">DIFERENCIAÇÃO PEDAGÓGICA</text>
+    <g transform="translate(40, 45)">
+      <circle cx="30" cy="25" r="22" fill="#e3f2fd"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">📚</text>
+      <text x="30" y="65" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Conteúdo</text>
+    </g>
+    <g transform="translate(170, 45)">
+      <circle cx="30" cy="25" r="22" fill="#e8f5e9"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🛠️</text>
+      <text x="30" y="65" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Processo</text>
+    </g>
+    <g transform="translate(300, 45)">
+      <circle cx="30" cy="25" r="22" fill="#fff8e1"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🎯</text>
+      <text x="30" y="65" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Produto</text>
+    </g>
+    <g transform="translate(430, 45)">
+      <circle cx="30" cy="25" r="22" fill="#fce4ec"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🏠</text>
+      <text x="30" y="65" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Ambiente</text>
+    </g>
+    <g transform="translate(560, 45)">
+      <circle cx="30" cy="25" r="22" fill="#e3f2fd"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">⏰</text>
+      <text x="30" y="65" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Tempo</text>
+    </g>
+  </g>
+
+  <g transform="translate(40, 400)">
+    <rect x="0" y="0" width="720" height="50" rx="12" fill="url(#headerGrad)"/>
+    <text x="360" y="32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">🌟 Flexibilidade não é improvisar - é ter repertório para responder ao inesperado</text>
+  </g>
+
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 5, Aula 18</text>
+</svg>

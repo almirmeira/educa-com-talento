@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 700">
+  <defs>
+    <linearGradient id="headerGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="700" fill="#faf5ff"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="90" fill="url(#headerGrad2)"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white" text-anchor="middle">EVOLUÇÃO DAS METODOLOGIAS DE ENSINO</text>
+  <text x="400" y="70" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">Da transmissão oral ao protagonismo do aluno</text>
+
+  <!-- Timeline Line -->
+  <line x1="400" y1="120" x2="400" y2="640" stroke="#ddd" stroke-width="4"/>
+
+  <!-- Antiguidade -->
+  <g transform="translate(0, 130)">
+    <circle cx="400" cy="20" r="15" fill="#667eea"/>
+    <text x="400" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">1</text>
+
+    <rect x="50" y="0" width="300" height="80" rx="8" fill="white" stroke="#667eea" stroke-width="2"/>
+    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#667eea">ANTIGUIDADE</text>
+    <text x="70" y="45" font-family="Arial, sans-serif" font-size="11" fill="#666">• Transmissão oral</text>
+    <text x="70" y="60" font-family="Arial, sans-serif" font-size="11" fill="#666">• Escolas gregas: Sócrates, Platão</text>
+    <text x="70" y="75" font-family="Arial, sans-serif" font-size="11" fill="#666">• Método dialogado</text>
+  </g>
+
+  <!-- Idade Média -->
+  <g transform="translate(0, 230)">
+    <circle cx="400" cy="20" r="15" fill="#764ba2"/>
+    <text x="400" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">2</text>
+
+    <rect x="450" y="0" width="300" height="80" rx="8" fill="white" stroke="#764ba2" stroke-width="2"/>
+    <text x="470" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#764ba2">IDADE MÉDIA</text>
+    <text x="470" y="45" font-family="Arial, sans-serif" font-size="11" fill="#666">• Monastérios e universidades</text>
+    <text x="470" y="60" font-family="Arial, sans-serif" font-size="11" fill="#666">• Escolástica e memorização</text>
+    <text x="470" y="75" font-family="Arial, sans-serif" font-size="11" fill="#666">• Ensino religioso</text>
+  </g>
+
+  <!-- Revolução Industrial -->
+  <g transform="translate(0, 330)">
+    <circle cx="400" cy="20" r="15" fill="#f5576c"/>
+    <text x="400" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">3</text>
+
+    <rect x="50" y="0" width="300" height="80" rx="8" fill="white" stroke="#f5576c" stroke-width="2"/>
+    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f5576c">SÉCULO XIX-XX</text>
+    <text x="70" y="45" font-family="Arial, sans-serif" font-size="11" fill="#666">• Escola tradicional</text>
+    <text x="70" y="60" font-family="Arial, sans-serif" font-size="11" fill="#666">• Behaviorismo (Skinner)</text>
+    <text x="70" y="75" font-family="Arial, sans-serif" font-size="11" fill="#666">• Foco no professor</text>
+  </g>
+
+  <!-- Construtivismo -->
+  <g transform="translate(0, 430)">
+    <circle cx="400" cy="20" r="15" fill="#4facfe"/>
+    <text x="400" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">4</text>
+
+    <rect x="450" y="0" width="300" height="80" rx="8" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <text x="470" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4facfe">CONSTRUTIVISMO</text>
+    <text x="470" y="45" font-family="Arial, sans-serif" font-size="11" fill="#666">• Piaget e desenvolvimento cognitivo</text>
+    <text x="470" y="60" font-family="Arial, sans-serif" font-size="11" fill="#666">• Vygotsky e interação social</text>
+    <text x="470" y="75" font-family="Arial, sans-serif" font-size="11" fill="#666">• Aluno constrói conhecimento</text>
+  </g>
+
+  <!-- Século XXI -->
+  <g transform="translate(0, 530)">
+    <circle cx="400" cy="20" r="15" fill="#43e97b"/>
+    <text x="400" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">5</text>
+
+    <rect x="50" y="0" width="300" height="100" rx="8" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#43e97b">SÉCULO XXI</text>
+    <text x="70" y="45" font-family="Arial, sans-serif" font-size="11" fill="#666">• Metodologias ativas</text>
+    <text x="70" y="60" font-family="Arial, sans-serif" font-size="11" fill="#666">• Sala de aula invertida</text>
+    <text x="70" y="75" font-family="Arial, sans-serif" font-size="11" fill="#666">• Aprendizagem por projetos</text>
+    <text x="70" y="90" font-family="Arial, sans-serif" font-size="11" fill="#666">• Gamificação e tecnologia</text>
+
+    <rect x="450" y="0" width="300" height="100" rx="8" fill="#43e97b"/>
+    <text x="600" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">PROTAGONISMO</text>
+    <text x="600" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">DO ALUNO</text>
+    <text x="600" y="75" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle" opacity="0.9">Professor como facilitador</text>
+    <text x="600" y="92" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle" opacity="0.9">Aprendizagem significativa</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="400" y="680" font-family="Arial, sans-serif" font-size="12" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 1: Fundamentos e Evolução</text>
+</svg>

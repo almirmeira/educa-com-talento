@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fa709a"/>
+      <stop offset="100%" style="stop-color:#fee140"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="#fffef5"/>
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">GESTÃO DE SALA DE AULA</text>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">Novas metodologias, nova gestão</text>
+
+  <g transform="translate(40, 100)">
+    <rect x="0" y="0" width="340" height="170" rx="12" fill="white" stroke="#f5576c" stroke-width="2"/>
+    <text x="170" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f5576c" text-anchor="middle">DESAFIOS COM METODOLOGIAS ATIVAS</text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="10" fill="#666">🔊 Mais barulho (produtivo!)</text>
+    <text x="20" y="68" font-family="Arial, sans-serif" font-size="10" fill="#666">🚶 Mais movimentação</text>
+    <text x="20" y="86" font-family="Arial, sans-serif" font-size="10" fill="#666">⏰ Gestão do tempo</text>
+    <text x="20" y="104" font-family="Arial, sans-serif" font-size="10" fill="#666">👥 Grupos desbalanceados</text>
+    <text x="20" y="122" font-family="Arial, sans-serif" font-size="10" fill="#666">📱 Uso de tecnologia</text>
+    <text x="20" y="140" font-family="Arial, sans-serif" font-size="10" fill="#666">🎯 Manter o foco</text>
+    <text x="20" y="158" font-family="Arial, sans-serif" font-size="10" fill="#666">⚖️ Equilibrar participação</text>
+  </g>
+
+  <g transform="translate(420, 100)">
+    <rect x="0" y="0" width="340" height="170" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <text x="170" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#43e97b" text-anchor="middle">ESTRATÉGIAS DE GESTÃO</text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="10" fill="#666">📋 Regras claras desde o início</text>
+    <text x="20" y="68" font-family="Arial, sans-serif" font-size="10" fill="#666">⏱️ Cronômetro visível</text>
+    <text x="20" y="86" font-family="Arial, sans-serif" font-size="10" fill="#666">🔔 Sinais para atenção</text>
+    <text x="20" y="104" font-family="Arial, sans-serif" font-size="10" fill="#666">🎯 Papéis definidos nos grupos</text>
+    <text x="20" y="122" font-family="Arial, sans-serif" font-size="10" fill="#666">📊 Rubricas de comportamento</text>
+    <text x="20" y="140" font-family="Arial, sans-serif" font-size="10" fill="#666">🌡️ Check-ins regulares</text>
+    <text x="20" y="158" font-family="Arial, sans-serif" font-size="10" fill="#666">💬 Reflexão coletiva</text>
+  </g>
+
+  <g transform="translate(40, 290)">
+    <rect x="0" y="0" width="720" height="100" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <text x="360" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4facfe" text-anchor="middle">SINAIS PARA CHAMAR ATENÇÃO</text>
+    <g transform="translate(60, 45)">
+      <circle cx="30" cy="25" r="20" fill="#e3f2fd"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🖐️</text>
+      <text x="30" y="65" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Mão levantada</text>
+    </g>
+    <g transform="translate(180, 45)">
+      <circle cx="30" cy="25" r="20" fill="#e8f5e9"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🔔</text>
+      <text x="30" y="65" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Sininho</text>
+    </g>
+    <g transform="translate(300, 45)">
+      <circle cx="30" cy="25" r="20" fill="#fff8e1"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">👏</text>
+      <text x="30" y="65" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Palmas ritmadas</text>
+    </g>
+    <g transform="translate(420, 45)">
+      <circle cx="30" cy="25" r="20" fill="#fce4ec"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">⏰</text>
+      <text x="30" y="65" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Timer sonoro</text>
+    </g>
+    <g transform="translate(540, 45)">
+      <circle cx="30" cy="25" r="20" fill="#e3f2fd"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🎵</text>
+      <text x="30" y="65" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Música específica</text>
+    </g>
+  </g>
+
+  <g transform="translate(40, 410)">
+    <rect x="0" y="0" width="720" height="40" rx="12" fill="url(#headerGrad)"/>
+    <text x="360" y="27" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">💡 Boa gestão = clareza de expectativas + consistência + respeito mútuo</text>
+  </g>
+
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 5, Aula 19</text>
+</svg>

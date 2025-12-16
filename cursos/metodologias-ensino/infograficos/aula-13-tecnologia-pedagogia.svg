@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#43e97b"/>
+      <stop offset="100%" style="stop-color:#38f9d7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="#f0fff4"/>
+
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">TECNOLOGIA A SERVIÇO DA PEDAGOGIA</text>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">Tecnologia como meio, não como fim</text>
+
+  <!-- TPACK -->
+  <g transform="translate(40, 100)">
+    <rect x="0" y="0" width="340" height="180" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <text x="170" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#43e97b" text-anchor="middle">MODELO TPACK</text>
+
+    <g transform="translate(170, 110)">
+      <circle cx="0" cy="-30" r="40" fill="#e3f2fd" opacity="0.7"/>
+      <text x="0" y="-25" font-family="Arial, sans-serif" font-size="8" fill="#1565c0" text-anchor="middle">Tecnológico</text>
+
+      <circle cx="-35" cy="30" r="40" fill="#e8f5e9" opacity="0.7"/>
+      <text x="-35" y="35" font-family="Arial, sans-serif" font-size="8" fill="#2e7d32" text-anchor="middle">Pedagógico</text>
+
+      <circle cx="35" cy="30" r="40" fill="#fff8e1" opacity="0.7"/>
+      <text x="35" y="35" font-family="Arial, sans-serif" font-size="8" fill="#e65100" text-anchor="middle">Conteúdo</text>
+
+      <circle cx="0" cy="10" r="20" fill="#43e97b"/>
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="7" font-weight="bold" fill="white" text-anchor="middle">TPACK</text>
+    </g>
+  </g>
+
+  <!-- Princípios -->
+  <g transform="translate(420, 100)">
+    <rect x="0" y="0" width="340" height="180" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <text x="170" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4facfe" text-anchor="middle">PRINCÍPIOS DE USO</text>
+
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="10" fill="#666">🎯 Objetivo pedagógico primeiro</text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666">🛠️ Tecnologia como ferramenta</text>
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="10" fill="#666">👥 Atender diferentes estilos</text>
+    <text x="20" y="110" font-family="Arial, sans-serif" font-size="10" fill="#666">📊 Personalizar aprendizado</text>
+    <text x="20" y="130" font-family="Arial, sans-serif" font-size="10" fill="#666">🔄 Flexibilidade e adaptação</text>
+    <text x="20" y="150" font-family="Arial, sans-serif" font-size="10" fill="#666">♿ Acessibilidade digital</text>
+    <text x="20" y="170" font-family="Arial, sans-serif" font-size="10" fill="#666">📱 Inclusão digital</text>
+  </g>
+
+  <!-- Usos da Tecnologia -->
+  <g transform="translate(40, 300)">
+    <rect x="0" y="0" width="720" height="140" rx="12" fill="white" stroke="#667eea" stroke-width="2"/>
+    <text x="360" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#667eea" text-anchor="middle">APLICAÇÕES NA EDUCAÇÃO</text>
+
+    <g transform="translate(30, 45)">
+      <rect x="0" y="0" width="100" height="80" rx="8" fill="#e8f5e9"/>
+      <text x="50" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">📹</text>
+      <text x="50" y="50" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#2e7d32" text-anchor="middle">Videoaulas</text>
+      <text x="50" y="65" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Conteúdo</text>
+      <text x="50" y="77" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">assíncrono</text>
+    </g>
+
+    <g transform="translate(145, 45)">
+      <rect x="0" y="0" width="100" height="80" rx="8" fill="#e3f2fd"/>
+      <text x="50" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">📊</text>
+      <text x="50" y="50" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#1565c0" text-anchor="middle">Quizzes</text>
+      <text x="50" y="65" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Avaliação</text>
+      <text x="50" y="77" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">interativa</text>
+    </g>
+
+    <g transform="translate(260, 45)">
+      <rect x="0" y="0" width="100" height="80" rx="8" fill="#fff8e1"/>
+      <text x="50" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🤖</text>
+      <text x="50" y="50" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#e65100" text-anchor="middle">IA Educacional</text>
+      <text x="50" y="65" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Personalização</text>
+      <text x="50" y="77" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">adaptativa</text>
+    </g>
+
+    <g transform="translate(375, 45)">
+      <rect x="0" y="0" width="100" height="80" rx="8" fill="#fce4ec"/>
+      <text x="50" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🎮</text>
+      <text x="50" y="50" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#c2185b" text-anchor="middle">Simuladores</text>
+      <text x="50" y="65" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Experiência</text>
+      <text x="50" y="77" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">prática</text>
+    </g>
+
+    <g transform="translate(490, 45)">
+      <rect x="0" y="0" width="100" height="80" rx="8" fill="#e8f5e9"/>
+      <text x="50" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">📱</text>
+      <text x="50" y="50" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#2e7d32" text-anchor="middle">Apps</text>
+      <text x="50" y="65" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Mobile</text>
+      <text x="50" y="77" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">learning</text>
+    </g>
+
+    <g transform="translate(605, 45)">
+      <rect x="0" y="0" width="100" height="80" rx="8" fill="#e3f2fd"/>
+      <text x="50" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">☁️</text>
+      <text x="50" y="50" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#1565c0" text-anchor="middle">Nuvem</text>
+      <text x="50" y="65" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Colaboração</text>
+      <text x="50" y="77" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">online</text>
+    </g>
+  </g>
+
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 4, Aula 13</text>
+</svg>

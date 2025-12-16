@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4facfe"/>
+      <stop offset="100%" style="stop-color:#00f2fe"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="900" fill="#f0f9ff"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="100" fill="url(#bgGrad)"/>
+  <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">METODOLOGIAS ATIVAS</text>
+  <text x="400" y="75" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" opacity="0.9">O aluno como protagonista da aprendizagem</text>
+
+  <!-- Sala de Aula Invertida -->
+  <g transform="translate(40, 130)">
+    <rect x="0" y="0" width="340" height="200" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <rect x="0" y="0" width="340" height="50" rx="12 12 0 0" fill="#4facfe"/>
+    <text x="170" y="33" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">SALA DE AULA INVERTIDA</text>
+
+    <circle cx="60" cy="90" r="25" fill="#e3f2fd"/>
+    <text x="60" y="95" font-family="Arial, sans-serif" font-size="20" fill="#1565c0" text-anchor="middle">🏠</text>
+    <text x="120" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Em Casa</text>
+    <text x="120" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">Vídeos e leituras</text>
+
+    <path d="M 180 90 L 200 90" stroke="#4facfe" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <circle cx="280" cy="90" r="25" fill="#e3f2fd"/>
+    <text x="280" y="95" font-family="Arial, sans-serif" font-size="20" fill="#1565c0" text-anchor="middle">🏫</text>
+    <text x="220" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Em Sala</text>
+    <text x="220" y="145" font-family="Arial, sans-serif" font-size="11" fill="#666">Discussões e práticas</text>
+
+    <text x="20" y="175" font-family="Arial, sans-serif" font-size="11" fill="#4facfe">✓ Maximiza tempo presencial</text>
+    <text x="20" y="190" font-family="Arial, sans-serif" font-size="11" fill="#4facfe">✓ Aluno no próprio ritmo</text>
+  </g>
+
+  <!-- ABP Projetos -->
+  <g transform="translate(420, 130)">
+    <rect x="0" y="0" width="340" height="200" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <rect x="0" y="0" width="340" height="50" rx="12 12 0 0" fill="#43e97b"/>
+    <text x="170" y="33" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">BASEADA EM PROJETOS</text>
+
+    <g transform="translate(30, 70)">
+      <circle cx="35" cy="20" r="18" fill="#e8f5e9"/>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="14" fill="#2e7d32" text-anchor="middle">💡</text>
+      <text x="35" y="50" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Problema</text>
+    </g>
+    <g transform="translate(100, 70)">
+      <circle cx="35" cy="20" r="18" fill="#e8f5e9"/>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="14" fill="#2e7d32" text-anchor="middle">🔍</text>
+      <text x="35" y="50" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Pesquisa</text>
+    </g>
+    <g transform="translate(170, 70)">
+      <circle cx="35" cy="20" r="18" fill="#e8f5e9"/>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="14" fill="#2e7d32" text-anchor="middle">🛠️</text>
+      <text x="35" y="50" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Criação</text>
+    </g>
+    <g transform="translate(240, 70)">
+      <circle cx="35" cy="20" r="18" fill="#e8f5e9"/>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="14" fill="#2e7d32" text-anchor="middle">🎯</text>
+      <text x="35" y="50" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Resultado</text>
+    </g>
+
+    <text x="20" y="160" font-family="Arial, sans-serif" font-size="11" fill="#43e97b">✓ Competências do século XXI</text>
+    <text x="20" y="175" font-family="Arial, sans-serif" font-size="11" fill="#43e97b">✓ Colaboração e liderança</text>
+    <text x="20" y="190" font-family="Arial, sans-serif" font-size="11" fill="#43e97b">✓ Problemas autênticos</text>
+  </g>
+
+  <!-- ABP Problemas -->
+  <g transform="translate(40, 360)">
+    <rect x="0" y="0" width="340" height="200" rx="12" fill="white" stroke="#f5576c" stroke-width="2"/>
+    <rect x="0" y="0" width="340" height="50" rx="12 12 0 0" fill="#f5576c"/>
+    <text x="170" y="33" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">BASEADA EM PROBLEMAS</text>
+
+    <text x="170" y="85" font-family="Arial, sans-serif" font-size="40" text-anchor="middle">❓</text>
+    <text x="170" y="115" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333" text-anchor="middle">Cenário Problema</text>
+    <text x="170" y="135" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">Complexo, realista, sem solução única</text>
+
+    <text x="20" y="165" font-family="Arial, sans-serif" font-size="11" fill="#f5576c">✓ Pensamento investigativo</text>
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="11" fill="#f5576c">✓ Autonomia na busca de soluções</text>
+    <text x="20" y="195" font-family="Arial, sans-serif" font-size="11" fill="#f5576c">✓ Metacognição</text>
+  </g>
+
+  <!-- Gamificação -->
+  <g transform="translate(420, 360)">
+    <rect x="0" y="0" width="340" height="200" rx="12" fill="white" stroke="#ffc107" stroke-width="2"/>
+    <rect x="0" y="0" width="340" height="50" rx="12 12 0 0" fill="#ffc107"/>
+    <text x="170" y="33" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">GAMIFICAÇÃO</text>
+
+    <g transform="translate(25, 65)">
+      <rect x="0" y="0" width="70" height="50" rx="8" fill="#fff8e1"/>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">⭐</text>
+      <text x="35" y="42" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Pontos</text>
+    </g>
+    <g transform="translate(105, 65)">
+      <rect x="0" y="0" width="70" height="50" rx="8" fill="#fff8e1"/>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🏆</text>
+      <text x="35" y="42" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Badges</text>
+    </g>
+    <g transform="translate(185, 65)">
+      <rect x="0" y="0" width="70" height="50" rx="8" fill="#fff8e1"/>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">📊</text>
+      <text x="35" y="42" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Níveis</text>
+    </g>
+    <g transform="translate(265, 65)">
+      <rect x="0" y="0" width="70" height="50" rx="8" fill="#fff8e1"/>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🎯</text>
+      <text x="35" y="42" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Desafios</text>
+    </g>
+
+    <text x="20" y="145" font-family="Arial, sans-serif" font-size="11" fill="#ffc107">✓ Engajamento e motivação</text>
+    <text x="20" y="160" font-family="Arial, sans-serif" font-size="11" fill="#ffc107">✓ Feedback imediato</text>
+    <text x="20" y="175" font-family="Arial, sans-serif" font-size="11" fill="#ffc107">✓ Progressão visível</text>
+    <text x="20" y="190" font-family="Arial, sans-serif" font-size="11" fill="#ffc107">✓ Competição saudável</text>
+  </g>
+
+  <!-- Benefícios -->
+  <g transform="translate(40, 590)">
+    <rect x="0" y="0" width="720" height="120" rx="12" fill="white" stroke="#667eea" stroke-width="2"/>
+    <text x="360" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#667eea" text-anchor="middle">BENEFÍCIOS DAS METODOLOGIAS ATIVAS</text>
+
+    <g transform="translate(30, 50)">
+      <circle cx="25" cy="25" r="20" fill="#e8f5e9"/>
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🎯</text>
+      <text x="25" y="65" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Protagonismo</text>
+    </g>
+    <g transform="translate(130, 50)">
+      <circle cx="25" cy="25" r="20" fill="#e3f2fd"/>
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🧠</text>
+      <text x="25" y="65" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Pensamento</text>
+      <text x="25" y="77" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Crítico</text>
+    </g>
+    <g transform="translate(230, 50)">
+      <circle cx="25" cy="25" r="20" fill="#fce4ec"/>
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🤝</text>
+      <text x="25" y="65" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Colaboração</text>
+    </g>
+    <g transform="translate(330, 50)">
+      <circle cx="25" cy="25" r="20" fill="#fff3e0"/>
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">💪</text>
+      <text x="25" y="65" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Autonomia</text>
+    </g>
+    <g transform="translate(430, 50)">
+      <circle cx="25" cy="25" r="20" fill="#e8f5e9"/>
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🎨</text>
+      <text x="25" y="65" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Criatividade</text>
+    </g>
+    <g transform="translate(530, 50)">
+      <circle cx="25" cy="25" r="20" fill="#e3f2fd"/>
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">📈</text>
+      <text x="25" y="65" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Engajamento</text>
+    </g>
+    <g transform="translate(630, 50)">
+      <circle cx="25" cy="25" r="20" fill="#fce4ec"/>
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🌟</text>
+      <text x="25" y="65" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Significado</text>
+    </g>
+  </g>
+
+  <!-- Papel do Professor -->
+  <g transform="translate(40, 740)">
+    <rect x="0" y="0" width="720" height="100" rx="12" fill="url(#bgGrad)"/>
+    <text x="360" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">O PAPEL DO PROFESSOR</text>
+    <text x="360" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">De transmissor de conhecimento → Facilitador da aprendizagem</text>
+    <text x="360" y="85" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" opacity="0.8">Mediador • Orientador • Designer de experiências • Mentor</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="400" y="875" font-family="Arial, sans-serif" font-size="12" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 3: Metodologias Ativas</text>
+</svg>

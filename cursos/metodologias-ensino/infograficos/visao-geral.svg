@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+    <linearGradient id="mod1Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+    <linearGradient id="mod2Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f093fb"/>
+      <stop offset="100%" style="stop-color:#f5576c"/>
+    </linearGradient>
+    <linearGradient id="mod3Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4facfe"/>
+      <stop offset="100%" style="stop-color:#00f2fe"/>
+    </linearGradient>
+    <linearGradient id="mod4Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#43e97b"/>
+      <stop offset="100%" style="stop-color:#38f9d7"/>
+    </linearGradient>
+    <linearGradient id="mod5Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fa709a"/>
+      <stop offset="100%" style="stop-color:#fee140"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="1100" fill="#f8f9fa"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="140" fill="url(#headerGrad)"/>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">METODOLOGIAS DE ENSINO</text>
+  <text x="400" y="95" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle" opacity="0.9">Para o Educador Inovador</text>
+
+  <!-- Stats -->
+  <g transform="translate(0, 120)">
+    <rect x="50" y="40" width="200" height="70" rx="8" fill="white" stroke="#e0e0e0"/>
+    <text x="150" y="75" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#667eea" text-anchor="middle">5</text>
+    <text x="150" y="98" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">Módulos</text>
+
+    <rect x="300" y="40" width="200" height="70" rx="8" fill="white" stroke="#e0e0e0"/>
+    <text x="400" y="75" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#4facfe" text-anchor="middle">20</text>
+    <text x="400" y="98" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">Aulas</text>
+
+    <rect x="550" y="40" width="200" height="70" rx="8" fill="white" stroke="#e0e0e0"/>
+    <text x="650" y="75" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#43e97b" text-anchor="middle">40h</text>
+    <text x="650" y="98" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">Carga Horária</text>
+  </g>
+
+  <!-- Módulo 1 -->
+  <g transform="translate(40, 260)">
+    <rect x="0" y="0" width="720" height="120" rx="12" fill="white" stroke="#667eea" stroke-width="2"/>
+    <rect x="0" y="0" width="60" height="120" rx="12 0 0 12" fill="url(#mod1Grad)"/>
+    <text x="30" y="68" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">1</text>
+    <text x="90" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">Fundamentos e Evolução</text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="13" fill="#666">• O que são metodologias</text>
+    <text x="90" y="80" font-family="Arial, sans-serif" font-size="13" fill="#666">• História da educação</text>
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="13" fill="#666">• Teorias do século XX</text>
+    <text x="400" y="60" font-family="Arial, sans-serif" font-size="13" fill="#666">• Behaviorismo, Construtivismo</text>
+    <text x="400" y="80" font-family="Arial, sans-serif" font-size="13" fill="#666">• Teoria e prática</text>
+    <rect x="630" y="40" width="70" height="40" rx="20" fill="#e8f5e9"/>
+    <text x="665" y="66" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32" text-anchor="middle">4 aulas</text>
+  </g>
+
+  <!-- Módulo 2 -->
+  <g transform="translate(40, 400)">
+    <rect x="0" y="0" width="720" height="120" rx="12" fill="white" stroke="#f5576c" stroke-width="2"/>
+    <rect x="0" y="0" width="60" height="120" rx="12 0 0 12" fill="url(#mod2Grad)"/>
+    <text x="30" y="68" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">2</text>
+    <text x="90" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">Metodologias Clássicas</text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="13" fill="#666">• Ensino expositivo</text>
+    <text x="90" y="80" font-family="Arial, sans-serif" font-size="13" fill="#666">• Aula magistral repaginada</text>
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="13" fill="#666">• Método socrático</text>
+    <text x="400" y="60" font-family="Arial, sans-serif" font-size="13" fill="#666">• Questionamento crítico</text>
+    <text x="400" y="80" font-family="Arial, sans-serif" font-size="13" fill="#666">• Integração clássico + novo</text>
+    <rect x="630" y="40" width="70" height="40" rx="20" fill="#fce4ec"/>
+    <text x="665" y="66" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#c2185b" text-anchor="middle">4 aulas</text>
+  </g>
+
+  <!-- Módulo 3 -->
+  <g transform="translate(40, 540)">
+    <rect x="0" y="0" width="720" height="120" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <rect x="0" y="0" width="60" height="120" rx="12 0 0 12" fill="url(#mod3Grad)"/>
+    <text x="30" y="68" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">3</text>
+    <text x="90" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">Metodologias Ativas</text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="13" fill="#666">• Sala de Aula Invertida</text>
+    <text x="90" y="80" font-family="Arial, sans-serif" font-size="13" fill="#666">• Aprendizagem por Projetos</text>
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="13" fill="#666">• Aprendizagem por Problemas</text>
+    <text x="400" y="60" font-family="Arial, sans-serif" font-size="13" fill="#666">• Gamificação na educação</text>
+    <text x="400" y="80" font-family="Arial, sans-serif" font-size="13" fill="#666">• Engajamento e motivação</text>
+    <rect x="630" y="40" width="70" height="40" rx="20" fill="#e3f2fd"/>
+    <text x="665" y="66" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565c0" text-anchor="middle">4 aulas</text>
+  </g>
+
+  <!-- Módulo 4 -->
+  <g transform="translate(40, 680)">
+    <rect x="0" y="0" width="720" height="120" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <rect x="0" y="0" width="60" height="120" rx="12 0 0 12" fill="url(#mod4Grad)"/>
+    <text x="30" y="68" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">4</text>
+    <text x="90" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">Tecnologia e Socioemocional</text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="13" fill="#666">• Tecnologia na pedagogia</text>
+    <text x="90" y="80" font-family="Arial, sans-serif" font-size="13" fill="#666">• Plataformas colaborativas</text>
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="13" fill="#666">• Competências socioemocionais</text>
+    <text x="400" y="60" font-family="Arial, sans-serif" font-size="13" fill="#666">• Cultura de acolhimento</text>
+    <text x="400" y="80" font-family="Arial, sans-serif" font-size="13" fill="#666">• Empatia e inclusão</text>
+    <rect x="630" y="40" width="70" height="40" rx="20" fill="#e8f5e9"/>
+    <text x="665" y="66" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32" text-anchor="middle">4 aulas</text>
+  </g>
+
+  <!-- Módulo 5 -->
+  <g transform="translate(40, 820)">
+    <rect x="0" y="0" width="720" height="120" rx="12" fill="white" stroke="#fa709a" stroke-width="2"/>
+    <rect x="0" y="0" width="60" height="120" rx="12 0 0 12" fill="url(#mod5Grad)"/>
+    <text x="30" y="68" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">5</text>
+    <text x="90" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">Implementação e Avaliação</text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="13" fill="#666">• Planejamento eficaz</text>
+    <text x="90" y="80" font-family="Arial, sans-serif" font-size="13" fill="#666">• Adaptação e flexibilidade</text>
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="13" fill="#666">• Gestão de sala de aula</text>
+    <text x="400" y="60" font-family="Arial, sans-serif" font-size="13" fill="#666">• Avaliação formativa</text>
+    <text x="400" y="80" font-family="Arial, sans-serif" font-size="13" fill="#666">• Portfólios e rubricas</text>
+    <rect x="630" y="40" width="70" height="40" rx="20" fill="#fff3e0"/>
+    <text x="665" y="66" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100" text-anchor="middle">4 aulas</text>
+  </g>
+
+  <!-- Certificado -->
+  <g transform="translate(40, 970)">
+    <rect x="0" y="0" width="720" height="80" rx="12" fill="url(#headerGrad)"/>
+    <text x="360" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">CERTIFICADO DE CONCLUSÃO</text>
+    <text x="360" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">Com QR Code de validação para LinkedIn</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="400" y="1080" font-family="Arial, sans-serif" font-size="12" fill="#999" text-anchor="middle">© 2024 Educa com Talento</text>
+</svg>
