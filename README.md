@@ -1,9 +1,9 @@
 # Educa com Talento - Plataforma de Cursos Online
 
-\![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-\![Docker](https://img.shields.io/badge/docker-24%2B-blue)
-\![Next.js](https://img.shields.io/badge/Next.js-14-black)
-\![Moodle](https://img.shields.io/badge/Moodle-LMS-orange)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Docker](https://img.shields.io/badge/docker-24%2B-blue)
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
+![Moodle](https://img.shields.io/badge/Moodle-LMS-orange)
 
 ## Sobre o Projeto
 
