@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#f8f9fa"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="600" fill="#faf5ff"/>
+
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">METODOLOGIAS DE ENSINO</text>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.9">O que são e por que importam</text>
+
+  <!-- Seção: Conceitos -->
+  <text x="400" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#667eea" text-anchor="middle">ENTENDENDO OS CONCEITOS</text>
+
+  <!-- Método -->
+  <g transform="translate(60, 130)">
+    <rect x="0" y="0" width="160" height="120" rx="10" fill="url(#cardGrad)" stroke="#667eea" stroke-width="2"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🛤️</text>
+    <text x="80" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#667eea" text-anchor="middle">MÉTODO</text>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Caminho organizado</text>
+    <text x="80" y="90" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">e sistemático para</text>
+    <text x="80" y="105" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">atingir objetivos</text>
+  </g>
+
+  <!-- Técnica -->
+  <g transform="translate(240, 130)">
+    <rect x="0" y="0" width="160" height="120" rx="10" fill="url(#cardGrad)" stroke="#4facfe" stroke-width="2"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🔧</text>
+    <text x="80" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#4facfe" text-anchor="middle">TÉCNICA</text>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Procedimento</text>
+    <text x="80" y="90" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">específico dentro</text>
+    <text x="80" y="105" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">de um método</text>
+  </g>
+
+  <!-- Estratégia -->
+  <g transform="translate(420, 130)">
+    <rect x="0" y="0" width="160" height="120" rx="10" fill="url(#cardGrad)" stroke="#f5576c" stroke-width="2"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🎯</text>
+    <text x="80" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#f5576c" text-anchor="middle">ESTRATÉGIA</text>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Plano de ação</text>
+    <text x="80" y="90" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">que articula métodos</text>
+    <text x="80" y="105" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">e técnicas</text>
+  </g>
+
+  <!-- Metodologia -->
+  <g transform="translate(600, 130)">
+    <rect x="0" y="0" width="160" height="120" rx="10" fill="url(#cardGrad)" stroke="#43e97b" stroke-width="2"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">📚</text>
+    <text x="80" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#43e97b" text-anchor="middle">METODOLOGIA</text>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Conjunto completo</text>
+    <text x="80" y="90" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">de procedimentos</text>
+    <text x="80" y="105" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">do processo educativo</text>
+  </g>
+
+  <!-- Seta de conexão -->
+  <path d="M 140 260 L 220 260 L 320 260 L 420 260 L 520 260 L 620 260 L 680 260" stroke="#ddd" stroke-width="3" fill="none" stroke-dasharray="5,5"/>
+
+  <!-- Seção: Por que importa -->
+  <text x="400" y="295" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#667eea" text-anchor="middle">POR QUE AS METODOLOGIAS IMPORTAM?</text>
+
+  <!-- Engajamento -->
+  <g transform="translate(60, 315)">
+    <rect x="0" y="0" width="220" height="100" rx="10" fill="white" stroke="#667eea" stroke-width="2"/>
+    <circle cx="40" cy="50" r="25" fill="#e8f5e9"/>
+    <text x="40" y="55" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">🎓</text>
+    <text x="135" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#667eea" text-anchor="middle">ENGAJAMENTO</text>
+    <text x="135" y="55" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Alunos motivados</text>
+    <text x="135" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">aprendem melhor</text>
+    <text x="135" y="85" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">e retêm mais</text>
+  </g>
+
+  <!-- Aprendizagem -->
+  <g transform="translate(290, 315)">
+    <rect x="0" y="0" width="220" height="100" rx="10" fill="white" stroke="#4facfe" stroke-width="2"/>
+    <circle cx="40" cy="50" r="25" fill="#e3f2fd"/>
+    <text x="40" y="55" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">🧠</text>
+    <text x="135" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4facfe" text-anchor="middle">APRENDIZAGEM</text>
+    <text x="135" y="55" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Memórias de longo</text>
+    <text x="135" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">prazo se formam</text>
+    <text x="135" y="85" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">com engajamento ativo</text>
+  </g>
+
+  <!-- Resultados -->
+  <g transform="translate(520, 315)">
+    <rect x="0" y="0" width="220" height="100" rx="10" fill="white" stroke="#43e97b" stroke-width="2"/>
+    <circle cx="40" cy="50" r="25" fill="#e8f5e9"/>
+    <text x="40" y="55" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">📈</text>
+    <text x="135" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#43e97b" text-anchor="middle">RESULTADOS</text>
+    <text x="135" y="55" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Metodologia adequada</text>
+    <text x="135" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">+ 65% retenção</text>
+    <text x="135" y="85" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">(John Medina, MIT)</text>
+  </g>
+
+  <!-- Seção: Referências -->
+  <rect x="40" y="430" width="720" height="130" rx="12" fill="white" stroke="#667eea" stroke-width="2"/>
+  <text x="400" y="455" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#667eea" text-anchor="middle">GRANDES PENSADORES DA EDUCAÇÃO</text>
+
+  <g transform="translate(70, 470)">
+    <circle cx="30" cy="25" r="22" fill="#fce4ec"/>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🇧🇷</text>
+    <text x="30" y="65" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">Paulo Freire</text>
+    <text x="30" y="78" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Pedagogia Crítica</text>
+  </g>
+
+  <g transform="translate(190, 470)">
+    <circle cx="30" cy="25" r="22" fill="#e3f2fd"/>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🇺🇸</text>
+    <text x="30" y="65" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">John Dewey</text>
+    <text x="30" y="78" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Experiência</text>
+  </g>
+
+  <g transform="translate(310, 470)">
+    <circle cx="30" cy="25" r="22" fill="#fff8e1"/>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🇧🇷</text>
+    <text x="30" y="65" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">Libâneo</text>
+    <text x="30" y="78" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Didática</text>
+  </g>
+
+  <g transform="translate(430, 470)">
+    <circle cx="30" cy="25" r="22" fill="#e8f5e9"/>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🇪🇸</text>
+    <text x="30" y="65" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">Zabala</text>
+    <text x="30" y="78" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Sequências</text>
+  </g>
+
+  <g transform="translate(550, 470)">
+    <circle cx="30" cy="25" r="22" fill="#f3e5f5"/>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🇫🇷</text>
+    <text x="30" y="65" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">Perrenoud</text>
+    <text x="30" y="78" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Competências</text>
+  </g>
+
+  <g transform="translate(670, 470)">
+    <circle cx="30" cy="25" r="22" fill="#e0f7fa"/>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🇫🇷</text>
+    <text x="30" y="65" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#333" text-anchor="middle">Edgar Morin</text>
+    <text x="30" y="78" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Complexidade</text>
+  </g>
+
+  <text x="400" y="580" font-family="Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">© 2024 Educa com Talento - Módulo 1, Aula 1</text>
+</svg>
