@@ -380,4 +380,4 @@ Opção 3: CAPACITAÇÃO DE EDUCADORES
 
 ---
 
-*Documento atualizado em Dezembro/2024*
+*Documento atualizado em Dezembro/2025*

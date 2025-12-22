@@ -212,4 +212,4 @@ O Brasil concentra:
 
 ---
 
-*Análise atualizada em Dezembro/2024*
+*Análise atualizada em Dezembro/2025*

@@ -149,25 +149,25 @@ Para fechar 15 contratos/mês:
 ```
 CRONOGRAMA DE PROJETOS INCENTIVADOS:
 
-2025 - Q1 (Jan-Mar)
+2026 - Q1 (Jan-Mar)
 ├── Submeter projeto FUMCAD São Paulo
 ├── Identificar empresas patrocinadoras
 └── Preparar documentação CONDECA
 
-2025 - Q2 (Abr-Jun)
+2026 - Q2 (Abr-Jun)
 ├── Submeter projeto CONDECA
 ├── Iniciar captação FUMCAD
 └── Preparar projeto PROAC
 
-2025 - Q3 (Jul-Set)
+2026 - Q3 (Jul-Set)
 ├── Submeter projeto PROAC
 ├── Executar FUMCAD
 └── Captação CONDECA
 
-2025 - Q4 (Out-Dez)
+2026 - Q4 (Out-Dez)
 ├── Executar CONDECA
 ├── Captação PROAC
-└── Planejar projetos 2026
+└── Planejar projetos 2027
 ```
 
 ---
@@ -399,4 +399,4 @@ O plano de R$ 200.000/mês é **viável e realista** considerando:
 
 ---
 
-*Plano elaborado em Dezembro/2024*
+*Plano elaborado em Dezembro/2025*

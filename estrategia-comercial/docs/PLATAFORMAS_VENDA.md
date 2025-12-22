@@ -285,7 +285,7 @@ CLIENTE ──► KIWIFY ──► PAGAMENTO ──► WEBHOOK ──► MOODLE
 
 ---
 
-*Documento atualizado em Dezembro/2024*
+*Documento atualizado em Dezembro/2025*
 
 **Fontes:**
 - [Tactus - Comparativo Plataformas](https://tactus.com.br/qual-a-melhor-plataforma-digital/)

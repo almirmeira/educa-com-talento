@@ -353,4 +353,4 @@ A expansão do portfólio é **essencial** para:
 
 ---
 
-*Documento atualizado em Dezembro/2024*
+*Documento atualizado em Dezembro/2025*

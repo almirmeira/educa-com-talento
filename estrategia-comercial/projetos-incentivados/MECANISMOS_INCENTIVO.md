@@ -236,7 +236,7 @@ Esta estratégia é baseada na experiência bem-sucedida da [CECyber com projeto
 
 ## 4. Cronograma de Submissões
 
-### Ano 1 (2025)
+### Ano 1 (2026)
 
 | Trimestre | Ação | Mecanismo | Valor |
 |-----------|------|-----------|-------|
@@ -250,7 +250,7 @@ Esta estratégia é baseada na experiência bem-sucedida da [CECyber com projeto
 
 **Meta Ano 1:** R$ 500.000 captados | R$ 300.000 executados
 
-### Ano 2 (2026)
+### Ano 2 (2027)
 
 | Trimestre | Ação | Mecanismo | Valor |
 |-----------|------|-----------|-------|
@@ -380,7 +380,7 @@ Os projetos incentivados representam uma oportunidade de:
 
 ---
 
-*Documento atualizado em Dezembro/2024*
+*Documento atualizado em Dezembro/2025*
 
 **Referências:**
 - [Mapa das OSCs - IPEA](https://mapaosc.ipea.gov.br/editais)

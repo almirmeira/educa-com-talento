@@ -382,4 +382,4 @@ DIA 14: E-mail final (última chance)
 
 ---
 
-*Documento atualizado em Dezembro/2024*
+*Documento atualizado em Dezembro/2025*

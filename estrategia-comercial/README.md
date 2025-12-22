@@ -140,4 +140,4 @@ Democratizar o acesso a metodologias de estudo e técnicas de produtividade, cap
 
 ---
 
-*Documento criado em Dezembro/2024 - Atualização contínua*
+*Documento criado em Dezembro/2025 - Atualização contínua*
