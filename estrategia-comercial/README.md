@@ -48,7 +48,14 @@ Democratizar o acesso a metodologias de estudo e técnicas de produtividade, cap
 - [Novos Cursos Sugeridos](docs/NOVOS_CURSOS.md)
 - [Roadmap de Produtos](docs/ROADMAP_PRODUTOS.md)
 
-### 7. Recursos e Templates
+### 7. Estratégia de Baixo Custo (NOVA)
+- [Visão Geral - Estratégia R$ 1.500/mês](estrategia-baixo-custo/README.md)
+- [SEO Avançado](estrategia-baixo-custo/SEO_AVANCADO.md)
+- [Marketing de Conteúdo Orgânico](estrategia-baixo-custo/MARKETING_CONTEUDO.md)
+- [Parcerias Zero Custo](estrategia-baixo-custo/PARCERIAS_ZERO_CUSTO.md)
+- [Cronograma de Execução](estrategia-baixo-custo/CRONOGRAMA_EXECUCAO.md)
+
+### 8. Recursos e Templates
 - [Modelo de Proposta Comercial](templates/PROPOSTA_COMERCIAL.md)
 - [Modelo de Parceria B2B](templates/PARCERIA_B2B.md)
 - [Apresentação Institucional](recursos/APRESENTACAO_INSTITUCIONAL.md)
@@ -103,6 +110,31 @@ Democratizar o acesso a metodologias de estudo e técnicas de produtividade, cap
 | Projetos Incentivados | 20% | R$ 40.000 |
 | Afiliados | 10% | R$ 20.000 |
 | Licenciamento/White Label | 5% | R$ 10.000 |
+
+---
+
+## Estratégia Alternativa: Baixo Custo (R$ 1.500/mês)
+
+> **Nova seção para restrição orçamentária** - Estratégia complementar focada em crescimento orgânico.
+
+Para cenários de restrição orçamentária, desenvolvemos uma estratégia alternativa com investimento máximo de **R$ 1.500/mês**:
+
+| Aspecto | Estratégia Principal | Estratégia Baixo Custo |
+|---------|---------------------|------------------------|
+| **Orçamento** | R$ 29.000/mês | R$ 1.500/mês |
+| **Foco** | Tráfego pago + orgânico | 100% orgânico + SEO |
+| **Tempo p/ resultados** | 1-2 meses | 4-6 meses |
+| **ROI esperado (ano 1)** | 2-3x | 1,5-3x |
+| **Meta faturamento (12m)** | R$ 200.000/mês | R$ 25.000-30.000/mês |
+
+### Pilares da Estratégia de Baixo Custo
+
+1. **SEO Avançado** - ROI de R$ 22 para cada R$ 1 investido
+2. **Marketing de Conteúdo** - Multiplicação 1:15 (1 vídeo = 15+ peças)
+3. **Parcerias Zero Custo** - Guest posting, colaborações, embaixadores
+4. **Comunidade Orgânica** - Discord/Telegram gratuitos
+
+**[Ver documentação completa da Estratégia de Baixo Custo →](estrategia-baixo-custo/README.md)**
 
 ---
 
