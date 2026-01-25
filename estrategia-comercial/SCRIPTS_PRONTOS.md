@@ -1,10 +1,10 @@
 # Scripts Prontos para Copiar e Colar
 
-Este documento contem **textos prontos** para voce usar nas redes sociais, e-mails e paginas de venda. Basta copiar, personalizar com seus dados e publicar.
+Este documento contém **textos prontos** para você usar nas redes sociais, e-mails e páginas de venda. Basta copiar, personalizar com seus dados e publicar.
 
 ---
 
-## Sumario
+## Sumário
 
 1. [Bio das Redes Sociais](#1-bio-das-redes-sociais)
 2. [Posts para Instagram](#2-posts-para-instagram)
@@ -12,8 +12,8 @@ Este documento contem **textos prontos** para voce usar nas redes sociais, e-mai
 4. [Legendas para Stories](#4-legendas-para-stories)
 5. [E-mails de Vendas](#5-e-mails-de-vendas)
 6. [Textos para WhatsApp](#6-textos-para-whatsapp)
-7. [Pagina de Vendas](#7-pagina-de-vendas)
-8. [Respostas para Objecoes](#8-respostas-para-objecoes)
+7. [Página de Vendas](#7-página-de-vendas)
+8. [Respostas para Objeções](#8-respostas-para-objeções)
 
 ---
 
@@ -22,60 +22,60 @@ Este documento contem **textos prontos** para voce usar nas redes sociais, e-mai
 ### Instagram
 
 ```
-OPCAO 1 (Foco em Transformacao):
+OPÇÃO 1 (Foco em Transformação):
 ─────────────────────────────────────────────
-Ajudando voce a estudar MENOS e aprender MAIS
-📚 Tecnicas de estudo baseadas em neurociencia
+Ajudando você a estudar MENOS e aprender MAIS
+📚 Técnicas de estudo baseadas em neurociência
 🎯 +500 alunos transformados
-👇 Aula gratis no link
+👇 Aula grátis no link
 ─────────────────────────────────────────────
 
-OPCAO 2 (Foco em Autoridade):
+OPÇÃO 2 (Foco em Autoridade):
 ─────────────────────────────────────────────
-🎓 Especialista em Metodos de Estudo
-📖 Aprovei em [concurso/vestibular] usando estas tecnicas
+🎓 Especialista em Métodos de Estudo
+📖 Aprovei em [concurso/vestibular] usando estas técnicas
 💡 Aprenda a estudar do jeito certo
-🔗 Material gratis no link
+🔗 Material grátis no link
 ─────────────────────────────────────────────
 
-OPCAO 3 (Foco em Dor):
+OPÇÃO 3 (Foco em Dor):
 ─────────────────────────────────────────────
-Voce estuda muito e nao passa? 😰
-O problema nao e voce. E o metodo.
-📚 Ensino tecnicas que FUNCIONAM
-👇 Comece por aqui (gratis)
+Você estuda muito e não passa? 😰
+O problema não é você. É o método.
+📚 Ensino técnicas que FUNCIONAM
+👇 Comece por aqui (grátis)
 ─────────────────────────────────────────────
 
-OPCAO 4 (Para Educadores):
+OPÇÃO 4 (Para Educadores):
 ─────────────────────────────────────────────
 🍎 Educa com Talento
-Formacao para educadores do seculo XXI
-📖 Metodologias ativas na pratica
+Formação para educadores do século XXI
+📖 Metodologias ativas na prática
 🎯 Cursos online e presenciais
-👇 Conheca nossos cursos
+👇 Conheça nossos cursos
 ─────────────────────────────────────────────
 ```
 
 ### TikTok
 
 ```
-OPCAO 1:
+OPÇÃO 1:
 ─────────────────────────────────────────────
 estudar muito ≠ aprender muito
 te ensino a estudar CERTO 📚
 ─────────────────────────────────────────────
 
-OPCAO 2:
+OPÇÃO 2:
 ─────────────────────────────────────────────
-reprovei 4x ate descobrir isso
-agora ajudo outros a nao repetir meu erro
+reprovei 4x até descobrir isso
+agora ajudo outros a não repetir meu erro
 ─────────────────────────────────────────────
 ```
 
 ### LinkedIn
 
 ```
-Especialista em Metodologias de Estudo e Aprendizagem | Fundador(a) do Educa com Talento | Ajudando estudantes e educadores a alcancarem resultados extraordinarios atraves de tecnicas baseadas em neurociencia | +500 alunos transformados
+Especialista em Metodologias de Estudo e Aprendizagem | Fundador(a) do Educa com Talento | Ajudando estudantes e educadores a alcançarem resultados extraordinários através de técnicas baseadas em neurociência | +500 alunos transformados
 ─────────────────────────────────────────────
 ```
 
@@ -83,29 +83,29 @@ Especialista em Metodologias de Estudo e Aprendizagem | Fundador(a) do Educa com
 
 ## 2. Posts para Instagram
 
-### Post 1: Consciencia do Problema
+### Post 1: Consciência do Problema
 
 ```
 LEGENDA:
 ─────────────────────────────────────────────
-Voce estuda 4, 5, 6 horas por dia...
+Você estuda 4, 5, 6 horas por dia...
 
-E ainda sente que nao sabe nada? 😔
+E ainda sente que não sabe nada? 😔
 
-Se na hora da prova da branco...
-Se voce esquece tudo que estudou...
-Se ja pensou "sera que sou burro?"...
+Se na hora da prova dá branco...
+Se você esquece tudo que estudou...
+Se já pensou "será que sou burro?"...
 
 Eu preciso te contar uma coisa:
 
-O problema NAO e voce.
-O problema e o METODO. 📚
+O problema NÃO é você.
+O problema é o MÉTODO. 📚
 
 92% das pessoas nunca aprenderam
 a estudar de forma eficiente.
 
-Nao e culpa sua.
-Mas agora e responsabilidade sua mudar.
+Não é culpa sua.
+Mas agora é responsabilidade sua mudar.
 
 Salva esse post e me segue
 que vou te ensinar como. 👆
@@ -114,19 +114,19 @@ que vou te ensinar como. 👆
 ─────────────────────────────────────────────
 ```
 
-### Post 2: Dica Pratica
+### Post 2: Dica Prática
 
 ```
 LEGENDA:
 ─────────────────────────────────────────────
 PARA DE RELER! 🛑
 
-Serio. Reler e uma das piores formas de estudar.
+Sério. Reler é uma das piores formas de estudar.
 
-Parece que funciona porque voce reconhece o texto.
+Parece que funciona porque você reconhece o texto.
 Mas reconhecer ≠ lembrar.
 
-O que fazer entao?
+O que fazer então?
 
 TESTE ATIVO. ✅
 
@@ -134,11 +134,11 @@ Depois de estudar um assunto:
 1. Fecha o material
 2. Tenta explicar em voz alta o que aprendeu
 3. Escreve tudo que lembra
-4. Volta no material e ve o que faltou
+4. Volta no material e vê o que faltou
 
-Isso e 3x mais eficiente que reler.
+Isso é 3x mais eficiente que reler.
 
-Salva esse post e testa na proxima vez que estudar.
+Salva esse post e testa na próxima vez que estudar.
 
 Funcionou? Comenta aqui 👇
 
@@ -146,17 +146,17 @@ Funcionou? Comenta aqui 👇
 ─────────────────────────────────────────────
 ```
 
-### Post 3: Historia Pessoal
+### Post 3: História Pessoal
 
 ```
 LEGENDA:
 ─────────────────────────────────────────────
-Preciso ser honesto(a) com voce.
+Preciso ser honesto(a) com você.
 
-Ha [X] anos, eu estava no seu lugar.
+Há [X] anos, eu estava no seu lugar.
 
-Estudava todo dia. Abria mao de tudo.
-Familia, amigos, lazer...
+Estudava todo dia. Abria mão de tudo.
+Família, amigos, lazer...
 
 E mesmo assim, reprovei.
 
@@ -164,22 +164,22 @@ Lembro do dia que vi o resultado.
 Chorei escondido.
 Me senti um fracasso total.
 
-Minha mae disse: "Talvez voce nao nasceu pra isso."
+Minha mãe disse: "Talvez você não nasceu pra isso."
 
-Aquilo doeu mais que a reprovacao.
+Aquilo doeu mais que a reprovação.
 
-Mas eu nao desisti.
+Mas eu não desisti.
 Comecei a pesquisar COMO estudar.
 
-Descobri que eu nao era burro.
-Eu so estava usando o metodo errado.
+Descobri que eu não era burro.
+Eu só estava usando o método errado.
 
 Apliquei o que aprendi.
 [X] meses depois, passei.
 
 Hoje ajudo outras pessoas a fazerem o mesmo.
 
-Se voce ta passando por isso...
+Se você tá passando por isso...
 Eu te entendo.
 E eu posso te ajudar. ❤️
 
@@ -195,30 +195,30 @@ Vou compartilhar tudo que aprendi.
 ```
 LEGENDA:
 ─────────────────────────────────────────────
-"Eu achei que nao ia funcionar pra mim."
+"Eu achei que não ia funcionar pra mim."
 
-Foi isso que a [Nome] me disse quando comecou.
+Foi isso que a [Nome] me disse quando começou.
 
 Ela tinha reprovado 3 vezes.
-Ja tinha desistido de acreditar.
+Já tinha desistido de acreditar.
 
-Mas decidiu testar o metodo.
+Mas decidiu testar o método.
 
 3 meses depois, passou em [X lugar].
 
 Sabe o que ela mudou?
 
-Nao foi estudar MAIS.
+Não foi estudar MAIS.
 Foi estudar CERTO.
 
 - Parou de reler
-- Comecou a testar ativamente
-- Usou espacamento
+- Começou a testar ativamente
+- Usou espaçamento
 - Focou no que importava
 
 Simples assim.
 
-Se funcionou pra ela, pode funcionar pra voce.
+Se funcionou pra ela, pode funcionar pra você.
 
 Quer aprender como?
 Me segue que vou te ensinar.
@@ -232,58 +232,58 @@ Me segue que vou te ensinar.
 ```
 LEGENDA:
 ─────────────────────────────────────────────
-MITOS sobre estudar que estao te prejudicando:
+MITOS sobre estudar que estão te prejudicando:
 
 ❌ MITO: "Preciso estudar mais horas"
 ✅ REALIDADE: Qualidade > quantidade. 4h bem estudadas rendem mais que 10h mal estudadas.
 
-❌ MITO: "Tenho que estudar ate decorar"
-✅ REALIDADE: Entender > decorar. Compreensao gera memoria de longo prazo.
+❌ MITO: "Tenho que estudar até decorar"
+✅ REALIDADE: Entender > decorar. Compreensão gera memória de longo prazo.
 
-❌ MITO: "Grifar e resumir e suficiente"
-✅ REALIDADE: Sao tecnicas passivas. Testar e ensinar sao 3x mais eficazes.
+❌ MITO: "Grifar e resumir é suficiente"
+✅ REALIDADE: São técnicas passivas. Testar e ensinar são 3x mais eficazes.
 
-❌ MITO: "Se nao lembro, nao aprendi"
-✅ REALIDADE: O esforco de tentar lembrar e o que fortalece a memoria.
+❌ MITO: "Se não lembro, não aprendi"
+✅ REALIDADE: O esforço de tentar lembrar é o que fortalece a memória.
 
-❌ MITO: "Inteligencia e o mais importante"
-✅ REALIDADE: Metodo e consistencia vencem QI.
+❌ MITO: "Inteligência é o mais importante"
+✅ REALIDADE: Método e consistência vencem QI.
 
-Qual desses voce acreditava?
+Qual desses você acreditava?
 Comenta aqui 👇
 
 #estudos #mitos #realidade #aprendizado #neurociencia #dicasdeestudo #educacao
 ─────────────────────────────────────────────
 ```
 
-### Post 6: Urgencia/Lancamento
+### Post 6: Urgência/Lançamento
 
 ```
 LEGENDA:
 ─────────────────────────────────────────────
-ULTIMAS HORAS ⏰
+ÚLTIMAS HORAS ⏰
 
-As portas do [Nome do Curso] fecham HOJE as 23h59.
+As portas do [Nome do Curso] fecham HOJE às 23h59.
 
-Se voce ainda ta na duvida...
+Se você ainda tá na dúvida...
 
 Lembra:
-✅ Garantia de 7 dias (se nao gostar, devolvo)
+✅ Garantia de 7 dias (se não gostar, devolvo)
 ✅ Acesso por 1 ano
-✅ Suporte pra tirar duvidas
-✅ [X] pessoas ja transformaram seus estudos
+✅ Suporte pra tirar dúvidas
+✅ [X] pessoas já transformaram seus estudos
 
-O que e mais caro:
+O que é mais caro:
 
 Investir R$ [valor] agora...
 
 Ou passar mais 1, 2, 3 anos
-estudando errado e nao passando?
+estudando errado e não passando?
 
 Link na bio.
-Ate as 23h59.
+Até às 23h59.
 
-Depois, nao sei quando abro de novo.
+Depois, não sei quando abro de novo.
 
 #estudos #ultimachance #oportunidade #curso #transformacao
 ─────────────────────────────────────────────
@@ -299,23 +299,23 @@ Depois, nao sei quando abro de novo.
 ROTEIRO:
 ─────────────────────────────────────────────
 [0-3s] HOOK
-(Olhando pra camera, expressao seria)
+(Olhando pra câmera, expressão séria)
 "Eu estudei 10 horas por dia durante 2 anos
 e reprovei 3 vezes."
 
 [3-20s] DESENVOLVIMENTO
-"Ai eu descobri que o problema
-nao era a quantidade de horas.
+"Aí eu descobri que o problema
+não era a quantidade de horas.
 
 Era o COMO eu estudava.
 
-Eu tava usando tecnicas que parecem funcionar
-mas nao funcionam:
+Eu tava usando técnicas que parecem funcionar
+mas não funcionam:
 - Reler
 - Grifar
 - Resumir
 
-Quando mudei pra tecnicas ATIVAS..."
+Quando mudei pra técnicas ATIVAS..."
 
 [20-30s] RESULTADO + CTA
 "3 meses depois, passei.
@@ -329,29 +329,29 @@ TEXTO NA TELA:
 ─────────────────────────────────────────────
 ```
 
-### Reel 2: Dica Rapida (15 segundos)
+### Reel 2: Dica Rápida (15 segundos)
 
 ```
 ROTEIRO:
 ─────────────────────────────────────────────
 [0-3s] HOOK
-"A tecnica de 2 minutos que mudou meus estudos:"
+"A técnica de 2 minutos que mudou meus estudos:"
 
-[3-12s] CONTEUDO
+[3-12s] CONTEÚDO
 "Depois de estudar qualquer assunto,
 fecha o material
 e escreve TUDO que lembra
 em 2 minutos.
 
-Isso forca seu cerebro a lembrar,
-o que fortalece a memoria."
+Isso força seu cérebro a lembrar,
+o que fortalece a memória."
 
 [12-15s] CTA
 "Salva e testa. Funciona."
 
 ─────────────────────────────────────────────
 TEXTO NA TELA:
-"Tecnica de 2 minutos para memorizar"
+"Técnica de 2 minutos para memorizar"
 + mostrar timer de 2 min
 ─────────────────────────────────────────────
 ```
@@ -362,24 +362,24 @@ TEXTO NA TELA:
 ROTEIRO:
 ─────────────────────────────────────────────
 [TEXTO NA TELA - sem falar]
-"POV: voce descobriu que
+"POV: você descobriu que
 estudar mais horas
-nao significa aprender mais"
+não significa aprender mais"
 
-[Mostrar reacao de surpresa/revelacao]
+[Mostrar reação de surpresa/revelação]
 
 [Segundo texto]
-"E que COMO voce estuda
+"E que COMO você estuda
 importa mais que QUANTO"
 
-[Mostrar reacao de "faz sentido"]
+[Mostrar reação de "faz sentido"]
 
 [CTA no final]
 "Quer aprender a estudar certo?
 Me segue."
 
 ─────────────────────────────────────────────
-AUDIO: usar audio trending
+ÁUDIO: usar áudio trending
 ─────────────────────────────────────────────
 ```
 
@@ -404,11 +404,11 @@ ROTEIRO:
 - Estudo 4 horas com pausas
 - Testo o que aprendi
 - Foco no que mais cai
-- Uso espacamento
+- Uso espaçamento
 - Na prova: LEMBRO TUDO"
 
 [27-30s] CTA
-"A diferenca? Metodo.
+"A diferença? Método.
 Link na bio."
 
 ─────────────────────────────────────────────
@@ -420,23 +420,23 @@ Link na bio."
 ROTEIRO:
 ─────────────────────────────────────────────
 [0-5s] HOOK
-"Vou te contar a historia do dia
+"Vou te contar a história do dia
 que eu quase desisti de tudo."
 
-[5-40s] HISTORIA
+[5-40s] HISTÓRIA
 "Eu tinha acabado de ver o resultado.
 Reprovado. De novo.
 
 Terceira vez.
 
-Sentei no chao do quarto
+Sentei no chão do quarto
 e chorei.
 
 Peguei o celular pra mandar mensagem
-pra minha mae dizendo que ia desistir.
+pra minha mãe dizendo que ia desistir.
 
-Ai eu vi uma notificacao.
-Era de um video sobre 'como estudar'.
+Aí eu vi uma notificação.
+Era de um vídeo sobre 'como estudar'.
 
 Pensei: 'que que eu tenho a perder?'
 
@@ -456,8 +456,8 @@ Chorei de novo.
 Mas dessa vez de alegria."
 
 [50-60s] CTA
-"Se voce ta pensando em desistir...
-Nao desiste.
+"Se você tá pensando em desistir...
+Não desiste.
 
 Me segue que vou te ensinar
 o que eu aprendi."
@@ -465,33 +465,33 @@ o que eu aprendi."
 ─────────────────────────────────────────────
 ```
 
-### Reel 6: Resposta a Comentario
+### Reel 6: Resposta a Comentário
 
 ```
 ROTEIRO:
 ─────────────────────────────────────────────
-[0-3s] LER O COMENTARIO
-"Alguem comentou:
-'Mas eu nao tenho tempo pra estudar'"
+[0-3s] LER O COMENTÁRIO
+"Alguém comentou:
+'Mas eu não tenho tempo pra estudar'"
 
 [3-25s] RESPOSTA
-"Entao, deixa eu te contar uma coisa.
+"Então, deixa eu te contar uma coisa.
 
-O problema nao e falta de tempo.
-E falta de PRIORIDADE.
+O problema não é falta de tempo.
+É falta de PRIORIDADE.
 
 Se eu te perguntasse:
-'Voce teria 30 minutos por dia
-pra garantir sua aprovacao?'
+'Você teria 30 minutos por dia
+pra garantir sua aprovação?'
 
-Voce provavelmente diria sim.
+Você provavelmente diria sim.
 
-Entao o tempo existe.
+Então o tempo existe.
 
-O que nao existe e:
+O que não existe é:
 - Estudar 30 min do jeito CERTO
-- Consistencia
-- Metodo
+- Consistência
+- Método
 
 Estudar 30 minutos direito
 vale mais que 3 horas sem foco.
@@ -512,7 +512,7 @@ Me segue."
 ```
 STORY 1: Enquete
 ─────────────────────────────────────────────
-"Quantas horas voce estuda por dia?"
+"Quantas horas você estuda por dia?"
 
 □ Menos de 2h
 □ 2-4h
@@ -529,46 +529,46 @@ STORY 2: Caixinha de Perguntas
 
 STORY 3: Slider
 ─────────────────────────────────────────────
-"De 0 a 10, quanto seus estudos estao rendendo?"
+"De 0 a 10, quanto seus estudos estão rendendo?"
 
 [slider com emoji]
 ─────────────────────────────────────────────
 
 STORY 4: Quiz
 ─────────────────────────────────────────────
-"Reler e uma boa tecnica de estudo?"
+"Reler é uma boa técnica de estudo?"
 
 □ Sim, muito boa
-□ Nao, existem melhores
+□ Não, existem melhores
 
-[Resposta: Nao! Reler da ilusao de aprendizado
-mas nao fixa na memoria. Testar e 3x melhor.]
+[Resposta: Não! Reler dá ilusão de aprendizado
+mas não fixa na memória. Testar é 3x melhor.]
 ─────────────────────────────────────────────
 
 STORY 5: Isso ou Aquilo
 ─────────────────────────────────────────────
-"O que voce prefere?"
+"O que você prefere?"
 
 □ Estudar 2h com foco total
-□ Estudar 6h com distracao
+□ Estudar 6h com distração
 
 [A maioria escolhe errado no dia a dia...]
 ─────────────────────────────────────────────
 ```
 
-### Stories de Conteudo
+### Stories de Conteúdo
 
 ```
 STORY 1: Dica do Dia
 ─────────────────────────────────────────────
 "DICA DO DIA 📚
 
-Antes de comecar a estudar,
+Antes de começar a estudar,
 escreva em 1 frase:
 'O que eu vou aprender hoje?'
 
-Isso ativa seu cerebro
-pra prestar atencao no que importa."
+Isso ativa seu cérebro
+pra prestar atenção no que importa."
 ─────────────────────────────────────────────
 
 STORY 2: Erro Comum
@@ -578,55 +578,55 @@ STORY 2: Erro Comum
 Estudar o dia inteiro no domingo
 pra 'compensar' a semana.
 
-Nao funciona assim.
+Não funciona assim.
 
-Seu cerebro precisa de CONSISTENCIA,
-nao de maratonas.
+Seu cérebro precisa de CONSISTÊNCIA,
+não de maratonas.
 
 30 min por dia > 5h no domingo"
 ─────────────────────────────────────────────
 
 STORY 3: Bastidores
 ─────────────────────────────────────────────
-"To aqui gravando conteudo pra voces...
+"Tô aqui gravando conteúdo pra vocês...
 
-[foto/video dos bastidores]
+[foto/vídeo dos bastidores]
 
-Qual tema voces querem que eu fale?"
+Qual tema vocês querem que eu fale?"
 ─────────────────────────────────────────────
 ```
 
 ### Stories de Venda
 
 ```
-STORY 1: Anuncio
+STORY 1: Anúncio
 ─────────────────────────────────────────────
 "NOVIDADE 🚨
 
 Depois de meses trabalhando...
 
-Finalmente ta pronto.
+Finalmente tá pronto.
 
 Desliza pro lado pra saber mais 👉"
 ─────────────────────────────────────────────
 
-STORY 2: O Que E
+STORY 2: O Que É
 ─────────────────────────────────────────────
 "[NOME DO CURSO]
 
-Um curso completo pra voce aprender
+Um curso completo pra você aprender
 a estudar do jeito certo.
 
-✅ [X] aulas praticas
-✅ Tecnicas baseadas em neurociencia
+✅ [X] aulas práticas
+✅ Técnicas baseadas em neurociência
 ✅ Acesso por 1 ano
-✅ Suporte pra duvidas
+✅ Suporte pra dúvidas
 ✅ Garantia de 7 dias"
 ─────────────────────────────────────────────
 
 STORY 3: Prova Social
 ─────────────────────────────────────────────
-"O que os alunos estao dizendo:
+"O que os alunos estão dizendo:
 
 [print de depoimento]"
 ─────────────────────────────────────────────
@@ -640,11 +640,11 @@ Link aqui embaixo 👇
 [link]"
 ─────────────────────────────────────────────
 
-STORY 5: Urgencia
+STORY 5: Urgência
 ─────────────────────────────────────────────
-"⏰ ULTIMAS HORAS
+"⏰ ÚLTIMAS HORAS
 
-O bonus exclusivo expira as 23h59.
+O bônus exclusivo expira às 23h59.
 
 Depois, some.
 
@@ -659,45 +659,45 @@ Depois, some.
 ### E-mail 1: Boas-vindas
 
 ```
-ASSUNTO: Bem-vindo(a)! Seu material ta aqui 🎁
+ASSUNTO: Bem-vindo(a)! Seu material tá aqui 🎁
 
 ─────────────────────────────────────────────
 Oi [NOME],
 
-Que bom ter voce aqui!
+Que bom ter você aqui!
 
-Voce acabou de dar o primeiro passo
+Você acabou de dar o primeiro passo
 pra transformar seus estudos.
 
-Como prometido, aqui esta seu material:
+Como prometido, aqui está seu material:
 [LINK PARA DOWNLOAD]
 
-Esse [e-book/guia/aula] tem [X] tecnicas
-que voce pode aplicar HOJE.
+Esse [e-book/guia/aula] tem [X] técnicas
+que você pode aplicar HOJE.
 
-Minha dica: nao tenta fazer tudo de uma vez.
-Escolhe UMA tecnica e testa essa semana.
+Minha dica: não tenta fazer tudo de uma vez.
+Escolhe UMA técnica e testa essa semana.
 
-Nos proximos dias, vou te mandar
-mais conteudos exclusivos.
+Nos próximos dias, vou te mandar
+mais conteúdos exclusivos.
 
 Fica de olho no seu e-mail!
 
-Qualquer duvida, me responde aqui.
-To sempre por perto.
+Qualquer dúvida, me responde aqui.
+Tô sempre por perto.
 
 Bons estudos!
 [SEU NOME]
 
-P.S.: Me segue no Instagram tambem: @educacomtalento
-La eu posto dicas diarias.
+P.S.: Me segue no Instagram também: @educacomtalento
+Lá eu posto dicas diárias.
 ─────────────────────────────────────────────
 ```
 
-### E-mail 2: Conteudo de Valor
+### E-mail 2: Conteúdo de Valor
 
 ```
-ASSUNTO: A tecnica que ninguem te ensinou
+ASSUNTO: A técnica que ninguém te ensinou
 
 ─────────────────────────────────────────────
 Oi [NOME],
@@ -707,14 +707,14 @@ Deixa eu te contar uma coisa que mudou minha vida.
 Durante anos, eu estudava assim:
 - Lia o material
 - Grifava as partes importantes
-- Relia varias vezes
+- Relia várias vezes
 
 E achava que tava aprendendo.
 
-Spoiler: nao tava.
+Spoiler: não tava.
 
-Ai descobri uma tecnica chamada
-RECUPERACAO ATIVA.
+Aí descobri uma técnica chamada
+RECUPERAÇÃO ATIVA.
 
 Funciona assim:
 
@@ -722,14 +722,14 @@ Funciona assim:
 2. Fecha o material
 3. Tenta lembrar TUDO que aprendeu
 4. Escreve ou fala em voz alta
-5. Volta no material e ve o que faltou
+5. Volta no material e vê o que faltou
 
 Por que funciona?
 
-Porque o esforco de TENTAR lembrar
-fortalece a memoria.
+Porque o esforço de TENTAR lembrar
+fortalece a memória.
 
-Reler nao forca seu cerebro a trabalhar.
+Reler não força seu cérebro a trabalhar.
 Testar, sim.
 
 Simples assim.
@@ -738,24 +738,24 @@ Testa essa semana e me conta como foi!
 
 [SEU NOME]
 
-P.S.: Na proxima mensagem, vou te contar
+P.S.: Na próxima mensagem, vou te contar
 o erro #1 que a maioria dos estudantes comete.
 ─────────────────────────────────────────────
 ```
 
-### E-mail 3: Historia + Abertura de Vendas
+### E-mail 3: História + Abertura de Vendas
 
 ```
-ASSUNTO: Preciso te contar uma historia...
+ASSUNTO: Preciso te contar uma história...
 
 ─────────────────────────────────────────────
 Oi [NOME],
 
-Ha [X] anos, eu estava no seu lugar.
+Há [X] anos, eu estava no seu lugar.
 
 Estudava todo dia.
-Abria mao de tudo.
-Familia, amigos, lazer...
+Abria mão de tudo.
+Família, amigos, lazer...
 
 E mesmo assim, reprovei. [X] vezes.
 
@@ -766,40 +766,40 @@ Me senti um fracasso.
 
 Pensei em desistir milhares de vezes.
 
-Mas algo dentro de mim nao deixava.
+Mas algo dentro de mim não deixava.
 
-Entao decidi mudar de abordagem.
+Então decidi mudar de abordagem.
 Parei de estudar MAIS.
 Comecei a estudar CERTO.
 
-Pesquisei sobre neurociencia.
+Pesquisei sobre neurociência.
 Li livros sobre aprendizagem.
-Testei dezenas de tecnicas.
+Testei dezenas de técnicas.
 
 [X] meses depois, passei.
 
-Desde entao, dedico minha vida
+Desde então, dedico minha vida
 a ajudar outras pessoas a fazerem o mesmo.
 
-E por isso que criei o [NOME DO CURSO].
+É por isso que criei o [NOME DO CURSO].
 
-Um curso que reune TUDO que aprendi
-em [X] anos de estudo e pratica.
+Um curso que reúne TUDO que aprendi
+em [X] anos de estudo e prática.
 
-Sao [X] aulas direto ao ponto.
-Tecnicas baseadas em ciencia.
-Aplicaveis imediatamente.
+São [X] aulas direto ao ponto.
+Técnicas baseadas em ciência.
+Aplicáveis imediatamente.
 
 As portas abrem [DATA].
 
-Quem ta na lista (voce!) vai ter
-acesso antecipado + um bonus exclusivo.
+Quem tá na lista (você!) vai ter
+acesso antecipado + um bônus exclusivo.
 
 Fica de olho no seu e-mail.
 
 [SEU NOME]
 
-P.S.: Se voce ta passando por dificuldades
+P.S.: Se você tá passando por dificuldades
 nos estudos, eu te entendo.
 E prometo fazer de tudo pra te ajudar.
 ─────────────────────────────────────────────
@@ -815,45 +815,45 @@ ASSUNTO: As portas abriram 🚀
 
 Chegou o dia.
 
-As portas do [NOME DO CURSO] estao abertas.
+As portas do [NOME DO CURSO] estão abertas.
 
-E voce, que ta na minha lista desde o comeco,
-tem um bonus exclusivo:
+E você, que tá na minha lista desde o começo,
+tem um bônus exclusivo:
 
-🎁 [DESCREVER BONUS]
+🎁 [DESCREVER BÔNUS]
 
-Mas esse bonus so vale ate [DATA] as 23h59.
+Mas esse bônus só vale até [DATA] às 23h59.
 Depois, some.
 
 ---
 
-O QUE VOCE VAI APRENDER:
+O QUE VOCÊ VAI APRENDER:
 
-✅ [Beneficio 1 - ex: Como estudar menos e aprender mais]
-✅ [Beneficio 2 - ex: Tecnicas de memorizacao que funcionam]
-✅ [Beneficio 3 - ex: Como manter o foco por horas]
-✅ [Beneficio 4 - ex: Cronograma de estudos personalizado]
-✅ [Beneficio 5 - ex: Como nao esquecer o que estudou]
+✅ [Benefício 1 - ex: Como estudar menos e aprender mais]
+✅ [Benefício 2 - ex: Técnicas de memorização que funcionam]
+✅ [Benefício 3 - ex: Como manter o foco por horas]
+✅ [Benefício 4 - ex: Cronograma de estudos personalizado]
+✅ [Benefício 5 - ex: Como não esquecer o que estudou]
 
 ---
 
-O QUE TA INCLUSO:
+O QUE TÁ INCLUSO:
 
-📚 [X] aulas em video (direto ao ponto)
+📚 [X] aulas em vídeo (direto ao ponto)
 📝 Material de apoio para download
 💬 Acesso ao grupo de alunos
-🎯 Suporte para tirar duvidas
+🎯 Suporte para tirar dúvidas
 ⏰ Acesso por 1 ano
 
 ---
 
 GARANTIA TOTAL:
 
-Se em 7 dias voce nao gostar,
+Se em 7 dias você não gostar,
 devolvo 100% do seu dinheiro.
 Sem perguntas.
 
-O risco e meu. O resultado e seu.
+O risco é meu. O resultado é seu.
 
 ---
 
@@ -869,60 +869,60 @@ Ou [X]x de R$ [VALOR PARCELA]
 Clica aqui pra garantir sua vaga:
 [LINK]
 
-Te vejo la dentro!
+Te vejo lá dentro!
 
 [SEU NOME]
 
-P.S.: So tem [X] vagas nessa turma.
-Quando acabar, so na proxima abertura.
+P.S.: Só tem [X] vagas nessa turma.
+Quando acabar, só na próxima abertura.
 ─────────────────────────────────────────────
 ```
 
-### E-mail 5: Ultimo Dia
+### E-mail 5: Último Dia
 
 ```
-ASSUNTO: [NOME], ultima chance
+ASSUNTO: [NOME], última chance
 
 ─────────────────────────────────────────────
 Oi [NOME],
 
-Hoje e o ultimo dia.
+Hoje é o último dia.
 
-As 23h59, as portas do [NOME DO CURSO] fecham.
+Às 23h59, as portas do [NOME DO CURSO] fecham.
 
-[X] pessoas ja entraram.
+[X] pessoas já entraram.
 
-E depois de hoje, nao sei quando vou abrir de novo.
+E depois de hoje, não sei quando vou abrir de novo.
 
 ---
 
-Sei que voce pode estar pensando:
+Sei que você pode estar pensando:
 
-"Sera que funciona pra mim?"
+"Será que funciona pra mim?"
 
-Entao deixa eu te perguntar:
+Então deixa eu te perguntar:
 
-Quanto tempo voce ja perdeu
+Quanto tempo você já perdeu
 estudando do jeito errado?
 
-Quantas vezes voce disse "comeco segunda"?
+Quantas vezes você disse "começo segunda"?
 
 Quantas vezes prometeu que "dessa vez vai"?
 
-[NOME], eu nao to aqui pra te pressionar.
+[NOME], eu não tô aqui pra te pressionar.
 
-To aqui pra te lembrar que o tempo passa.
+Tô aqui pra te lembrar que o tempo passa.
 
-E cada dia que voce espera...
-E um dia a menos pra conquistar seu sonho.
+E cada dia que você espera...
+É um dia a menos pra conquistar seu sonho.
 
 ---
 
-Se voce ta esperando o momento perfeito...
+Se você tá esperando o momento perfeito...
 
-Ele nao existe.
+Ele não existe.
 
-O momento e agora.
+O momento é agora.
 
 ---
 
@@ -930,21 +930,21 @@ Lembra:
 
 ✅ Garantia de 7 dias (risco zero)
 ✅ Acesso por 1 ano
-✅ Suporte pra tirar duvidas
-✅ [X] pessoas ja transformaram seus estudos
+✅ Suporte pra tirar dúvidas
+✅ [X] pessoas já transformaram seus estudos
 
 ---
 
 Clica aqui pra garantir sua vaga:
 [LINK]
 
-Portas fecham as 23h59.
+Portas fecham às 23h59.
 
 [SEU NOME]
 
-P.S.: Se tiver qualquer duvida,
+P.S.: Se tiver qualquer dúvida,
 me responde esse e-mail AGORA.
-To aqui pra ajudar.
+Tô aqui pra ajudar.
 ─────────────────────────────────────────────
 ```
 
@@ -957,7 +957,7 @@ To aqui pra ajudar.
 ```
 Oi [NOME]! Tudo bem?
 
-To passando aqui porque voce se inscreveu
+Tô passando aqui porque você se inscreveu
 na minha lista VIP.
 
 Queria te agradecer pessoalmente
@@ -976,10 +976,10 @@ pra poder te ajudar melhor)
 [NOME], lembra que eu te falei
 que tava preparando algo especial?
 
-Pois e. Ta pronto! 🚀
+Pois é. Tá pronto! 🚀
 
-E como voce ta na lista VIP,
-queria que voce soubesse primeiro.
+E como você tá na lista VIP,
+queria que você soubesse primeiro.
 
 Criei um curso completo
 pra te ensinar a estudar do jeito certo.
@@ -987,57 +987,57 @@ pra te ensinar a estudar do jeito certo.
 Se quiser dar uma olhada:
 [LINK]
 
-Qualquer duvida, me chama aqui!
+Qualquer dúvida, me chama aqui!
 ─────────────────────────────────────────────
 ```
 
-### Mensagem de Urgencia
+### Mensagem de Urgência
 
 ```
 Oi [NOME]!
 
-Passando pra lembrar que hoje e o ultimo dia
+Passando pra lembrar que hoje é o último dia
 pra entrar no [NOME DO CURSO].
 
-As 23h59 as portas fecham.
+Às 23h59 as portas fecham.
 
-Se ainda tiver duvida, me manda aqui
+Se ainda tiver dúvida, me manda aqui
 que te respondo na hora.
 
 Link: [LINK]
 ─────────────────────────────────────────────
 ```
 
-### Resposta para Duvidas Comuns
+### Resposta para Dúvidas Comuns
 
 ```
-PERGUNTA: "Sera que funciona pra mim?"
+PERGUNTA: "Será que funciona pra mim?"
 
 RESPOSTA:
 "Funciona pra qualquer pessoa que aplicar!
 
-O metodo e baseado em neurociencia,
-entao funciona pra como o cerebro HUMANO aprende.
+O método é baseado em neurociência,
+então funciona pra como o cérebro HUMANO aprende.
 
-Mas se voce testar e nao gostar,
+Mas se você testar e não gostar,
 tem 7 dias pra pedir reembolso.
 
-Risco zero. O que voce tem a perder?"
+Risco zero. O que você tem a perder?"
 ─────────────────────────────────────────────
 
-PERGUNTA: "Ta caro pra mim"
+PERGUNTA: "Tá caro pra mim"
 
 RESPOSTA:
 "Entendo. Deixa eu te perguntar:
 
-Quanto voce ja gastou ate hoje
-em materiais, cursinhos, inscricoes...
-e ainda nao passou?
+Quanto você já gastou até hoje
+em materiais, cursinhos, inscrições...
+e ainda não passou?
 
 Esse curso pode economizar
 ANOS de estudo errado.
 
-E ainda da pra parcelar em ate [X]x.
+E ainda dá pra parcelar em até [X]x.
 
 Quer que eu te mande o link de novo?"
 ─────────────────────────────────────────────
@@ -1045,19 +1045,19 @@ Quer que eu te mande o link de novo?"
 PERGUNTA: "Vou pensar"
 
 RESPOSTA:
-"Claro, [NOME]! Sem pressao.
+"Claro, [NOME]! Sem pressão.
 
-So te lembro que o bonus [X]
-so vale ate [DATA].
+Só te lembro que o bônus [X]
+só vale até [DATA].
 
-Se tiver qualquer duvida, me chama aqui.
-To por perto!"
+Se tiver qualquer dúvida, me chama aqui.
+Tô por perto!"
 ─────────────────────────────────────────────
 ```
 
 ---
 
-## 7. Pagina de Vendas
+## 7. Página de Vendas
 
 ### Estrutura Completa
 
@@ -1072,45 +1072,45 @@ To por perto!"
  e Passe em Qualquer Prova"
 
 [SUBHEADLINE]
-Mesmo que voce ja tenha tentado outros metodos
+Mesmo que você já tenha tentado outros métodos
 e nenhum funcionou
 ─────────────────────────────────────────────
 
-[VIDEO DE VENDAS OU IMAGEM]
+[VÍDEO DE VENDAS OU IMAGEM]
 ─────────────────────────────────────────────
 
-[SECAO: O PROBLEMA]
+[SEÇÃO: O PROBLEMA]
 ─────────────────────────────────────────────
-Voce estuda horas e horas...
-Abre mao de tudo...
+Você estuda horas e horas...
+Abre mão de tudo...
 E na hora da prova: branco.
 
-Se voce se identifica, preciso te contar uma coisa:
+Se você se identifica, preciso te contar uma coisa:
 
-O problema NAO e voce.
-O problema e o METODO.
+O problema NÃO é você.
+O problema é o MÉTODO.
 
 92% das pessoas nunca aprenderam a estudar direito.
-E nao e culpa delas - ninguem ensinou.
+E não é culpa delas - ninguém ensinou.
 
 Mas a partir de agora, isso muda.
 ─────────────────────────────────────────────
 
-[SECAO: A SOLUCAO]
+[SEÇÃO: A SOLUÇÃO]
 ─────────────────────────────────────────────
 Apresento o [NOME DO CURSO]:
 
-Um metodo completo para voce aprender
+Um método completo para você aprender
 a estudar de forma eficiente,
-baseado em neurociencia e psicologia cognitiva.
+baseado em neurociência e psicologia cognitiva.
 
-Nao e achismo. E ciencia.
+Não é achismo. É ciência.
 ─────────────────────────────────────────────
 
-[SECAO: O QUE VOCE VAI APRENDER]
+[SEÇÃO: O QUE VOCÊ VAI APRENDER]
 ─────────────────────────────────────────────
 ✅ Como estudar menos e aprender mais
-✅ Tecnicas de memorizacao que realmente funcionam
+✅ Técnicas de memorização que realmente funcionam
 ✅ Como manter o foco por horas (sem sofrimento)
 ✅ Como criar um cronograma que cabe na sua rotina
 ✅ Como revisar de forma inteligente
@@ -1118,26 +1118,26 @@ Nao e achismo. E ciencia.
 ✅ [Adicionar mais conforme o curso]
 ─────────────────────────────────────────────
 
-[SECAO: PARA QUEM E ESSE CURSO]
+[SEÇÃO: PARA QUEM É ESSE CURSO]
 ─────────────────────────────────────────────
-✅ Estudantes de ensino medio e vestibular
-✅ Universitarios
+✅ Estudantes de ensino médio e vestibular
+✅ Universitários
 ✅ Concurseiros
 ✅ Qualquer pessoa que quer aprender melhor
 ✅ Educadores que querem ajudar seus alunos
 
-❌ NAO e para quem quer formula magica
-❌ NAO e para quem nao vai aplicar
+❌ NÃO é para quem quer fórmula mágica
+❌ NÃO é para quem não vai aplicar
 ─────────────────────────────────────────────
 
-[SECAO: PROVA SOCIAL]
+[SEÇÃO: PROVA SOCIAL]
 ─────────────────────────────────────────────
-O que os alunos estao dizendo:
+O que os alunos estão dizendo:
 
 [DEPOIMENTO 1]
-"Eu estudava 8 horas por dia e nao passava.
+"Eu estudava 8 horas por dia e não passava.
 Depois do curso, estudando 4 horas,
-passei em 2 lugar." - [NOME, CIDADE]
+passei em 2º lugar." - [NOME, CIDADE]
 
 [DEPOIMENTO 2]
 "Achei que era mais um curso.
@@ -1148,38 +1148,38 @@ Mas em 3 semanas minha nota subiu 40%."
 [Adicionar mais depoimentos]
 ─────────────────────────────────────────────
 
-[SECAO: O QUE TA INCLUSO]
+[SEÇÃO: O QUE TÁ INCLUSO]
 ─────────────────────────────────────────────
-📚 [X] aulas em video (direto ao ponto)
+📚 [X] aulas em vídeo (direto ao ponto)
 📝 Material de apoio para download
 📱 Acesso pelo celular ou computador
 💬 Acesso ao grupo exclusivo de alunos
-🎯 Suporte para tirar duvidas
+🎯 Suporte para tirar dúvidas
 ⏰ Acesso por 1 ano
-🎁 [BONUS 1]
-🎁 [BONUS 2]
+🎁 [BÔNUS 1]
+🎁 [BÔNUS 2]
 ─────────────────────────────────────────────
 
-[SECAO: GARANTIA]
+[SEÇÃO: GARANTIA]
 ─────────────────────────────────────────────
 GARANTIA INCONDICIONAL DE 7 DIAS
 
-Se voce entrar, assistir as aulas,
-aplicar as tecnicas e nao gostar...
+Se você entrar, assistir as aulas,
+aplicar as técnicas e não gostar...
 
-Basta me mandar um e-mail em ate 7 dias
+Basta me mandar um e-mail em até 7 dias
 e eu devolvo 100% do seu dinheiro.
 
 Sem perguntas. Sem burocracia.
 
-O risco e MEU. O resultado e SEU.
+O risco é MEU. O resultado é SEU.
 ─────────────────────────────────────────────
 
-[SECAO: INVESTIMENTO]
+[SEÇÃO: INVESTIMENTO]
 ─────────────────────────────────────────────
 Quanto custa anos estudando errado?
-Quantos cursinhos voce ja pagou?
-Quantas inscricoes perdidas?
+Quantos cursinhos você já pagou?
+Quantas inscrições perdidas?
 
 Esse curso pode mudar sua vida por:
 
@@ -1190,33 +1190,33 @@ R$ [VALOR COM DESCONTO]
 
 ou [X]x de R$ [VALOR PARCELA]
 
-[BOTAO: QUERO TRANSFORMAR MEUS ESTUDOS]
+[BOTÃO: QUERO TRANSFORMAR MEUS ESTUDOS]
 ─────────────────────────────────────────────
 
-[SECAO: FAQ]
+[SEÇÃO: FAQ]
 ─────────────────────────────────────────────
 PERGUNTAS FREQUENTES:
 
 P: Funciona pra qualquer tipo de prova?
-R: Sim! O metodo e baseado em como o cerebro
-   aprende, entao funciona pra qualquer area.
+R: Sim! O método é baseado em como o cérebro
+   aprende, então funciona pra qualquer área.
 
 P: Quanto tempo preciso dedicar por dia?
-R: As aulas sao curtas (15-20 min).
-   E voce pode assistir no seu ritmo.
+R: As aulas são curtas (15-20 min).
+   E você pode assistir no seu ritmo.
 
-P: E se eu nao gostar?
+P: E se eu não gostar?
 R: Tem garantia de 7 dias.
-   Se nao gostar, devolvo seu dinheiro.
+   Se não gostar, devolvo seu dinheiro.
 
 P: Por quanto tempo tenho acesso?
 R: Por 1 ano completo.
 
 P: Tem suporte?
-R: Sim! Pode tirar duvidas pelo [canal].
+R: Sim! Pode tirar dúvidas pelo [canal].
 ─────────────────────────────────────────────
 
-[SECAO: SOBRE O CRIADOR]
+[SEÇÃO: SOBRE O CRIADOR]
 ─────────────────────────────────────────────
 Quem sou eu pra te ensinar isso?
 
@@ -1224,103 +1224,103 @@ Quem sou eu pra te ensinar isso?
 
 Oi, sou [SEU NOME].
 
-Ha [X] anos, eu estava exatamente onde voce ta.
-Estudava muito, nao passava.
+Há [X] anos, eu estava exatamente onde você tá.
+Estudava muito, não passava.
 Achava que era burro.
 
-Ate descobrir que o problema era o metodo.
+Até descobrir que o problema era o método.
 
-Desde entao, dedico minha vida a estudar
+Desde então, dedico minha vida a estudar
 sobre como estudar.
 
-Ja ajudei +[X] pessoas a transformarem
-seus estudos e alcancarem seus sonhos.
+Já ajudei +[X] pessoas a transformarem
+seus estudos e alcançarem seus sonhos.
 
-Agora quero ajudar voce.
+Agora quero ajudar você.
 ─────────────────────────────────────────────
 
 [CTA FINAL]
 ─────────────────────────────────────────────
-Voce tem duas opcoes agora:
+Você tem duas opções agora:
 
-OPCAO 1:
-Fechar essa pagina,
+OPÇÃO 1:
+Fechar essa página,
 continuar fazendo o que sempre fez,
 e esperar resultados diferentes.
 
-OPCAO 2:
-Clicar no botao abaixo,
-aprender um metodo que funciona,
+OPÇÃO 2:
+Clicar no botão abaixo,
+aprender um método que funciona,
 e finalmente transformar seus estudos.
 
-A escolha e sua.
+A escolha é sua.
 
-[BOTAO: QUERO COMECAR AGORA]
+[BOTÃO: QUERO COMEÇAR AGORA]
 
-Nos vemos la dentro!
+Nos vemos lá dentro!
 ─────────────────────────────────────────────
 ```
 
 ---
 
-## 8. Respostas para Objecoes
+## 8. Respostas para Objeções
 
-### Objecoes de Preco
+### Objeções de Preço
 
 ```
-OBJECAO: "Ta caro"
+OBJEÇÃO: "Tá caro"
 ─────────────────────────────────────────────
 RESPOSTA:
 "Entendo que parece um investimento.
 
 Deixa eu te perguntar:
-Quanto voce ja gastou em cursinhos,
-materiais, inscricoes de concurso...
-e ainda ta buscando resultado?
+Quanto você já gastou em cursinhos,
+materiais, inscrições de concurso...
+e ainda tá buscando resultado?
 
 Esse curso pode encurtar ANOS de estudo errado.
 
-E olha: se em 7 dias voce nao ver valor,
+E olha: se em 7 dias você não ver valor,
 devolvo 100% do seu dinheiro.
 
-Voce so tem a ganhar."
+Você só tem a ganhar."
 ─────────────────────────────────────────────
 
-OBJECAO: "Nao tenho dinheiro agora"
+OBJEÇÃO: "Não tenho dinheiro agora"
 ─────────────────────────────────────────────
 RESPOSTA:
-"Entendo sua situacao.
+"Entendo sua situação.
 
-Olha, da pra parcelar em ate [X]x sem juros.
+Olha, dá pra parcelar em até [X]x sem juros.
 Fica menos de R$ [valor] por dia.
 
-Menos que um cafe.
+Menos que um café.
 
-E se ainda assim nao der agora,
+E se ainda assim não der agora,
 continua me acompanhando aqui.
-Sempre posto conteudo gratuito."
+Sempre posto conteúdo gratuito."
 ─────────────────────────────────────────────
 ```
 
-### Objecoes de Tempo
+### Objeções de Tempo
 
 ```
-OBJECAO: "Nao tenho tempo"
+OBJEÇÃO: "Não tenho tempo"
 ─────────────────────────────────────────────
 RESPOSTA:
-"Se voce tem 20 minutos por dia, tem tempo.
+"Se você tem 20 minutos por dia, tem tempo.
 
-As aulas sao curtas, direto ao ponto.
-Voce pode assistir no celular, no onibus,
-na hora do almoco...
+As aulas são curtas, direto ao ponto.
+Você pode assistir no celular, no ônibus,
+na hora do almoço...
 
 E o mais importante:
 O curso ensina a estudar MENOS e aprender MAIS.
 
-Voce vai GANHAR tempo, nao perder."
+Você vai GANHAR tempo, não perder."
 ─────────────────────────────────────────────
 
-OBJECAO: "Vou fazer quando tiver mais tempo"
+OBJEÇÃO: "Vou fazer quando tiver mais tempo"
 ─────────────────────────────────────────────
 RESPOSTA:
 "Entendo. Mas deixa eu te perguntar:
@@ -1328,131 +1328,131 @@ RESPOSTA:
 Quando vai ter 'mais tempo'?
 Depois da prova? Depois que passar?
 
-O melhor momento pra comecar era ontem.
-O segundo melhor e agora.
+O melhor momento pra começar era ontem.
+O segundo melhor é agora.
 
-Cada dia que passa e um dia a menos
+Cada dia que passa é um dia a menos
 pra se preparar."
 ─────────────────────────────────────────────
 ```
 
-### Objecoes de Confianca
+### Objeções de Confiança
 
 ```
-OBJECAO: "Sera que funciona pra mim?"
+OBJEÇÃO: "Será que funciona pra mim?"
 ─────────────────────────────────────────────
 RESPOSTA:
-"O metodo e baseado em neurociencia.
+"O método é baseado em neurociência.
 
-Funciona pra como o cerebro HUMANO aprende.
-Entao funciona pra voce tambem.
+Funciona pra como o cérebro HUMANO aprende.
+Então funciona pra você também.
 
-Mas se voce testar e nao funcionar...
+Mas se você testar e não funcionar...
 Tem 7 dias de garantia.
 
-Voce pode ver TUDO, testar as tecnicas,
-e se nao gostar, pede reembolso.
+Você pode ver TUDO, testar as técnicas,
+e se não gostar, pede reembolso.
 
 Qual o risco?"
 ─────────────────────────────────────────────
 
-OBJECAO: "Ja tentei outros cursos e nao funcionou"
+OBJEÇÃO: "Já tentei outros cursos e não funcionou"
 ─────────────────────────────────────────────
 RESPOSTA:
-"Entendo sua desconfianca. Faz sentido.
+"Entendo sua desconfiança. Faz sentido.
 
 Mas deixa eu te perguntar:
 Esses outros cursos tinham garantia?
-Foram criados por quem passou pelo que voce passa?
-Eram baseados em ciencia?
+Foram criados por quem passou pelo que você passa?
+Eram baseados em ciência?
 
-Esse e diferente.
+Esse é diferente.
 
-E se nao for... voce tem 7 dias pra pedir
+E se não for... você tem 7 dias pra pedir
 seu dinheiro de volta.
 
-Nao tem nada a perder."
+Não tem nada a perder."
 ─────────────────────────────────────────────
 
-OBJECAO: "Vou pensar"
+OBJEÇÃO: "Vou pensar"
 ─────────────────────────────────────────────
 RESPOSTA:
-"Claro! Sem pressao.
+"Claro! Sem pressão.
 
-So te lembro que [bonus/preco especial]
-so vale ate [data].
+Só te lembro que [bônus/preço especial]
+só vale até [data].
 
-E que enquanto voce pensa...
-Outras pessoas estao agindo.
+E que enquanto você pensa...
+Outras pessoas estão agindo.
 
 Mas respeito seu tempo.
-Se tiver duvidas, me chama."
+Se tiver dúvidas, me chama."
 ─────────────────────────────────────────────
 ```
 
-### Objecoes de Necessidade
+### Objeções de Necessidade
 
 ```
-OBJECAO: "Consigo aprender sozinho"
+OBJEÇÃO: "Consigo aprender sozinho"
 ─────────────────────────────────────────────
 RESPOSTA:
 "Com certeza consegue!
 
-Eu tambem consegui. Levou [X] anos e [X] reprovacoes.
+Eu também consegui. Levou [X] anos e [X] reprovações.
 
-O curso so encurta o caminho.
+O curso só encurta o caminho.
 
 Mas se prefere descobrir sozinho, tudo bem.
 Continua me acompanhando aqui
-que sempre posto conteudo gratuito."
+que sempre posto conteúdo gratuito."
 ─────────────────────────────────────────────
 
-OBJECAO: "Tem muito conteudo gratis na internet"
+OBJEÇÃO: "Tem muito conteúdo grátis na internet"
 ─────────────────────────────────────────────
 RESPOSTA:
-"Tem mesmo! E eu mesmo posto muito conteudo gratis.
+"Tem mesmo! E eu mesmo posto muito conteúdo grátis.
 
-A diferenca e:
-- Gratuito e fragmentado, voce monta sozinho
-- O curso e um passo a passo organizado
+A diferença é:
+- Gratuito é fragmentado, você monta sozinho
+- O curso é um passo a passo organizado
 
-E como aprender a cozinhar:
-Voce pode ver 100 videos aleatorios no YouTube...
-Ou fazer um curso que te ensina do zero ao avancado.
+É como aprender a cozinhar:
+Você pode ver 100 vídeos aleatórios no YouTube...
+Ou fazer um curso que te ensina do zero ao avançado.
 
-Os dois funcionam. Um e mais rapido."
+Os dois funcionam. Um é mais rápido."
 ─────────────────────────────────────────────
 ```
 
 ---
 
-## Observacoes Finais
+## Observações Finais
 
 ### Dicas de Uso
 
 1. **Personalize**: Troque [NOME], [VALOR], [X] pelos seus dados reais
-2. **Teste**: Nao use todos os scripts de uma vez. Teste e veja o que funciona
-3. **Adapte**: Se uma frase nao parece com voce, mude
-4. **Seja autentico**: Scripts sao guias, nao roteiros rigidos
-5. **Responda rapido**: Quanto mais rapido responder, maior a conversao
+2. **Teste**: Não use todos os scripts de uma vez. Teste e veja o que funciona
+3. **Adapte**: Se uma frase não parece com você, mude
+4. **Seja autêntico**: Scripts são guias, não roteiros rígidos
+5. **Responda rápido**: Quanto mais rápido responder, maior a conversão
 
 ### O Que Evitar
 
 ❌ Mentir sobre resultados
-❌ Criar urgencia falsa
+❌ Criar urgência falsa
 ❌ Prometer milagres
 ❌ Copiar textos de outros sem adaptar
 ❌ Ser agressivo demais nas vendas
-❌ Ignorar mensagens e comentarios
+❌ Ignorar mensagens e comentários
 
 ### O Que Funciona
 
-✅ Ser autentico e vulneravel
-✅ Contar historias reais
+✅ Ser autêntico e vulnerável
+✅ Contar histórias reais
 ✅ Responder todas as mensagens
 ✅ Entregar valor antes de vender
-✅ Criar urgencia REAL
-✅ Ter paciencia (resultados levam tempo)
+✅ Criar urgência REAL
+✅ Ter paciência (resultados levam tempo)
 
 ---
 
