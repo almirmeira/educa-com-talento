@@ -48,14 +48,30 @@ Democratizar o acesso a metodologias de estudo e técnicas de produtividade, cap
 - [Novos Cursos Sugeridos](docs/NOVOS_CURSOS.md)
 - [Roadmap de Produtos](docs/ROADMAP_PRODUTOS.md)
 
-### 7. Estratégia de Baixo Custo (NOVA)
+### 7. Estratégia de Baixo Custo
 - [Visão Geral - Estratégia R$ 1.500/mês](estrategia-baixo-custo/README.md)
 - [SEO Avançado](estrategia-baixo-custo/SEO_AVANCADO.md)
 - [Marketing de Conteúdo Orgânico](estrategia-baixo-custo/MARKETING_CONTEUDO.md)
 - [Parcerias Zero Custo](estrategia-baixo-custo/PARCERIAS_ZERO_CUSTO.md)
 - [Cronograma de Execução](estrategia-baixo-custo/CRONOGRAMA_EXECUCAO.md)
 
-### 8. Recursos e Templates
+### 8. Lançamento e Copywriting (NOVO)
+- [Estratégia Completa de Lançamento](ESTRATEGIA_LANCAMENTO.md) ⭐
+  - Psicologia por trás da compra
+  - Fases: Pré-lançamento, Lançamento, Pós-lançamento
+  - Gatilhos mentais na prática
+  - Conteúdo viral
+  - Cronograma dia a dia
+- [Scripts Prontos para Copiar e Colar](SCRIPTS_PRONTOS.md) ⭐
+  - Bio das redes sociais
+  - Posts para Instagram
+  - Roteiros para Reels/TikTok
+  - E-mails de vendas
+  - Textos para WhatsApp
+  - Página de vendas
+  - Respostas para objeções
+
+### 9. Recursos e Templates
 - [Modelo de Proposta Comercial](templates/PROPOSTA_COMERCIAL.md)
 - [Modelo de Parceria B2B](templates/PARCERIA_B2B.md)
 - [Apresentação Institucional](recursos/APRESENTACAO_INSTITUCIONAL.md)
