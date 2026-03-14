@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f2e"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <linearGradient id="timelineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="50%" style="stop-color:#f0c060"/>
+      <stop offset="100%" style="stop-color:#34d399"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="portalGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="600" fill="url(#bgGrad)"/>
+
+  <!-- Stars -->
+  <circle cx="40" cy="40" r="1" fill="white" opacity="0.5"/>
+  <circle cx="870" cy="60" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="50" cy="520" r="1" fill="white" opacity="0.3"/>
+  <circle cx="850" cy="530" r="1" fill="white" opacity="0.4"/>
+  <circle cx="200" cy="25" r="1" fill="white" opacity="0.6"/>
+  <circle cx="700" cy="575" r="1" fill="white" opacity="0.3"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="72" fill="#0d0d28" opacity="0.9"/>
+  <rect x="0" y="70" width="900" height="2" fill="#fbbf24" opacity="0.5"/>
+  <text x="30" y="30" font-family="Arial, sans-serif" font-size="11" fill="#fbbf24" opacity="0.8" letter-spacing="2">MÓDULO 05</text>
+  <text x="30" y="56" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#f0c060" filter="url(#glow)" letter-spacing="1">Apometria — Desbloqueio de Vidas e Dimensões</text>
+  <text x="870" y="42" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#94a3b8">4 Aulas · 90 min</text>
+
+  <!-- TOP: Timeline of lives -->
+  <rect x="18" y="82" width="864" height="130" rx="12" fill="#1e1e4e" stroke="#f0c060" stroke-width="1" opacity="0.9"/>
+  <text x="450" y="104" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f0c060" letter-spacing="1">LINHA DO TEMPO DE VIDAS — CONTINUUM KÁRMICO</text>
+
+  <!-- Timeline line -->
+  <line x1="50" y1="155" x2="850" y2="155" stroke="url(#timelineGrad)" stroke-width="3"/>
+  <!-- Arrow at end -->
+  <polygon points="855,155 843,149 843,161" fill="#34d399"/>
+  <!-- Arrow at start -->
+  <polygon points="45,155 57,149 57,161" fill="#a78bfa"/>
+  <text x="30" y="160" font-family="Arial, sans-serif" font-size="9" fill="#a78bfa">passado</text>
+  <text x="865" y="160" font-family="Arial, sans-serif" font-size="9" fill="#34d399">futuro</text>
+
+  <!-- Life circles -->
+  <circle cx="110" cy="155" r="22" fill="#2d1b4e" stroke="#a78bfa" stroke-width="2"/>
+  <text x="110" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">Vida</text>
+  <text x="110" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">Passada</text>
+  <line x1="110" y1="133" x2="110" y2="118" stroke="#a78bfa" stroke-width="1" opacity="0.6"/>
+  <text x="110" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#a78bfa">Bloqueio A</text>
+
+  <circle cx="220" cy="155" r="22" fill="#2d1b4e" stroke="#a78bfa" stroke-width="2"/>
+  <text x="220" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">Vida</text>
+  <text x="220" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">Anterior</text>
+  <line x1="220" y1="177" x2="220" y2="195" stroke="#a78bfa" stroke-width="1" opacity="0.6"/>
+  <text x="220" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#a78bfa">Padrão B</text>
+
+  <circle cx="350" cy="155" r="22" fill="#2d1b4e" stroke="#fbbf24" stroke-width="2"/>
+  <text x="350" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fde68a">Vida</text>
+  <text x="350" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fde68a">Recente</text>
+  <line x1="350" y1="133" x2="350" y2="118" stroke="#fbbf24" stroke-width="1" opacity="0.6"/>
+  <text x="350" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#fbbf24">Karma C</text>
+
+  <!-- Present life (highlighted) -->
+  <circle cx="470" cy="155" r="30" fill="#1a3a1a" stroke="#34d399" stroke-width="3" filter="url(#glow)"/>
+  <text x="470" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34d399" font-weight="bold">VIDA</text>
+  <text x="470" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34d399" font-weight="bold">ATUAL</text>
+  <text x="470" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">CURA</text>
+  <line x1="470" y1="185" x2="470" y2="203" stroke="#34d399" stroke-width="1.5" opacity="0.7"/>
+  <text x="470" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#34d399" font-weight="bold">APOMETRIA</text>
+
+  <circle cx="600" cy="155" r="22" fill="#1a1a3e" stroke="#60a5fa" stroke-width="2" opacity="0.8"/>
+  <text x="600" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe">Vida</text>
+  <text x="600" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe">Futura</text>
+  <line x1="600" y1="133" x2="600" y2="118" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+  <text x="600" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#60a5fa">Potencial</text>
+
+  <circle cx="730" cy="155" r="22" fill="#1a1a3e" stroke="#60a5fa" stroke-width="1.5" opacity="0.6"/>
+  <text x="730" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#93c5fd">Vida</text>
+  <text x="730" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#93c5fd">Futura +</text>
+
+  <circle cx="830" cy="155" r="18" fill="#1a1a3e" stroke="#34d399" stroke-width="1" opacity="0.5"/>
+  <text x="830" y="159" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6ee7b7">✨</text>
+
+  <!-- LEFT BOTTOM: Types of obsession in hexagon -->
+  <rect x="18" y="225" width="310" height="300" rx="12" fill="#1e1e4e" stroke="#a78bfa" stroke-width="1" opacity="0.9"/>
+  <text x="173" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa" letter-spacing="0.5">TIPOS DE OBSESSÃO</text>
+
+  <!-- Hexagon -->
+  <polygon points="173,268 215,291 215,337 173,360 131,337 131,291" fill="none" stroke="#a78bfa" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Center -->
+  <circle cx="173" cy="314" r="20" fill="#2d1b4e" stroke="#f0c060" stroke-width="1.5" filter="url(#glow)"/>
+  <text x="173" y="311" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#fde68a" font-weight="bold">Obses-</text>
+  <text x="173" y="322" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#fde68a" font-weight="bold">são</text>
+
+  <!-- 6 types on hexagon vertices -->
+  <!-- Top -->
+  <circle cx="173" cy="265" r="14" fill="#1a1a3e" stroke="#f472b6" stroke-width="1.2"/>
+  <text x="173" y="261" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#f472b6">Semi-</text>
+  <text x="173" y="271" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#f472b6">cons.</text>
+  <line x1="173" y1="279" x2="173" y2="294" stroke="#a78bfa" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Top-right -->
+  <circle cx="212" cy="287" r="14" fill="#1a1a3e" stroke="#60a5fa" stroke-width="1.2"/>
+  <text x="212" y="283" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#60a5fa">Cons-</text>
+  <text x="212" y="293" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#60a5fa">ciente</text>
+  <line x1="205" y1="294" x2="193" y2="300" stroke="#a78bfa" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Bottom-right -->
+  <circle cx="212" cy="340" r="14" fill="#1a1a3e" stroke="#fbbf24" stroke-width="1.2"/>
+  <text x="212" y="336" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#fbbf24">Ama-</text>
+  <text x="212" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#fbbf24">rração</text>
+  <line x1="205" y1="335" x2="193" y2="327" stroke="#a78bfa" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Bottom -->
+  <circle cx="173" cy="363" r="14" fill="#1a1a3e" stroke="#34d399" stroke-width="1.2"/>
+  <text x="173" y="359" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#34d399">Incons-</text>
+  <text x="173" y="369" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#34d399">ciente</text>
+  <line x1="173" y1="349" x2="173" y2="334" stroke="#a78bfa" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Bottom-left -->
+  <circle cx="134" cy="340" r="14" fill="#1a1a3e" stroke="#f0c060" stroke-width="1.2"/>
+  <text x="134" y="336" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#f0c060">Auto-</text>
+  <text x="134" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#f0c060">punição</text>
+  <line x1="141" y1="335" x2="153" y2="327" stroke="#a78bfa" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Top-left -->
+  <circle cx="134" cy="287" r="14" fill="#1a1a3e" stroke="#a78bfa" stroke-width="1.2"/>
+  <text x="134" y="283" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#a78bfa">Etérica</text>
+  <text x="134" y="293" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#a78bfa">Kármica</text>
+  <line x1="141" y1="294" x2="153" y2="300" stroke="#a78bfa" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Caption -->
+  <rect x="28" y="390" width="290" height="120" rx="6" fill="#0f0f2e" stroke="#a78bfa" stroke-width="0.8"/>
+  <text x="173" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#a78bfa">O que a Apometria trata:</text>
+  <text x="40" y="424" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">● Entidades e espíritos obsessores</text>
+  <text x="40" y="438" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">● Padrões kármicos repetitivos</text>
+  <text x="40" y="452" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">● Traumas de vidas anteriores</text>
+  <text x="40" y="466" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">● Bloqueios dimensionais</text>
+  <text x="40" y="480" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">● Vínculos negativos intergeracionais</text>
+  <text x="40" y="494" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">● Energias de lugares e objetos</text>
+
+  <!-- CENTER-RIGHT: Evolutionary staircase -->
+  <rect x="342" y="225" width="285" height="300" rx="12" fill="#1e1e4e" stroke="#f0c060" stroke-width="1" opacity="0.9"/>
+  <text x="484" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f0c060" letter-spacing="0.5">ESCADA EVOLUTIVA</text>
+
+  <!-- Steps -->
+  <rect x="420" y="452" width="190" height="35" rx="4" fill="#3b0764" stroke="#a78bfa" stroke-width="1"/>
+  <text x="515" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ddd6fe" font-weight="bold">KARMA — Acumulação</text>
+  <text x="515" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">ações e consequências</text>
+
+  <rect x="400" y="410" width="190" height="35" rx="4" fill="#4c1d95" stroke="#a78bfa" stroke-width="1"/>
+  <text x="495" y="423" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff" font-weight="bold">APRENDIZADO — Ciclos</text>
+  <text x="495" y="436" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">lições e desafios da alma</text>
+
+  <rect x="380" y="368" width="190" height="35" rx="4" fill="#5b21b6" stroke="#8b5cf6" stroke-width="1"/>
+  <text x="475" y="381" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#c4b5fd" font-weight="bold">DESBLOQUEIO — Cura</text>
+  <text x="475" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">apometria liberta padrões</text>
+
+  <rect x="360" y="326" width="190" height="35" rx="4" fill="#6d28d9" stroke="#7c3aed" stroke-width="1"/>
+  <text x="455" y="339" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ddd6fe" font-weight="bold">INTEGRAÇÃO — Consciência</text>
+  <text x="455" y="352" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">reconhecimento do padrão</text>
+
+  <rect x="340" y="284" width="190" height="35" rx="4" fill="#7c3aed" stroke="#34d399" stroke-width="1"/>
+  <text x="435" y="297" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#a7f3d0" font-weight="bold">EXPANSÃO — Serviço</text>
+  <text x="435" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">ajudar outros com sabedoria</text>
+
+  <!-- Top step - Enlightenment -->
+  <rect x="352" y="258" width="170" height="20" rx="4" fill="#34d399" stroke="#34d399" stroke-width="1" filter="url(#glow)"/>
+  <text x="437" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f0f2e" font-weight="bold">EVOLUÇÃO — Iluminação ✨</text>
+
+  <!-- Steps lines connecting -->
+  <line x1="530" y1="452" x2="510" y2="445" stroke="#a78bfa" stroke-width="1" opacity="0.5"/>
+  <line x1="510" y1="410" x2="490" y2="403" stroke="#a78bfa" stroke-width="1" opacity="0.5"/>
+  <line x1="490" y1="368" x2="470" y2="361" stroke="#8b5cf6" stroke-width="1" opacity="0.5"/>
+  <line x1="470" y1="326" x2="450" y2="319" stroke="#7c3aed" stroke-width="1" opacity="0.5"/>
+  <line x1="450" y1="284" x2="430" y2="277" stroke="#34d399" stroke-width="1" opacity="0.7"/>
+
+  <!-- RIGHT: Dimensional portal -->
+  <rect x="641" y="225" width="240" height="300" rx="12" fill="#1e1e4e" stroke="#60a5fa" stroke-width="1" opacity="0.9"/>
+  <text x="761" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#60a5fa" letter-spacing="0.5">PORTAL DIMENSIONAL</text>
+
+  <!-- Portal circles - nested -->
+  <circle cx="761" cy="355" r="80" fill="#0f0f2e" stroke="#a78bfa" stroke-width="1" opacity="0.8" filter="url(#portalGlow)"/>
+  <circle cx="761" cy="355" r="62" fill="#1a1a3e" stroke="#60a5fa" stroke-width="1.5" opacity="0.8"/>
+  <circle cx="761" cy="355" r="45" fill="#0f0f2e" stroke="#a78bfa" stroke-width="2" opacity="0.9" filter="url(#glow)"/>
+  <circle cx="761" cy="355" r="28" fill="#1a0f2e" stroke="#f0c060" stroke-width="2" filter="url(#glow)"/>
+  <circle cx="761" cy="355" r="12" fill="#f0c060" opacity="0.9" filter="url(#portalGlow)"/>
+
+  <!-- Portal label -->
+  <text x="761" y="271" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#94a3b8">abertura de frequência</text>
+
+  <!-- Radial lines from portal -->
+  <line x1="761" y1="275" x2="761" y2="255" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+  <line x1="817" y1="299" x2="830" y2="285" stroke="#a78bfa" stroke-width="1" opacity="0.5"/>
+  <line x1="841" y1="355" x2="861" y2="355" stroke="#f0c060" stroke-width="1" opacity="0.5"/>
+  <line x1="817" y1="411" x2="830" y2="425" stroke="#34d399" stroke-width="1" opacity="0.5"/>
+  <line x1="705" y1="299" x2="692" y2="285" stroke="#f472b6" stroke-width="1" opacity="0.5"/>
+
+  <!-- Dimension labels -->
+  <text x="761" y="268" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#60a5fa">3D → 5D</text>
+  <text x="843" y="288" font-family="Arial, sans-serif" font-size="8" fill="#a78bfa">passado</text>
+  <text x="864" y="358" font-family="Arial, sans-serif" font-size="8" fill="#f0c060">luz</text>
+  <text x="835" y="430" font-family="Arial, sans-serif" font-size="8" fill="#34d399">cura</text>
+  <text x="657" y="288" text-anchor="end" font-family="Arial, sans-serif" font-size="8" fill="#f472b6">futuro</text>
+
+  <!-- Dr. José Lacerda credit -->
+  <rect x="655" y="447" width="218" height="65" rx="6" fill="#0f0f2e" stroke="#60a5fa" stroke-width="0.8"/>
+  <text x="764" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#60a5fa">Apometria foi desenvolvida por</text>
+  <text x="764" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f0c060" font-weight="bold">Dr. José Lacerda de Azevedo</text>
+  <text x="764" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">médium e espírita brasileiro</text>
+  <text x="764" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Obra: "Espírito e Matéria" (1985)</text>
+
+  <!-- Footer -->
+  <rect x="0" y="545" width="900" height="55" fill="#0d0d28" opacity="0.85"/>
+  <line x1="0" y1="545" x2="900" y2="545" stroke="#fbbf24" stroke-width="1" opacity="0.3"/>
+  <text x="450" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">Módulo 05 · Terapeuta Consciente · Educa com Talento</text>
+  <text x="450" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#fbbf24" font-style="italic">"A alma não tem pressa — mas com a Apometria, ela encontra o caminho mais rápido."</text>
+</svg>

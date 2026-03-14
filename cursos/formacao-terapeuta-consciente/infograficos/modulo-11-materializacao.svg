@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f2e"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <radialGradient id="starGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#f0c060;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#0f0f2e;stop-opacity:0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="7" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="600" fill="url(#bgGrad)"/>
+
+  <!-- Stars background -->
+  <circle cx="30" cy="40" r="1" fill="white" opacity="0.5"/>
+  <circle cx="870" cy="60" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="50" cy="520" r="1" fill="white" opacity="0.3"/>
+  <circle cx="860" cy="530" r="1" fill="white" opacity="0.4"/>
+  <circle cx="300" cy="15" r="1" fill="white" opacity="0.5"/>
+  <circle cx="700" cy="10" r="1" fill="white" opacity="0.4"/>
+  <circle cx="150" cy="400" r="1" fill="white" opacity="0.2"/>
+  <circle cx="780" cy="380" r="1" fill="white" opacity="0.3"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="72" fill="#0d0d28" opacity="0.9"/>
+  <rect x="0" y="70" width="900" height="2" fill="#a78bfa" opacity="0.6"/>
+  <text x="30" y="30" font-family="Arial, sans-serif" font-size="11" fill="#a78bfa" opacity="0.8" letter-spacing="2">MÓDULO 11</text>
+  <text x="30" y="56" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#f0c060" filter="url(#glow)" letter-spacing="1">Materialização Consciente — Criando Sua Realidade</text>
+  <text x="870" y="42" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#94a3b8">4 Aulas · 90 min</text>
+
+  <!-- CENTER: Star of Materialization (6 points) -->
+  <rect x="258" y="82" width="384" height="440" rx="14" fill="#1e1e4e" stroke="#a78bfa" stroke-width="1.5" opacity="0.95"/>
+  <text x="450" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#a78bfa" letter-spacing="0.5">ESTRELA DE MATERIALIZAÇÃO</text>
+
+  <!-- Background star glow -->
+  <circle cx="450" cy="295" r="130" fill="url(#starGlow)"/>
+
+  <!-- 6-pointed star (two triangles) -->
+  <!-- Triangle up (pointing up): top at 450,145, base at 295,405 and 605,405 -->
+  <polygon points="450,148 310,380 590,380" fill="none" stroke="#f0c060" stroke-width="2" opacity="0.6" filter="url(#glow)"/>
+  <!-- Triangle down (pointing down): top at 450,445, base corners at 295,215 and 605,215 -->
+  <polygon points="450,442 310,210 590,210" fill="none" stroke="#a78bfa" stroke-width="2" opacity="0.6" filter="url(#glow)"/>
+
+  <!-- Hexagon intersection fill -->
+  <polygon points="450,210 520,252 520,338 450,380 380,338 380,252" fill="#1a1a3e" stroke="#f0c060" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Center circle -->
+  <circle cx="450" cy="295" r="45" fill="#0f0f2e" stroke="#f0c060" stroke-width="2.5" filter="url(#strongGlow)"/>
+  <circle cx="450" cy="295" r="32" fill="none" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="450" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f0c060" font-weight="bold" filter="url(#glow)">REALI-</text>
+  <text x="450" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f0c060" font-weight="bold" filter="url(#glow)">DADE</text>
+  <text x="450" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#fde68a">manifestada</text>
+
+  <!-- 6 star points with elements -->
+  <!-- Point 1: TOP - PENSAMENTO -->
+  <circle cx="450" cy="135" r="30" fill="#2d1b4e" stroke="#60a5fa" stroke-width="2" filter="url(#glow)"/>
+  <text x="450" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#60a5fa">💭</text>
+  <text x="450" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#bfdbfe" font-weight="bold">PENSAMENTO</text>
+  <line x1="450" y1="165" x2="450" y2="250" stroke="#60a5fa" stroke-width="1" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- Point 2: upper-right - EMOÇÃO -->
+  <!-- 60° from top: 450+sin(60)*155=584, 295-cos(60)*155=218 -->
+  <circle cx="582" cy="210" r="30" fill="#2d1a1e" stroke="#f472b6" stroke-width="2" filter="url(#glow)"/>
+  <text x="582" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#f472b6">💗</text>
+  <text x="582" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#fbcfe8" font-weight="bold">EMOÇÃO</text>
+  <line x1="556" y1="223" x2="510" y2="253" stroke="#f472b6" stroke-width="1" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- Point 3: lower-right - FOGO -->
+  <circle cx="582" cy="380" r="30" fill="#2a1a0a" stroke="#f97316" stroke-width="2" filter="url(#glow)"/>
+  <text x="582" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#f97316">🔥</text>
+  <text x="582" y="387" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#fde68a" font-weight="bold">FOGO</text>
+  <line x1="556" y1="367" x2="510" y2="337" stroke="#f97316" stroke-width="1" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- Point 4: BOTTOM - TERRA -->
+  <circle cx="450" cy="455" r="30" fill="#1a2a1a" stroke="#34d399" stroke-width="2" filter="url(#glow)"/>
+  <text x="450" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#34d399">🌱</text>
+  <text x="450" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#6ee7b7" font-weight="bold">TERRA</text>
+  <line x1="450" y1="425" x2="450" y2="340" stroke="#34d399" stroke-width="1" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- Point 5: lower-left - AR -->
+  <circle cx="318" cy="380" r="30" fill="#1a1a2a" stroke="#60a5fa" stroke-width="2" filter="url(#glow)"/>
+  <text x="318" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#60a5fa">🌬</text>
+  <text x="318" y="387" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#bfdbfe" font-weight="bold">AR</text>
+  <line x1="344" y1="367" x2="390" y2="337" stroke="#60a5fa" stroke-width="1" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- Point 6: upper-left - ÁGUA -->
+  <circle cx="318" cy="210" r="30" fill="#1a1a2a" stroke="#a78bfa" stroke-width="2" filter="url(#glow)"/>
+  <text x="318" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#a78bfa">💧</text>
+  <text x="318" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff" font-weight="bold">ÁGUA</text>
+  <line x1="344" y1="223" x2="390" y2="253" stroke="#a78bfa" stroke-width="1" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- LEFT PANEL: Cycle of conscious creation -->
+  <rect x="18" y="82" width="232" height="440" rx="12" fill="#1e1e4e" stroke="#f0c060" stroke-width="1" opacity="0.9"/>
+  <text x="134" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f0c060" letter-spacing="0.5">CICLO DE CRIAÇÃO</text>
+  <text x="134" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f0c060">CONSCIENTE</text>
+
+  <!-- Main formula banner -->
+  <rect x="28" y="130" width="212" height="58" rx="6" fill="#2d1b4e" stroke="#a78bfa" stroke-width="1.5" filter="url(#glow)"/>
+  <text x="134" y="153" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">Pensamento + Emoção +</text>
+  <text x="134" y="167" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">Energia + Nutrição</text>
+  <text x="134" y="183" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f0c060" font-weight="bold">= REALIDADE</text>
+
+  <!-- Step circles -->
+  <circle cx="134" cy="230" r="26" fill="#1a1a4e" stroke="#60a5fa" stroke-width="2"/>
+  <text x="134" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe" font-weight="bold">VISÃO</text>
+  <text x="134" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">o que quero?</text>
+  <text x="134" y="247" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">1°</text>
+
+  <line x1="134" y1="256" x2="134" y2="275" stroke="#f0c060" stroke-width="1.5" opacity="0.6"/>
+  <polygon points="134,278 129,270 139,270" fill="#f0c060" opacity="0.7"/>
+
+  <circle cx="134" cy="300" r="26" fill="#1a1a4e" stroke="#f472b6" stroke-width="2"/>
+  <text x="134" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fbcfe8" font-weight="bold">SENTIR</text>
+  <text x="134" y="307" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">como se já tivesse</text>
+  <text x="134" y="317" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">2°</text>
+
+  <line x1="134" y1="326" x2="134" y2="345" stroke="#f0c060" stroke-width="1.5" opacity="0.6"/>
+  <polygon points="134,348 129,340 139,340" fill="#f0c060" opacity="0.7"/>
+
+  <circle cx="134" cy="370" r="26" fill="#1a1a4e" stroke="#34d399" stroke-width="2"/>
+  <text x="134" y="364" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7" font-weight="bold">AGIR</text>
+  <text x="134" y="377" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">ação inspirada</text>
+  <text x="134" y="387" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">3°</text>
+
+  <line x1="134" y1="396" x2="134" y2="415" stroke="#f0c060" stroke-width="1.5" opacity="0.6"/>
+  <polygon points="134,418 129,410 139,410" fill="#f0c060" opacity="0.7"/>
+
+  <circle cx="134" cy="440" r="26" fill="#1a3a1a" stroke="#f0c060" stroke-width="2" filter="url(#glow)"/>
+  <text x="134" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fde68a" font-weight="bold">RECEBER</text>
+  <text x="134" y="447" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#f0c060">manifestação!</text>
+  <text x="134" y="457" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#f0c060">4° ✨</text>
+
+  <text x="134" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Nutrição = Alimentar a</text>
+  <text x="134" y="504" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">semente com ação + fé</text>
+
+  <!-- RIGHT PANEL: 6 elements descriptions -->
+  <rect x="648" y="82" width="234" height="440" rx="12" fill="#1e1e4e" stroke="#34d399" stroke-width="1" opacity="0.9"/>
+  <text x="765" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#34d399" letter-spacing="0.5">OS 6 ELEMENTOS</text>
+
+  <!-- Elements description -->
+  <rect x="658" y="118" width="214" height="50" rx="5" fill="#1a1a4e" stroke="#60a5fa" stroke-width="0.8"/>
+  <text x="765" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe" font-weight="bold">💭 PENSAMENTO</text>
+  <text x="765" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">A semente do que deseja criar.</text>
+  <text x="765" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Foco + clareza + repetição.</text>
+
+  <rect x="658" y="174" width="214" height="50" rx="5" fill="#2d1a1e" stroke="#f472b6" stroke-width="0.8"/>
+  <text x="765" y="192" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fbcfe8" font-weight="bold">💗 EMOÇÃO</text>
+  <text x="765" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">O combustível da manifestação.</text>
+  <text x="765" y="219" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Sentir como se já fosse real.</text>
+
+  <rect x="658" y="230" width="214" height="50" rx="5" fill="#2a1a0a" stroke="#f97316" stroke-width="0.8"/>
+  <text x="765" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fde68a" font-weight="bold">🔥 FOGO</text>
+  <text x="765" y="263" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">A vontade e transformação.</text>
+  <text x="765" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Eliminar o que não serve.</text>
+
+  <rect x="658" y="286" width="214" height="50" rx="5" fill="#1a2a1a" stroke="#34d399" stroke-width="0.8"/>
+  <text x="765" y="304" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7" font-weight="bold">🌱 TERRA</text>
+  <text x="765" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Ação prática e enraizamento.</text>
+  <text x="765" y="331" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Do etéreo ao concreto.</text>
+
+  <rect x="658" y="342" width="214" height="50" rx="5" fill="#1a1a2a" stroke="#60a5fa" stroke-width="0.8"/>
+  <text x="765" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe" font-weight="bold">🌬 AR</text>
+  <text x="765" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Comunicação e expressão.</text>
+  <text x="765" y="387" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Verbalizar o desejo ao universo.</text>
+
+  <rect x="658" y="398" width="214" height="50" rx="5" fill="#1a1a3e" stroke="#a78bfa" stroke-width="0.8"/>
+  <text x="765" y="416" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff" font-weight="bold">💧 ÁGUA</text>
+  <text x="765" y="431" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Fluxo, receptividade e fé.</text>
+  <text x="765" y="443" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Deixar o universo agir.</text>
+
+  <text x="765" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#34d399" font-weight="bold">Equilíbrio dos 6 = Manifestação Plena</text>
+  <text x="765" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Baseado em: Hermetismo, Lei da Atração,</text>
+  <text x="765" y="497" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Epigenética e Física Quântica</text>
+
+  <!-- Footer -->
+  <rect x="0" y="545" width="900" height="55" fill="#0d0d28" opacity="0.85"/>
+  <line x1="0" y1="545" x2="900" y2="545" stroke="#a78bfa" stroke-width="1" opacity="0.4"/>
+  <text x="450" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">Módulo 11 · Terapeuta Consciente · Educa com Talento</text>
+  <text x="450" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#a78bfa" font-style="italic">"Você não atrai o que quer — atrai o que você é. Eleve seu ser."</text>
+</svg>

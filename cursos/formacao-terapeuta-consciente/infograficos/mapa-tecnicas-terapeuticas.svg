@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f2e"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <radialGradient id="centerRad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#f0c060;stop-opacity:0.35"/>
+      <stop offset="100%" style="stop-color:#0f0f2e;stop-opacity:0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="7" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="600" fill="url(#bgGrad)"/>
+
+  <!-- Stars -->
+  <circle cx="30" cy="35" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="870" cy="55" r="1" fill="white" opacity="0.4"/>
+  <circle cx="55" cy="540" r="1" fill="white" opacity="0.3"/>
+  <circle cx="850" cy="530" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="200" cy="20" r="1" fill="white" opacity="0.6"/>
+  <circle cx="720" cy="575" r="1" fill="white" opacity="0.3"/>
+  <circle cx="80" cy="280" r="1" fill="white" opacity="0.2"/>
+  <circle cx="820" cy="300" r="1" fill="white" opacity="0.3"/>
+
+  <!-- Outer decorative rings -->
+  <circle cx="450" cy="310" r="260" fill="none" stroke="#a78bfa" stroke-width="0.4" opacity="0.2"/>
+  <circle cx="450" cy="310" r="240" fill="none" stroke="#f0c060" stroke-width="0.3" opacity="0.15" stroke-dasharray="8,6"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="72" fill="#0d0d28" opacity="0.9"/>
+  <rect x="0" y="70" width="900" height="2.5" fill="#f0c060" opacity="0.7"/>
+  <text x="30" y="30" font-family="Arial, sans-serif" font-size="11" fill="#f0c060" opacity="0.8" letter-spacing="2">MAPA COMPLETO</text>
+  <text x="30" y="56" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#f0c060" filter="url(#glow)" letter-spacing="1">Técnicas do Terapeuta Consciente</text>
+  <text x="870" y="42" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#94a3b8">12 Módulos · 18h · 41 Aulas</text>
+
+  <!-- Center radial glow -->
+  <circle cx="450" cy="310" r="210" fill="url(#centerRad)"/>
+
+  <!-- CENTER NODE -->
+  <circle cx="450" cy="310" r="68" fill="#1e1e4e" stroke="#f0c060" stroke-width="2.5" filter="url(#strongGlow)"/>
+  <circle cx="450" cy="310" r="55" fill="none" stroke="#a78bfa" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="450" y="294" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#f0c060" font-weight="bold" filter="url(#glow)">TERAPEUTA</text>
+  <text x="450" y="311" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#f0c060" font-weight="bold" filter="url(#glow)">CONSCIENTE</text>
+  <text x="450" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#a78bfa">Da Consciência</text>
+  <text x="450" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#a78bfa">à Cura Integral</text>
+
+  <!-- 8 technique branches -->
+  <!-- Arranged in circle r=175, 8 nodes at 45° intervals -->
+  <!-- Top (90°): 450, 135 -->
+  <!-- Upper-right (45°): 574, 186 -->
+  <!-- Right (0°): 625, 310 -->
+  <!-- Lower-right (315°): 574, 434 -->
+  <!-- Bottom (270°): 450, 485 -->
+  <!-- Lower-left (225°): 326, 434 -->
+  <!-- Left (180°): 275, 310 -->
+  <!-- Upper-left (135°): 326, 186 -->
+
+  <!-- Connecting lines -->
+  <line x1="450" y1="242" x2="450" y2="168" stroke="#a78bfa" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,3"/>
+  <line x1="497" y1="268" x2="554" y2="204" stroke="#34d399" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,3"/>
+  <line x1="518" y1="310" x2="588" y2="310" stroke="#f472b6" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,3"/>
+  <line x1="497" y1="352" x2="554" y2="416" stroke="#60a5fa" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,3"/>
+  <line x1="450" y1="378" x2="450" y2="452" stroke="#fbbf24" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,3"/>
+  <line x1="403" y1="352" x2="346" y2="416" stroke="#f0c060" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,3"/>
+  <line x1="382" y1="310" x2="312" y2="310" stroke="#f472b6" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,3"/>
+  <line x1="403" y1="268" x2="346" y2="204" stroke="#a78bfa" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,3"/>
+
+  <!-- Node 1: Toque Magnético (top) -->
+  <circle cx="450" cy="145" r="40" fill="#2d1a2d" stroke="#f472b6" stroke-width="2" filter="url(#glow)"/>
+  <text x="450" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#f472b6">🤲</text>
+  <text x="450" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f472b6" font-weight="bold">TOQUE</text>
+  <text x="450" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f472b6" font-weight="bold">MAGNÉTICO</text>
+  <text x="450" y="174" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">M4 · Energia das mãos</text>
+
+  <!-- Node 2: Radiestesia (upper-right) -->
+  <circle cx="574" cy="185" r="40" fill="#1a2a1a" stroke="#34d399" stroke-width="2" filter="url(#glow)"/>
+  <text x="574" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#34d399">🔮</text>
+  <text x="574" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34d399" font-weight="bold">RADIESTESIA</text>
+  <text x="574" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">M3 · Pêndulo</text>
+  <text x="574" y="211" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">energético</text>
+
+  <!-- Node 3: Mesa Quântica (right) -->
+  <circle cx="620" cy="310" r="40" fill="#2a2a0a" stroke="#f0c060" stroke-width="2" filter="url(#glow)"/>
+  <text x="620" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#f0c060">✨</text>
+  <text x="620" y="313" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f0c060" font-weight="bold">MESA</text>
+  <text x="620" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f0c060" font-weight="bold">QUÂNTICA</text>
+  <text x="620" y="339" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">M6 · Geometria sagrada</text>
+
+  <!-- Node 4: Arquétipos (lower-right) -->
+  <circle cx="574" cy="435" r="40" fill="#2a1a2a" stroke="#a78bfa" stroke-width="2" filter="url(#glow)"/>
+  <text x="574" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#a78bfa">🃏</text>
+  <text x="574" y="438" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#a78bfa" font-weight="bold">ARQUÉTIPOS</text>
+  <text x="574" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">M9 · Baralho</text>
+  <text x="574" y="461" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">terapêutico</text>
+
+  <!-- Node 5: Materialização (bottom) -->
+  <circle cx="450" cy="475" r="40" fill="#1a1a2a" stroke="#60a5fa" stroke-width="2" filter="url(#glow)"/>
+  <text x="450" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#60a5fa">⭐</text>
+  <text x="450" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#60a5fa" font-weight="bold">MATERIALI-</text>
+  <text x="450" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#60a5fa" font-weight="bold">ZAÇÃO</text>
+  <text x="450" y="504" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">M11 · Estrela criadora</text>
+
+  <!-- Node 6: Regressão (lower-left) -->
+  <circle cx="326" cy="435" r="40" fill="#1a2a1a" stroke="#34d399" stroke-width="2" filter="url(#glow)"/>
+  <text x="326" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#34d399">🔄</text>
+  <text x="326" y="438" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34d399" font-weight="bold">REGRESSÃO</text>
+  <text x="326" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">M8 · Vidas passadas</text>
+  <text x="326" y="461" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">e reprogramação</text>
+
+  <!-- Node 7: Apometria (left) -->
+  <circle cx="280" cy="310" r="40" fill="#1a1a2a" stroke="#fbbf24" stroke-width="2" filter="url(#glow)"/>
+  <text x="280" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#fbbf24">🌀</text>
+  <text x="280" y="313" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fbbf24" font-weight="bold">APOMETRIA</text>
+  <text x="280" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">M5 · Desbloqueio</text>
+  <text x="280" y="336" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">dimensional</text>
+
+  <!-- Node 8: Taquions TOC (upper-left) -->
+  <circle cx="326" cy="185" r="40" fill="#1a1a2a" stroke="#60a5fa" stroke-width="2" filter="url(#glow)"/>
+  <text x="326" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#60a5fa">🌌</text>
+  <text x="326" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#60a5fa" font-weight="bold">TAQUIONS</text>
+  <text x="326" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">M7 · 5ª Dimensão</text>
+  <text x="326" y="211" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">TOC</text>
+
+  <!-- Supporting foundations bottom row -->
+  <rect x="18" y="543" width="864" height="0" rx="0"/>
+
+  <!-- Principle boxes at bottom -->
+  <rect x="18" y="530" width="200" height="48" rx="8" fill="#1e1e4e" stroke="#f0c060" stroke-width="1" opacity="0.9"/>
+  <text x="118" y="548" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" fill="#f0c060" font-weight="bold">Física Quântica (M2)</text>
+  <text x="118" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Base científica de todas as técnicas</text>
+  <text x="118" y="574" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#fde68a">Energia · Vibração · Campo</text>
+
+  <rect x="225" y="530" width="200" height="48" rx="8" fill="#1e1e4e" stroke="#a78bfa" stroke-width="1" opacity="0.9"/>
+  <text x="325" y="548" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" fill="#a78bfa" font-weight="bold">Consciência (M1)</text>
+  <text x="325" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Fundamento de toda a formação</text>
+  <text x="325" y="574" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e9d5ff">CRASCH ↔ FLUXO · 7 Corpos</text>
+
+  <rect x="432" y="530" width="200" height="48" rx="8" fill="#1e1e4e" stroke="#34d399" stroke-width="1" opacity="0.9"/>
+  <text x="532" y="548" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" fill="#34d399" font-weight="bold">Leis Universais (M10)</text>
+  <text x="532" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Estrutura hermética da cura</text>
+  <text x="532" y="574" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6ee7b7">7 Leis · Kybalion · Hermetismo</text>
+
+  <rect x="639" y="530" width="243" height="48" rx="8" fill="#1e1e4e" stroke="#60a5fa" stroke-width="1" opacity="0.9"/>
+  <text x="760" y="548" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" fill="#60a5fa" font-weight="bold">Prática Profissional (M12)</text>
+  <text x="760" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Ética · Protocolo · Negócios</text>
+  <text x="760" y="574" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#bfdbfe">Certificação · Atendimento profissional</text>
+</svg>

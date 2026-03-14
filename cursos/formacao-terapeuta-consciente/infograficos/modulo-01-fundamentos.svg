@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f2e"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <linearGradient id="pyramidGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#1e1e4e"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#34d399"/>
+      <stop offset="100%" style="stop-color:#60a5fa"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="600" fill="url(#bgGrad)"/>
+
+  <!-- Stars -->
+  <circle cx="30" cy="50" r="1" fill="white" opacity="0.5"/>
+  <circle cx="860" cy="80" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="20" cy="400" r="1" fill="white" opacity="0.3"/>
+  <circle cx="880" cy="450" r="1" fill="white" opacity="0.4"/>
+  <circle cx="100" cy="30" r="1" fill="white" opacity="0.6"/>
+  <circle cx="800" cy="560" r="1.5" fill="white" opacity="0.3"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="72" fill="#0d0d28" opacity="0.85"/>
+  <rect x="0" y="68" width="900" height="2" fill="#a78bfa" opacity="0.6"/>
+  <text x="30" y="30" font-family="Arial, sans-serif" font-size="11" fill="#a78bfa" opacity="0.8" letter-spacing="2">MÓDULO 01</text>
+  <text x="30" y="55" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#f0c060" filter="url(#glow)" letter-spacing="1">Fundamentos da Consciência</text>
+  <text x="870" y="42" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#94a3b8">4 Aulas · 90 min</text>
+
+  <!-- LEFT: CRASCH ↔ FLUXO States -->
+  <rect x="25" y="90" width="280" height="370" rx="12" fill="#1e1e4e" stroke="#a78bfa" stroke-width="1" opacity="0.9"/>
+  <text x="165" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#a78bfa" letter-spacing="1">ESTADOS DA MENTE</text>
+
+  <!-- CRASCH box -->
+  <rect x="45" y="128" width="110" height="140" rx="8" fill="#2d1b4e" stroke="#f472b6" stroke-width="1.5"/>
+  <text x="100" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#f472b6" filter="url(#glow)">CRASCH</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Estado Reativo</text>
+  <line x1="55" y1="174" x2="145" y2="174" stroke="#f472b6" stroke-width="0.5" opacity="0.4"/>
+  <text x="60" y="190" font-family="Arial, sans-serif" font-size="9" fill="#fca5a5">● Conflito</text>
+  <text x="60" y="204" font-family="Arial, sans-serif" font-size="9" fill="#fca5a5">● Resistência</text>
+  <text x="60" y="218" font-family="Arial, sans-serif" font-size="9" fill="#fca5a5">● Ansiedade</text>
+  <text x="60" y="232" font-family="Arial, sans-serif" font-size="9" fill="#fca5a5">● Sobrecarga</text>
+  <text x="60" y="246" font-family="Arial, sans-serif" font-size="9" fill="#fca5a5">● Habitual</text>
+  <text x="60" y="260" font-family="Arial, sans-serif" font-size="9" fill="#fca5a5">● Colapso</text>
+
+  <!-- Arrow left-right -->
+  <text x="165" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#f0c060" filter="url(#glow)">⇔</text>
+  <text x="165" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#fde68a">transformação</text>
+
+  <!-- FLUXO box -->
+  <rect x="185" y="128" width="110" height="140" rx="8" fill="#1a3a2a" stroke="#34d399" stroke-width="1.5"/>
+  <text x="240" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#34d399" filter="url(#glow)">FLUXO</text>
+  <text x="240" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Estado Criativo</text>
+  <line x1="195" y1="174" x2="285" y2="174" stroke="#34d399" stroke-width="0.5" opacity="0.4"/>
+  <text x="200" y="190" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">● Clareza</text>
+  <text x="200" y="204" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">● Alinhamento</text>
+  <text x="200" y="218" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">● Presença</text>
+  <text x="200" y="232" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">● Expansão</text>
+  <text x="200" y="246" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">● Harmonia</text>
+  <text x="200" y="260" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">● Criação</text>
+
+  <!-- Frequency wave below CRASCH/FLUXO -->
+  <text x="165" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">frequência vibratória</text>
+  <!-- Low wave (CRASCH) -->
+  <path d="M45,330 Q65,310 85,330 Q105,350 125,330 Q145,310 155,330" stroke="#f472b6" stroke-width="2" fill="none" opacity="0.8"/>
+  <!-- Arrow -->
+  <path d="M165,320 L175,330" stroke="#f0c060" stroke-width="1.5" marker-end="url(#arr)"/>
+  <!-- High wave (FLUXO) -->
+  <path d="M175,330 Q190,300 210,330 Q225,360 240,320 Q255,280 270,320 Q285,360 295,330" stroke="#34d399" stroke-width="2" fill="none" opacity="0.8" filter="url(#glow)"/>
+  <text x="90" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#f472b6">baixa vibração</text>
+  <text x="240" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#34d399">alta vibração</text>
+
+  <!-- Insight quote -->
+  <rect x="35" y="375" width="260" height="72" rx="6" fill="#0f0f2e" stroke="#f0c060" stroke-width="0.8" opacity="0.8"/>
+  <text x="165" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#fde68a" font-style="italic">"A consciência é o campo em que</text>
+  <text x="165" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#fde68a" font-style="italic">toda cura se torna possível."</text>
+  <text x="165" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#a78bfa">— Formação Terapeuta Consciente</text>
+
+  <!-- CENTER: 7 Corpos Sutis pyramid -->
+  <rect x="320" y="90" width="300" height="390" rx="12" fill="#1e1e4e" stroke="#f0c060" stroke-width="1" opacity="0.9"/>
+  <text x="470" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f0c060" letter-spacing="1">OS 7 CORPOS SUTIS</text>
+
+  <!-- Pyramid levels -->
+  <!-- Level 7 - Átmico (top) -->
+  <polygon points="470,135 440,165 500,165" fill="#a78bfa" opacity="0.9" filter="url(#glow)"/>
+  <text x="470" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white" font-weight="bold">ÁTMICO</text>
+
+  <!-- Level 6 - Búdico -->
+  <polygon points="470,170 425,205 515,205" fill="#8b5cf6" opacity="0.85"/>
+  <text x="470" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white" font-weight="bold">BÚDICO</text>
+
+  <!-- Level 5 - Mental Sup -->
+  <polygon points="470,210 410,250 530,250" fill="#7c3aed" opacity="0.8"/>
+  <text x="470" y="244" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white" font-weight="bold">MENTAL SUPERIOR</text>
+
+  <!-- Level 4 - Mental Inf -->
+  <polygon points="470,255 393,300 547,300" fill="#6d28d9" opacity="0.75"/>
+  <text x="470" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white" font-weight="bold">MENTAL INFERIOR</text>
+
+  <!-- Level 3 - Astral -->
+  <polygon points="470,305 375,355 565,355" fill="#5b21b6" opacity="0.7"/>
+  <text x="470" y="348" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff" font-weight="bold">ASTRAL</text>
+
+  <!-- Level 2 - Etérico -->
+  <polygon points="470,360 358,415 582,415" fill="#4c1d95" opacity="0.65"/>
+  <text x="470" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ddd6fe" font-weight="bold">ETÉRICO</text>
+
+  <!-- Level 1 - Físico (base) -->
+  <polygon points="470,420 340,470 600,470" fill="#3b0764" opacity="0.6"/>
+  <text x="470" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#c4b5fd" font-weight="bold">FÍSICO</text>
+
+  <!-- Labels on side -->
+  <text x="340" y="155" text-anchor="end" font-family="Arial, sans-serif" font-size="8" fill="#a78bfa">▼ mais sutil</text>
+  <text x="340" y="465" text-anchor="end" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">▲ mais denso</text>
+
+  <!-- Upward arrow -->
+  <text x="610" y="310" font-family="Arial, sans-serif" font-size="28" fill="#a78bfa" opacity="0.6">↑</text>
+  <text x="620" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#a78bfa">evolução</text>
+
+  <!-- Bottom note -->
+  <text x="470" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Cada corpo vibra em frequência específica</text>
+
+  <!-- RIGHT: Frequency Wave -->
+  <rect x="635" y="90" width="245" height="390" rx="12" fill="#1e1e4e" stroke="#34d399" stroke-width="1" opacity="0.9"/>
+  <text x="757" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34d399" letter-spacing="1">FREQUÊNCIA VIBRACIONAL</text>
+
+  <!-- Ascending waves -->
+  <text x="757" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#94a3b8">Hz crescente = consciência expandida</text>
+
+  <!-- Wave 1 - low -->
+  <path d="M650,190 Q670,175 690,190 Q710,205 730,190 Q750,175 757,190" stroke="#f472b6" stroke-width="2.5" fill="none"/>
+  <text x="650" y="215" font-family="Arial, sans-serif" font-size="9" fill="#f472b6">20 Hz</text>
+  <text x="690" y="215" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Medo/Tristeza</text>
+
+  <!-- Wave 2 -->
+  <path d="M650,255 Q665,230 685,255 Q700,280 720,250 Q740,220 757,250" stroke="#fbbf24" stroke-width="2" fill="none"/>
+  <text x="650" y="278" font-family="Arial, sans-serif" font-size="9" fill="#fbbf24">100 Hz</text>
+  <text x="690" y="278" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Coragem</text>
+
+  <!-- Wave 3 -->
+  <path d="M650,320 Q660,285 680,320 Q695,355 715,310 Q730,265 750,310 Q765,355 775,320" stroke="#34d399" stroke-width="2" fill="none"/>
+  <text x="650" y="346" font-family="Arial, sans-serif" font-size="9" fill="#34d399">500 Hz</text>
+  <text x="690" y="346" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Amor</text>
+
+  <!-- Wave 4 - high -->
+  <path d="M650,390 Q658,345 670,390 Q680,435 695,375 Q710,315 725,375 Q740,435 755,385 Q768,335 780,390" stroke="#a78bfa" stroke-width="2" fill="none" filter="url(#glow)"/>
+  <text x="650" y="415" font-family="Arial, sans-serif" font-size="9" fill="#a78bfa">700+ Hz</text>
+  <text x="695" y="415" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Iluminação</text>
+
+  <!-- Vertical axis arrow -->
+  <line x1="640" y1="430" x2="640" y2="165" stroke="#94a3b8" stroke-width="1" opacity="0.5"/>
+  <polygon points="640,160 636,172 644,172" fill="#94a3b8" opacity="0.5"/>
+  <text x="636" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8" transform="rotate(-90, 636, 450)">frequência</text>
+
+  <!-- Scale labels -->
+  <text x="757" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Escala de David Hawkins</text>
+
+  <!-- Footer -->
+  <rect x="0" y="545" width="900" height="55" fill="#0d0d28" opacity="0.85"/>
+  <line x1="0" y1="545" x2="900" y2="545" stroke="#a78bfa" stroke-width="1" opacity="0.4"/>
+  <text x="450" y="568" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">Módulo 01 · Terapeuta Consciente · Educa com Talento</text>
+  <text x="450" y="584" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#a78bfa" font-style="italic">Compreender a consciência é o primeiro passo para transformar vidas</text>
+</svg>
