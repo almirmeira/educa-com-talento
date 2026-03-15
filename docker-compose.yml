@@ -1,35 +1,4 @@
 services:
-  # Website Next.js
-  site:
-    build:
-      context: ./site
-      dockerfile: Dockerfile
-    container_name: educa-site
-    restart: unless-stopped
-    environment:
-      - NODE_ENV=production
-      - NEXT_TELEMETRY_DISABLED=1
-    networks:
-      - educa-network
-
-  # Nginx Reverse Proxy
-  nginx:
-    image: nginx:alpine
-    container_name: educa-nginx
-    restart: unless-stopped
-    ports:
-      - "80:80"
-      - "443:443"
-    volumes:
-      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
-      - ./nginx/conf.d:/etc/nginx/conf.d:ro
-      - ./ssl:/etc/nginx/ssl:ro
-    depends_on:
-      - site
-      - moodle_nginx
-    networks:
-      - educa-network
-
   # MariaDB para Moodle
   moodle_db:
     image: mariadb:10.6
@@ -51,15 +20,15 @@ services:
     networks:
       - educa-network
 
-  # Moodle LMS - ellakcy
+  # Moodle LMS
   moodle:
     image: ellakcy/moodle:mysql_maria_fpm_alpine
     container_name: educa-moodle
     restart: unless-stopped
     environment:
-      - MOODLE_URL=http://192.168.1.46:8080
+      - MOODLE_URL=https://cursos.educacomtalento.com
       - MOODLE_ADMIN=admin
-      - MOODLE_ADMIN_PASSWORD=Admin@2024!
+      - MOODLE_ADMIN_PASSWORD=Acm123!@#
       - MOODLE_ADMIN_EMAIL=contato@educacomtalento.com.br
       - MOODLE_DB_HOST=moodle_db
       - MOODLE_DB_NAME=moodle
@@ -67,7 +36,7 @@ services:
       - MOODLE_DB_PASSWORD=MoodlePass2024!
       - MOODLE_SITENAME=Educa com Talento - Cursos Online
       - MOODLE_LANG=pt_br
-      - MOODLE_SSLPROXY=false
+      - MOODLE_SSL=true
     volumes:
       - moodle_www:/var/www/html
       - moodledata:/var/moodledata
@@ -77,18 +46,34 @@ services:
     networks:
       - educa-network
 
-  # Nginx para Moodle
+  # Nginx para Moodle (porta 80) - com moodledata para X-Accel-Redirect
   moodle_nginx:
     image: nginx:alpine
     container_name: educa-moodle-nginx
     restart: unless-stopped
     ports:
-      - "8080:80"
+      - "127.0.0.1:8080:80"
     volumes:
       - moodle_www:/var/www/html:ro
-      - ./moodle/nginx.conf:/etc/nginx/nginx.conf:ro
+      - /opt/educa-com-talento/moodle/nginx.conf:/etc/nginx/nginx.conf:ro
+      - moodledata:/var/moodledata:ro
     depends_on:
       - moodle
+    networks:
+      - educa-network
+
+  # Website Next.js
+  site:
+    build:
+      context: /opt/educa-com-talento/site
+      dockerfile: Dockerfile
+    container_name: educa-site
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3000:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_TELEMETRY_DISABLED=1
     networks:
       - educa-network
 
@@ -100,3 +85,4 @@ volumes:
   mariadb_data:
   moodle_www:
   moodledata:
+
