@@ -360,9 +360,15 @@ export default function Home() {
           <div className="bg-white/10 backdrop-blur-sm rounded-3xl p-8 md:p-12">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
               <div>
-                <h3 className="text-2xl font-bold mb-6">
-                  Plataforma Moodle - Em Breve!
-                </h3>
+                <div className="flex items-center gap-3 mb-6">
+                  <h3 className="text-2xl font-bold">
+                    Plataforma Moodle
+                  </h3>
+                  <span className="inline-flex items-center gap-1.5 bg-green-500 text-white text-sm font-semibold px-3 py-1 rounded-full">
+                    <span className="w-2 h-2 bg-white rounded-full animate-pulse"></span>
+                    No ar!
+                  </span>
+                </div>
                 <ul className="space-y-4">
                   <li className="flex items-start space-x-3">
                     <svg className="w-6 h-6 text-green-400 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -399,17 +405,23 @@ export default function Home() {
               <div className="text-center">
                 <div className="bg-green-800 rounded-2xl p-8">
                   <svg className="w-24 h-24 mx-auto text-green-400 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l9-5-9-5-9 5 9 5z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
                   </svg>
-                  <p className="text-green-200 mb-4">
-                    Nossa plataforma de cursos online está em desenvolvimento.
+                  <p className="text-green-200 mb-6">
+                    Nossa plataforma está disponível! Acesse agora e comece a aprender.
                   </p>
-                  <Link
-                    href="#contato"
-                    className="inline-block bg-green-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-green-500 transition-colors"
+                  <a
+                    href="https://cursos.educacomtalento.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-2 bg-green-500 text-white px-8 py-3 rounded-full font-semibold hover:bg-green-400 transition-colors"
                   >
-                    Seja avisado do lançamento
-                  </Link>
+                    Acessar Plataforma
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                  </a>
                 </div>
               </div>
             </div>
