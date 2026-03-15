@@ -1,0 +1,219 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f2e"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="600" fill="url(#bgGrad)"/>
+
+  <!-- Stars -->
+  <circle cx="30" cy="40" r="1" fill="white" opacity="0.5"/>
+  <circle cx="870" cy="60" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="50" cy="520" r="1" fill="white" opacity="0.3"/>
+  <circle cx="860" cy="530" r="1" fill="white" opacity="0.4"/>
+  <circle cx="400" cy="12" r="1" fill="white" opacity="0.5"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="72" fill="#0d0d28" opacity="0.9"/>
+  <rect x="0" y="70" width="900" height="2" fill="#f472b6" opacity="0.5"/>
+  <text x="30" y="30" font-family="Arial, sans-serif" font-size="11" fill="#f472b6" opacity="0.8" letter-spacing="2">MÓDULO 09</text>
+  <text x="30" y="56" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#f0c060" filter="url(#glow)" letter-spacing="1">Arquétipos — Imagens que Curam a Alma</text>
+  <text x="870" y="42" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#94a3b8">4 Aulas · 90 min</text>
+
+  <!-- CENTER: Figure with archetypal circle -->
+  <rect x="258" y="82" width="384" height="440" rx="14" fill="#1e1e4e" stroke="#f472b6" stroke-width="1.5" opacity="0.95"/>
+  <text x="450" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f472b6" letter-spacing="1">CÍRCULO DOS ARQUÉTIPOS DE JUNG</text>
+
+  <!-- Central figure -->
+  <circle cx="450" cy="290" r="35" fill="#1a1a3e" stroke="#f0c060" stroke-width="2" filter="url(#softGlow)"/>
+  <text x="450" y="283" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#f0c060">☯</text>
+  <text x="450" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fde68a" font-weight="bold">SELF</text>
+  <text x="450" y="314" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">totalidade</text>
+
+  <!-- Outer ring for archetypal positions -->
+  <circle cx="450" cy="290" r="125" fill="none" stroke="#a78bfa" stroke-width="1" stroke-dasharray="4,3" opacity="0.4"/>
+
+  <!-- 12 Archetypes around the circle -->
+  <!-- r=125, center at 450,290 -->
+  <!-- 0° top = 450, 165 -->
+
+  <!-- 1: Herói (top, 270°) = 450, 165 -->
+  <circle cx="450" cy="165" r="20" fill="#2d1b4e" stroke="#f0c060" stroke-width="1.5"/>
+  <text x="450" y="161" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f0c060">⚔</text>
+  <text x="450" y="174" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#fde68a" font-weight="bold">Herói</text>
+  <line x1="450" y1="185" x2="450" y2="255" stroke="#f0c060" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 2: Mago (300°) = 450+cos(300)*125=512.5, 290+sin(300)*(-108.3)=182 -->
+  <circle cx="512" cy="183" r="20" fill="#1a1a3e" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="512" y="179" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#a78bfa">🌟</text>
+  <text x="512" y="192" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#ddd6fe" font-weight="bold">Mago</text>
+  <line x1="497" y1="195" x2="472" y2="256" stroke="#a78bfa" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 3: Governante (330°) = 558, 227 -->
+  <circle cx="558" cy="227" r="20" fill="#1a1a3e" stroke="#f472b6" stroke-width="1.5"/>
+  <text x="558" y="223" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f472b6">👑</text>
+  <text x="558" y="236" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#fbcfe8" font-weight="bold">Governante</text>
+  <line x1="541" y1="235" x2="484" y2="263" stroke="#f472b6" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 4: Amante (0°) = 575, 290 -->
+  <circle cx="575" cy="290" r="20" fill="#1a1a3e" stroke="#f472b6" stroke-width="1.5"/>
+  <text x="575" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f472b6">💕</text>
+  <text x="575" y="299" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#fbcfe8" font-weight="bold">Amante</text>
+  <line x1="555" y1="290" x2="485" y2="290" stroke="#f472b6" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 5: Bobo (30°) = 558, 353 -->
+  <circle cx="558" cy="353" r="20" fill="#1a1a3e" stroke="#fbbf24" stroke-width="1.5"/>
+  <text x="558" y="349" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fbbf24">🎭</text>
+  <text x="558" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#fde68a" font-weight="bold">Bobo</text>
+  <line x1="541" y1="347" x2="484" y2="317" stroke="#fbbf24" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 6: Explorador (60°) = 512, 397 -->
+  <circle cx="512" cy="397" r="20" fill="#1a1a3e" stroke="#34d399" stroke-width="1.5"/>
+  <text x="512" y="393" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34d399">🧭</text>
+  <text x="512" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#6ee7b7" font-weight="bold">Explorador</text>
+  <line x1="495" y1="390" x2="472" y2="325" stroke="#34d399" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 7: Cuidador (90° bottom) = 450, 415 -->
+  <circle cx="450" cy="415" r="20" fill="#1a1a3e" stroke="#34d399" stroke-width="1.5"/>
+  <text x="450" y="411" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34d399">🤲</text>
+  <text x="450" y="424" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#6ee7b7" font-weight="bold">Cuidador</text>
+  <line x1="450" y1="395" x2="450" y2="325" stroke="#34d399" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 8: Rebelde (120°) = 388, 397 -->
+  <circle cx="388" cy="397" r="20" fill="#1a1a3e" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="388" y="393" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#60a5fa">⚡</text>
+  <text x="388" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#bfdbfe" font-weight="bold">Rebelde</text>
+  <line x1="404" y1="390" x2="428" y2="324" stroke="#60a5fa" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 9: Criador (150°) = 342, 353 -->
+  <circle cx="342" cy="353" r="20" fill="#1a1a3e" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="342" y="349" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#a78bfa">🎨</text>
+  <text x="342" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#e9d5ff" font-weight="bold">Criador</text>
+  <line x1="358" y1="347" x2="416" y2="317" stroke="#a78bfa" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 10: Sábio (180°) = 325, 290 -->
+  <circle cx="325" cy="290" r="20" fill="#1a1a3e" stroke="#f0c060" stroke-width="1.5"/>
+  <text x="325" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f0c060">🦉</text>
+  <text x="325" y="299" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#fde68a" font-weight="bold">Sábio</text>
+  <line x1="345" y1="290" x2="415" y2="290" stroke="#f0c060" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 11: Inocente (210°) = 342, 227 -->
+  <circle cx="342" cy="227" r="20" fill="#1a1a3e" stroke="#f472b6" stroke-width="1.5"/>
+  <text x="342" y="223" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f472b6">🌸</text>
+  <text x="342" y="236" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#fbcfe8" font-weight="bold">Inocente</text>
+  <line x1="358" y1="235" x2="416" y2="263" stroke="#f472b6" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- 12: Órfão (240°) = 388, 183 -->
+  <circle cx="388" cy="183" r="20" fill="#1a1a3e" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="388" y="179" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#60a5fa">🌑</text>
+  <text x="388" y="192" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#bfdbfe" font-weight="bold">Órfão</text>
+  <line x1="404" y1="195" x2="428" y2="256" stroke="#60a5fa" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+
+  <!-- Connection chain bottom text -->
+  <text x="450" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f0c060" font-weight="bold">IMAGEM → SENTIMENTO → CURA</text>
+  <text x="450" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Os arquétipos acessam o inconsciente coletivo (C. G. Jung)</text>
+  <text x="450" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">e permitem que o cliente se identifique e ressignifique padrões.</text>
+
+  <!-- LEFT PANEL: About archetypes -->
+  <rect x="18" y="82" width="232" height="440" rx="12" fill="#1e1e4e" stroke="#a78bfa" stroke-width="1" opacity="0.9"/>
+  <text x="134" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa" letter-spacing="0.5">O QUE SÃO</text>
+  <text x="134" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">ARQUÉTIPOS?</text>
+
+  <rect x="28" y="130" width="212" height="110" rx="6" fill="#0f0f2e" stroke="#a78bfa" stroke-width="0.8"/>
+  <text x="134" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#fde68a" font-style="italic">"Os arquétipos são padrões</text>
+  <text x="134" y="163" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#fde68a" font-style="italic">universais da psique humana</text>
+  <text x="134" y="176" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#fde68a" font-style="italic">que habitam o inconsciente</text>
+  <text x="134" y="189" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#fde68a" font-style="italic">coletivo de toda humanidade."</text>
+  <text x="134" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#a78bfa">— Carl Gustav Jung</text>
+  <text x="134" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Psicólogo suíço (1875–1961)</text>
+
+  <!-- 4 Jungian functions -->
+  <rect x="28" y="252" width="212" height="254" rx="6" fill="#0f0f2e" stroke="#a78bfa" stroke-width="0.8"/>
+  <text x="134" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#a78bfa" font-weight="bold">Os 4 Grandes Arquétipos</text>
+  <line x1="32" y1="276" x2="236" y2="276" stroke="#a78bfa" stroke-width="0.5" opacity="0.4"/>
+
+  <text x="38" y="294" font-family="Arial, sans-serif" font-size="11" fill="#f0c060">☯ SELF</text>
+  <text x="38" y="308" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">  totalidade e centro da psique</text>
+  <text x="38" y="326" font-family="Arial, sans-serif" font-size="11" fill="#60a5fa">🌑 SOMBRA</text>
+  <text x="38" y="340" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">  partes reprimidas e negadas</text>
+  <text x="38" y="358" font-family="Arial, sans-serif" font-size="11" fill="#f472b6">💫 ANIMA/ANIMUS</text>
+  <text x="38" y="372" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">  aspecto feminino/masculino</text>
+  <text x="38" y="390" font-family="Arial, sans-serif" font-size="11" fill="#34d399">👴 PERSONA</text>
+  <text x="38" y="404" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">  máscara social que usamos</text>
+
+  <text x="134" y="428" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#94a3b8" font-weight="bold">Na Terapia com Arquétipos:</text>
+  <text x="38" y="444" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">→ Identificar o arquétipo ativo</text>
+  <text x="38" y="458" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">→ Trabalhar o lado sombra</text>
+  <text x="38" y="472" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">→ Integrar os opostos</text>
+  <text x="38" y="486" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">→ Alcançar individuação</text>
+  <text x="38" y="500" font-family="Arial, sans-serif" font-size="8.5" fill="#e9d5ff">→ Curar via imagem simbólica</text>
+
+  <!-- RIGHT PANEL: Therapeutic cards -->
+  <rect x="648" y="82" width="234" height="440" rx="12" fill="#1e1e4e" stroke="#34d399" stroke-width="1" opacity="0.9"/>
+  <text x="765" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#34d399" letter-spacing="0.5">BARALHO TERAPÊUTICO</text>
+
+  <!-- 4 card representations -->
+  <rect x="662" y="120" width="106" height="140" rx="8" fill="#2d1b4e" stroke="#f0c060" stroke-width="2"/>
+  <text x="715" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#f0c060" filter="url(#glow)">⚔</text>
+  <text x="715" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#fde68a" font-weight="bold">HERÓI</text>
+  <line x1="670" y1="183" x2="760" y2="183" stroke="#f0c060" stroke-width="0.5" opacity="0.4"/>
+  <text x="715" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Coragem · Força</text>
+  <text x="715" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Superação</text>
+  <text x="715" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Determinação</text>
+  <text x="715" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#f0c060" font-style="italic">Qual gigante você</text>
+  <text x="715" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#f0c060" font-style="italic">vai derrotar?</text>
+
+  <rect x="774" y="120" width="100" height="140" rx="8" fill="#1a3a1a" stroke="#34d399" stroke-width="2"/>
+  <text x="824" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#34d399" filter="url(#glow)">🤲</text>
+  <text x="824" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6ee7b7" font-weight="bold">CUIDADOR</text>
+  <line x1="782" y1="183" x2="866" y2="183" stroke="#34d399" stroke-width="0.5" opacity="0.4"/>
+  <text x="824" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Cuidar · Proteger</text>
+  <text x="824" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Compaixão</text>
+  <text x="824" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Sacrifício</text>
+  <text x="824" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#34d399" font-style="italic">Quem precisa</text>
+  <text x="824" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#34d399" font-style="italic">da sua cura?</text>
+
+  <rect x="662" y="274" width="106" height="140" rx="8" fill="#2a2a0a" stroke="#fbbf24" stroke-width="2"/>
+  <text x="715" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#fbbf24" filter="url(#glow)">🌟</text>
+  <text x="715" y="329" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#fde68a" font-weight="bold">MAGO</text>
+  <line x1="670" y1="337" x2="760" y2="337" stroke="#fbbf24" stroke-width="0.5" opacity="0.4"/>
+  <text x="715" y="352" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Transformação</text>
+  <text x="715" y="364" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Poder · Alquimia</text>
+  <text x="715" y="376" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Manifestação</text>
+  <text x="715" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#fbbf24" font-style="italic">O que você pode</text>
+  <text x="715" y="412" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#fbbf24" font-style="italic">transformar?</text>
+
+  <rect x="774" y="274" width="100" height="140" rx="8" fill="#2a1a3e" stroke="#a78bfa" stroke-width="2"/>
+  <text x="824" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#a78bfa" filter="url(#glow)">🦉</text>
+  <text x="824" y="329" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e9d5ff" font-weight="bold">SÁBIO</text>
+  <line x1="782" y1="337" x2="866" y2="337" stroke="#a78bfa" stroke-width="0.5" opacity="0.4"/>
+  <text x="824" y="352" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Sabedoria · Guia</text>
+  <text x="824" y="364" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Clareza · Verdade</text>
+  <text x="824" y="376" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Discernimento</text>
+  <text x="824" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#a78bfa" font-style="italic">Qual verdade</text>
+  <text x="824" y="412" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#a78bfa" font-style="italic">você já sabe?</text>
+
+  <!-- Bottom right note -->
+  <rect x="658" y="428" width="216" height="88" rx="6" fill="#0f0f2e" stroke="#34d399" stroke-width="0.8"/>
+  <text x="766" y="446" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" fill="#34d399" font-weight="bold">O Baralho Terapêutico</text>
+  <text x="666" y="462" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">● 44 cartas arquetípicas</text>
+  <text x="666" y="476" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">● Imagem + pergunta reflexiva</text>
+  <text x="666" y="490" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">● Ativa a inteligência emocional</text>
+  <text x="666" y="504" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">● Espelho da alma do cliente</text>
+
+  <!-- Footer -->
+  <rect x="0" y="545" width="900" height="55" fill="#0d0d28" opacity="0.85"/>
+  <line x1="0" y1="545" x2="900" y2="545" stroke="#f472b6" stroke-width="1" opacity="0.3"/>
+  <text x="450" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">Módulo 09 · Terapeuta de Si Mesmo · Educa com Talento</text>
+  <text x="450" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#f472b6" font-style="italic">"Quem se olha num espelho vê seu rosto. Quem olha para um arquétipo vê sua alma."</text>
+</svg>

@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f2e"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <linearGradient id="pathGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="33%" style="stop-color:#60a5fa"/>
+      <stop offset="66%" style="stop-color:#34d399"/>
+      <stop offset="100%" style="stop-color:#f0c060"/>
+    </linearGradient>
+    <linearGradient id="phase1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#2d1b4e"/>
+    </linearGradient>
+    <linearGradient id="phase2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#60a5fa"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <linearGradient id="phase3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#34d399"/>
+      <stop offset="100%" style="stop-color:#1a2a1a"/>
+    </linearGradient>
+    <linearGradient id="phase4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0c060"/>
+      <stop offset="100%" style="stop-color:#2a2a0a"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="7" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="600" fill="url(#bgGrad)"/>
+
+  <!-- Stars -->
+  <circle cx="30" cy="30" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="870" cy="45" r="1" fill="white" opacity="0.4"/>
+  <circle cx="55" cy="540" r="1" fill="white" opacity="0.3"/>
+  <circle cx="855" cy="535" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="210" cy="15" r="1" fill="white" opacity="0.6"/>
+  <circle cx="730" cy="580" r="1" fill="white" opacity="0.3"/>
+  <circle cx="70" cy="300" r="1" fill="white" opacity="0.2"/>
+  <circle cx="835" cy="280" r="1" fill="white" opacity="0.3"/>
+  <circle cx="450" cy="10" r="1.5" fill="white" opacity="0.4"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="72" fill="#0d0d28" opacity="0.9"/>
+  <rect x="0" y="70" width="900" height="3" fill="url(#pathGrad)" opacity="0.8"/>
+  <text x="30" y="30" font-family="Arial, sans-serif" font-size="11" fill="#a78bfa" opacity="0.8" letter-spacing="2">JORNADA DO TERAPEUTA</text>
+  <text x="30" y="56" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#f0c060" filter="url(#glow)" letter-spacing="1">A Jornada do Herói — Do Aluno ao Curador</text>
+  <text x="870" y="42" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#94a3b8">18h · 12 Módulos · Certificação</text>
+
+  <!-- Hero's journey path (S-curve) -->
+  <!-- Represented as a horizontal flow with wave -->
+  <path d="M80,320 Q180,280 280,320 Q380,360 480,310 Q580,260 680,310 Q780,360 840,300" stroke="url(#pathGrad)" stroke-width="4" fill="none" opacity="0.6" filter="url(#glow)"/>
+
+  <!-- Journey waypoints (milestone circles on path) -->
+  <circle cx="80" cy="320" r="12" fill="#a78bfa" filter="url(#strongGlow)"/>
+  <circle cx="280" cy="320" r="10" fill="#60a5fa" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="480" cy="310" r="10" fill="#34d399" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="680" cy="310" r="10" fill="#fbbf24" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="840" cy="300" r="14" fill="#f0c060" filter="url(#strongGlow)"/>
+
+  <!-- START icon -->
+  <text x="80" y="348" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#a78bfa">INÍCIO</text>
+  <!-- END icon -->
+  <text x="840" y="328" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f0c060">MESTRE</text>
+
+  <!-- ========================================= -->
+  <!-- 4 PHASE CARDS -->
+  <!-- ========================================= -->
+
+  <!-- PHASE 1: DESPERTAR -->
+  <rect x="18" y="82" width="204" height="420" rx="14" fill="url(#phase1)" stroke="#a78bfa" stroke-width="2" filter="url(#glow)"/>
+
+  <!-- Phase tag -->
+  <rect x="28" y="92" width="184" height="28" rx="6" fill="#a78bfa" opacity="0.9"/>
+  <text x="120" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold" letter-spacing="1">FASE 1 · DESPERTAR</text>
+
+  <!-- Icon -->
+  <text x="120" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" fill="#a78bfa" filter="url(#strongGlow)">🌅</text>
+
+  <!-- Phase title -->
+  <text x="120" y="205" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="white" font-weight="bold" filter="url(#glow)">DESPERTAR</text>
+  <line x1="38" y1="213" x2="202" y2="213" stroke="#a78bfa" stroke-width="1" opacity="0.4"/>
+
+  <!-- Modules -->
+  <text x="120" y="234" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" fill="#e9d5ff" font-weight="bold">Módulos 1 e 2</text>
+  <text x="120" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Fundamentos da Consciência</text>
+  <text x="120" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">e Física Quântica</text>
+
+  <!-- Bullet points -->
+  <rect x="28" y="270" width="184" height="148" rx="6" fill="#0f0f2e" opacity="0.7"/>
+  <text x="36" y="290" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">✦ Você descobre que é mais</text>
+  <text x="36" y="303" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">  do que pensava ser</text>
+  <text x="36" y="320" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">✦ Compreende os estados</text>
+  <text x="36" y="333" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">  da mente (CRASCH/FLUXO)</text>
+  <text x="36" y="350" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">✦ Entende que tudo é energia</text>
+  <text x="36" y="363" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">  e frequência vibratória</text>
+  <text x="36" y="380" font-family="Arial, sans-serif" font-size="9" fill="#e9d5ff">✦ Conhece os 7 corpos sutis</text>
+  <text x="36" y="400" font-family="Arial, sans-serif" font-size="9" fill="#c4b5fd">→ Transformação: da dúvida</text>
+  <text x="36" y="413" font-family="Arial, sans-serif" font-size="9" fill="#c4b5fd">  à certeza da missão</text>
+
+  <!-- Motivational -->
+  <text x="120" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#a78bfa" font-style="italic">"Algo dentro de você</text>
+  <text x="120" y="453" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#a78bfa" font-style="italic">sempre soube."</text>
+  <text x="120" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Duração: ~3h</text>
+  <text x="120" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">8 aulas</text>
+
+  <!-- PHASE 2: APRENDER -->
+  <rect x="230" y="82" width="204" height="420" rx="14" fill="url(#phase2)" stroke="#60a5fa" stroke-width="2" filter="url(#glow)"/>
+
+  <rect x="240" y="92" width="184" height="28" rx="6" fill="#60a5fa" opacity="0.9"/>
+  <text x="332" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold" letter-spacing="1">FASE 2 · APRENDER</text>
+
+  <text x="332" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" fill="#60a5fa" filter="url(#strongGlow)">📚</text>
+
+  <text x="332" y="205" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="white" font-weight="bold" filter="url(#glow)">APRENDER</text>
+  <line x1="240" y1="213" x2="424" y2="213" stroke="#60a5fa" stroke-width="1" opacity="0.4"/>
+
+  <text x="332" y="234" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" fill="#bfdbfe" font-weight="bold">Módulos 3, 4, 5 e 6</text>
+  <text x="332" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Radiestesia · Toque Magnético</text>
+  <text x="332" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Apometria · Mesa Quântica</text>
+
+  <rect x="240" y="270" width="184" height="148" rx="6" fill="#0f0f2e" opacity="0.7"/>
+  <text x="248" y="290" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe">✦ Aprende a usar o pêndulo</text>
+  <text x="248" y="303" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe">  e detectar energias</text>
+  <text x="248" y="320" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe">✦ Ativa a energia nas mãos</text>
+  <text x="248" y="333" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe">  para curar pelo toque</text>
+  <text x="248" y="350" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe">✦ Realiza desbloqueios com</text>
+  <text x="248" y="363" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe">  Apometria dimensional</text>
+  <text x="248" y="380" font-family="Arial, sans-serif" font-size="9" fill="#bfdbfe">✦ Trabalha com Mesa Quântica</text>
+  <text x="248" y="400" font-family="Arial, sans-serif" font-size="9" fill="#93c5fd">→ Transformação: do aprendiz</text>
+  <text x="248" y="413" font-family="Arial, sans-serif" font-size="9" fill="#93c5fd">  ao praticante iniciado</text>
+
+  <text x="332" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#60a5fa" font-style="italic">"O conhecimento liberta.</text>
+  <text x="332" y="453" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#60a5fa" font-style="italic">A prática transforma."</text>
+  <text x="332" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Duração: ~6h</text>
+  <text x="332" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">16 aulas</text>
+
+  <!-- PHASE 3: PRATICAR -->
+  <rect x="442" y="82" width="204" height="420" rx="14" fill="url(#phase3)" stroke="#34d399" stroke-width="2" filter="url(#glow)"/>
+
+  <rect x="452" y="92" width="184" height="28" rx="6" fill="#34d399" opacity="0.9"/>
+  <text x="544" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#0f0f2e" font-weight="bold" letter-spacing="1">FASE 3 · PRATICAR</text>
+
+  <text x="544" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" fill="#34d399" filter="url(#strongGlow)">⚡</text>
+
+  <text x="544" y="205" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="white" font-weight="bold" filter="url(#glow)">PRATICAR</text>
+  <line x1="452" y1="213" x2="636" y2="213" stroke="#34d399" stroke-width="1" opacity="0.4"/>
+
+  <text x="544" y="234" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" fill="#6ee7b7" font-weight="bold">Módulos 7, 8 e 9</text>
+  <text x="544" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Taquions · Regressão</text>
+  <text x="544" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Arquétipos terapêuticos</text>
+
+  <rect x="452" y="270" width="184" height="148" rx="6" fill="#0f0f2e" opacity="0.7"/>
+  <text x="460" y="290" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">✦ Trabalha com Taquions</text>
+  <text x="460" y="303" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">  da 5ª Dimensão</text>
+  <text x="460" y="320" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">✦ Conduz sessões de regressão</text>
+  <text x="460" y="333" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">  a vidas passadas</text>
+  <text x="460" y="350" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">✦ Reprograma traumas da</text>
+  <text x="460" y="363" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">  memória da alma</text>
+  <text x="460" y="380" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">✦ Usa cartas arquetípicas</text>
+  <text x="460" y="400" font-family="Arial, sans-serif" font-size="9" fill="#a7f3d0">→ Transformação: do iniciado</text>
+  <text x="460" y="413" font-family="Arial, sans-serif" font-size="9" fill="#a7f3d0">  ao terapeuta confiante</text>
+
+  <text x="544" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#34d399" font-style="italic">"A cura começa quando</text>
+  <text x="544" y="453" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#34d399" font-style="italic">você ouse ser o canal."</text>
+  <text x="544" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Duração: ~5h</text>
+  <text x="544" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">13 aulas</text>
+
+  <!-- PHASE 4: CURAR -->
+  <rect x="654" y="82" width="228" height="420" rx="14" fill="url(#phase4)" stroke="#f0c060" stroke-width="2.5" filter="url(#glow)"/>
+
+  <rect x="664" y="92" width="208" height="28" rx="6" fill="#f0c060" opacity="0.95"/>
+  <text x="768" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#0f0f2e" font-weight="bold" letter-spacing="1">FASE 4 · CURAR</text>
+
+  <text x="768" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" fill="#f0c060" filter="url(#strongGlow)">💫</text>
+
+  <text x="768" y="205" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="white" font-weight="bold" filter="url(#glow)">CURAR</text>
+  <line x1="664" y1="213" x2="872" y2="213" stroke="#f0c060" stroke-width="1" opacity="0.5"/>
+
+  <text x="768" y="234" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" fill="#fde68a" font-weight="bold">Módulos 10, 11 e 12</text>
+  <text x="768" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Leis Universais · Materialização</text>
+  <text x="768" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">Prática Profissional Completa</text>
+
+  <rect x="664" y="270" width="208" height="148" rx="6" fill="#0f0f2e" opacity="0.7"/>
+  <text x="672" y="290" font-family="Arial, sans-serif" font-size="9" fill="#fde68a">✦ Domina as 7 Leis Herméticas</text>
+  <text x="672" y="303" font-family="Arial, sans-serif" font-size="9" fill="#fde68a">  no trabalho terapêutico</text>
+  <text x="672" y="320" font-family="Arial, sans-serif" font-size="9" fill="#fde68a">✦ Ensina materialização</text>
+  <text x="672" y="333" font-family="Arial, sans-serif" font-size="9" fill="#fde68a">  consciente ao cliente</text>
+  <text x="672" y="350" font-family="Arial, sans-serif" font-size="9" fill="#fde68a">✦ Monta consultório e</text>
+  <text x="672" y="363" font-family="Arial, sans-serif" font-size="9" fill="#fde68a">  precifica seus serviços</text>
+  <text x="672" y="380" font-family="Arial, sans-serif" font-size="9" fill="#fde68a">✦ Recebe Certificado oficial</text>
+  <text x="672" y="400" font-family="Arial, sans-serif" font-size="9" fill="#f0c060">→ Transformação: nasce o</text>
+  <text x="672" y="413" font-family="Arial, sans-serif" font-size="9" fill="#f0c060">  TERAPEUTA DE SI MESMO ✨</text>
+
+  <text x="768" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="9.5" fill="#f0c060" font-style="italic">"Você não apenas aprendeu</text>
+  <text x="768" y="455" text-anchor="middle" font-family="Georgia, serif" font-size="9.5" fill="#f0c060" font-style="italic">a curar — você se tornou</text>
+  <text x="768" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="9.5" fill="#f0c060" font-style="italic">um instrumento de cura."</text>
+  <text x="768" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Duração: ~4h · 4 aulas</text>
+  <text x="768" y="506" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#fde68a">🎓 Certificação Oficial</text>
+
+  <!-- Footer banner -->
+  <rect x="0" y="529" width="900" height="71" fill="#0d0d28" opacity="0.9"/>
+  <line x1="0" y1="529" x2="900" y2="529" stroke="url(#pathGrad)" stroke-width="2" opacity="0.7"/>
+
+  <!-- Footer stars/progress -->
+  <text x="30" y="550" font-family="Arial, sans-serif" font-size="13" fill="#a78bfa">★</text>
+  <line x1="50" y1="549" x2="200" y2="549" stroke="#a78bfa" stroke-width="1" opacity="0.4"/>
+  <text x="225" y="550" font-family="Arial, sans-serif" font-size="13" fill="#60a5fa">★</text>
+  <line x1="245" y1="549" x2="430" y2="549" stroke="#60a5fa" stroke-width="1" opacity="0.4"/>
+  <text x="455" y="550" font-family="Arial, sans-serif" font-size="13" fill="#34d399">★</text>
+  <line x1="475" y1="549" x2="640" y2="549" stroke="#34d399" stroke-width="1" opacity="0.4"/>
+  <text x="665" y="550" font-family="Arial, sans-serif" font-size="13" fill="#f0c060">★</text>
+  <line x1="685" y1="549" x2="860" y2="549" stroke="#f0c060" stroke-width="1" opacity="0.4"/>
+  <text x="878" y="550" font-family="Arial, sans-serif" font-size="16" fill="#f0c060" filter="url(#glow)">✨</text>
+
+  <text x="450" y="572" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#fde68a" font-style="italic">"A jornada mais corajosa é a que você faz de dentro para fora."</text>
+  <text x="450" y="588" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#94a3b8">Terapeuta de Si Mesmo · Formação Completa · Educa com Talento · Rosangela Sousa</text>
+</svg>

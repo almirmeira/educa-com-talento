@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a3e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f0c060;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="600" fill="url(#bgGrad)"/>
+
+  <!-- Stars background -->
+  <circle cx="50" cy="40" r="1.5" fill="white" opacity="0.6"/>
+  <circle cx="150" cy="80" r="1" fill="white" opacity="0.4"/>
+  <circle cx="820" cy="30" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="780" cy="100" r="1" fill="white" opacity="0.3"/>
+  <circle cx="30" cy="200" r="1" fill="white" opacity="0.5"/>
+  <circle cx="870" cy="250" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="100" cy="520" r="1" fill="white" opacity="0.4"/>
+  <circle cx="800" cy="550" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="450" cy="20" r="1" fill="white" opacity="0.6"/>
+  <circle cx="700" cy="580" r="1" fill="white" opacity="0.3"/>
+  <circle cx="200" cy="300" r="1" fill="white" opacity="0.2"/>
+  <circle cx="650" cy="150" r="1" fill="white" opacity="0.3"/>
+
+  <!-- Outer decorative ring -->
+  <circle cx="450" cy="300" r="270" fill="none" stroke="#a78bfa" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="450" cy="300" r="250" fill="none" stroke="#f0c060" stroke-width="0.3" opacity="0.2"/>
+
+  <!-- Title block -->
+  <rect x="200" y="18" width="500" height="70" rx="12" fill="#1e1e4e" stroke="#f0c060" stroke-width="1.5" opacity="0.95"/>
+  <text x="450" y="45" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="url(#goldGrad)" filter="url(#glow)" letter-spacing="3">TERAPEUTA DE SI MESMO</text>
+  <text x="450" y="72" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#a78bfa" letter-spacing="1">Da Consciência à Cura Integral</text>
+
+  <!-- Stats bar -->
+  <rect x="260" y="98" width="380" height="32" rx="8" fill="#1e1e4e" stroke="#34d399" stroke-width="1" opacity="0.9"/>
+  <text x="340" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34d399" font-weight="bold">18h de Conteúdo</text>
+  <line x1="400" y1="104" x2="400" y2="124" stroke="#a78bfa" stroke-width="1" opacity="0.6"/>
+  <text x="450" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f0c060" font-weight="bold">41 Aulas</text>
+  <line x1="500" y1="104" x2="500" y2="124" stroke="#a78bfa" stroke-width="1" opacity="0.6"/>
+  <text x="570" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#60a5fa" font-weight="bold">12 Módulos</text>
+
+  <!-- Central circle -->
+  <circle cx="450" cy="310" r="52" fill="#1e1e4e" stroke="#f0c060" stroke-width="2" filter="url(#softGlow)"/>
+  <circle cx="450" cy="310" r="44" fill="none" stroke="#a78bfa" stroke-width="1" stroke-dasharray="4,3"/>
+  <!-- Star in center -->
+  <polygon points="450,268 458,294 486,294 463,310 472,336 450,320 428,336 437,310 414,294 442,294" fill="#f0c060" opacity="0.9" filter="url(#glow)"/>
+  <text x="450" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fde68a" font-weight="bold">FORMAÇÃO</text>
+  <text x="450" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fde68a" font-weight="bold">COMPLETA</text>
+
+  <!-- Module nodes arranged in circle around center -->
+  <!-- r=195 from center 450,310 -->
+  <!-- M1: angle=270 (top) → 450, 115 -->
+  <circle cx="450" cy="145" r="32" fill="#1e1e4e" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="450" y="138" text-anchor="middle" font-size="16" fill="#a78bfa">🧠</text>
+  <text x="450" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M1</text>
+  <text x="450" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Fundamentos</text>
+  <line x1="450" y1="177" x2="450" y2="258" stroke="#a78bfa" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M2: angle=300 → cos(300)=0.5, sin(300)=-0.866 → 450+0.5*165=532.5, 310-0.866*165=167 -->
+  <circle cx="533" cy="167" r="32" fill="#1e1e4e" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="533" y="160" text-anchor="middle" font-size="16" fill="#60a5fa">⚛</text>
+  <text x="533" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M2</text>
+  <text x="533" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Física Quântica</text>
+  <line x1="508" y1="182" x2="472" y2="271" stroke="#60a5fa" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M3: angle=330 → cos=0.866, sin=-0.5 → 450+143=593, 310-82.5=227.5 -->
+  <circle cx="599" cy="228" r="32" fill="#1e1e4e" stroke="#34d399" stroke-width="1.5"/>
+  <text x="599" y="221" text-anchor="middle" font-size="16" fill="#34d399">🔮</text>
+  <text x="599" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M3</text>
+  <text x="599" y="247" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Radiestesia</text>
+  <line x1="571" y1="241" x2="495" y2="290" stroke="#34d399" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M4: angle=0 → 615, 310 -->
+  <circle cx="618" cy="310" r="32" fill="#1e1e4e" stroke="#f472b6" stroke-width="1.5"/>
+  <text x="618" y="303" text-anchor="middle" font-size="16" fill="#f472b6">🤲</text>
+  <text x="618" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M4</text>
+  <text x="618" y="329" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Toque Magnético</text>
+  <line x1="586" y1="310" x2="502" y2="310" stroke="#f472b6" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M5: angle=30 → cos=0.866, sin=0.5 → 593, 392.5 -->
+  <circle cx="599" cy="393" r="32" fill="#1e1e4e" stroke="#fbbf24" stroke-width="1.5"/>
+  <text x="599" y="386" text-anchor="middle" font-size="16" fill="#fbbf24">🌀</text>
+  <text x="599" y="402" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M5</text>
+  <text x="599" y="412" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Apometria</text>
+  <line x1="571" y1="380" x2="495" y2="331" stroke="#fbbf24" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M6: angle=60 → cos=0.5, sin=0.866 → 532.5, 452.9 -->
+  <circle cx="533" cy="453" r="32" fill="#1e1e4e" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="533" y="446" text-anchor="middle" font-size="16" fill="#a78bfa">✨</text>
+  <text x="533" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M6</text>
+  <text x="533" y="472" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Mesa Quântica</text>
+  <line x1="508" y1="437" x2="472" y2="349" stroke="#a78bfa" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M7: angle=90 (bottom) → 450, 475 -->
+  <circle cx="450" cy="475" r="32" fill="#1e1e4e" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="450" y="468" text-anchor="middle" font-size="16" fill="#60a5fa">🌌</text>
+  <text x="450" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M7</text>
+  <text x="450" y="494" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Taquions / 5D</text>
+  <line x1="450" y1="443" x2="450" y2="362" stroke="#60a5fa" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M8: angle=120 → cos=-0.5, sin=0.866 → 367.5, 452.9 -->
+  <circle cx="367" cy="453" r="32" fill="#1e1e4e" stroke="#34d399" stroke-width="1.5"/>
+  <text x="367" y="446" text-anchor="middle" font-size="16" fill="#34d399">🔄</text>
+  <text x="367" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M8</text>
+  <text x="367" y="472" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Regressão</text>
+  <line x1="393" y1="436" x2="428" y2="349" stroke="#34d399" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M9: angle=150 → cos=-0.866, sin=0.5 → 307, 392.5 -->
+  <circle cx="301" cy="393" r="32" fill="#1e1e4e" stroke="#f472b6" stroke-width="1.5"/>
+  <text x="301" y="386" text-anchor="middle" font-size="16" fill="#f472b6">🃏</text>
+  <text x="301" y="402" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M9</text>
+  <text x="301" y="412" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Arquétipos</text>
+  <line x1="329" y1="379" x2="405" y2="331" stroke="#f472b6" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M10: angle=180 → 285, 310 -->
+  <circle cx="282" cy="310" r="32" fill="#1e1e4e" stroke="#fbbf24" stroke-width="1.5"/>
+  <text x="282" y="303" text-anchor="middle" font-size="16" fill="#fbbf24">⚖</text>
+  <text x="282" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M10</text>
+  <text x="282" y="329" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Leis Universais</text>
+  <line x1="314" y1="310" x2="398" y2="310" stroke="#fbbf24" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M11: angle=210 → cos=-0.866, sin=-0.5 → 307, 227.5 -->
+  <circle cx="301" cy="228" r="32" fill="#1e1e4e" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="301" y="221" text-anchor="middle" font-size="16" fill="#a78bfa">⭐</text>
+  <text x="301" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M11</text>
+  <text x="301" y="247" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Materialização</text>
+  <line x1="329" y1="241" x2="405" y2="290" stroke="#a78bfa" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- M12: angle=240 → cos=-0.5, sin=-0.866 → 367.5, 167 -->
+  <circle cx="367" cy="167" r="32" fill="#1e1e4e" stroke="#34d399" stroke-width="1.5"/>
+  <text x="367" y="160" text-anchor="middle" font-size="16" fill="#34d399">🎓</text>
+  <text x="367" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e2e8f0" font-weight="bold">M12</text>
+  <text x="367" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">Prática Prof.</text>
+  <line x1="393" y1="181" x2="428" y2="271" stroke="#34d399" stroke-width="0.8" opacity="0.5" stroke-dasharray="3,3"/>
+
+  <!-- Bottom tagline -->
+  <rect x="250" y="545" width="400" height="36" rx="8" fill="#1e1e4e" stroke="#a78bfa" stroke-width="1" opacity="0.9"/>
+  <text x="450" y="558" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#94a3b8">Formação desenvolvida por</text>
+  <text x="450" y="572" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#f0c060" font-weight="bold">Rosangela Sousa · Educa com Talento</text>
+</svg>

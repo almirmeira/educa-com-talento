@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f2e"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <linearGradient id="dnaGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#34d399"/>
+      <stop offset="100%" style="stop-color:#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="flowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f472b6"/>
+      <stop offset="25%" style="stop-color:#fbbf24"/>
+      <stop offset="50%" style="stop-color:#a78bfa"/>
+      <stop offset="75%" style="stop-color:#34d399"/>
+      <stop offset="100%" style="stop-color:#60a5fa"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="600" fill="url(#bgGrad)"/>
+
+  <!-- Stars -->
+  <circle cx="30" cy="40" r="1" fill="white" opacity="0.5"/>
+  <circle cx="870" cy="50" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="50" cy="520" r="1" fill="white" opacity="0.3"/>
+  <circle cx="860" cy="530" r="1" fill="white" opacity="0.4"/>
+  <circle cx="400" cy="15" r="1" fill="white" opacity="0.5"/>
+  <circle cx="750" cy="580" r="1" fill="white" opacity="0.3"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="72" fill="#0d0d28" opacity="0.9"/>
+  <rect x="0" y="70" width="900" height="2" fill="#34d399" opacity="0.5"/>
+  <text x="30" y="30" font-family="Arial, sans-serif" font-size="11" fill="#34d399" opacity="0.8" letter-spacing="2">MÓDULO 08</text>
+  <text x="30" y="56" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#f0c060" filter="url(#glow)" letter-spacing="1">Regressão com Reprogramação de Vidas</text>
+  <text x="870" y="42" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#94a3b8">4 Aulas · 90 min</text>
+
+  <!-- TOP: Cyclic timeline of lives -->
+  <rect x="18" y="82" width="864" height="160" rx="12" fill="#1e1e4e" stroke="#a78bfa" stroke-width="1" opacity="0.9"/>
+  <text x="450" y="104" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#a78bfa" letter-spacing="1">LINHA CÍCLICA DE VIDAS — CONTINUUM KÁRMICO</text>
+
+  <!-- Circular life timeline -->
+  <!-- Connecting curved line -->
+  <path d="M60,155 Q180,115 300,155 Q420,195 450,155 Q480,115 600,155 Q720,195 840,155" stroke="#a78bfa" stroke-width="2" fill="none" stroke-dasharray="5,3" opacity="0.6"/>
+
+  <!-- Past life 1 -->
+  <circle cx="100" cy="155" r="28" fill="#2d1b4e" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="100" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e9d5ff" font-weight="bold">Vida 1</text>
+  <text x="100" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e9d5ff">Trauma</text>
+  <text x="100" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">kármica</text>
+  <line x1="100" y1="183" x2="100" y2="225" stroke="#a78bfa" stroke-width="1" opacity="0.4" stroke-dasharray="3,2"/>
+  <text x="100" y="233" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#f472b6">bloqueio</text>
+
+  <circle cx="230" cy="140" r="24" fill="#2d1b4e" stroke="#fbbf24" stroke-width="1.5"/>
+  <text x="230" y="134" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#fde68a" font-weight="bold">Vida 2</text>
+  <text x="230" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#fde68a">Padrão</text>
+  <text x="230" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">repetido</text>
+
+  <circle cx="350" cy="160" r="22" fill="#2d1b4e" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="350" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#bfdbfe" font-weight="bold">Vida 3</text>
+  <text x="350" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#bfdbfe">Lição</text>
+  <text x="350" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">aprendida</text>
+
+  <!-- Present life (highlighted) -->
+  <circle cx="450" cy="145" r="35" fill="#1a3a2a" stroke="#34d399" stroke-width="2.5" filter="url(#glow)"/>
+  <text x="450" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#34d399" font-weight="bold">VIDA</text>
+  <text x="450" y="149" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34d399" font-weight="bold">ATUAL</text>
+  <text x="450" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#6ee7b7">regressão</text>
+  <text x="450" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#6ee7b7">+ cura</text>
+
+  <circle cx="560" cy="160" r="22" fill="#1a1a3e" stroke="#34d399" stroke-width="1.5" opacity="0.8"/>
+  <text x="560" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6ee7b7" font-weight="bold">Vida 5</text>
+  <text x="560" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6ee7b7">Potencial</text>
+  <text x="560" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">libertado</text>
+
+  <circle cx="680" cy="140" r="24" fill="#1a1a3e" stroke="#60a5fa" stroke-width="1.5" opacity="0.7"/>
+  <text x="680" y="134" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#93c5fd" font-weight="bold">Vida 6</text>
+  <text x="680" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#93c5fd">Serviço</text>
+  <text x="680" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">elevado</text>
+
+  <circle cx="810" cy="155" r="28" fill="#1a1a3e" stroke="#a78bfa" stroke-width="1.5" opacity="0.6"/>
+  <text x="810" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#ddd6fe" font-weight="bold">Vida 7+</text>
+  <text x="810" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#ddd6fe">Evolução</text>
+  <text x="810" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8">espiritual</text>
+
+  <!-- LEFT-BOTTOM: DNA Helix with unblocking points -->
+  <rect x="18" y="255" width="310" height="280" rx="12" fill="#1e1e4e" stroke="#34d399" stroke-width="1" opacity="0.9"/>
+  <text x="173" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34d399" letter-spacing="0.5">DNA E REPROGRAMAÇÃO</text>
+
+  <!-- DNA double helix -->
+  <!-- Left strand -->
+  <path d="M100,295 Q130,310 100,330 Q70,350 100,370 Q130,390 100,410 Q70,430 100,450 Q130,470 100,490" stroke="#34d399" stroke-width="2.5" fill="none" filter="url(#glow)"/>
+  <!-- Right strand -->
+  <path d="M246,295 Q216,310 246,330 Q276,350 246,370 Q216,390 246,410 Q276,430 246,450 Q216,470 246,490" stroke="#60a5fa" stroke-width="2.5" fill="none" filter="url(#glow)"/>
+
+  <!-- Base pairs / crosslinks -->
+  <line x1="100" y1="295" x2="246" y2="295" stroke="#a78bfa" stroke-width="1.5" opacity="0.6"/>
+  <line x1="116" y1="312" x2="230" y2="312" stroke="#a78bfa" stroke-width="1.5" opacity="0.5"/>
+  <line x1="100" y1="330" x2="246" y2="330" stroke="#a78bfa" stroke-width="1.5" opacity="0.6"/>
+  <line x1="86" y1="348" x2="260" y2="348" stroke="#a78bfa" stroke-width="1.5" opacity="0.5"/>
+  <line x1="100" y1="370" x2="246" y2="370" stroke="#a78bfa" stroke-width="1.5" opacity="0.6"/>
+  <line x1="116" y1="390" x2="230" y2="390" stroke="#f472b6" stroke-width="2" opacity="0.7" filter="url(#glow)"/>
+  <text x="173" y="387" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#f472b6" font-weight="bold">BLOQUEIO</text>
+  <line x1="100" y1="410" x2="246" y2="410" stroke="#a78bfa" stroke-width="1.5" opacity="0.5"/>
+  <line x1="86" y1="430" x2="260" y2="430" stroke="#34d399" stroke-width="2" opacity="0.8" filter="url(#glow)"/>
+  <text x="173" y="427" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#34d399" font-weight="bold">CURA</text>
+  <line x1="100" y1="450" x2="246" y2="450" stroke="#a78bfa" stroke-width="1.5" opacity="0.6"/>
+  <line x1="116" y1="470" x2="230" y2="470" stroke="#a78bfa" stroke-width="1.5" opacity="0.5"/>
+  <line x1="100" y1="490" x2="246" y2="490" stroke="#a78bfa" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Deblocking points (glowing dots) -->
+  <circle cx="110" cy="388" r="7" fill="#f472b6" filter="url(#glow)"/>
+  <circle cx="236" cy="388" r="7" fill="#f472b6" filter="url(#glow)"/>
+  <circle cx="86" cy="430" r="7" fill="#34d399" filter="url(#glow)"/>
+  <circle cx="260" cy="430" r="7" fill="#34d399" filter="url(#glow)"/>
+
+  <!-- Labels -->
+  <text x="55" y="390" text-anchor="end" font-family="Arial, sans-serif" font-size="7.5" fill="#f472b6">trauma</text>
+  <text x="55" y="432" text-anchor="end" font-family="Arial, sans-serif" font-size="7.5" fill="#34d399">reprog.</text>
+  <text x="291" y="390" font-family="Arial, sans-serif" font-size="7.5" fill="#f472b6">kármico</text>
+  <text x="291" y="432" font-family="Arial, sans-serif" font-size="7.5" fill="#34d399">cura 5D</text>
+
+  <!-- Note -->
+  <text x="173" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">Memórias traumáticas ficam codificadas</text>
+  <text x="173" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">no DNA e campo energético.</text>
+  <text x="173" y="532" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#34d399" font-weight="bold">A regressão as ressignifica.</text>
+
+  <!-- CENTER-RIGHT: Flow process -->
+  <rect x="342" y="255" width="540" height="280" rx="12" fill="#1e1e4e" stroke="#f0c060" stroke-width="1" opacity="0.9"/>
+  <text x="612" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f0c060" letter-spacing="1">FLUXO DA REGRESSÃO COM REPROGRAMAÇÃO</text>
+
+  <!-- Flow steps: Fato → Bloqueio → Regressão → Novo Significado → Cura -->
+  <!-- Step boxes with connecting arrows -->
+
+  <!-- Step 1: Fato -->
+  <rect x="360" y="292" width="140" height="80" rx="8" fill="#2d1b4e" stroke="#f472b6" stroke-width="2"/>
+  <text x="430" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#f472b6">💥</text>
+  <text x="430" y="338" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#f472b6" font-weight="bold">FATO</text>
+  <text x="430" y="353" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">evento traumático</text>
+  <text x="430" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">vida atual ou passada</text>
+
+  <!-- Arrow 1 -->
+  <polygon points="508,332 498,325 498,339" fill="#f0c060" opacity="0.8"/>
+  <line x1="500" y1="332" x2="520" y2="332" stroke="#f0c060" stroke-width="2" opacity="0.7"/>
+
+  <!-- Step 2: Bloqueio -->
+  <rect x="522" y="292" width="130" height="80" rx="8" fill="#3b0764" stroke="#a78bfa" stroke-width="2"/>
+  <text x="587" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#a78bfa">🔒</text>
+  <text x="587" y="338" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#a78bfa" font-weight="bold">BLOQUEIO</text>
+  <text x="587" y="353" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">emoção reprimida</text>
+  <text x="587" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">padrão inconsciente</text>
+
+  <!-- Arrow 2 -->
+  <polygon points="660,332 650,325 650,339" fill="#f0c060" opacity="0.8"/>
+  <line x1="652" y1="332" x2="672" y2="332" stroke="#f0c060" stroke-width="2" opacity="0.7"/>
+
+  <!-- Step 3: Regressão -->
+  <rect x="674" y="292" width="148" height="80" rx="8" fill="#1a3a1a" stroke="#34d399" stroke-width="2.5" filter="url(#glow)"/>
+  <text x="748" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#34d399">🔄</text>
+  <text x="748" y="338" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34d399" font-weight="bold">REGRESSÃO</text>
+  <text x="748" y="353" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#6ee7b7">acesso hipnótico</text>
+  <text x="748" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6ee7b7">à memória da alma</text>
+
+  <!-- Arrow down-left for steps 4 and 5 -->
+  <line x1="748" y1="372" x2="748" y2="395" stroke="#f0c060" stroke-width="2" opacity="0.7"/>
+  <polygon points="748,398 742,388 754,388" fill="#f0c060" opacity="0.8"/>
+
+  <!-- Step 4: Novo Significado -->
+  <rect x="522" y="398" width="245" height="72" rx="8" fill="#2a2a0a" stroke="#fbbf24" stroke-width="2"/>
+  <text x="644" y="422" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#fbbf24">✨</text>
+  <text x="700" y="422" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#fbbf24" font-weight="bold">NOVO SIGNIFICADO</text>
+  <text x="644" y="442" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">ressignificação do evento</text>
+  <text x="644" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">integração emocional</text>
+  <text x="700" y="442" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">novo programa mental</text>
+  <text x="700" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#94a3b8">libertação do padrão</text>
+
+  <!-- Arrow left to step 5 -->
+  <polygon points="518,433 528,427 528,439" fill="#f0c060" opacity="0.8"/>
+  <line x1="520" y1="433" x2="500" y2="433" stroke="#f0c060" stroke-width="2" opacity="0.7"/>
+
+  <!-- Step 5: Cura -->
+  <rect x="360" y="398" width="145" height="72" rx="8" fill="#1a3a2a" stroke="#34d399" stroke-width="2.5" filter="url(#glow)"/>
+  <text x="432" y="422" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#34d399">💚</text>
+  <text x="432" y="442" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34d399" font-weight="bold">CURA</text>
+  <text x="432" y="458" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#6ee7b7">liberação e paz</text>
+  <text x="432" y="471" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6ee7b7">campo regenerado</text>
+
+  <!-- Process summary bottom -->
+  <rect x="355" y="486" width="520" height="38" rx="6" fill="#0f0f2e" stroke="#f0c060" stroke-width="0.8"/>
+  <text x="615" y="502" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#fde68a" font-style="italic">"O passado não pode ser mudado — mas o significado que damos a ele, sim."</text>
+  <text x="615" y="517" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#94a3b8">A regressão não muda o evento: muda a relação da alma com ele.</text>
+
+  <!-- Footer -->
+  <rect x="0" y="545" width="900" height="55" fill="#0d0d28" opacity="0.85"/>
+  <line x1="0" y1="545" x2="900" y2="545" stroke="#34d399" stroke-width="1" opacity="0.3"/>
+  <text x="450" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">Módulo 08 · Terapeuta de Si Mesmo · Educa com Talento</text>
+  <text x="450" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#34d399" font-style="italic">"A cura mais profunda acontece quando a alma finalmente entende por que viveu aquilo."</text>
+</svg>

@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f2e"/>
+      <stop offset="100%" style="stop-color:#0d1a3a"/>
+    </linearGradient>
+    <linearGradient id="spiralGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#60a5fa"/>
+      <stop offset="50%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#f0c060"/>
+    </linearGradient>
+    <linearGradient id="stairGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e1e4e"/>
+      <stop offset="100%" style="stop-color:#2d1b4e"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="7" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="600" fill="url(#bgGrad)"/>
+
+  <!-- Space background dots -->
+  <circle cx="40" cy="50" r="1" fill="white" opacity="0.5"/>
+  <circle cx="860" cy="40" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="55" cy="530" r="1" fill="white" opacity="0.3"/>
+  <circle cx="870" cy="540" r="1" fill="white" opacity="0.4"/>
+  <circle cx="200" cy="20" r="1" fill="white" opacity="0.6"/>
+  <circle cx="700" cy="575" r="1" fill="white" opacity="0.3"/>
+  <circle cx="120" cy="300" r="1" fill="white" opacity="0.2"/>
+  <circle cx="820" cy="280" r="1" fill="white" opacity="0.3"/>
+  <circle cx="350" cy="10" r="1" fill="white" opacity="0.4"/>
+  <circle cx="600" cy="15" r="1.5" fill="white" opacity="0.5"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="72" fill="#0d0d28" opacity="0.9"/>
+  <rect x="0" y="70" width="900" height="2" fill="#60a5fa" opacity="0.6"/>
+  <text x="30" y="30" font-family="Arial, sans-serif" font-size="11" fill="#60a5fa" opacity="0.8" letter-spacing="2">MÓDULO 07</text>
+  <text x="30" y="56" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#f0c060" filter="url(#glow)" letter-spacing="1">Taquions TOC — Viagem à 5ª Dimensão</text>
+  <text x="870" y="42" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#94a3b8">3 Aulas · 60 min</text>
+
+  <!-- LEFT: Dimensional staircase 1D → 5D -->
+  <rect x="18" y="82" width="340" height="440" rx="12" fill="#1e1e4e" stroke="#60a5fa" stroke-width="1.5" opacity="0.9"/>
+  <text x="188" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#60a5fa" letter-spacing="1">ESCADA DIMENSIONAL</text>
+
+  <!-- 1D -->
+  <rect x="230" y="440" width="108" height="60" rx="4" fill="#1a1a3e" stroke="#94a3b8" stroke-width="1"/>
+  <text x="284" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#94a3b8" font-weight="bold">1D</text>
+  <text x="284" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#64748b">Ponto · Mineral</text>
+  <text x="284" y="491" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#475569">Matéria densa pura</text>
+
+  <!-- 2D -->
+  <rect x="200" y="375" width="108" height="58" rx="4" fill="#1a1a3e" stroke="#60a5fa" stroke-width="1"/>
+  <text x="254" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#60a5fa" font-weight="bold">2D</text>
+  <text x="254" y="413" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#93c5fd">Plano · Vegetal</text>
+  <text x="254" y="426" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#bfdbfe">Comprimento e largura</text>
+
+  <!-- 3D -->
+  <rect x="165" y="305" width="112" height="63" rx="4" fill="#1a1a3e" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="221" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#a78bfa" font-weight="bold">3D</text>
+  <text x="221" y="348" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#c4b5fd">Volume · Animal/Humano</text>
+  <text x="221" y="361" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">Espaço tridimensional físico</text>
+
+  <!-- 4D -->
+  <rect x="120" y="228" width="120" height="68" rx="4" fill="#2d1b4e" stroke="#f0c060" stroke-width="1.5"/>
+  <text x="180" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#f0c060" font-weight="bold">4D</text>
+  <text x="180" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#fde68a">Tempo · Astral / Mental</text>
+  <text x="180" y="289" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#94a3b8">Passado · Presente · Futuro</text>
+
+  <!-- 5D - Highlighted -->
+  <rect x="65" y="138" width="148" height="80" rx="6" fill="#1a3a1a" stroke="#34d399" stroke-width="2.5" filter="url(#glow)"/>
+  <text x="139" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#34d399" font-weight="bold" filter="url(#strongGlow)">5D ✨</text>
+  <text x="139" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7" font-weight="bold">Consciência · Taquions TOC</text>
+  <text x="139" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#34d399">Amor incondicional · Unidade</text>
+  <text x="139" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" fill="#a7f3d0">Além do espaço-tempo</text>
+
+  <!-- Connecting step lines -->
+  <line x1="230" y1="440" x2="308" y2="440" stroke="#94a3b8" stroke-width="1" opacity="0.4"/>
+  <line x1="308" y1="440" x2="308" y2="375" stroke="#94a3b8" stroke-width="1" opacity="0.4"/>
+  <line x1="200" y1="375" x2="278" y2="375" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+  <line x1="278" y1="375" x2="278" y2="305" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+  <line x1="165" y1="305" x2="243" y2="305" stroke="#a78bfa" stroke-width="1" opacity="0.6"/>
+  <line x1="243" y1="305" x2="243" y2="228" stroke="#a78bfa" stroke-width="1" opacity="0.6"/>
+  <line x1="120" y1="228" x2="208" y2="228" stroke="#f0c060" stroke-width="1.5" opacity="0.6"/>
+  <line x1="208" y1="228" x2="208" y2="138" stroke="#34d399" stroke-width="2" opacity="0.7"/>
+
+  <!-- Upward arrow -->
+  <polygon points="208,132 203,144 213,144" fill="#34d399" filter="url(#glow)"/>
+  <text x="35" y="165" font-family="Arial, sans-serif" font-size="8" fill="#34d399">↑ evolução</text>
+  <text x="35" y="178" font-family="Arial, sans-serif" font-size="8" fill="#34d399">  de freq.</text>
+
+  <!-- RIGHT: 5D Being characteristics + Spiral -->
+  <rect x="372" y="82" width="510" height="440" rx="12" fill="#1e1e4e" stroke="#34d399" stroke-width="1" opacity="0.9"/>
+  <text x="627" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34d399" letter-spacing="1">SERES DE 5ª DIMENSÃO — CARACTERÍSTICAS</text>
+
+  <!-- RIGHT-LEFT: Bullet points -->
+  <rect x="385" y="118" width="230" height="392" rx="8" fill="#0f0f2e" stroke="#34d399" stroke-width="0.8"/>
+  <text x="500" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34d399" font-weight="bold">Como se manifesta a 5D</text>
+  <line x1="390" y1="144" x2="610" y2="144" stroke="#34d399" stroke-width="0.5" opacity="0.4"/>
+
+  <text x="393" y="162" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">✦ Amor incondicional constante</text>
+  <text x="393" y="178" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">✦ Ausência de julgamento</text>
+  <text x="393" y="194" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">✦ Telepátia e percepção extra</text>
+  <text x="393" y="210" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">✦ Sincronicidades frequentes</text>
+  <text x="393" y="226" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">✦ Comunicação com guias</text>
+  <text x="393" y="242" font-family="Arial, sans-serif" font-size="9" fill="#6ee7b7">✦ Ausência de medo da morte</text>
+  <text x="393" y="258" font-family="Arial, sans-serif" font-size="9" fill="#a7f3d0">✦ Acesso à memória akáshica</text>
+  <text x="393" y="274" font-family="Arial, sans-serif" font-size="9" fill="#a7f3d0">✦ Manifestação acelerada</text>
+  <text x="393" y="290" font-family="Arial, sans-serif" font-size="9" fill="#a7f3d0">✦ Cura espontânea</text>
+  <text x="393" y="306" font-family="Arial, sans-serif" font-size="9" fill="#a7f3d0">✦ União com o Todo</text>
+  <text x="393" y="322" font-family="Arial, sans-serif" font-size="9" fill="#a7f3d0">✦ Transcendência do ego</text>
+  <text x="393" y="338" font-family="Arial, sans-serif" font-size="9" fill="#a7f3d0">✦ Alegria como estado base</text>
+  <text x="393" y="362" font-family="Arial, sans-serif" font-size="9" fill="#94a3b8" font-weight="bold">O Terapeuta de 5D:</text>
+  <text x="393" y="378" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">→ Cura com intenção pura</text>
+  <text x="393" y="394" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">→ Não agenda o resultado</text>
+  <text x="393" y="410" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">→ Serve sem apego</text>
+  <text x="393" y="426" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">→ Canaliza a Fonte</text>
+  <text x="393" y="442" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">→ É instrumento de paz</text>
+  <text x="393" y="458" font-family="Arial, sans-serif" font-size="8.5" fill="#94a3b8">→ Atinge estados de graça</text>
+  <text x="393" y="496" font-family="Arial, sans-serif" font-size="8" fill="#34d399" font-style="italic">Taquions: partículas mais rápidas que a luz</text>
+  <text x="393" y="508" font-family="Arial, sans-serif" font-size="8" fill="#34d399" font-style="italic">que carregam informação de cura 5D.</text>
+
+  <!-- RIGHT-RIGHT: Frequency spiral -->
+  <rect x="628" y="118" width="240" height="392" rx="8" fill="#0f0f2e" stroke="#a78bfa" stroke-width="0.8"/>
+  <text x="748" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#a78bfa" font-weight="bold">ESPIRAL DE FREQUÊNCIA</text>
+
+  <!-- Spiral representation using concentric arcs -->
+  <path d="M748,440 Q748,430 738,420 Q720,400 748,380 Q776,360 790,330 Q800,300 748,280 Q690,260 672,220 Q660,185 748,165 Q836,145 860,115" stroke="url(#spiralGrad)" stroke-width="3" fill="none" filter="url(#glow)"/>
+
+  <!-- Dimension labels along spiral -->
+  <circle cx="748" cy="440" r="10" fill="#1a1a3e" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="748" y="444" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#94a3b8" font-weight="bold">1D</text>
+  <text x="762" y="444" font-family="Arial, sans-serif" font-size="7.5" fill="#64748b">Mineral</text>
+
+  <circle cx="748" cy="390" r="10" fill="#1a1a3e" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="748" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#60a5fa" font-weight="bold">2D</text>
+  <text x="762" y="394" font-family="Arial, sans-serif" font-size="7.5" fill="#93c5fd">Vegetal</text>
+
+  <circle cx="748" cy="330" r="12" fill="#1a1a3e" stroke="#a78bfa" stroke-width="2"/>
+  <text x="748" y="334" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#a78bfa" font-weight="bold">3D</text>
+  <text x="724" y="334" text-anchor="end" font-family="Arial, sans-serif" font-size="7.5" fill="#c4b5fd">Humano</text>
+
+  <circle cx="748" cy="270" r="14" fill="#2d1b4e" stroke="#f0c060" stroke-width="2"/>
+  <text x="748" y="274" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#f0c060" font-weight="bold">4D</text>
+  <text x="762" y="274" font-family="Arial, sans-serif" font-size="7.5" fill="#fde68a">Astral</text>
+
+  <circle cx="748" cy="195" r="18" fill="#1a3a1a" stroke="#34d399" stroke-width="2.5" filter="url(#glow)"/>
+  <text x="748" y="199" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34d399" font-weight="bold">5D</text>
+  <text x="724" y="199" text-anchor="end" font-family="Arial, sans-serif" font-size="7.5" fill="#6ee7b7">TOC/Taquion</text>
+
+  <!-- Taquion description -->
+  <rect x="636" y="470" width="224" height="36" rx="4" fill="#1a3a1a" stroke="#34d399" stroke-width="0.8"/>
+  <text x="748" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" fill="#34d399" font-weight="bold">Taquions = partículas subatômicas</text>
+  <text x="748" y="499" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6ee7b7">que reorganizam a informação energética</text>
+
+  <!-- Footer -->
+  <rect x="0" y="545" width="900" height="55" fill="#0d0d28" opacity="0.85"/>
+  <line x1="0" y1="545" x2="900" y2="545" stroke="#60a5fa" stroke-width="1" opacity="0.4"/>
+  <text x="450" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">Módulo 07 · Terapeuta de Si Mesmo · Educa com Talento</text>
+  <text x="450" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#60a5fa" font-style="italic">"Na 5ª Dimensão, a cura não é esforço — é o estado natural da consciência expandida."</text>
+</svg>
