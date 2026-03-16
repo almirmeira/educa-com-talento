@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+
+  <!-- Background -->
+  <rect width="900" height="560" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="450" y="42" text-anchor="middle" fill="#e0e0e0" font-size="20" font-weight="bold">Curva do Esquecimento de Ebbinghaus (1885)</text>
+  <text x="450" y="64" text-anchor="middle" fill="#a0a0b0" font-size="13">Retenção de memória ao longo do tempo — sem revisão vs. com revisão espaçada</text>
+
+  <!-- Grid area -->
+  <rect x="100" y="90" width="700" height="360" fill="#12122a" rx="6"/>
+
+  <!-- Grid lines horizontal -->
+  <line x1="100" y1="90"  x2="800" y2="90"  stroke="#2a2a4a" stroke-width="1"/>
+  <line x1="100" y1="162" x2="800" y2="162" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="100" y1="234" x2="800" y2="234" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="100" y1="306" x2="800" y2="306" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="100" y1="378" x2="800" y2="378" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="100" y1="450" x2="800" y2="450" stroke="#2a2a4a" stroke-width="1"/>
+
+  <!-- Grid lines vertical -->
+  <line x1="100" y1="90"  x2="100" y2="450" stroke="#2a2a4a" stroke-width="1"/>
+  <line x1="240" y1="90"  x2="240" y2="450" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="380" y1="90"  x2="380" y2="450" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="520" y1="90"  x2="520" y2="450" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="660" y1="90"  x2="660" y2="450" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="800" y1="90"  x2="800" y2="450" stroke="#2a2a4a" stroke-width="1"/>
+
+  <!-- Y axis labels -->
+  <text x="88" y="94"  text-anchor="end" fill="#a0a0b0" font-size="12">100%</text>
+  <text x="88" y="166" text-anchor="end" fill="#a0a0b0" font-size="12">80%</text>
+  <text x="88" y="238" text-anchor="end" fill="#a0a0b0" font-size="12">60%</text>
+  <text x="88" y="310" text-anchor="end" fill="#a0a0b0" font-size="12">40%</text>
+  <text x="88" y="382" text-anchor="end" fill="#a0a0b0" font-size="12">20%</text>
+  <text x="88" y="454" text-anchor="end" fill="#a0a0b0" font-size="12">0%</text>
+
+  <!-- Y axis title -->
+  <text x="30" y="270" text-anchor="middle" fill="#c0c0d0" font-size="13" transform="rotate(-90,30,270)">% de Memória Retida</text>
+
+  <!-- X axis labels -->
+  <text x="100" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">Início</text>
+  <text x="240" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">20 min</text>
+  <text x="380" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">1 hora</text>
+  <text x="520" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">1 dia</text>
+  <text x="660" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">6 dias</text>
+  <text x="800" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">1 mês</text>
+
+  <!-- X axis title -->
+  <text x="450" y="495" text-anchor="middle" fill="#c0c0d0" font-size="13">Tempo após o Aprendizado</text>
+
+  <!-- =============================================== -->
+  <!-- CURVE 1: Without review (red) -->
+  <!-- Points: (100,90) (240,198) (380,222) (520,262) (660,287) (800,296) -->
+  <!-- 100%=90px, 0%=450px → 360px range -->
+  <!-- y = 90 + (1 - retention) * 360 -->
+  <!-- 100% → y=90; 58% → y=90+0.42*360=241; 44%→y=90+0.56*360=292; 34%→y=90+0.66*360=328; 25%→y=90+0.75*360=360; 21%→y=90+0.79*360=374 -->
+
+  <path d="M 100,90 C 150,180 200,230 240,241 C 280,252 330,282 380,292 C 440,304 480,320 520,328 C 580,340 620,354 660,360 C 720,366 760,371 800,374"
+        fill="none" stroke="#ff6b6b" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Area under curve 1 -->
+  <path d="M 100,90 C 150,180 200,230 240,241 C 280,252 330,282 380,292 C 440,304 480,320 520,328 C 580,340 620,354 660,360 C 720,366 760,371 800,374 L 800,450 L 100,450 Z"
+        fill="#ff6b6b" fill-opacity="0.08"/>
+
+  <!-- Data points curve 1 -->
+  <circle cx="100" cy="90"  r="6" fill="#ff6b6b" stroke="#1a1a2e" stroke-width="2"/>
+  <circle cx="240" cy="241" r="6" fill="#ff6b6b" stroke="#1a1a2e" stroke-width="2"/>
+  <circle cx="380" cy="292" r="6" fill="#ff6b6b" stroke="#1a1a2e" stroke-width="2"/>
+  <circle cx="520" cy="328" r="6" fill="#ff6b6b" stroke="#1a1a2e" stroke-width="2"/>
+  <circle cx="660" cy="360" r="6" fill="#ff6b6b" stroke="#1a1a2e" stroke-width="2"/>
+  <circle cx="800" cy="374" r="6" fill="#ff6b6b" stroke="#1a1a2e" stroke-width="2"/>
+
+  <!-- Labels curve 1 -->
+  <text x="110" y="82"  fill="#ff6b6b" font-size="11" font-weight="bold">100%</text>
+  <text x="248" y="236" fill="#ff6b6b" font-size="11">58%</text>
+  <text x="388" y="287" fill="#ff6b6b" font-size="11">44%</text>
+  <text x="528" y="323" fill="#ff6b6b" font-size="11">34%</text>
+  <text x="668" y="355" fill="#ff6b6b" font-size="11">25%</text>
+  <text x="806" y="369" fill="#ff6b6b" font-size="11">21%</text>
+
+  <!-- =============================================== -->
+  <!-- CURVE 2: With spaced review (cyan) -->
+  <!-- Revisar em 20min, 1dia, 6dias, 1mês — curva sobe a cada revisão -->
+  <!-- Segmento 1: 100→90px, desce até 20min: ~75% → y=90+0.25*360=180 -->
+  <!-- Revisão 1 (20min): sobe para 100% → y=90 -->
+  <!-- Desce até 1 dia: ~82% → y=90+0.18*360=155 -->
+  <!-- Revisão 2 (1dia): sobe para 100% → y=90 -->
+  <!-- Desce até 6 dias: ~88% → y=90+0.12*360=133 -->
+  <!-- Revisão 3 (6dias): sobe → y=90 -->
+  <!-- Desce até 1 mês: ~92% → y=90+0.08*360=119 -->
+
+  <!-- Seg 1: inicio até 20min, caindo para 75% -->
+  <path d="M 100,90 C 160,120 210,155 240,180"
+        fill="none" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Revisão 1 em 20min: sobe para 100% -->
+  <line x1="240" y1="180" x2="240" y2="100" stroke="#00d4ff" stroke-width="2" stroke-dasharray="3,3"/>
+  <path d="M 240,100 C 300,120 340,130 380,145"
+        fill="none" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Revisão 2 em 1 hora (uso 380): pequena subida -->
+  <line x1="380" y1="145" x2="380" y2="108" stroke="#00d4ff" stroke-width="2" stroke-dasharray="3,3"/>
+  <path d="M 380,108 C 440,120 480,126 520,135"
+        fill="none" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Revisão 3 em 1 dia (520): pequena subida -->
+  <line x1="520" y1="135" x2="520" y2="100" stroke="#00d4ff" stroke-width="2" stroke-dasharray="3,3"/>
+  <path d="M 520,100 C 580,108 620,112 660,118"
+        fill="none" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Revisão 4 em 6 dias (660): pequena subida -->
+  <line x1="660" y1="118" x2="660" y2="95" stroke="#00d4ff" stroke-width="2" stroke-dasharray="3,3"/>
+  <path d="M 660,95 C 720,100 760,104 800,108"
+        fill="none" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Revisão markers -->
+  <circle cx="240" cy="100" r="7" fill="#00d4ff" stroke="#1a1a2e" stroke-width="2"/>
+  <circle cx="380" cy="108" r="7" fill="#00d4ff" stroke="#1a1a2e" stroke-width="2"/>
+  <circle cx="520" cy="100" r="7" fill="#00d4ff" stroke="#1a1a2e" stroke-width="2"/>
+  <circle cx="660" cy="95"  r="7" fill="#00d4ff" stroke="#1a1a2e" stroke-width="2"/>
+  <circle cx="800" cy="108" r="7" fill="#00d4ff" stroke="#1a1a2e" stroke-width="2"/>
+
+  <!-- Revision labels -->
+  <text x="235" y="95"  text-anchor="middle" fill="#00d4ff" font-size="10" font-weight="bold">R1</text>
+  <text x="375" y="103" text-anchor="middle" fill="#00d4ff" font-size="10" font-weight="bold">R2</text>
+  <text x="515" y="95"  text-anchor="middle" fill="#00d4ff" font-size="10" font-weight="bold">R3</text>
+  <text x="655" y="90"  text-anchor="middle" fill="#00d4ff" font-size="10" font-weight="bold">R4</text>
+
+  <!-- Final retention label -->
+  <text x="808" y="103" fill="#00d4ff" font-size="11" font-weight="bold">~92%</text>
+
+  <!-- =============================================== -->
+  <!-- LEGEND -->
+  <rect x="100" y="510" width="380" height="38" fill="#12122a" rx="6" stroke="#2a2a4a" stroke-width="1"/>
+  <rect x="420" y="510" width="380" height="38" fill="#12122a" rx="6" stroke="#2a2a4a" stroke-width="1"/>
+
+  <line x1="115" y1="529" x2="155" y2="529" stroke="#ff6b6b" stroke-width="3"/>
+  <circle cx="135" cy="529" r="5" fill="#ff6b6b"/>
+  <text x="162" y="533" fill="#e0e0e0" font-size="12">Sem revisão — perda de ~79% em 1 mês</text>
+
+  <line x1="435" y1="529" x2="475" y2="529" stroke="#00d4ff" stroke-width="3"/>
+  <circle cx="455" cy="529" r="5" fill="#00d4ff"/>
+  <text x="482" y="533" fill="#e0e0e0" font-size="12">Com revisão espaçada — retenção de ~92%</text>
+
+</svg>
