@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640">
+  <!-- Fundo escuro -->
+  <rect width="900" height="640" fill="#0d1117"/>
+
+  <!-- Título -->
+  <text x="450" y="38" text-anchor="middle" font-family="monospace" font-size="19" font-weight="bold" fill="#e6edf3">
+    FIXED MINDSET vs. GROWTH MINDSET
+  </text>
+  <text x="450" y="58" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">
+    Carol S. Dweck — Stanford University | 30 anos de pesquisa
+  </text>
+
+  <!-- Separador central -->
+  <line x1="450" y1="70" x2="450" y2="620" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Cabeçalho FIXED MINDSET (esquerda) -->
+  <rect x="10" y="72" width="435" height="56" rx="8" fill="#3b0f0f"/>
+  <text x="227" y="98" text-anchor="middle" font-family="monospace" font-size="17" font-weight="bold" fill="#f87171">
+    ✗  FIXED MINDSET
+  </text>
+  <text x="227" y="117" text-anchor="middle" font-family="monospace" font-size="11" fill="#fca5a5">
+    "Inteligência é inata e imutável"
+  </text>
+
+  <!-- Cabeçalho GROWTH MINDSET (direita) -->
+  <rect x="455" y="72" width="435" height="56" rx="8" fill="#0f2e1a"/>
+  <text x="672" y="98" text-anchor="middle" font-family="monospace" font-size="17" font-weight="bold" fill="#4ade80">
+    ✓  GROWTH MINDSET
+  </text>
+  <text x="672" y="117" text-anchor="middle" font-family="monospace" font-size="11" fill="#86efac">
+    "Inteligência é desenvolvida pelo esforço"
+  </text>
+
+  <!-- Situação 1: ERROS -->
+  <!-- Label -->
+  <rect x="345" y="142" width="210" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="160" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#8b949e">
+    01 · ERROS
+  </text>
+  <!-- Fixed -->
+  <rect x="10" y="142" width="330" height="52" rx="6" fill="#1a0a0a"/>
+  <text x="175" y="161" text-anchor="middle" font-family="monospace" font-size="11" fill="#ef4444">
+    "Errei → Não sou inteligente"
+  </text>
+  <text x="175" y="178" text-anchor="middle" font-family="monospace" font-size="10" fill="#7f1d1d">
+    Esconde, justifica ou evita feedback
+  </text>
+  <!-- Growth -->
+  <rect x="560" y="142" width="330" height="52" rx="6" fill="#0a1a10"/>
+  <text x="725" y="161" text-anchor="middle" font-family="monospace" font-size="11" fill="#22c55e">
+    "Errei → O que posso aprender?"
+  </text>
+  <text x="725" y="178" text-anchor="middle" font-family="monospace" font-size="10" fill="#15803d">
+    Analisa, busca estratégia melhor
+  </text>
+
+  <!-- Situação 2: DESAFIOS -->
+  <rect x="345" y="208" width="210" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="226" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#8b949e">
+    02 · DESAFIOS
+  </text>
+  <!-- Fixed -->
+  <rect x="10" y="208" width="330" height="52" rx="6" fill="#1a0a0a"/>
+  <text x="175" y="228" text-anchor="middle" font-family="monospace" font-size="11" fill="#ef4444">
+    Evita para não "se expor"
+  </text>
+  <text x="175" y="245" text-anchor="middle" font-family="monospace" font-size="10" fill="#7f1d1d">
+    Ameaça à identidade de "inteligente"
+  </text>
+  <!-- Growth -->
+  <rect x="560" y="208" width="330" height="52" rx="6" fill="#0a1a10"/>
+  <text x="725" y="228" text-anchor="middle" font-family="monospace" font-size="11" fill="#22c55e">
+    Abraça como oportunidade de crescer
+  </text>
+  <text x="725" y="245" text-anchor="middle" font-family="monospace" font-size="10" fill="#15803d">
+    Zona Proximal de Desenvolvimento
+  </text>
+
+  <!-- Situação 3: ESFORÇO -->
+  <rect x="345" y="274" width="210" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="292" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#8b949e">
+    03 · ESFORÇO
+  </text>
+  <!-- Fixed -->
+  <rect x="10" y="274" width="330" height="52" rx="6" fill="#1a0a0a"/>
+  <text x="175" y="294" text-anchor="middle" font-family="monospace" font-size="11" fill="#ef4444">
+    "Esforço = falta de talento natural"
+  </text>
+  <text x="175" y="311" text-anchor="middle" font-family="monospace" font-size="10" fill="#7f1d1d">
+    Os inteligentes não precisam se esforçar
+  </text>
+  <!-- Growth -->
+  <rect x="560" y="274" width="330" height="52" rx="6" fill="#0a1a10"/>
+  <text x="725" y="294" text-anchor="middle" font-family="monospace" font-size="11" fill="#22c55e">
+    "Esforço = caminho para o domínio"
+  </text>
+  <text x="725" y="311" text-anchor="middle" font-family="monospace" font-size="10" fill="#15803d">
+    Mecanismo natural de desenvolvimento
+  </text>
+
+  <!-- Situação 4: FEEDBACK -->
+  <rect x="345" y="340" width="210" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="358" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#8b949e">
+    04 · FEEDBACK
+  </text>
+  <!-- Fixed -->
+  <rect x="10" y="340" width="330" height="52" rx="6" fill="#1a0a0a"/>
+  <text x="175" y="360" text-anchor="middle" font-family="monospace" font-size="11" fill="#ef4444">
+    Reage defensivamente, ignora críticas
+  </text>
+  <text x="175" y="377" text-anchor="middle" font-family="monospace" font-size="10" fill="#7f1d1d">
+    Feedback = julgamento pessoal
+  </text>
+  <!-- Growth -->
+  <rect x="560" y="340" width="330" height="52" rx="6" fill="#0a1a10"/>
+  <text x="725" y="360" text-anchor="middle" font-family="monospace" font-size="11" fill="#22c55e">
+    Ouve com atenção, usa como dado
+  </text>
+  <text x="725" y="377" text-anchor="middle" font-family="monospace" font-size="10" fill="#15803d">
+    Feedback = informação de melhoria
+  </text>
+
+  <!-- Situação 5: SUCESSO DOS OUTROS -->
+  <rect x="310" y="406" width="280" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="424" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#8b949e">
+    05 · SUCESSO DOS OUTROS
+  </text>
+  <!-- Fixed -->
+  <rect x="10" y="406" width="330" height="52" rx="6" fill="#1a0a0a"/>
+  <text x="175" y="426" text-anchor="middle" font-family="monospace" font-size="11" fill="#ef4444">
+    Ameaçado, sente inveja ou desconforto
+  </text>
+  <text x="175" y="443" text-anchor="middle" font-family="monospace" font-size="10" fill="#7f1d1d">
+    Minimiza o mérito do outro
+  </text>
+  <!-- Growth -->
+  <rect x="560" y="406" width="330" height="52" rx="6" fill="#0a1a10"/>
+  <text x="725" y="426" text-anchor="middle" font-family="monospace" font-size="11" fill="#22c55e">
+    Inspirado, busca aprender com o outro
+  </text>
+  <text x="725" y="443" text-anchor="middle" font-family="monospace" font-size="10" fill="#15803d">
+    "Se ele conseguiu, eu também posso"
+  </text>
+
+  <!-- Resultado Final -->
+  <!-- Fixed resultado -->
+  <rect x="10" y="476" width="435" height="56" rx="8" fill="#2d0000"/>
+  <text x="227" y="498" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#f87171">
+    RESULTADO: Platô Precoce
+  </text>
+  <text x="227" y="516" text-anchor="middle" font-family="monospace" font-size="11" fill="#fca5a5">
+    Evita desafios → Limita crescimento real
+  </text>
+  <text x="227" y="530" text-anchor="middle" font-family="monospace" font-size="10" fill="#7f1d1d">
+    Incompatível com Life Long Learning
+  </text>
+
+  <!-- Growth resultado -->
+  <rect x="455" y="476" width="435" height="56" rx="8" fill="#002d0f"/>
+  <text x="672" y="498" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#4ade80">
+    RESULTADO: Crescimento Contínuo
+  </text>
+  <text x="672" y="516" text-anchor="middle" font-family="monospace" font-size="11" fill="#86efac">
+    Abraça desafios → Progresso real e duradouro
+  </text>
+  <text x="672" y="530" text-anchor="middle" font-family="monospace" font-size="10" fill="#15803d">
+    Base do Life Long Learning (LLL)
+  </text>
+
+  <!-- Rodapé / LLL connection -->
+  <rect x="10" y="546" width="880" height="44" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="450" y="564" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#e6edf3">
+    CONEXÃO COM LLL: O aprendiz permanente tem, por definição, Growth Mindset.
+  </text>
+  <text x="450" y="582" text-anchor="middle" font-family="monospace" font-size="11" fill="#8b949e">
+    Acredita que cada nova habilidade pode ser desenvolvida com esforço e estratégia adequados.
+  </text>
+
+  <!-- Pesquisa citada -->
+  <text x="450" y="614" text-anchor="middle" font-family="monospace" font-size="10" fill="#30363d">
+    Blackwell, Trzesniewski &amp; Dweck, 2007 — Child Development Journal | Educa com Talento
+  </text>
+</svg>

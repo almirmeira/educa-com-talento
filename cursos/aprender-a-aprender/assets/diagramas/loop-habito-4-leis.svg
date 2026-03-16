@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700">
+  <!-- Fundo escuro -->
+  <rect width="900" height="700" fill="#0d1117"/>
+
+  <!-- Título -->
+  <text x="450" y="42" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#e6edf3">
+    LOOP DO HÁBITO E AS 4 LEIS — JAMES CLEAR
+  </text>
+  <text x="450" y="64" text-anchor="middle" font-family="monospace" font-size="13" fill="#8b949e">
+    Hábitos Atômicos | Como criar hábitos bons e eliminar os ruins
+  </text>
+
+  <!-- Círculo central indicando o loop -->
+  <circle cx="450" cy="360" r="130" fill="none" stroke="#30363d" stroke-width="2" stroke-dasharray="8,4"/>
+  <text x="450" y="352" text-anchor="middle" font-family="monospace" font-size="13" fill="#8b949e">LOOP DO</text>
+  <text x="450" y="372" text-anchor="middle" font-family="monospace" font-size="13" fill="#8b949e">HÁBITO</text>
+
+  <!-- GATILHO (Topo) -->
+  <rect x="335" y="88" width="230" height="76" rx="10" fill="#1e3a5f" stroke="#3b82f6" stroke-width="2"/>
+  <text x="450" y="112" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#60a5fa">01 — GATILHO</text>
+  <text x="450" y="132" text-anchor="middle" font-family="monospace" font-size="12" fill="#93c5fd">(Cue / Trigger)</text>
+  <text x="450" y="150" text-anchor="middle" font-family="monospace" font-size="11" fill="#bfdbfe">O estímulo que inicia o loop</text>
+
+  <!-- DESEJO (Direita) -->
+  <rect x="660" y="280" width="210" height="76" rx="10" fill="#1a3a2a" stroke="#22c55e" stroke-width="2"/>
+  <text x="765" y="304" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#4ade80">02 — DESEJO</text>
+  <text x="765" y="324" text-anchor="middle" font-family="monospace" font-size="12" fill="#86efac">(Craving)</text>
+  <text x="765" y="344" text-anchor="middle" font-family="monospace" font-size="11" fill="#bbf7d0">A motivação criada</text>
+
+  <!-- ROTINA (Baixo) -->
+  <rect x="335" y="520" width="230" height="76" rx="10" fill="#2e1065" stroke="#a855f7" stroke-width="2"/>
+  <text x="450" y="544" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#c084fc">03 — ROTINA</text>
+  <text x="450" y="564" text-anchor="middle" font-family="monospace" font-size="12" fill="#d8b4fe">(Response)</text>
+  <text x="450" y="582" text-anchor="middle" font-family="monospace" font-size="11" fill="#ede9fe">O comportamento em si</text>
+
+  <!-- RECOMPENSA (Esquerda) -->
+  <rect x="30" y="280" width="210" height="76" rx="10" fill="#431407" stroke="#f97316" stroke-width="2"/>
+  <text x="135" y="304" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#fb923c">04 — RECOMPENSA</text>
+  <text x="135" y="324" text-anchor="middle" font-family="monospace" font-size="12" fill="#fdba74">(Reward)</text>
+  <text x="135" y="344" text-anchor="middle" font-family="monospace" font-size="11" fill="#fed7aa">O benefício que reforça</text>
+
+  <!-- Setas do loop circular -->
+  <!-- Gatilho → Desejo (curva direita superior) -->
+  <path d="M 565 126 Q 720 126 720 280" stroke="#8b949e" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
+  <!-- Desejo → Rotina (curva direita inferior) -->
+  <path d="M 720 356 Q 720 520 565 558" stroke="#8b949e" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
+  <!-- Rotina → Recompensa (curva esquerda inferior) -->
+  <path d="M 335 558 Q 185 558 185 356" stroke="#8b949e" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
+  <!-- Recompensa → Gatilho (curva esquerda superior) -->
+  <path d="M 185 280 Q 185 126 335 126" stroke="#8b949e" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- Definição da seta -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#8b949e"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4ade80"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#f87171"/>
+    </marker>
+  </defs>
+
+  <!-- 4 LEIS — Caixas de leis externas ao loop -->
+
+  <!-- Lei 1 Criar (topo, ligada ao Gatilho) -->
+  <rect x="340" y="17" width="220" height="26" rx="5" fill="#14532d" stroke="#4ade80" stroke-width="1"/>
+  <text x="450" y="34" text-anchor="middle" font-family="monospace" font-size="11" fill="#86efac">
+    ✓ LEI 1: TORNE ÓBVIO (criar)
+  </text>
+
+  <!-- Lei 1 Quebrar (ao lado do Criar) -->
+  <rect x="340" y="46" width="220" height="26" rx="5" fill="#450a0a" stroke="#f87171" stroke-width="1"/>
+  <text x="450" y="63" text-anchor="middle" font-family="monospace" font-size="11" fill="#fca5a5">
+    ✗ LEI 1: TORNE INVISÍVEL (quebrar)
+  </text>
+
+  <!-- Lei 2 Criar (direita, ligada ao Desejo) -->
+  <rect x="680" y="212" width="200" height="26" rx="5" fill="#14532d" stroke="#4ade80" stroke-width="1"/>
+  <text x="780" y="229" text-anchor="middle" font-family="monospace" font-size="11" fill="#86efac">
+    ✓ LEI 2: TORNE ATRAENTE
+  </text>
+  <rect x="680" y="241" width="200" height="26" rx="5" fill="#450a0a" stroke="#f87171" stroke-width="1"/>
+  <text x="780" y="258" text-anchor="middle" font-family="monospace" font-size="11" fill="#fca5a5">
+    ✗ LEI 2: TORNE DESINTERESS.
+  </text>
+
+  <!-- Lei 3 Criar (baixo, ligada à Rotina) -->
+  <rect x="340" y="610" width="220" height="26" rx="5" fill="#14532d" stroke="#4ade80" stroke-width="1"/>
+  <text x="450" y="627" text-anchor="middle" font-family="monospace" font-size="11" fill="#86efac">
+    ✓ LEI 3: TORNE FÁCIL (criar)
+  </text>
+  <rect x="340" y="639" width="220" height="26" rx="5" fill="#450a0a" stroke="#f87171" stroke-width="1"/>
+  <text x="450" y="656" text-anchor="middle" font-family="monospace" font-size="11" fill="#fca5a5">
+    ✗ LEI 3: TORNE DIFÍCIL (quebrar)
+  </text>
+
+  <!-- Lei 4 Criar (esquerda, ligada à Recompensa) -->
+  <rect x="20" y="212" width="210" height="26" rx="5" fill="#14532d" stroke="#4ade80" stroke-width="1"/>
+  <text x="125" y="229" text-anchor="middle" font-family="monospace" font-size="11" fill="#86efac">
+    ✓ LEI 4: TORNE SATISFATÓRIO
+  </text>
+  <rect x="20" y="241" width="210" height="26" rx="5" fill="#450a0a" stroke="#f87171" stroke-width="1"/>
+  <text x="125" y="258" text-anchor="middle" font-family="monospace" font-size="11" fill="#fca5a5">
+    ✗ LEI 4: TORNE INSATISFAT.
+  </text>
+
+  <!-- Legenda inferior -->
+  <rect x="100" y="678" width="700" height="18" fill="#161b22" rx="4"/>
+  <rect x="115" y="682" width="12" height="12" fill="#14532d"/>
+  <text x="133" y="692" font-family="monospace" font-size="11" fill="#86efac">✓ Leis para CRIAR hábitos bons</text>
+  <rect x="370" y="682" width="12" height="12" fill="#450a0a"/>
+  <text x="388" y="692" font-family="monospace" font-size="11" fill="#fca5a5">✗ Leis para QUEBRAR hábitos ruins (inversão)</text>
+
+  <!-- Crédito -->
+  <text x="880" y="696" text-anchor="end" font-family="monospace" font-size="9" fill="#30363d">
+    Educa com Talento | Aprender a Aprender
+  </text>
+</svg>
