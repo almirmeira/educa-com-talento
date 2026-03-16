@@ -41,9 +41,9 @@
   <!-- METACOGNIÇÃO PRECISA — dashed horizontal line -->
   <!-- At y=230 (approximately realistic confidence level) -->
   <!-- ========================================= -->
-  <line x1="100" y1="230" x2="860" y2="230" stroke="#26de81" stroke-width="2" stroke-dasharray="8,5"/>
-  <text x="866" y="234" fill="#26de81" font-size="12" font-weight="bold">← Metacognição</text>
-  <text x="866" y="250" fill="#26de81" font-size="12">     Precisa</text>
+  <line x1="100" y1="230" x2="797" y2="230" stroke="#26de81" stroke-width="2" stroke-dasharray="8,5"/>
+  <text x="800" y="222" fill="#26de81" font-size="11" font-weight="bold">Metacognicao</text>
+  <text x="800" y="236" fill="#26de81" font-size="11" font-weight="bold">Precisa</text>
 
   <!-- ========================================= -->
   <!-- THE DUNNING-KRUGER CURVE (orange/amber) -->
@@ -116,6 +116,7 @@
   <!-- ========================================= -->
   <rect x="100" y="435" width="760" height="52" fill="#12122a" rx="8" stroke="#2a2a4a" stroke-width="1"/>
   <text x="450" y="456" text-anchor="middle" fill="#c0c0d0" font-size="12" font-weight="bold">Impacto para o Aprendizado</text>
-  <text x="450" y="476" text-anchor="middle" fill="#8080a0" font-size="12">A metacognição precisa é a saída do Pico da Tolice: questionar o que você sabe é o primeiro passo para aprender de verdade.</text>
+  <text x="450" y="468" text-anchor="middle" fill="#8080a0" font-size="11">A metacognicao precisa e a saida do Pico da Tolice:</text>
+  <text x="450" y="482" text-anchor="middle" fill="#8080a0" font-size="11">questionar o que voce sabe e o primeiro passo para aprender de verdade.</text>
 
 </svg>

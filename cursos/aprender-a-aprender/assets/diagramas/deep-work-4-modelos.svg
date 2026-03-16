@@ -19,7 +19,8 @@
   <text x="38" y="190" font-size="12" fill="#a0a0b0">Exemplo: Donald Knuth — sem e-mail desde 1990.</text>
   <text x="38" y="210" font-size="12" fill="#a0a0b0">Responde cartas 1x por trimestre.</text>
   <rect x="38" y="228" width="384" height="30" rx="6" fill="#00d4ff" opacity="0.08"/>
-  <text x="46" y="248" font-size="13" fill="#00d4ff">Ideal para: acadêmicos, escritores, artistas com controle total da agenda</text>
+  <text x="46" y="244" font-size="11" fill="#00d4ff">Ideal para: academicos, escritores, artistas</text>
+  <text x="46" y="258" font-size="11" fill="#00d4ff">com controle total da propria agenda</text>
 
   <!-- Card 2: BIMODAL (top-right) -->
   <rect x="460" y="72" width="420" height="200" rx="12" fill="#1e1e36" stroke="#ff9f43" stroke-width="2.5"/>
@@ -32,7 +33,8 @@
   <text x="478" y="190" font-size="12" fill="#a0a0b0">Exemplo: Carl Jung — torre em Bollingen (semanas</text>
   <text x="478" y="210" font-size="12" fill="#a0a0b0">de isolamento) + consultório em Zurique.</text>
   <rect x="478" y="228" width="384" height="30" rx="6" fill="#ff9f43" opacity="0.08"/>
-  <text x="486" y="248" font-size="13" fill="#ff9f43">Ideal para: quem pode criar períodos de reclusão total (dias/semanas)</text>
+  <text x="486" y="244" font-size="11" fill="#ff9f43">Ideal para: quem pode criar periodos de</text>
+  <text x="486" y="258" font-size="11" fill="#ff9f43">reclusao total (dias ou semanas)</text>
 
   <!-- Card 3: RÍTMICO (bottom-left) -->
   <rect x="20" y="290" width="420" height="200" rx="12" fill="#1e1e36" stroke="#26de81" stroke-width="2.5"/>
@@ -48,7 +50,8 @@
   <text x="38" y="406" font-size="12" fill="#a0a0b0">Exemplo: Jerry Seinfeld — escrevia piadas</text>
   <text x="38" y="426" font-size="12" fill="#a0a0b0">toda manhã, sem exceção. "Não quebre a corrente."</text>
   <rect x="38" y="444" width="384" height="30" rx="6" fill="#26de81" opacity="0.08"/>
-  <text x="46" y="464" font-size="13" fill="#26de81">Ideal para: a maioria das pessoas — rotina consistente, horário fixo diário</text>
+  <text x="46" y="460" font-size="11" fill="#26de81">Ideal para: a maioria das pessoas —</text>
+  <text x="46" y="474" font-size="11" fill="#26de81">rotina consistente, horario fixo diario</text>
 
   <!-- Card 4: JORNALÍSTICO (bottom-right) -->
   <rect x="460" y="290" width="420" height="200" rx="12" fill="#1e1e36" stroke="#ff6b6b" stroke-width="2.5"/>
@@ -61,7 +64,8 @@
   <text x="478" y="406" font-size="12" fill="#a0a0b0">Requer: capacidade de entrar em foco</text>
   <text x="478" y="426" font-size="12" fill="#a0a0b0">profundo em poucos minutos. Mais difícil.</text>
   <rect x="478" y="444" width="384" height="30" rx="6" fill="#ff6b6b" opacity="0.08"/>
-  <text x="486" y="464" font-size="13" fill="#ff6b6b">Ideal para: agenda imprevisível + habilidade de foco rápido já desenvolvida</text>
+  <text x="486" y="460" font-size="11" fill="#ff6b6b">Ideal para: agenda imprevisivel +</text>
+  <text x="486" y="474" font-size="11" fill="#ff6b6b">habilidade de foco rapido ja desenvolvida</text>
 
   <!-- Formula bar at bottom -->
   <rect x="20" y="506" width="860" height="24" rx="6" fill="#16213e" stroke="#2a2a4a" stroke-width="1"/>

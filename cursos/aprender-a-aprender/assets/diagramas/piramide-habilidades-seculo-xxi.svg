@@ -1,53 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="940" height="550" viewBox="0 0 940 550" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+<svg width="860" height="560" viewBox="0 0 860 560" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
 
   <!-- Background -->
-  <rect width="940" height="550" fill="#1a1a2e"/>
+  <rect width="860" height="560" fill="#1a1a2e"/>
 
   <!-- Title -->
-  <text x="450" y="42" text-anchor="middle" fill="#e0e0e0" font-size="14" font-weight="bold">A Pirâmide das Habilidades do Século XXI</text>
-  <text x="450" y="68" text-anchor="middle" fill="#a0a0b0" font-size="13">As habilidades mais valiosas ficam no topo</text>
+  <text x="430" y="38" text-anchor="middle" fill="#e0e0e0" font-size="15" font-weight="bold">A Piramide das Habilidades do Seculo XXI</text>
+  <text x="430" y="58" text-anchor="middle" fill="#a0a0b0" font-size="11">As habilidades mais valiosas ficam no topo da piramide</text>
 
-  <!-- TIER 4 — Bottom: Conhecimentos Técnicos (widest, gray) -->
-  <polygon points="80,460 820,460 720,370 180,370" fill="#3a3a4a" stroke="#6a6a8a" stroke-width="2"/>
-  <text x="450" y="422" text-anchor="middle" fill="#c0c0d0" font-size="13" font-weight="bold">Conhecimentos Técnicos</text>
-  <text x="450" y="447" text-anchor="middle" fill="#9090a0" font-size="12">(Domínio de ferramentas, linguagens, normas, processos)</text>
+  <!-- TIER 4 — Base: Conhecimentos Tecnicos (widest, gray) -->
+  <polygon points="60,460 800,460 700,370 160,370" fill="#3a3a4a" stroke="#6a6a8a" stroke-width="2"/>
+  <text x="430" y="410" text-anchor="middle" fill="#c0c0d0" font-size="13" font-weight="bold">Conhecimentos Tecnicos</text>
+  <text x="430" y="432" text-anchor="middle" fill="#9090a0" font-size="11">ferramentas, linguagens, normas, processos</text>
+  <text x="430" y="450" text-anchor="middle" fill="#6a6a8a" font-size="10">[ BASE ]</text>
 
-  <!-- TIER 3 — Colaboração | Comunicação (green) -->
-  <polygon points="180,370 720,370 630,280 270,280" fill="#1a4a2a" stroke="#26de81" stroke-width="2"/>
-  <text x="450" y="327" text-anchor="middle" fill="#26de81" font-size="13" font-weight="bold">Colaboração  |  Comunicação</text>
-  <text x="450" y="352" text-anchor="middle" fill="#70c890" font-size="12">(Trabalho em equipe, apresentação, escuta ativa)</text>
+  <!-- TIER 3 — Colaboracao e Comunicacao (green) -->
+  <polygon points="160,370 700,370 610,280 250,280" fill="#1a4a2a" stroke="#26de81" stroke-width="2"/>
+  <text x="430" y="322" text-anchor="middle" fill="#26de81" font-size="13" font-weight="bold">Colaboracao e Comunicacao</text>
+  <text x="430" y="344" text-anchor="middle" fill="#70c890" font-size="11">trabalho em equipe, escuta ativa, apresentacao</text>
+  <text x="430" y="362" text-anchor="middle" fill="#26de81" font-size="10">[ NIVEL 3 ]</text>
 
-  <!-- TIER 2 — Pensamento Crítico | Criatividade (blue) -->
-  <polygon points="270,280 630,280 545,190 355,190" fill="#0d2a4a" stroke="#00d4ff" stroke-width="2"/>
-  <text x="450" y="237" text-anchor="middle" fill="#00d4ff" font-size="13" font-weight="bold">Pensamento Crítico  |  Criatividade</text>
-  <text x="450" y="262" text-anchor="middle" fill="#70c0d8" font-size="12">(Análise, síntese, inovação, resolução de problemas)</text>
+  <!-- TIER 2 — Pensamento Critico e Criatividade (blue) -->
+  <polygon points="250,280 610,280 530,195 330,195" fill="#0d2a4a" stroke="#00d4ff" stroke-width="2"/>
+  <text x="430" y="230" text-anchor="middle" fill="#00d4ff" font-size="13" font-weight="bold">Pensamento Critico e Criatividade</text>
+  <text x="430" y="252" text-anchor="middle" fill="#70c0d8" font-size="11">analise, sintese, inovacao, resolucao de problemas</text>
+  <text x="430" y="272" text-anchor="middle" fill="#00d4ff" font-size="10">[ NIVEL 2 ]</text>
 
-  <!-- TIER 1 — Top: Aprender a Aprender (gold, smallest) -->
-  <polygon points="355,190 545,190 490,110 410,110" fill="#3a2a00" stroke="#ffd700" stroke-width="2.5"/>
-  <text x="450" y="148" text-anchor="middle" fill="#ffd700" font-size="13" font-weight="bold">Aprender a Aprender</text>
-  <text x="450" y="172" text-anchor="middle" fill="#c0a030" font-size="12">(Meta-Habilidade)</text>
+  <!-- TIER 1 — Topo: Aprender a Aprender (gold, smallest) -->
+  <polygon points="330,195 530,195 480,120 380,120" fill="#3a2a00" stroke="#ffd700" stroke-width="2.5"/>
+  <text x="430" y="153" text-anchor="middle" fill="#ffd700" font-size="13" font-weight="bold">Aprender a Aprender</text>
+  <text x="430" y="173" text-anchor="middle" fill="#c0a030" font-size="11">[ META-HABILIDADE — TOPO ]</text>
 
   <!-- Pyramid tip -->
-  <polygon points="410,110 490,110 450,55" fill="#4a3800" stroke="#ffd700" stroke-width="2"/>
-  <text x="450" y="90" text-anchor="middle" fill="#ffd700" font-size="12">★</text>
+  <polygon points="380,120 480,120 430,60" fill="#4a3800" stroke="#ffd700" stroke-width="2"/>
+  <text x="430" y="98" text-anchor="middle" fill="#ffd700" font-size="13">*</text>
 
-  <!-- Right side labels -->
-  <line x1="820" y1="415" x2="858" y2="415" stroke="#6a6a8a" stroke-width="1.5"/>
-  <text x="862" y="420" fill="#9090a0" font-size="12">Base</text>
-
-  <line x1="720" y1="325" x2="858" y2="325" stroke="#26de81" stroke-width="1.5"/>
-  <text x="862" y="330" fill="#26de81" font-size="12">Nível 3</text>
-
-  <line x1="630" y1="235" x2="858" y2="235" stroke="#00d4ff" stroke-width="1.5"/>
-  <text x="862" y="240" fill="#00d4ff" font-size="12">Nível 2</text>
-
-  <line x1="545" y1="150" x2="858" y2="150" stroke="#ffd700" stroke-width="1.5"/>
-  <text x="862" y="155" fill="#ffd700" font-size="12">Topo</text>
-
-  <!-- Bottom note -->
-  <rect x="60" y="478" width="820" height="54" fill="#12122a" rx="8" stroke="#2a2a4a" stroke-width="1"/>
-  <text x="450" y="500" text-anchor="middle" fill="#c0c0d0" font-size="12" font-weight="bold">Por que "Aprender a Aprender" está no topo?</text>
-  <text x="450" y="522" text-anchor="middle" fill="#8080a0" font-size="12">Quem domina a meta-habilidade consegue adquirir qualquer habilidade das camadas abaixo.</text>
+  <!-- Bottom note box -->
+  <rect x="60" y="478" width="740" height="60" fill="#12122a" rx="8" stroke="#2a2a4a" stroke-width="1"/>
+  <text x="430" y="500" text-anchor="middle" fill="#c0c0d0" font-size="12" font-weight="bold">Por que "Aprender a Aprender" esta no topo?</text>
+  <text x="430" y="520" text-anchor="middle" fill="#8080a0" font-size="11">Quem domina a meta-habilidade consegue adquirir</text>
+  <text x="430" y="536" text-anchor="middle" fill="#8080a0" font-size="11">qualquer habilidade das camadas abaixo.</text>
 
 </svg>
