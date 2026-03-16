@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="400" y="42" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#e0e0e0" text-anchor="middle">Testing Effect — Karpicke &amp; Roediger (2006)</text>
+  <text x="400" y="66" font-family="'Courier New', monospace" font-size="13" fill="#a0a0c0" text-anchor="middle">Washington University in St. Louis | Retenção após 1 semana</text>
+
+  <!-- Grid lines -->
+  <line x1="120" y1="100" x2="120" y2="390" stroke="#2a2a4e" stroke-width="1"/>
+  <line x1="120" y1="390" x2="680" y2="390" stroke="#2a2a4e" stroke-width="1"/>
+
+  <!-- Y-axis labels -->
+  <text x="110" y="394" font-family="'Courier New', monospace" font-size="11" fill="#6060a0" text-anchor="end">0%</text>
+  <text x="110" y="344" font-family="'Courier New', monospace" font-size="11" fill="#6060a0" text-anchor="end">20%</text>
+  <text x="110" y="294" font-family="'Courier New', monospace" font-size="11" fill="#6060a0" text-anchor="end">40%</text>
+  <text x="110" y="244" font-family="'Courier New', monospace" font-size="11" fill="#6060a0" text-anchor="end">60%</text>
+  <text x="110" y="194" font-family="'Courier New', monospace" font-size="11" fill="#6060a0" text-anchor="end">80%</text>
+  <text x="110" y="144" font-family="'Courier New', monospace" font-size="11" fill="#6060a0" text-anchor="end">100%</text>
+
+  <!-- Horizontal grid lines -->
+  <line x1="120" y1="340" x2="680" y2="340" stroke="#2a2a4e" stroke-width="0.5" stroke-dasharray="4,4"/>
+  <line x1="120" y1="290" x2="680" y2="290" stroke="#2a2a4e" stroke-width="0.5" stroke-dasharray="4,4"/>
+  <line x1="120" y1="240" x2="680" y2="240" stroke="#2a2a4e" stroke-width="0.5" stroke-dasharray="4,4"/>
+  <line x1="120" y1="190" x2="680" y2="190" stroke="#2a2a4e" stroke-width="0.5" stroke-dasharray="4,4"/>
+  <line x1="120" y1="140" x2="680" y2="140" stroke="#2a2a4e" stroke-width="0.5" stroke-dasharray="4,4"/>
+
+  <!-- Bar 1: Releitura 4x — 21% -->
+  <!-- 21% of 290px height = 60.9px -->
+  <rect x="180" y="329" width="160" height="61" fill="#ff6b6b" rx="4"/>
+  <rect x="180" y="329" width="160" height="4" fill="#ff8e8e" rx="2"/>
+
+  <!-- Bar 1 label percentage -->
+  <text x="260" y="320" font-family="'Courier New', monospace" font-size="22" font-weight="bold" fill="#ff6b6b" text-anchor="middle">21%</text>
+
+  <!-- Bar 2: Retrieval Practice — 61% -->
+  <!-- 61% of 290px height = 176.9px -->
+  <rect x="460" y="213" width="160" height="177" fill="#00d4ff" rx="4"/>
+  <rect x="460" y="213" width="160" height="4" fill="#4de6ff" rx="2"/>
+
+  <!-- Bar 2 label percentage -->
+  <text x="540" y="204" font-family="'Courier New', monospace" font-size="22" font-weight="bold" fill="#00d4ff" text-anchor="middle">61%</text>
+
+  <!-- Bar 1 x-label -->
+  <text x="260" y="412" font-family="'Courier New', monospace" font-size="12" fill="#ff9999" text-anchor="middle">Releu 4x</text>
+  <text x="260" y="428" font-family="'Courier New', monospace" font-size="12" fill="#ff9999" text-anchor="middle">(sem teste)</text>
+
+  <!-- Bar 2 x-label -->
+  <text x="540" y="412" font-family="'Courier New', monospace" font-size="12" fill="#66e5ff" text-anchor="middle">Estudou 1x</text>
+  <text x="540" y="428" font-family="'Courier New', monospace" font-size="12" fill="#66e5ff" text-anchor="middle">+ Testou 3x</text>
+
+  <!-- Difference arrow and label -->
+  <line x1="344" y1="280" x2="456" y2="220" stroke="#ffd700" stroke-width="2" stroke-dasharray="5,3"/>
+  <polygon points="456,220 446,226 452,214" fill="#ffd700"/>
+
+  <!-- Difference badge -->
+  <rect x="330" y="230" width="140" height="52" fill="#16213e" rx="8" stroke="#ffd700" stroke-width="1.5"/>
+  <text x="400" y="250" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#ffd700" text-anchor="middle">+190% mais</text>
+  <text x="400" y="268" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#ffd700" text-anchor="middle">retenção</text>
+
+  <!-- Bottom note -->
+  <rect x="100" y="450" width="600" height="36" fill="#0f3460" rx="6"/>
+  <text x="400" y="462" font-family="'Courier New', monospace" font-size="11" fill="#a0c0ff" text-anchor="middle">Testar é aprender, não apenas avaliar. O esforço de recuperar consolida a memória.</text>
+  <text x="400" y="478" font-family="'Courier New', monospace" font-size="11" fill="#7090d0" text-anchor="middle">Karpicke, J.D. &amp; Roediger, H.L. (2006). Science, 319(5865), 966-968.</text>
+</svg>
