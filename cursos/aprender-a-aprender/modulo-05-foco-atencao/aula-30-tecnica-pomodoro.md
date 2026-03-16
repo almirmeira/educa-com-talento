@@ -52,6 +52,13 @@ Hoje essa técnica tem dezenas de millions de praticantes no mundo inteiro. É e
 
 O protocolo clássico é elegante na sua simplicidade:
 
+---
+
+![Ciclo Pomodoro — A Neurociência por Trás dos Intervalos](../assets/diagramas/ciclo-pomodoro-neurocientífico.svg)
+*Figura: Um ciclo Pomodoro completo — Modo Focado (25 min) + Modo Difuso (5 min) + Pausa Longa após 4 ciclos — Francesco Cirillo / Barbara Oakley*
+
+---
+
 ```
 PROTOCOLO POMODORO CLÁSSICO
 ════════════════════════════

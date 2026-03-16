@@ -139,6 +139,13 @@ A última frase é a chave. **Escreva para o você de 6 meses atrás** — a pes
 
 Existem múltiplas formas de portfólio de aprendizagem, adequadas para diferentes áreas, objetivos e estilos. Você não precisa fazer todas — mas deve ter pelo menos uma forma ativa.
 
+---
+
+![Portfólio de Aprendizagem — as 5 formas e o ciclo Aprender-Documentar-Compartilhar](../assets/diagramas/lll-portfolio-aprendizagem.svg)
+*Figura: Portfólio de Aprendizagem — as 5 formas de tornar o conhecimento visível e o ciclo Learn in Public — Shawn Wang*
+
+---
+
 **FORMA 1: Blog / Artigos escritos**
 
 A forma mais clássica e mais poderosa para consolidação profunda. Escrever força você a organizar o pensamento, identificar lacunas e criar explicações claras.

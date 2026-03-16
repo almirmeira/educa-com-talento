@@ -133,6 +133,13 @@ Scott Young identificou 9 princípios que aparecem em todos os casos de Ultralea
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
+---
+
+![Os 9 Princípios do Ultralearning de Scott Young](../assets/diagramas/9-principios-ultralearning.svg)
+*Figura: Os 9 Princípios do Ultralearning — visão geral do framework de Scott Young para aprendizado agressivo e autodirigido*
+
+---
+
 Agora deixa eu te contar alguns casos históricos que mostram esses princípios em ação — porque o mais importante que você precisa entender é que **Ultralearning não é para gênios**. É um método.
 
 **Benny Lewis — O Pologlota de Dublin**

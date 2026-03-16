@@ -41,6 +41,13 @@ Mas aqui está a parte fascinante: quando as peças eram colocadas em posições
 
 O que esse experimento revelou? Que os mestres não tinham memória melhor. Eles tinham algo diferente: **chunks**.
 
+---
+
+![Chunking — Como Especialistas Comprimem Informação](../assets/diagramas/chunking-memoria-visual.svg)
+*Figura: Chunking — sem chunking, a memória de trabalho se sobrecarrega; com chunks, o mesmo espaço processa muito mais — Chase & Simon (1973)*
+
+---
+
 Um grande mestre de xadrez não vê 32 peças em 64 casas. Ele vê 5 a 7 **formações** — padrões conhecidos que carregam informação estratégica. Cada formação é um chunk: uma unidade de informação comprimida que representa muito mais do que parece.
 
 Isso é exatamente o que vamos aprender hoje.

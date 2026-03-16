@@ -176,6 +176,13 @@ Guarde. Cole na parede. Coloque como wallpaper. Leia nos dias difíceis.
 
 Agora vamos ao plano concreto. O **Plano de Vida Aprendiz** é um sistema simples de hábitos e compromissos que torna o LLL uma prática real — não apenas uma intenção.
 
+---
+
+![Sistema Integrado de Estudo e Life Long Learning](../assets/diagramas/sistema-estudo-completo.svg)
+*Figura: Sistema Completo de Estudo — a integração de todos os módulos do curso num sistema de aprendizado sustentável ao longo da vida*
+
+---
+
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                   PLANO DE VIDA APRENDIZ                        ║

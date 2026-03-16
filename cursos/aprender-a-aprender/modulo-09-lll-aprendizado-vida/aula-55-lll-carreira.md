@@ -176,6 +176,13 @@ Desenvolvido originalmente por **Morgan McCall, Robert Eichinger e Michael Lomba
 └──────────────────────────────────────────────────────────────────┘
 ```
 
+---
+
+![Modelo 70-20-10 de Aprendizado Profissional](../assets/diagramas/modelo-70-20-10-aprendizado.svg)
+*Figura: Modelo 70-20-10 de Aprendizagem Profissional — 70% Experiência Prática, 20% Mentoria e Rede, 10% Educação Formal — Centre for Creative Leadership (CCL)*
+
+---
+
 O insight mais importante desse modelo: **a maioria das pessoas faz o inverso**. Investe 70% do tempo em educação formal (cursos, livros) e negligencia a experiência desafiadora e a rede social de aprendizagem — que juntas são responsáveis por 90% do desenvolvimento.
 
 Isso não significa que você deve parar de fazer cursos. Significa que você deve **equilibrar as 3 fontes** intencionalmente.

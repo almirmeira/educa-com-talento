@@ -82,6 +82,13 @@ EXEMPLOS PARA APRENDIZADO:
 └────────────────────────────────────────────────────────┘
 ```
 
+---
+
+![Fórmula e exemplos de Habit Stacking — empilhamento de hábitos](../assets/diagramas/habit-stacking-formula.svg)
+*Figura: Habit Stacking — a fórmula "Depois que [hábito existente] → eu farei [novo hábito]" e 3 exemplos práticos de cadeias de estudo — BJ Fogg & James Clear*
+
+---
+
 Note que o hábito existente funciona como o gatilho automático — sem nenhuma decisão adicional. A cadeia se ativa sozinha.
 
 A condição é que o hábito âncora seja sólido e confiável — algo que você faz virtualmente todo dia, sem exceção. Quanto mais sólido o âncora, mais confiável o empilhamento.

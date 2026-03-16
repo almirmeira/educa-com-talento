@@ -184,6 +184,11 @@ Reaprender é o ciclo que fecha o loop: depois de desaprender o que estava desat
 
 ---
 
+![A Espiral do Life Long Learning — aprender, desaprender e reaprender](../assets/diagramas/lll-espiral-aprendizagem.svg)
+*Figura: A Espiral do Life Long Learning — o ciclo contínuo de aprender, desaprender e reaprender ao longo de toda a vida — Alvin Toffler (1970)*
+
+---
+
 ### Encerramento
 
 Alvin Toffler tinha razão. O analfabeto do século XXI é quem não sabe aprender, desaprender e reaprender.

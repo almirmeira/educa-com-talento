@@ -80,6 +80,13 @@ RECOMPENSA: Informação/novidade (satisfaz o desejo)
 → Loop reforçado: cérebro aprende "notificação → checar"
 ```
 
+---
+
+![Loop do Hábito e as 4 Leis de James Clear](../assets/diagramas/loop-habito-4-leis.svg)
+*Figura: O Loop do Hábito (Gatilho → Desejo → Rotina → Recompensa) e as 4 Leis para criar bons hábitos — James Clear, Hábitos Atômicos*
+
+---
+
 O cérebro aprende esses loops automaticamente. Com repetição suficiente, o loop vai se tornando progressivamente mais automático — exigindo menos energia cognitiva, menos tomada de decisão consciente.
 
 E essa é a chave: **hábitos são loops automáticos**. O objetivo é criar loops automáticos benéficos e eliminar loops automáticos prejudiciais.

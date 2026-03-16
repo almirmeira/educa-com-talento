@@ -63,6 +63,13 @@ Vamos construir seu projeto juntos.
 
 Vou guiar você pelo template do Projeto de Ultralearning. Você vai preencher enquanto assiste (ou imediatamente após).
 
+---
+
+![Template visual do Projeto de Ultralearning de 30 dias](../assets/diagramas/plano-ultralearning-template.svg)
+*Figura: Canvas do Projeto de Ultralearning — as 9 seções do template integrado com os princípios de Scott Young*
+
+---
+
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║          TEMPLATE DO PROJETO DE ULTRALEARNING — 30 DIAS         ║

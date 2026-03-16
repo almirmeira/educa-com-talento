@@ -89,6 +89,13 @@ Note que o tempo sozinho não é o diferencial. Intensidade do foco multiplicada
 
 Newport reconhece que não existe uma forma única de praticar Deep Work. As pessoas têm diferentes responsabilidades, horários e estilos de vida. Então ele descreve quatro modelos, e você vai se identificar com um deles.
 
+---
+
+![Os 4 Modelos de Deep Work — Cal Newport](../assets/diagramas/deep-work-4-modelos.svg)
+*Figura: Os 4 Modelos de Deep Work (Monástico, Bimodal, Rítmico, Jornalístico) — Cal Newport, "Deep Work" (2016)*
+
+---
+
 **Modelo Monástico**
 
 O praticante monástico elimina ou minimiza radicalmente todas as obrigações superficiais e dedica a vida quase inteiramente ao Deep Work.

@@ -143,6 +143,13 @@ Jan: X X X X X X X X X X X X X X X X X _ X X X X X X X X X X X X X
   NUNCA dois _ seguidos (a regra dos 2 minutos garante isso)
 ```
 
+---
+
+![A Corrente da Consistência — Don't Break the Chain de Jerry Seinfeld](../assets/diagramas/dont-break-the-chain.svg)
+*Figura: A Corrente da Consistência — calendário de 30 dias mostrando o impacto de quebrar a corrente e a matemática do estudo diário (20 min/dia × 365 = 122 horas/ano) — Jerry Seinfeld*
+
+---
+
 Esse sistema funciona porque usa o progresso visível como recompensa (Lei 4 de Clear — Torne Satisfatório). A corrente crescendo é satisfatória por si só. E a perspectiva de quebrar uma corrente longa é suficientemente desagradável para motivar o comportamento mesmo em dias difíceis.
 
 Ferramentas para "Don't Break the Chain":

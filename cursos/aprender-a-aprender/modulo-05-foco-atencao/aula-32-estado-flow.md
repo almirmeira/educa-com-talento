@@ -99,6 +99,13 @@ AS 9 CARACTERÍSTICAS DO FLOW
 
 Esse é o modelo visual mais famoso do trabalho de Csikszentmihalyi, e vou te explicar porque ele é absolutamente revelador.
 
+---
+
+![Flow — Gráfico Desafio vs. Habilidade](../assets/diagramas/flow-desafio-habilidade.svg)
+*Figura: Zona de Flow — o equilíbrio entre Desafio e Habilidade — Mihaly Csikszentmihalyi*
+
+---
+
 Imagine um gráfico com dois eixos. O eixo horizontal representa o nível da sua **habilidade** — de baixo (iniciante) a alto (especialista). O eixo vertical representa o nível do **desafio** — de baixo (tarefa fácil) a alto (tarefa extremamente difícil).
 
 O que acontece em diferentes regiões desse gráfico?
