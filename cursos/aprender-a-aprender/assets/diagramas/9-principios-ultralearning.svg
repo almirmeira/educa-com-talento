@@ -3,8 +3,8 @@
   <rect width="900" height="620" fill="#0d1117"/>
 
   <!-- Title -->
-  <text x="450" y="38" font-family="'Courier New', monospace" font-size="24" font-weight="bold" fill="#00d4ff" text-anchor="middle">OS 9 PRINCÍPIOS DO ULTRALEARNING</text>
-  <text x="450" y="58" font-family="'Courier New', monospace" font-size="17" fill="#8b949e" text-anchor="middle">Scott Young — Ultralearning (2019)</text>
+  <text x="450" y="38" font-family="'Courier New', monospace" font-size="20" font-weight="bold" fill="#00d4ff" text-anchor="middle">OS 9 PRINCÍPIOS DO ULTRALEARNING</text>
+  <text x="450" y="58" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" text-anchor="middle">Scott Young — Ultralearning (2019)</text>
 
   <!-- Grid lines -->
   <line x1="30" y1="78" x2="870" y2="78" stroke="#21262d" stroke-width="1"/>
@@ -12,100 +12,100 @@
   <!-- Row 1 -->
   <!-- Cell 1: Metalearning -->
   <rect x="30" y="88" width="270" height="150" rx="8" fill="#161b22" stroke="#00d4ff" stroke-width="2"/>
-  <text x="45" y="112" font-family="'Courier New', monospace" font-size="16" fill="#00d4ff" font-weight="bold">01 — METALEARNING</text>
+  <text x="45" y="112" font-family="'Courier New', monospace" font-size="11" fill="#00d4ff" font-weight="bold">01 — METALEARNING</text>
   <text x="150" y="148" font-family="Arial, sans-serif" font-size="36" fill="#00d4ff" opacity="0.25" text-anchor="middle">🗺</text>
-  <text x="150" y="152" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Mapeie o terreno</text>
-  <text x="150" y="168" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">antes de começar</text>
-  <text x="150" y="190" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">A regra de 10%:</text>
-  <text x="150" y="205" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">planeje antes de agir</text>
+  <text x="150" y="152" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Mapeie o terreno</text>
+  <text x="150" y="168" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">antes de começar</text>
+  <text x="150" y="190" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">A regra de 10%:</text>
+  <text x="150" y="205" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">planeje antes de agir</text>
   <!-- Nº badge -->
   <circle cx="285" cy="103" r="14" fill="#00d4ff"/>
-  <text x="285" y="108" font-family="'Courier New', monospace" font-size="17" fill="#0d1117" font-weight="bold" text-anchor="middle">1</text>
+  <text x="285" y="108" font-family="'Courier New', monospace" font-size="12" fill="#0d1117" font-weight="bold" text-anchor="middle">1</text>
 
   <!-- Cell 2: Focus -->
   <rect x="315" y="88" width="270" height="150" rx="8" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
-  <text x="330" y="112" font-family="'Courier New', monospace" font-size="16" fill="#3fb950" font-weight="bold">02 — FOCUS</text>
-  <text x="450" y="152" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Atenção profunda</text>
-  <text x="450" y="168" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">como ingrediente</text>
-  <text x="450" y="184" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">fundamental</text>
-  <text x="450" y="205" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">3 problemas de foco + soluções</text>
+  <text x="330" y="112" font-family="'Courier New', monospace" font-size="11" fill="#3fb950" font-weight="bold">02 — FOCUS</text>
+  <text x="450" y="152" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Atenção profunda</text>
+  <text x="450" y="168" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">como ingrediente</text>
+  <text x="450" y="184" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">fundamental</text>
+  <text x="450" y="205" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">3 problemas de foco + soluções</text>
   <circle cx="570" cy="103" r="14" fill="#3fb950"/>
-  <text x="570" y="108" font-family="'Courier New', monospace" font-size="17" fill="#0d1117" font-weight="bold" text-anchor="middle">2</text>
+  <text x="570" y="108" font-family="'Courier New', monospace" font-size="12" fill="#0d1117" font-weight="bold" text-anchor="middle">2</text>
 
   <!-- Cell 3: Directness -->
   <rect x="600" y="88" width="270" height="150" rx="8" fill="#161b22" stroke="#f78166" stroke-width="2"/>
-  <text x="615" y="112" font-family="'Courier New', monospace" font-size="16" fill="#f78166" font-weight="bold">03 — DIRECTNESS</text>
-  <text x="735" y="152" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Aprenda como</text>
-  <text x="735" y="168" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">vai usar na prática</text>
-  <text x="735" y="190" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">Elimine o Transfer</text>
-  <text x="735" y="205" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">Problem</text>
+  <text x="615" y="112" font-family="'Courier New', monospace" font-size="11" fill="#f78166" font-weight="bold">03 — DIRECTNESS</text>
+  <text x="735" y="152" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Aprenda como</text>
+  <text x="735" y="168" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">vai usar na prática</text>
+  <text x="735" y="190" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Elimine o Transfer</text>
+  <text x="735" y="205" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Problem</text>
   <circle cx="855" cy="103" r="14" fill="#f78166"/>
-  <text x="855" y="108" font-family="'Courier New', monospace" font-size="17" fill="#0d1117" font-weight="bold" text-anchor="middle">3</text>
+  <text x="855" y="108" font-family="'Courier New', monospace" font-size="12" fill="#0d1117" font-weight="bold" text-anchor="middle">3</text>
 
   <!-- Row 2 -->
   <!-- Cell 4: Drill -->
   <rect x="30" y="253" width="270" height="150" rx="8" fill="#161b22" stroke="#d29922" stroke-width="2"/>
-  <text x="45" y="277" font-family="'Courier New', monospace" font-size="16" fill="#d29922" font-weight="bold">04 — DRILL</text>
-  <text x="150" y="317" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Ataque o gargalo</text>
-  <text x="150" y="333" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">com prática</text>
-  <text x="150" y="349" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">deliberada</text>
-  <text x="150" y="370" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">Direct → Drill → Integrate</text>
+  <text x="45" y="277" font-family="'Courier New', monospace" font-size="11" fill="#d29922" font-weight="bold">04 — DRILL</text>
+  <text x="150" y="317" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Ataque o gargalo</text>
+  <text x="150" y="333" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">com prática</text>
+  <text x="150" y="349" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">deliberada</text>
+  <text x="150" y="370" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Direct → Drill → Integrate</text>
   <circle cx="285" cy="268" r="14" fill="#d29922"/>
-  <text x="285" y="273" font-family="'Courier New', monospace" font-size="17" fill="#0d1117" font-weight="bold" text-anchor="middle">4</text>
+  <text x="285" y="273" font-family="'Courier New', monospace" font-size="12" fill="#0d1117" font-weight="bold" text-anchor="middle">4</text>
 
   <!-- Cell 5: Retrieval — destaque -->
   <rect x="315" y="253" width="270" height="150" rx="8" fill="#1a2332" stroke="#00d4ff" stroke-width="3"/>
-  <text x="330" y="277" font-family="'Courier New', monospace" font-size="16" fill="#00d4ff" font-weight="bold">05 — RETRIEVAL ★</text>
-  <text x="450" y="317" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Teste-se para</text>
-  <text x="450" y="333" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">aprender — não</text>
-  <text x="450" y="349" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">para avaliar</text>
-  <text x="450" y="370" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">Testing Effect comprovado</text>
+  <text x="330" y="277" font-family="'Courier New', monospace" font-size="11" fill="#00d4ff" font-weight="bold">05 — RETRIEVAL ★</text>
+  <text x="450" y="317" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Teste-se para</text>
+  <text x="450" y="333" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">aprender — não</text>
+  <text x="450" y="349" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">para avaliar</text>
+  <text x="450" y="370" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Testing Effect comprovado</text>
   <circle cx="570" cy="268" r="14" fill="#00d4ff"/>
-  <text x="570" y="273" font-family="'Courier New', monospace" font-size="17" fill="#0d1117" font-weight="bold" text-anchor="middle">5</text>
+  <text x="570" y="273" font-family="'Courier New', monospace" font-size="12" fill="#0d1117" font-weight="bold" text-anchor="middle">5</text>
 
   <!-- Cell 6: Feedback -->
   <rect x="600" y="253" width="270" height="150" rx="8" fill="#161b22" stroke="#bc8cff" stroke-width="2"/>
-  <text x="615" y="277" font-family="'Courier New', monospace" font-size="16" fill="#bc8cff" font-weight="bold">06 — FEEDBACK</text>
-  <text x="735" y="317" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Busque retorno</text>
-  <text x="735" y="333" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">corretivo</text>
-  <text x="735" y="349" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">ativamente</text>
-  <text x="735" y="370" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">Outcome→Info→Corretivo</text>
+  <text x="615" y="277" font-family="'Courier New', monospace" font-size="11" fill="#bc8cff" font-weight="bold">06 — FEEDBACK</text>
+  <text x="735" y="317" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Busque retorno</text>
+  <text x="735" y="333" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">corretivo</text>
+  <text x="735" y="349" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">ativamente</text>
+  <text x="735" y="370" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Outcome→Info→Corretivo</text>
   <circle cx="855" cy="268" r="14" fill="#bc8cff"/>
-  <text x="855" y="273" font-family="'Courier New', monospace" font-size="17" fill="#0d1117" font-weight="bold" text-anchor="middle">6</text>
+  <text x="855" y="273" font-family="'Courier New', monospace" font-size="12" fill="#0d1117" font-weight="bold" text-anchor="middle">6</text>
 
   <!-- Row 3 -->
   <!-- Cell 7: Retention -->
   <rect x="30" y="418" width="270" height="150" rx="8" fill="#161b22" stroke="#56d364" stroke-width="2"/>
-  <text x="45" y="442" font-family="'Courier New', monospace" font-size="16" fill="#56d364" font-weight="bold">07 — RETENTION</text>
-  <text x="150" y="482" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Construa sistemas</text>
-  <text x="150" y="498" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">para não esquecer</text>
-  <text x="150" y="530" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">Espaçamento + Procedimentalização</text>
-  <text x="150" y="545" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">+ Overlearning</text>
+  <text x="45" y="442" font-family="'Courier New', monospace" font-size="11" fill="#56d364" font-weight="bold">07 — RETENTION</text>
+  <text x="150" y="482" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Construa sistemas</text>
+  <text x="150" y="498" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">para não esquecer</text>
+  <text x="150" y="530" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Espaçamento + Procedimentalização</text>
+  <text x="150" y="545" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">+ Overlearning</text>
   <circle cx="285" cy="433" r="14" fill="#56d364"/>
-  <text x="285" y="438" font-family="'Courier New', monospace" font-size="17" fill="#0d1117" font-weight="bold" text-anchor="middle">7</text>
+  <text x="285" y="438" font-family="'Courier New', monospace" font-size="12" fill="#0d1117" font-weight="bold" text-anchor="middle">7</text>
 
   <!-- Cell 8: Intuition — destaque -->
   <rect x="315" y="418" width="270" height="150" rx="8" fill="#1a2332" stroke="#00d4ff" stroke-width="3"/>
-  <text x="330" y="442" font-family="'Courier New', monospace" font-size="16" fill="#00d4ff" font-weight="bold">08 — INTUIÇÃO ★</text>
-  <text x="450" y="482" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Compreensão</text>
-  <text x="450" y="498" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">profunda via</text>
-  <text x="450" y="514" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Técnica Feynman</text>
-  <text x="450" y="545" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">Nunca avance sem entender</text>
+  <text x="330" y="442" font-family="'Courier New', monospace" font-size="11" fill="#00d4ff" font-weight="bold">08 — INTUIÇÃO ★</text>
+  <text x="450" y="482" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Compreensão</text>
+  <text x="450" y="498" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">profunda via</text>
+  <text x="450" y="514" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Técnica Feynman</text>
+  <text x="450" y="545" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Nunca avance sem entender</text>
   <circle cx="570" cy="433" r="14" fill="#00d4ff"/>
-  <text x="570" y="438" font-family="'Courier New', monospace" font-size="17" fill="#0d1117" font-weight="bold" text-anchor="middle">8</text>
+  <text x="570" y="438" font-family="'Courier New', monospace" font-size="12" fill="#0d1117" font-weight="bold" text-anchor="middle">8</text>
 
   <!-- Cell 9: Experimentation -->
   <rect x="600" y="418" width="270" height="150" rx="8" fill="#161b22" stroke="#ff7b72" stroke-width="2"/>
-  <text x="615" y="442" font-family="'Courier New', monospace" font-size="16" fill="#ff7b72" font-weight="bold">09 — EXPERIMENTAÇÃO</text>
-  <text x="735" y="482" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Crie seus próprios</text>
-  <text x="735" y="498" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">métodos e</text>
-  <text x="735" y="514" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">abordagens</text>
-  <text x="735" y="545" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">Copiar → Adaptar → Criar</text>
+  <text x="615" y="442" font-family="'Courier New', monospace" font-size="11" fill="#ff7b72" font-weight="bold">09 — EXPERIMENTAÇÃO</text>
+  <text x="735" y="482" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Crie seus próprios</text>
+  <text x="735" y="498" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">métodos e</text>
+  <text x="735" y="514" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">abordagens</text>
+  <text x="735" y="545" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Copiar → Adaptar → Criar</text>
   <circle cx="855" cy="433" r="14" fill="#ff7b72"/>
-  <text x="855" y="438" font-family="'Courier New', monospace" font-size="17" fill="#0d1117" font-weight="bold" text-anchor="middle">9</text>
+  <text x="855" y="438" font-family="'Courier New', monospace" font-size="12" fill="#0d1117" font-weight="bold" text-anchor="middle">9</text>
 
   <!-- Footer -->
   <line x1="30" y1="582" x2="870" y2="582" stroke="#21262d" stroke-width="1"/>
-  <text x="450" y="600" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">Curso "Aprender a Aprender" — Educa com Talento | Módulo 8 — Ultralearning</text>
-  <text x="450" y="614" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">★ = Princípios considerados mais impactantes para iniciantes</text>
+  <text x="450" y="600" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Curso "Aprender a Aprender" — Educa com Talento | Módulo 8 — Ultralearning</text>
+  <text x="450" y="614" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">★ = Princípios considerados mais impactantes para iniciantes</text>
 </svg>

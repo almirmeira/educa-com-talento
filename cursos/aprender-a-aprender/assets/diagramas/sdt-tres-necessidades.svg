@@ -3,8 +3,8 @@
   <rect width="900" height="500" fill="#1a1a2e"/>
 
   <!-- Title -->
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#e0e0e0">Teoria da Autodeterminação — Deci &amp; Ryan</text>
-  <text x="450" y="61" text-anchor="middle" font-size="16" fill="#a0a0b0">University of Rochester (1985)</text>
+  <text x="450" y="38" text-anchor="middle" font-size="14" font-weight="bold" fill="#e0e0e0">Teoria da Autodeterminação — Deci &amp; Ryan</text>
+  <text x="450" y="61" text-anchor="middle" font-size="12" fill="#a0a0b0">University of Rochester (1985)</text>
 
   <!-- Three overlapping circles -->
   <!-- AUTONOMIA (cyan) - top-left -->
@@ -15,22 +15,22 @@
   <circle cx="450" cy="360" r="140" fill="#26de81" opacity="0.18" stroke="#26de81" stroke-width="2.5"/>
 
   <!-- Center label (overlap of all three) -->
-  <text x="450" y="285" text-anchor="middle" font-size="16" font-weight="bold" fill="#e0e0e0">MOTIVAÇÃO</text>
-  <text x="450" y="305" text-anchor="middle" font-size="16" font-weight="bold" fill="#e0e0e0">INTRÍNSECA</text>
+  <text x="450" y="285" text-anchor="middle" font-size="12" font-weight="bold" fill="#e0e0e0">MOTIVAÇÃO</text>
+  <text x="450" y="305" text-anchor="middle" font-size="12" font-weight="bold" fill="#e0e0e0">INTRÍNSECA</text>
 
   <!-- AUTONOMIA label (top-left, outside) -->
-  <text x="248" y="165" text-anchor="middle" font-size="20" font-weight="bold" fill="#00d4ff">AUTONOMIA</text>
-  <text x="248" y="188" text-anchor="middle" font-size="14" fill="#00d4ff">Controle sobre o</text>
-  <text x="248" y="207" text-anchor="middle" font-size="14" fill="#00d4ff">próprio aprendizado</text>
+  <text x="248" y="165" text-anchor="middle" font-size="13" font-weight="bold" fill="#00d4ff">AUTONOMIA</text>
+  <text x="248" y="188" text-anchor="middle" font-size="12" fill="#00d4ff">Controle sobre o</text>
+  <text x="248" y="207" text-anchor="middle" font-size="12" fill="#00d4ff">próprio aprendizado</text>
 
   <!-- COMPETENCIA label (top-right, outside) -->
-  <text x="653" y="165" text-anchor="middle" font-size="20" font-weight="bold" fill="#ff9f43">COMPETÊNCIA</text>
-  <text x="653" y="188" text-anchor="middle" font-size="14" fill="#ff9f43">Sentir que está</text>
-  <text x="653" y="207" text-anchor="middle" font-size="14" fill="#ff9f43">progredindo</text>
+  <text x="653" y="165" text-anchor="middle" font-size="13" font-weight="bold" fill="#ff9f43">COMPETÊNCIA</text>
+  <text x="653" y="188" text-anchor="middle" font-size="12" fill="#ff9f43">Sentir que está</text>
+  <text x="653" y="207" text-anchor="middle" font-size="12" fill="#ff9f43">progredindo</text>
 
   <!-- PERTENCIMENTO label (bottom-center, outside) -->
-  <text x="450" y="463" text-anchor="middle" font-size="20" font-weight="bold" fill="#26de81">PERTENCIMENTO</text>
-  <text x="450" y="483" text-anchor="middle" font-size="14" fill="#26de81">Conexão com outros que aprendem</text>
+  <text x="450" y="463" text-anchor="middle" font-size="13" font-weight="bold" fill="#26de81">PERTENCIMENTO</text>
+  <text x="450" y="483" text-anchor="middle" font-size="12" fill="#26de81">Conexão com outros que aprendem</text>
 
   <!-- Pairwise overlap labels -->
   <!-- Autonomia + Competência (top center) -->
@@ -47,12 +47,12 @@
 
   <!-- Bottom info box -->
   <rect x="60" y="78" width="240" height="56" rx="8" fill="#00d4ff" opacity="0.10" stroke="#00d4ff" stroke-width="1"/>
-  <text x="180" y="100" text-anchor="middle" font-size="14" fill="#00d4ff">Quando SATISFEITAS:</text>
+  <text x="180" y="100" text-anchor="middle" font-size="12" fill="#00d4ff">Quando SATISFEITAS:</text>
   <text x="180" y="119" text-anchor="middle" font-size="13" fill="#e0e0e0">Motivação intrínseca</text>
   <text x="180" y="135" text-anchor="middle" font-size="13" fill="#e0e0e0">Bem-estar psicológico</text>
 
   <rect x="600" y="78" width="240" height="56" rx="8" fill="#ff6b6b" opacity="0.10" stroke="#ff6b6b" stroke-width="1"/>
-  <text x="720" y="100" text-anchor="middle" font-size="14" fill="#ff6b6b">Quando FRUSTRADAS:</text>
+  <text x="720" y="100" text-anchor="middle" font-size="12" fill="#ff6b6b">Quando FRUSTRADAS:</text>
   <text x="720" y="119" text-anchor="middle" font-size="13" fill="#e0e0e0">Amotivação</text>
   <text x="720" y="135" text-anchor="middle" font-size="13" fill="#e0e0e0">Abandono da atividade</text>
 </svg>

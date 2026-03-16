@@ -4,16 +4,16 @@
 
   <!-- Title -->
   <text x="400" y="38" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#e0e0e0" text-anchor="middle">O Neurônio Dendrítico — Prof. Pierluigi Piazzi</text>
-  <text x="400" y="58" font-family="'Courier New', monospace" font-size="17" fill="#7070a0" text-anchor="middle">"Neurônios que disparam juntos, conectam-se juntos" — Donald Hebb</text>
+  <text x="400" y="58" font-family="'Courier New', monospace" font-size="12" fill="#7070a0" text-anchor="middle">"Neurônios que disparam juntos, conectam-se juntos" — Donald Hebb</text>
 
   <!-- Central neuron body -->
   <circle cx="400" cy="360" r="72" fill="#0f3460" stroke="#c9a000" stroke-width="3"/>
   <circle cx="400" cy="360" r="58" fill="#16213e" stroke="#ffd700" stroke-width="1.5" stroke-dasharray="4,3"/>
 
   <!-- Central text -->
-  <text x="400" y="348" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#ffd700" text-anchor="middle">CONCEITO</text>
-  <text x="400" y="364" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#ffd700" text-anchor="middle">CENTRAL</text>
-  <text x="400" y="384" font-family="'Courier New', monospace" font-size="16" fill="#b09000" text-anchor="middle">ex: Lei de Newton</text>
+  <text x="400" y="348" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#ffd700" text-anchor="middle">CONCEITO</text>
+  <text x="400" y="364" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#ffd700" text-anchor="middle">CENTRAL</text>
+  <text x="400" y="384" font-family="'Courier New', monospace" font-size="11" fill="#b09000" text-anchor="middle">ex: Lei de Newton</text>
 
   <!-- === DENDRÍTICO 1 — EXEMPLOS (top-center) === -->
   <!-- Synapse node -->
@@ -24,77 +24,77 @@
   <rect x="320" y="105" width="160" height="62" fill="#0d2137" rx="10" stroke="#00d4ff" stroke-width="1.5"/>
   <!-- Line to box -->
   <line x1="400" y1="215" x2="400" y2="167" stroke="#00d4ff" stroke-width="1.5"/>
-  <text x="400" y="126" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#00d4ff" text-anchor="middle">EXEMPLOS</text>
-  <text x="400" y="143" font-family="'Courier New', monospace" font-size="15" fill="#80c8e0" text-anchor="middle">Carro acelerando</text>
-  <text x="400" y="158" font-family="'Courier New', monospace" font-size="15" fill="#80c8e0" text-anchor="middle">Foguete / Pedra caindo</text>
+  <text x="400" y="126" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#00d4ff" text-anchor="middle">EXEMPLOS</text>
+  <text x="400" y="143" font-family="'Courier New', monospace" font-size="10" fill="#80c8e0" text-anchor="middle">Carro acelerando</text>
+  <text x="400" y="158" font-family="'Courier New', monospace" font-size="10" fill="#80c8e0" text-anchor="middle">Foguete / Pedra caindo</text>
 
   <!-- === DENDRÍTICO 2 — APLICAÇÕES (top-right) === -->
   <circle cx="498" cy="240" r="10" fill="#00ff88" stroke="#1a1a2e" stroke-width="1.5"/>
   <line x1="459" y1="305" x2="490" y2="248" stroke="#00ff88" stroke-width="2.5"/>
   <rect x="545" y="115" width="170" height="62" fill="#0d3020" rx="10" stroke="#00ff88" stroke-width="1.5"/>
   <line x1="498" y1="240" x2="550" y2="177" stroke="#00ff88" stroke-width="1.5"/>
-  <text x="630" y="136" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#00ff88" text-anchor="middle">APLICAÇÕES</text>
-  <text x="630" y="153" font-family="'Courier New', monospace" font-size="15" fill="#70c890" text-anchor="middle">Engenharia / Aviação</text>
-  <text x="630" y="168" font-family="'Courier New', monospace" font-size="15" fill="#70c890" text-anchor="middle">Biomecânica esportiva</text>
+  <text x="630" y="136" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#00ff88" text-anchor="middle">APLICAÇÕES</text>
+  <text x="630" y="153" font-family="'Courier New', monospace" font-size="10" fill="#70c890" text-anchor="middle">Engenharia / Aviação</text>
+  <text x="630" y="168" font-family="'Courier New', monospace" font-size="10" fill="#70c890" text-anchor="middle">Biomecânica esportiva</text>
 
   <!-- === DENDRÍTICO 3 — FÓRMULA (right) === -->
   <circle cx="540" cy="360" r="10" fill="#ff9f43" stroke="#1a1a2e" stroke-width="1.5"/>
   <line x1="472" y1="360" x2="530" y2="360" stroke="#ff9f43" stroke-width="2.5"/>
   <rect x="560" y="300" width="175" height="76" fill="#2a1a05" rx="10" stroke="#ff9f43" stroke-width="1.5"/>
   <line x1="540" y1="360" x2="560" y2="350" stroke="#ff9f43" stroke-width="1.5"/>
-  <text x="647" y="323" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#ff9f43" text-anchor="middle">FÓRMULA</text>
-  <text x="647" y="341" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#ffcf93" text-anchor="middle">F = m · a</text>
-  <text x="647" y="358" font-family="'Courier New', monospace" font-size="15" fill="#c07030" text-anchor="middle">Força = massa × aceleração</text>
-  <text x="647" y="372" font-family="'Courier New', monospace" font-size="15" fill="#c07030" text-anchor="middle">[N = kg · m/s²]</text>
+  <text x="647" y="323" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#ff9f43" text-anchor="middle">FÓRMULA</text>
+  <text x="647" y="341" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#ffcf93" text-anchor="middle">F = m · a</text>
+  <text x="647" y="358" font-family="'Courier New', monospace" font-size="10" fill="#c07030" text-anchor="middle">Força = massa × aceleração</text>
+  <text x="647" y="372" font-family="'Courier New', monospace" font-size="10" fill="#c07030" text-anchor="middle">[N = kg · m/s²]</text>
 
   <!-- === DENDRÍTICO 4 — EXERCÍCIOS (bottom-right) === -->
   <circle cx="498" cy="480" r="10" fill="#ff6b9d" stroke="#1a1a2e" stroke-width="1.5"/>
   <line x1="459" y1="415" x2="490" y2="472" stroke="#ff6b9d" stroke-width="2.5"/>
   <rect x="545" y="508" width="170" height="62" fill="#2a0a1a" rx="10" stroke="#ff6b9d" stroke-width="1.5"/>
   <line x1="498" y1="480" x2="545" y2="520" stroke="#ff6b9d" stroke-width="1.5"/>
-  <text x="630" y="529" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#ff6b9d" text-anchor="middle">EXERCÍCIOS</text>
-  <text x="630" y="546" font-family="'Courier New', monospace" font-size="15" fill="#d08098" text-anchor="middle">Resolver 10 problemas</text>
-  <text x="630" y="561" font-family="'Courier New', monospace" font-size="15" fill="#d08098" text-anchor="middle">variados com F=ma</text>
+  <text x="630" y="529" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#ff6b9d" text-anchor="middle">EXERCÍCIOS</text>
+  <text x="630" y="546" font-family="'Courier New', monospace" font-size="10" fill="#d08098" text-anchor="middle">Resolver 10 problemas</text>
+  <text x="630" y="561" font-family="'Courier New', monospace" font-size="10" fill="#d08098" text-anchor="middle">variados com F=ma</text>
 
   <!-- === DENDRÍTICO 5 — VISUALIZAÇÃO (bottom-center) === -->
   <circle cx="400" cy="505" r="10" fill="#a855f7" stroke="#1a1a2e" stroke-width="1.5"/>
   <line x1="400" y1="432" x2="400" y2="495" stroke="#a855f7" stroke-width="2.5"/>
   <rect x="318" y="530" width="164" height="62" fill="#1e0a2e" rx="10" stroke="#a855f7" stroke-width="1.5"/>
   <line x1="400" y1="505" x2="400" y2="530" stroke="#a855f7" stroke-width="1.5"/>
-  <text x="400" y="551" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#a855f7" text-anchor="middle">VISUALIZAÇÃO</text>
-  <text x="400" y="568" font-family="'Courier New', monospace" font-size="15" fill="#b890e0" text-anchor="middle">Diagrama vetor força</text>
-  <text x="400" y="583" font-family="'Courier New', monospace" font-size="15" fill="#b890e0" text-anchor="middle">Animação corpo em queda</text>
+  <text x="400" y="551" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#a855f7" text-anchor="middle">VISUALIZAÇÃO</text>
+  <text x="400" y="568" font-family="'Courier New', monospace" font-size="10" fill="#b890e0" text-anchor="middle">Diagrama vetor força</text>
+  <text x="400" y="583" font-family="'Courier New', monospace" font-size="10" fill="#b890e0" text-anchor="middle">Animação corpo em queda</text>
 
   <!-- === DENDRÍTICO 6 — CONTRAEXEMPLOS (bottom-left) === -->
   <circle cx="302" cy="480" r="10" fill="#ffd700" stroke="#1a1a2e" stroke-width="1.5"/>
   <line x1="341" y1="415" x2="310" y2="472" stroke="#ffd700" stroke-width="2.5"/>
   <rect x="85" y="508" width="175" height="62" fill="#2a2005" rx="10" stroke="#ffd700" stroke-width="1.5"/>
   <line x1="302" y1="480" x2="260" y2="520" stroke="#ffd700" stroke-width="1.5"/>
-  <text x="172" y="529" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#ffd700" text-anchor="middle">CONTRAE XEMPLOS</text>
-  <text x="172" y="546" font-family="'Courier New', monospace" font-size="15" fill="#c0a040" text-anchor="middle">Queda livre (F gravity)</text>
-  <text x="172" y="561" font-family="'Courier New', monospace" font-size="15" fill="#c0a040" text-anchor="middle">Atrito (força oposta)</text>
+  <text x="172" y="529" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#ffd700" text-anchor="middle">CONTRAE XEMPLOS</text>
+  <text x="172" y="546" font-family="'Courier New', monospace" font-size="10" fill="#c0a040" text-anchor="middle">Queda livre (F gravity)</text>
+  <text x="172" y="561" font-family="'Courier New', monospace" font-size="10" fill="#c0a040" text-anchor="middle">Atrito (força oposta)</text>
 
   <!-- === DENDRÍTICO 7 — CONEXÕES (left) === -->
   <circle cx="260" cy="360" r="10" fill="#38bdf8" stroke="#1a1a2e" stroke-width="1.5"/>
   <line x1="328" y1="360" x2="270" y2="360" stroke="#38bdf8" stroke-width="2.5"/>
   <rect x="65" y="300" width="175" height="76" fill="#0a1e2e" rx="10" stroke="#38bdf8" stroke-width="1.5"/>
   <line x1="260" y1="360" x2="240" y2="350" stroke="#38bdf8" stroke-width="1.5"/>
-  <text x="152" y="322" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#38bdf8" text-anchor="middle">CONEXÕES</text>
-  <text x="152" y="339" font-family="'Courier New', monospace" font-size="15" fill="#70a8c8" text-anchor="middle">3ª Lei (ação-reação)</text>
-  <text x="152" y="356" font-family="'Courier New', monospace" font-size="15" fill="#70a8c8" text-anchor="middle">Galileu (inércia)</text>
-  <text x="152" y="372" font-family="'Courier New', monospace" font-size="15" fill="#70a8c8" text-anchor="middle">Energia cinética</text>
+  <text x="152" y="322" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#38bdf8" text-anchor="middle">CONEXÕES</text>
+  <text x="152" y="339" font-family="'Courier New', monospace" font-size="10" fill="#70a8c8" text-anchor="middle">3ª Lei (ação-reação)</text>
+  <text x="152" y="356" font-family="'Courier New', monospace" font-size="10" fill="#70a8c8" text-anchor="middle">Galileu (inércia)</text>
+  <text x="152" y="372" font-family="'Courier New', monospace" font-size="10" fill="#70a8c8" text-anchor="middle">Energia cinética</text>
 
   <!-- === DENDRÍTICO 8 — HISTÓRIA (top-left) === -->
   <circle cx="302" cy="240" r="10" fill="#fb7185" stroke="#1a1a2e" stroke-width="1.5"/>
   <line x1="341" y1="305" x2="310" y2="248" stroke="#fb7185" stroke-width="2.5"/>
   <rect x="85" y="115" width="175" height="62" fill="#2a0a12" rx="10" stroke="#fb7185" stroke-width="1.5"/>
   <line x1="302" y1="240" x2="260" y2="177" stroke="#fb7185" stroke-width="1.5"/>
-  <text x="172" y="136" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#fb7185" text-anchor="middle">HISTÓRIA</text>
-  <text x="172" y="153" font-family="'Courier New', monospace" font-size="15" fill="#d06070" text-anchor="middle">Newton, 1687</text>
-  <text x="172" y="168" font-family="'Courier New', monospace" font-size="15" fill="#d06070" text-anchor="middle">Principia Mathematica</text>
+  <text x="172" y="136" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#fb7185" text-anchor="middle">HISTÓRIA</text>
+  <text x="172" y="153" font-family="'Courier New', monospace" font-size="10" fill="#d06070" text-anchor="middle">Newton, 1687</text>
+  <text x="172" y="168" font-family="'Courier New', monospace" font-size="10" fill="#d06070" text-anchor="middle">Principia Mathematica</text>
 
   <!-- Legend / Footer -->
   <rect x="100" y="648" width="600" height="40" fill="#0f3460" rx="8"/>
-  <text x="400" y="663" font-family="'Courier New', monospace" font-size="16" fill="#a0c0ff" text-anchor="middle">Mais dendríticos = mais caminhos de acesso = menor probabilidade de esquecer</text>
-  <text x="400" y="680" font-family="'Courier New', monospace" font-size="15" fill="#607090" text-anchor="middle">Revisão ativa cria dendríticos. Releitura passiva não cria. — Prof. Piazzi</text>
+  <text x="400" y="663" font-family="'Courier New', monospace" font-size="11" fill="#a0c0ff" text-anchor="middle">Mais dendríticos = mais caminhos de acesso = menor probabilidade de esquecer</text>
+  <text x="400" y="680" font-family="'Courier New', monospace" font-size="10" fill="#607090" text-anchor="middle">Revisão ativa cria dendríticos. Releitura passiva não cria. — Prof. Piazzi</text>
 </svg>

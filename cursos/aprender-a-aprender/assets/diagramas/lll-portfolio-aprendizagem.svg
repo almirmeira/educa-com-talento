@@ -3,13 +3,13 @@
   <rect width="900" height="520" fill="#1a1a2e"/>
 
   <!-- Title -->
-  <text x="450" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#e0e0e0">Portfólio de Aprendizagem: Tornando o Conhecimento Visível</text>
-  <text x="450" y="56" text-anchor="middle" font-size="16" fill="#a0a0b0">Learn in Public — Shawn Wang</text>
+  <text x="450" y="34" text-anchor="middle" font-size="14" font-weight="bold" fill="#e0e0e0">Portfólio de Aprendizagem: Tornando o Conhecimento Visível</text>
+  <text x="450" y="56" text-anchor="middle" font-size="12" fill="#a0a0b0">Learn in Public — Shawn Wang</text>
 
   <!-- Central hub -->
   <circle cx="450" cy="270" r="68" fill="#00d4ff" opacity="0.18" stroke="#00d4ff" stroke-width="2.5"/>
-  <text x="450" y="258" text-anchor="middle" font-size="15" font-weight="bold" fill="#00d4ff">Portfólio de</text>
-  <text x="450" y="278" text-anchor="middle" font-size="15" font-weight="bold" fill="#00d4ff">Aprendizagem</text>
+  <text x="450" y="258" text-anchor="middle" font-size="12" font-weight="bold" fill="#00d4ff">Portfólio de</text>
+  <text x="450" y="278" text-anchor="middle" font-size="12" font-weight="bold" fill="#00d4ff">Aprendizagem</text>
   <text x="450" y="298" text-anchor="middle" font-size="13" fill="#e0e0e0">Conhecimento</text>
   <text x="450" y="314" text-anchor="middle" font-size="13" fill="#e0e0e0">visível</text>
 
@@ -17,8 +17,8 @@
   <line x1="395" y1="218" x2="258" y2="143" stroke="#00d4ff" stroke-width="2" stroke-dasharray="6,3"/>
   <rect x="130" y="88" width="200" height="90" rx="10" fill="#00d4ff" opacity="0.14" stroke="#00d4ff" stroke-width="1.5"/>
   <!-- Pen icon approximation -->
-  <text x="148" y="116" font-size="22" fill="#00d4ff">✏</text>
-  <text x="175" y="116" font-size="16" font-weight="bold" fill="#00d4ff">Blog / Artigos</text>
+  <text x="148" y="116" font-size="14" fill="#00d4ff">✏</text>
+  <text x="175" y="116" font-size="12" font-weight="bold" fill="#00d4ff">Blog / Artigos</text>
   <text x="148" y="138" font-size="13" fill="#e0e0e0">Medium, Substack,</text>
   <text x="148" y="155" font-size="13" fill="#e0e0e0">LinkedIn Articles</text>
   <text x="148" y="168" font-size="12" fill="#a0a0b0">1 artigo/semana ou quinzena</text>
@@ -27,8 +27,8 @@
   <line x1="505" y1="218" x2="642" y2="143" stroke="#ff9f43" stroke-width="2" stroke-dasharray="6,3"/>
   <rect x="570" y="88" width="200" height="90" rx="10" fill="#ff9f43" opacity="0.14" stroke="#ff9f43" stroke-width="1.5"/>
   <!-- Code icon -->
-  <text x="588" y="116" font-size="22" fill="#ff9f43">&lt;/&gt;</text>
-  <text x="620" y="116" font-size="16" font-weight="bold" fill="#ff9f43">GitHub / Projetos</text>
+  <text x="588" y="116" font-size="14" fill="#ff9f43">&lt;/&gt;</text>
+  <text x="620" y="116" font-size="12" font-weight="bold" fill="#ff9f43">GitHub / Projetos</text>
   <text x="588" y="138" font-size="13" fill="#e0e0e0">Portfólio de código,</text>
   <text x="588" y="155" font-size="13" fill="#e0e0e0">projetos funcionais</text>
   <text x="588" y="168" font-size="12" fill="#a0a0b0">README claro em cada projeto</text>
@@ -37,8 +37,8 @@
   <line x1="518" y1="270" x2="660" y2="270" stroke="#26de81" stroke-width="2" stroke-dasharray="6,3"/>
   <rect x="660" y="228" width="200" height="86" rx="10" fill="#26de81" opacity="0.14" stroke="#26de81" stroke-width="1.5"/>
   <!-- Network icon -->
-  <text x="678" y="258" font-size="22" fill="#26de81">⬡</text>
-  <text x="706" y="258" font-size="16" font-weight="bold" fill="#26de81">LinkedIn</text>
+  <text x="678" y="258" font-size="14" fill="#26de81">⬡</text>
+  <text x="706" y="258" font-size="12" font-weight="bold" fill="#26de81">LinkedIn</text>
   <text x="678" y="280" font-size="13" fill="#e0e0e0">Diário de aprendizagem</text>
   <text x="678" y="297" font-size="13" fill="#e0e0e0">profissional público</text>
   <text x="678" y="308" font-size="12" fill="#a0a0b0">Insights, marcos, reflexões</text>
@@ -47,8 +47,8 @@
   <line x1="495" y1="326" x2="612" y2="397" stroke="#ff9f43" stroke-width="2" stroke-dasharray="6,3"/>
   <rect x="560" y="368" width="220" height="88" rx="10" fill="#ff9f43" opacity="0.14" stroke="#ff9f43" stroke-width="1.5"/>
   <!-- Notes icon -->
-  <text x="578" y="398" font-size="22" fill="#ff9f43">📝</text>
-  <text x="606" y="398" font-size="15" font-weight="bold" fill="#ff9f43">Obsidian / Zettelkasten</text>
+  <text x="578" y="398" font-size="14" fill="#ff9f43">📝</text>
+  <text x="606" y="398" font-size="12" font-weight="bold" fill="#ff9f43">Obsidian / Zettelkasten</text>
   <text x="578" y="420" font-size="13" fill="#e0e0e0">Base de conhecimento</text>
   <text x="578" y="437" font-size="13" fill="#e0e0e0">pessoal e conectada</text>
   <text x="578" y="448" font-size="12" fill="#a0a0b0">Notas atômicas e links</text>
@@ -57,24 +57,24 @@
   <line x1="402" y1="326" x2="290" y2="397" stroke="#26de81" stroke-width="2" stroke-dasharray="6,3"/>
   <rect x="108" y="368" width="230" height="88" rx="10" fill="#26de81" opacity="0.14" stroke="#26de81" stroke-width="1.5"/>
   <!-- Podium icon approximation -->
-  <text x="126" y="398" font-size="22" fill="#26de81">🎤</text>
-  <text x="154" y="398" font-size="15" font-weight="bold" fill="#26de81">Apresentações</text>
+  <text x="126" y="398" font-size="14" fill="#26de81">🎤</text>
+  <text x="154" y="398" font-size="12" font-weight="bold" fill="#26de81">Apresentações</text>
   <text x="126" y="420" font-size="13" fill="#e0e0e0">Palestras, webinars,</text>
   <text x="126" y="437" font-size="13" fill="#e0e0e0">workshops e vídeos</text>
   <text x="126" y="448" font-size="12" fill="#a0a0b0">YouTube, eventos, podcasts</text>
 
   <!-- Cycle arrow at bottom center -->
   <rect x="188" y="475" width="524" height="38" rx="8" fill="#12122a" stroke="#00d4ff" stroke-width="1.5"/>
-  <text x="450" y="492" text-anchor="middle" font-size="14" font-weight="bold" fill="#00d4ff">Aprender</text>
-  <text x="450" y="492" text-anchor="middle" font-size="14" fill="#e0e0e0"> </text>
+  <text x="450" y="492" text-anchor="middle" font-size="12" font-weight="bold" fill="#00d4ff">Aprender</text>
+  <text x="450" y="492" text-anchor="middle" font-size="12" fill="#e0e0e0"> </text>
   <!-- Full cycle text -->
-  <text x="450" y="492" text-anchor="middle" font-size="15" fill="#e0e0e0">
+  <text x="450" y="492" text-anchor="middle" font-size="12" fill="#e0e0e0">
     <tspan fill="#00d4ff">Aprender</tspan> → <tspan fill="#ff9f43">Documentar</tspan> → <tspan fill="#26de81">Compartilhar</tspan> → <tspan fill="#00d4ff">Aprender mais</tspan>
   </text>
 
   <!-- Left info box -->
   <rect x="60" y="222" width="172" height="86" rx="10" fill="#12122a" stroke="#00d4ff" stroke-width="1"/>
-  <text x="146" y="248" text-anchor="middle" font-size="14" font-weight="bold" fill="#00d4ff">Por que documentar?</text>
+  <text x="146" y="248" text-anchor="middle" font-size="12" font-weight="bold" fill="#00d4ff">Por que documentar?</text>
   <text x="146" y="267" text-anchor="middle" font-size="13" fill="#e0e0e0">Consolida memória</text>
   <text x="146" y="284" text-anchor="middle" font-size="13" fill="#e0e0e0">Revela lacunas</text>
   <text x="146" y="301" text-anchor="middle" font-size="13" fill="#e0e0e0">Gera oportunidades</text>

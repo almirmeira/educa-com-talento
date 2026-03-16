@@ -5,8 +5,8 @@
   <rect width="900" height="500" fill="#1a1a2e"/>
 
   <!-- Title -->
-  <text x="450" y="36" text-anchor="middle" fill="#e0e0e0" font-size="24" font-weight="bold">Estrutura do Neurônio e o Aprendizado</text>
-  <text x="450" y="58" text-anchor="middle" fill="#a0a0b0" font-size="18">Como a informação flui na célula nervosa — Base da Neuroplasticidade</text>
+  <text x="450" y="36" text-anchor="middle" fill="#e0e0e0" font-size="14" font-weight="bold">Estrutura do Neurônio e o Aprendizado</text>
+  <text x="450" y="58" text-anchor="middle" fill="#a0a0b0" font-size="13">Como a informação flui na célula nervosa — Base da Neuroplasticidade</text>
 
   <!-- ========================================= -->
   <!-- DENDRITES (left side — 3 dendrites) -->
@@ -35,12 +35,12 @@
 
   <!-- Dendrite label -->
   <rect x="20" y="254" width="80" height="32" fill="#0d2040" rx="6" stroke="#00d4ff" stroke-width="1"/>
-  <text x="60" y="274" text-anchor="middle" fill="#00d4ff" font-size="16" font-weight="bold">Dendritos</text>
+  <text x="60" y="274" text-anchor="middle" fill="#00d4ff" font-size="12" font-weight="bold">Dendritos</text>
 
   <!-- Input label -->
   <rect x="20" y="138" width="210" height="48" fill="#0a1a30" rx="6" stroke="#00a0c0" stroke-width="1"/>
-  <text x="125" y="158" text-anchor="middle" fill="#80d0e0" font-size="16" font-weight="bold">Estímulos /</text>
-  <text x="125" y="178" text-anchor="middle" fill="#80d0e0" font-size="16" font-weight="bold">Informação Nova</text>
+  <text x="125" y="158" text-anchor="middle" fill="#80d0e0" font-size="12" font-weight="bold">Estímulos /</text>
+  <text x="125" y="178" text-anchor="middle" fill="#80d0e0" font-size="12" font-weight="bold">Informação Nova</text>
   <line x1="125" y1="186" x2="125" y2="210" stroke="#00a0c0" stroke-width="1.5" stroke-dasharray="4,3"/>
   <polygon points="121,210 125,220 129,210" fill="#00a0c0"/>
 
@@ -52,12 +52,12 @@
   <!-- Nucleus inside -->
   <circle cx="385" cy="280" r="38" fill="#1a3a5a" stroke="#4090c0" stroke-width="2" stroke-dasharray="5,3"/>
   <circle cx="385" cy="280" r="20" fill="#2a5a7a" stroke="#70b0d0" stroke-width="1.5"/>
-  <text x="385" y="277" text-anchor="middle" fill="#a0d0e0" font-size="15" font-weight="bold">Núcleo</text>
-  <text x="385" y="295" text-anchor="middle" fill="#70a0b0" font-size="14">(DNA)</text>
+  <text x="385" y="277" text-anchor="middle" fill="#a0d0e0" font-size="12" font-weight="bold">Núcleo</text>
+  <text x="385" y="295" text-anchor="middle" fill="#70a0b0" font-size="12">(DNA)</text>
 
   <!-- Soma label -->
-  <text x="385" y="368" text-anchor="middle" fill="#00d4ff" font-size="17" font-weight="bold">Corpo Celular</text>
-  <text x="385" y="388" text-anchor="middle" fill="#70b0c0" font-size="16">(Soma)</text>
+  <text x="385" y="368" text-anchor="middle" fill="#00d4ff" font-size="12" font-weight="bold">Corpo Celular</text>
+  <text x="385" y="388" text-anchor="middle" fill="#70b0c0" font-size="12">(Soma)</text>
 
   <!-- ========================================= -->
   <!-- AXON (right side) -->
@@ -87,16 +87,16 @@
   <line x1="700" y1="280" x2="730" y2="280" stroke="#26de81" stroke-width="4"/>
 
   <!-- Axon label -->
-  <text x="620" y="244" text-anchor="middle" fill="#26de81" font-size="17" font-weight="bold">Axônio</text>
+  <text x="620" y="244" text-anchor="middle" fill="#26de81" font-size="12" font-weight="bold">Axônio</text>
   <line x1="620" y1="248" x2="620" y2="269" stroke="#26de81" stroke-width="1.5" stroke-dasharray="3,3"/>
 
   <!-- Myelin label -->
   <rect x="505" y="304" width="210" height="40" fill="#0a2a1a" rx="6" stroke="#26de81" stroke-width="1"/>
-  <text x="610" y="322" text-anchor="middle" fill="#50c870" font-size="16" font-weight="bold">Mielina — velocidade</text>
-  <text x="610" y="340" text-anchor="middle" fill="#408850" font-size="15">(acelera a transmissão)</text>
+  <text x="610" y="322" text-anchor="middle" fill="#50c870" font-size="12" font-weight="bold">Mielina — velocidade</text>
+  <text x="610" y="340" text-anchor="middle" fill="#408850" font-size="12">(acelera a transmissão)</text>
 
   <!-- Transmission label -->
-  <text x="650" y="218" text-anchor="middle" fill="#80d0b0" font-size="17">Transmissão</text>
+  <text x="650" y="218" text-anchor="middle" fill="#80d0b0" font-size="12">Transmissão</text>
   <polygon points="718,222 728,218 718,214" fill="#26de81"/>
   <line x1="680" y1="218" x2="726" y2="218" stroke="#26de81" stroke-width="2"/>
 
@@ -114,22 +114,22 @@
 
   <!-- Synapse label -->
   <rect x="760" y="252" width="120" height="56" fill="#2a1800" rx="6" stroke="#ff9f43" stroke-width="1.5"/>
-  <text x="820" y="274" text-anchor="middle" fill="#ff9f43" font-size="16" font-weight="bold">Sinapse</text>
-  <text x="820" y="292" text-anchor="middle" fill="#c07030" font-size="15">Conexão entre</text>
-  <text x="820" y="308" text-anchor="middle" fill="#c07030" font-size="15">neurônios</text>
+  <text x="820" y="274" text-anchor="middle" fill="#ff9f43" font-size="12" font-weight="bold">Sinapse</text>
+  <text x="820" y="292" text-anchor="middle" fill="#c07030" font-size="12">Conexão entre</text>
+  <text x="820" y="308" text-anchor="middle" fill="#c07030" font-size="12">neurônios</text>
 
   <!-- ========================================= -->
   <!-- BOTTOM: Prof. Pier note -->
   <!-- ========================================= -->
   <rect x="20" y="420" width="520" height="62" fill="#12122a" rx="8" stroke="#2a2a4a" stroke-width="1"/>
-  <text x="270" y="442" text-anchor="middle" fill="#ffd700" font-size="17" font-weight="bold">Neurônio Dendrítico — Prof. Pierluigi Piazzi</text>
-  <text x="270" y="462" text-anchor="middle" fill="#a0a0b0" font-size="16">Mais dendritos = mais conexões = menor esquecimento</text>
-  <text x="270" y="478" text-anchor="middle" fill="#7070a0" font-size="15">Revisão ativa cria dendritos. Releitura passiva, não.</text>
+  <text x="270" y="442" text-anchor="middle" fill="#ffd700" font-size="12" font-weight="bold">Neurônio Dendrítico — Prof. Pierluigi Piazzi</text>
+  <text x="270" y="462" text-anchor="middle" fill="#a0a0b0" font-size="12">Mais dendritos = mais conexões = menor esquecimento</text>
+  <text x="270" y="478" text-anchor="middle" fill="#7070a0" font-size="12">Revisão ativa cria dendritos. Releitura passiva, não.</text>
 
   <!-- LTP note -->
   <rect x="555" y="420" width="320" height="62" fill="#0a2a1a" rx="8" stroke="#26de81" stroke-width="1"/>
-  <text x="715" y="442" text-anchor="middle" fill="#26de81" font-size="17" font-weight="bold">LTP — Potenciação de Longo Prazo</text>
-  <text x="715" y="462" text-anchor="middle" fill="#70c090" font-size="16">"Neurônios que disparam juntos,</text>
-  <text x="715" y="478" text-anchor="middle" fill="#70c090" font-size="16">conectam-se juntos." — Hebb</text>
+  <text x="715" y="442" text-anchor="middle" fill="#26de81" font-size="12" font-weight="bold">LTP — Potenciação de Longo Prazo</text>
+  <text x="715" y="462" text-anchor="middle" fill="#70c090" font-size="12">"Neurônios que disparam juntos,</text>
+  <text x="715" y="478" text-anchor="middle" fill="#70c090" font-size="12">conectam-se juntos." — Hebb</text>
 
 </svg>

@@ -5,8 +5,8 @@
   <rect width="900" height="500" fill="#1a1a2e"/>
 
   <!-- Title -->
-  <text x="450" y="36" text-anchor="middle" fill="#e0e0e0" font-size="24" font-weight="bold">Arquitetura do Sono e Consolidação da Memória</text>
-  <text x="450" y="58" text-anchor="middle" fill="#a0a0b0" font-size="17">Matthew Walker — UC Berkeley | "Why We Sleep" (2017)</text>
+  <text x="450" y="36" text-anchor="middle" fill="#e0e0e0" font-size="14" font-weight="bold">Arquitetura do Sono e Consolidação da Memória</text>
+  <text x="450" y="58" text-anchor="middle" fill="#a0a0b0" font-size="12">Matthew Walker — UC Berkeley | "Why We Sleep" (2017)</text>
 
   <!-- Grid area -->
   <rect x="100" y="78" width="760" height="280" fill="#12122a" rx="6"/>
@@ -15,15 +15,15 @@
   <!-- Stage levels: Acordado=78, REM=134, N1=190, N2=246, N3=302 (bottom of plot at 358) -->
 
   <!-- Y axis labels -->
-  <text x="92" y="84" text-anchor="end" fill="#e0e0e0" font-size="16" font-weight="bold">Acordado</text>
-  <text x="92" y="140" text-anchor="end" fill="#a855f7" font-size="16" font-weight="bold">REM</text>
-  <text x="92" y="196" text-anchor="end" fill="#7aaeff" font-size="16">N1</text>
-  <text x="92" y="252" text-anchor="end" fill="#5580dd" font-size="16">N2</text>
-  <text x="92" y="308" text-anchor="end" fill="#2244aa" font-size="16" font-weight="bold">N3</text>
-  <text x="92" y="358" text-anchor="end" fill="#1a2288" font-size="16" font-weight="bold">N3</text>
+  <text x="92" y="84" text-anchor="end" fill="#e0e0e0" font-size="12" font-weight="bold">Acordado</text>
+  <text x="92" y="140" text-anchor="end" fill="#a855f7" font-size="12" font-weight="bold">REM</text>
+  <text x="92" y="196" text-anchor="end" fill="#7aaeff" font-size="12">N1</text>
+  <text x="92" y="252" text-anchor="end" fill="#5580dd" font-size="12">N2</text>
+  <text x="92" y="308" text-anchor="end" fill="#2244aa" font-size="12" font-weight="bold">N3</text>
+  <text x="92" y="358" text-anchor="end" fill="#1a2288" font-size="12" font-weight="bold">N3</text>
 
   <!-- Y axis title -->
-  <text x="20" y="230" text-anchor="middle" fill="#c0c0d0" font-size="16" transform="rotate(-90,20,230)">Estágio do Sono</text>
+  <text x="20" y="230" text-anchor="middle" fill="#c0c0d0" font-size="12" transform="rotate(-90,20,230)">Estágio do Sono</text>
 
   <!-- Horizontal grid lines -->
   <line x1="100" y1="84" x2="860" y2="84" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
@@ -45,18 +45,18 @@
   <line x1="860" y1="78" x2="860" y2="358" stroke="#3a3a5a" stroke-width="2"/>
 
   <!-- X axis labels (hours) -->
-  <text x="100" y="378" text-anchor="middle" fill="#a0a0b0" font-size="16">0h</text>
-  <text x="195" y="378" text-anchor="middle" fill="#a0a0b0" font-size="16">1h</text>
-  <text x="290" y="378" text-anchor="middle" fill="#a0a0b0" font-size="16">2h</text>
-  <text x="385" y="378" text-anchor="middle" fill="#a0a0b0" font-size="16">3h</text>
-  <text x="480" y="378" text-anchor="middle" fill="#a0a0b0" font-size="16">4h</text>
-  <text x="575" y="378" text-anchor="middle" fill="#a0a0b0" font-size="16">5h</text>
-  <text x="670" y="378" text-anchor="middle" fill="#a0a0b0" font-size="16">6h</text>
-  <text x="765" y="378" text-anchor="middle" fill="#a0a0b0" font-size="16">7h</text>
-  <text x="860" y="378" text-anchor="middle" fill="#a0a0b0" font-size="16">8h</text>
+  <text x="100" y="378" text-anchor="middle" fill="#a0a0b0" font-size="12">0h</text>
+  <text x="195" y="378" text-anchor="middle" fill="#a0a0b0" font-size="12">1h</text>
+  <text x="290" y="378" text-anchor="middle" fill="#a0a0b0" font-size="12">2h</text>
+  <text x="385" y="378" text-anchor="middle" fill="#a0a0b0" font-size="12">3h</text>
+  <text x="480" y="378" text-anchor="middle" fill="#a0a0b0" font-size="12">4h</text>
+  <text x="575" y="378" text-anchor="middle" fill="#a0a0b0" font-size="12">5h</text>
+  <text x="670" y="378" text-anchor="middle" fill="#a0a0b0" font-size="12">6h</text>
+  <text x="765" y="378" text-anchor="middle" fill="#a0a0b0" font-size="12">7h</text>
+  <text x="860" y="378" text-anchor="middle" fill="#a0a0b0" font-size="12">8h</text>
 
   <!-- X axis title -->
-  <text x="480" y="398" text-anchor="middle" fill="#c0c0d0" font-size="17">Horas de Sono</text>
+  <text x="480" y="398" text-anchor="middle" fill="#c0c0d0" font-size="12">Horas de Sono</text>
 
   <!-- ========================================= -->
   <!-- SLEEP CYCLES — 4-5 cycles depicted -->
@@ -94,27 +94,27 @@
 
   <!-- N3 label -->
   <rect x="106" y="300" width="234" height="48" fill="#0a0a2a" rx="6" stroke="#2244aa" stroke-width="1.5"/>
-  <text x="223" y="322" text-anchor="middle" fill="#7090dd" font-size="16" font-weight="bold">N3 Dominante</text>
-  <text x="223" y="340" text-anchor="middle" fill="#5070bb" font-size="15">Memória Declarativa</text>
+  <text x="223" y="322" text-anchor="middle" fill="#7090dd" font-size="12" font-weight="bold">N3 Dominante</text>
+  <text x="223" y="340" text-anchor="middle" fill="#5070bb" font-size="12">Memória Declarativa</text>
 
   <!-- REM label -->
   <rect x="582" y="98" width="272" height="42" fill="#0a0020" rx="6" stroke="#a855f7" stroke-width="1.5"/>
-  <text x="718" y="118" text-anchor="middle" fill="#d090f0" font-size="16" font-weight="bold">REM Dominante</text>
-  <text x="718" y="135" text-anchor="middle" fill="#9060c0" font-size="15">Criatividade e Memória Processual</text>
+  <text x="718" y="118" text-anchor="middle" fill="#d090f0" font-size="12" font-weight="bold">REM Dominante</text>
+  <text x="718" y="135" text-anchor="middle" fill="#9060c0" font-size="12">Criatividade e Memória Processual</text>
 
   <!-- ========================================= -->
   <!-- BOTTOM ANNOTATIONS -->
   <!-- ========================================= -->
   <rect x="100" y="410" width="420" height="78" fill="#0a0a2a" rx="8" stroke="#ff6b6b" stroke-width="1.5"/>
-  <text x="310" y="432" text-anchor="middle" fill="#ff6b6b" font-size="17" font-weight="bold">Privação de Sono</text>
-  <text x="310" y="452" text-anchor="middle" fill="#c05050" font-size="16">-40% na retenção de memória</text>
-  <text x="310" y="470" text-anchor="middle" fill="#c05050" font-size="16">com apenas uma noite ruim</text>
-  <text x="310" y="484" text-anchor="middle" fill="#904040" font-size="15">(Walker, 2017 — UC Berkeley)</text>
+  <text x="310" y="432" text-anchor="middle" fill="#ff6b6b" font-size="12" font-weight="bold">Privação de Sono</text>
+  <text x="310" y="452" text-anchor="middle" fill="#c05050" font-size="12">-40% na retenção de memória</text>
+  <text x="310" y="470" text-anchor="middle" fill="#c05050" font-size="12">com apenas uma noite ruim</text>
+  <text x="310" y="484" text-anchor="middle" fill="#904040" font-size="12">(Walker, 2017 — UC Berkeley)</text>
 
   <rect x="535" y="410" width="325" height="78" fill="#0a1a12" rx="8" stroke="#26de81" stroke-width="1.5"/>
-  <text x="697" y="432" text-anchor="middle" fill="#26de81" font-size="17" font-weight="bold">Sono como Aprendizado</text>
-  <text x="697" y="452" text-anchor="middle" fill="#50a870" font-size="16">Hipocampo → Neocórtex</text>
-  <text x="697" y="470" text-anchor="middle" fill="#50a870" font-size="16">Consolidação nas horas de sono</text>
-  <text x="697" y="484" text-anchor="middle" fill="#408060" font-size="15">Nunca estude sem dormir depois</text>
+  <text x="697" y="432" text-anchor="middle" fill="#26de81" font-size="12" font-weight="bold">Sono como Aprendizado</text>
+  <text x="697" y="452" text-anchor="middle" fill="#50a870" font-size="12">Hipocampo → Neocórtex</text>
+  <text x="697" y="470" text-anchor="middle" fill="#50a870" font-size="12">Consolidação nas horas de sono</text>
+  <text x="697" y="484" text-anchor="middle" fill="#408060" font-size="12">Nunca estude sem dormir depois</text>
 
 </svg>

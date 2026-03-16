@@ -3,17 +3,17 @@
   <rect width="900" height="500" fill="#1a1a2e"/>
 
   <!-- Title -->
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#e0e0e0">A Curva de Aprendizado: Por Que a Maioria Desiste</text>
-  <text x="450" y="60" text-anchor="middle" font-size="16" fill="#a0a0b0">Zona Proximal de Desenvolvimento — Vygotsky</text>
+  <text x="450" y="38" text-anchor="middle" font-size="14" font-weight="bold" fill="#e0e0e0">A Curva de Aprendizado: Por Que a Maioria Desiste</text>
+  <text x="450" y="60" text-anchor="middle" font-size="12" fill="#a0a0b0">Zona Proximal de Desenvolvimento — Vygotsky</text>
 
   <!-- Chart area background -->
   <rect x="80" y="75" width="760" height="360" rx="8" fill="#12122a"/>
 
   <!-- Y-axis label -->
-  <text x="30" y="260" text-anchor="middle" font-size="16" fill="#a0a0b0" transform="rotate(-90,30,260)">Nível de Competência</text>
+  <text x="30" y="260" text-anchor="middle" font-size="12" fill="#a0a0b0" transform="rotate(-90,30,260)">Nível de Competência</text>
 
   <!-- X-axis label -->
-  <text x="460" y="475" text-anchor="middle" font-size="16" fill="#a0a0b0">Tempo e Prática</text>
+  <text x="460" y="475" text-anchor="middle" font-size="12" fill="#a0a0b0">Tempo e Prática</text>
 
   <!-- Axes -->
   <line x1="110" y1="410" x2="820" y2="410" stroke="#a0a0b0" stroke-width="2"/>
@@ -25,8 +25,8 @@
 
   <!-- Plateau shaded area (red zone) -->
   <rect x="380" y="250" width="210" height="160" rx="4" fill="#ff6b6b" opacity="0.15"/>
-  <text x="485" y="320" text-anchor="middle" font-size="15" font-weight="bold" fill="#ff6b6b">PLATEAU</text>
-  <text x="485" y="340" text-anchor="middle" font-size="14" fill="#ff6b6b">Vale da Frustração</text>
+  <text x="485" y="320" text-anchor="middle" font-size="12" font-weight="bold" fill="#ff6b6b">PLATEAU</text>
+  <text x="485" y="340" text-anchor="middle" font-size="12" fill="#ff6b6b">Vale da Frustração</text>
 
   <!-- S-curve path -->
   <!-- Phase 1: Entusiasmo - initial rise (cyan) -->
@@ -41,18 +41,18 @@
   <!-- Phase labels -->
   <!-- Phase 1 label: Entusiasmo -->
   <rect x="120" y="280" width="165" height="44" rx="5" fill="#00d4ff" opacity="0.15"/>
-  <text x="202" y="299" text-anchor="middle" font-size="15" font-weight="bold" fill="#00d4ff">1. Entusiasmo</text>
-  <text x="202" y="317" text-anchor="middle" font-size="14" fill="#00d4ff">Inicial</text>
+  <text x="202" y="299" text-anchor="middle" font-size="12" font-weight="bold" fill="#00d4ff">1. Entusiasmo</text>
+  <text x="202" y="317" text-anchor="middle" font-size="12" fill="#00d4ff">Inicial</text>
 
   <!-- Phase 2 label: Realidade -->
   <rect x="283" y="190" width="130" height="44" rx="5" fill="#ff9f43" opacity="0.15"/>
-  <text x="348" y="210" text-anchor="middle" font-size="15" font-weight="bold" fill="#ff9f43">2. Encontro</text>
-  <text x="348" y="228" text-anchor="middle" font-size="14" fill="#ff9f43">com a Realidade</text>
+  <text x="348" y="210" text-anchor="middle" font-size="12" font-weight="bold" fill="#ff9f43">2. Encontro</text>
+  <text x="348" y="228" text-anchor="middle" font-size="12" fill="#ff9f43">com a Realidade</text>
 
   <!-- Phase 4 label: Maestria -->
   <rect x="670" y="108" width="110" height="44" rx="5" fill="#26de81" opacity="0.15"/>
-  <text x="725" y="128" text-anchor="middle" font-size="15" font-weight="bold" fill="#26de81">4. Maestria</text>
-  <text x="725" y="146" text-anchor="middle" font-size="14" fill="#26de81">Avançada</text>
+  <text x="725" y="128" text-anchor="middle" font-size="12" font-weight="bold" fill="#26de81">4. Maestria</text>
+  <text x="725" y="146" text-anchor="middle" font-size="12" fill="#26de81">Avançada</text>
 
   <!-- "A maioria desiste AQUI" annotation -->
   <!-- Arrow pointing down to plateau -->
@@ -61,7 +61,7 @@
 
   <!-- Annotation box -->
   <rect x="360" y="360" width="252" height="38" rx="6" fill="#ff6b6b" opacity="0.22"/>
-  <text x="486" y="376" text-anchor="middle" font-size="15" font-weight="bold" fill="#ff6b6b">A maioria desiste AQUI</text>
+  <text x="486" y="376" text-anchor="middle" font-size="12" font-weight="bold" fill="#ff6b6b">A maioria desiste AQUI</text>
   <text x="486" y="394" text-anchor="middle" font-size="13" fill="#ff6b6b">80% abandonam neste ponto</text>
 
   <!-- Dot markers on curve -->

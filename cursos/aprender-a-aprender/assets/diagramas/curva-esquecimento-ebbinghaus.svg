@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="900" height="580" viewBox="0 0 900 580" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
 
   <!-- Background -->
-  <rect width="900" height="580" fill="#1a1a2e"/>
+  <rect width="900" height="560" fill="#1a1a2e"/>
 
   <!-- Title -->
-  <text x="450" y="42" text-anchor="middle" fill="#e0e0e0" font-size="22" font-weight="bold">Curva do Esquecimento de Ebbinghaus (1885)</text>
-  <text x="450" y="64" text-anchor="middle" fill="#a0a0b0" font-size="18">Retenção de memória ao longo do tempo — sem revisão vs. com revisão espaçada</text>
+  <text x="450" y="42" text-anchor="middle" fill="#e0e0e0" font-size="20" font-weight="bold">Curva do Esquecimento de Ebbinghaus (1885)</text>
+  <text x="450" y="64" text-anchor="middle" fill="#a0a0b0" font-size="13">Retenção de memória ao longo do tempo — sem revisão vs. com revisão espaçada</text>
 
   <!-- Grid area -->
   <rect x="100" y="90" width="700" height="360" fill="#12122a" rx="6"/>
@@ -28,26 +28,26 @@
   <line x1="800" y1="90"  x2="800" y2="450" stroke="#2a2a4a" stroke-width="1"/>
 
   <!-- Y axis labels -->
-  <text x="88" y="94"  text-anchor="end" fill="#a0a0b0" font-size="17">100%</text>
-  <text x="88" y="166" text-anchor="end" fill="#a0a0b0" font-size="17">80%</text>
-  <text x="88" y="238" text-anchor="end" fill="#a0a0b0" font-size="17">60%</text>
-  <text x="88" y="310" text-anchor="end" fill="#a0a0b0" font-size="17">40%</text>
-  <text x="88" y="382" text-anchor="end" fill="#a0a0b0" font-size="17">20%</text>
-  <text x="88" y="454" text-anchor="end" fill="#a0a0b0" font-size="17">0%</text>
+  <text x="88" y="94"  text-anchor="end" fill="#a0a0b0" font-size="12">100%</text>
+  <text x="88" y="166" text-anchor="end" fill="#a0a0b0" font-size="12">80%</text>
+  <text x="88" y="238" text-anchor="end" fill="#a0a0b0" font-size="12">60%</text>
+  <text x="88" y="310" text-anchor="end" fill="#a0a0b0" font-size="12">40%</text>
+  <text x="88" y="382" text-anchor="end" fill="#a0a0b0" font-size="12">20%</text>
+  <text x="88" y="454" text-anchor="end" fill="#a0a0b0" font-size="12">0%</text>
 
   <!-- Y axis title -->
-  <text x="30" y="270" text-anchor="middle" fill="#c0c0d0" font-size="18" transform="rotate(-90,30,270)">% de Memória Retida</text>
+  <text x="30" y="270" text-anchor="middle" fill="#c0c0d0" font-size="13" transform="rotate(-90,30,270)">% de Memória Retida</text>
 
   <!-- X axis labels -->
-  <text x="100" y="470" text-anchor="middle" fill="#a0a0b0" font-size="16">Início</text>
-  <text x="240" y="470" text-anchor="middle" fill="#a0a0b0" font-size="16">20 min</text>
-  <text x="380" y="470" text-anchor="middle" fill="#a0a0b0" font-size="16">1 hora</text>
-  <text x="520" y="470" text-anchor="middle" fill="#a0a0b0" font-size="16">1 dia</text>
-  <text x="660" y="470" text-anchor="middle" fill="#a0a0b0" font-size="16">6 dias</text>
-  <text x="800" y="470" text-anchor="middle" fill="#a0a0b0" font-size="16">1 mês</text>
+  <text x="100" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">Início</text>
+  <text x="240" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">20 min</text>
+  <text x="380" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">1 hora</text>
+  <text x="520" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">1 dia</text>
+  <text x="660" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">6 dias</text>
+  <text x="800" y="470" text-anchor="middle" fill="#a0a0b0" font-size="11">1 mês</text>
 
   <!-- X axis title -->
-  <text x="450" y="495" text-anchor="middle" fill="#c0c0d0" font-size="18">Tempo após o Aprendizado</text>
+  <text x="450" y="495" text-anchor="middle" fill="#c0c0d0" font-size="13">Tempo após o Aprendizado</text>
 
   <!-- =============================================== -->
   <!-- CURVE 1: Without review (red) -->
@@ -72,12 +72,12 @@
   <circle cx="800" cy="374" r="6" fill="#ff6b6b" stroke="#1a1a2e" stroke-width="2"/>
 
   <!-- Labels curve 1 -->
-  <text x="110" y="82"  fill="#ff6b6b" font-size="16" font-weight="bold">100%</text>
-  <text x="248" y="236" fill="#ff6b6b" font-size="16">58%</text>
-  <text x="388" y="287" fill="#ff6b6b" font-size="16">44%</text>
-  <text x="528" y="323" fill="#ff6b6b" font-size="16">34%</text>
-  <text x="668" y="355" fill="#ff6b6b" font-size="16">25%</text>
-  <text x="806" y="369" fill="#ff6b6b" font-size="16">21%</text>
+  <text x="110" y="82"  fill="#ff6b6b" font-size="11" font-weight="bold">100%</text>
+  <text x="248" y="236" fill="#ff6b6b" font-size="11">58%</text>
+  <text x="388" y="287" fill="#ff6b6b" font-size="11">44%</text>
+  <text x="528" y="323" fill="#ff6b6b" font-size="11">34%</text>
+  <text x="668" y="355" fill="#ff6b6b" font-size="11">25%</text>
+  <text x="806" y="369" fill="#ff6b6b" font-size="11">21%</text>
 
   <!-- =============================================== -->
   <!-- CURVE 2: With spaced review (cyan) -->
@@ -122,13 +122,13 @@
   <circle cx="800" cy="108" r="7" fill="#00d4ff" stroke="#1a1a2e" stroke-width="2"/>
 
   <!-- Revision labels -->
-  <text x="235" y="95"  text-anchor="middle" fill="#00d4ff" font-size="15" font-weight="bold">R1</text>
-  <text x="375" y="103" text-anchor="middle" fill="#00d4ff" font-size="15" font-weight="bold">R2</text>
-  <text x="515" y="95"  text-anchor="middle" fill="#00d4ff" font-size="15" font-weight="bold">R3</text>
-  <text x="655" y="90"  text-anchor="middle" fill="#00d4ff" font-size="15" font-weight="bold">R4</text>
+  <text x="235" y="95"  text-anchor="middle" fill="#00d4ff" font-size="10" font-weight="bold">R1</text>
+  <text x="375" y="103" text-anchor="middle" fill="#00d4ff" font-size="10" font-weight="bold">R2</text>
+  <text x="515" y="95"  text-anchor="middle" fill="#00d4ff" font-size="10" font-weight="bold">R3</text>
+  <text x="655" y="90"  text-anchor="middle" fill="#00d4ff" font-size="10" font-weight="bold">R4</text>
 
   <!-- Final retention label -->
-  <text x="808" y="103" fill="#00d4ff" font-size="16" font-weight="bold">~92%</text>
+  <text x="808" y="103" fill="#00d4ff" font-size="11" font-weight="bold">~92%</text>
 
   <!-- =============================================== -->
   <!-- LEGEND -->
@@ -137,10 +137,10 @@
 
   <line x1="115" y1="529" x2="155" y2="529" stroke="#ff6b6b" stroke-width="3"/>
   <circle cx="135" cy="529" r="5" fill="#ff6b6b"/>
-  <text x="162" y="533" fill="#e0e0e0" font-size="17">Sem revisão — perda de ~79% em 1 mês</text>
+  <text x="162" y="533" fill="#e0e0e0" font-size="12">Sem revisão — perda de ~79% em 1 mês</text>
 
   <line x1="435" y1="529" x2="475" y2="529" stroke="#00d4ff" stroke-width="3"/>
   <circle cx="455" cy="529" r="5" fill="#00d4ff"/>
-  <text x="482" y="533" fill="#e0e0e0" font-size="17">Com revisão espaçada — retenção de ~92%</text>
+  <text x="482" y="533" fill="#e0e0e0" font-size="12">Com revisão espaçada — retenção de ~92%</text>
 
 </svg>

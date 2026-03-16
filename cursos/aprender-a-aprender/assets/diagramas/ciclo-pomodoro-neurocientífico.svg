@@ -3,8 +3,8 @@
   <rect width="900" height="500" fill="#1a1a2e"/>
 
   <!-- Title -->
-  <text x="450" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#00d4ff">Técnica Pomodoro — A Neurociência por Trás dos Intervalos</text>
-  <text x="450" y="56" text-anchor="middle" font-size="15" fill="#a0a0b0">Francesco Cirillo (anos 1980) | Barbara Oakley — Modo Focado &amp; Modo Difuso</text>
+  <text x="450" y="34" text-anchor="middle" font-size="14" font-weight="bold" fill="#00d4ff">Técnica Pomodoro — A Neurociência por Trás dos Intervalos</text>
+  <text x="450" y="56" text-anchor="middle" font-size="12" fill="#a0a0b0">Francesco Cirillo (anos 1980) | Barbara Oakley — Modo Focado &amp; Modo Difuso</text>
 
   <!-- Main cycle circle -->
   <circle cx="310" cy="240" r="165" fill="none" stroke="#2a2a4a" stroke-width="3"/>
@@ -37,41 +37,41 @@
   <!-- Timer handle on top -->
   <rect x="303" y="182" width="14" height="5" rx="2" fill="#e0e0e0"/>
 
-  <text x="310" y="272" text-anchor="middle" font-size="18" font-weight="bold" fill="#e0e0e0">1 Ciclo</text>
+  <text x="310" y="272" text-anchor="middle" font-size="13" font-weight="bold" fill="#e0e0e0">1 Ciclo</text>
 
   <!-- Labels for segments -->
   <!-- Focused work label (right side, top) -->
-  <text x="510" y="160" text-anchor="middle" font-size="17" font-weight="bold" fill="#00d4ff">MODO FOCADO</text>
-  <text x="510" y="182" text-anchor="middle" font-size="14" fill="#e0e0e0">25 minutos</text>
+  <text x="510" y="160" text-anchor="middle" font-size="12" font-weight="bold" fill="#00d4ff">MODO FOCADO</text>
+  <text x="510" y="182" text-anchor="middle" font-size="12" fill="#e0e0e0">25 minutos</text>
   <text x="510" y="200" text-anchor="middle" font-size="13" fill="#a0a0b0">Córtex Pré-Frontal Ativo</text>
   <text x="510" y="218" text-anchor="middle" font-size="13" fill="#a0a0b0">Atenção voluntária direcionada</text>
   <text x="510" y="236" text-anchor="middle" font-size="13" fill="#a0a0b0">Criação de traços de memória</text>
 
   <!-- Brain icon for focused mode -->
   <ellipse cx="510" cy="275" rx="30" ry="26" fill="#22204a" stroke="#00d4ff" stroke-width="1.5"/>
-  <text x="510" y="281" text-anchor="middle" font-size="18" fill="#00d4ff">⚡</text>
+  <text x="510" y="281" text-anchor="middle" font-size="13" fill="#00d4ff">⚡</text>
   <text x="510" y="315" text-anchor="middle" font-size="13" fill="#00d4ff">Alta atividade</text>
 
   <!-- Break label (bottom-left area) -->
-  <text x="158" y="420" text-anchor="middle" font-size="17" font-weight="bold" fill="#ff9f43">MODO DIFUSO</text>
-  <text x="158" y="442" text-anchor="middle" font-size="14" fill="#e0e0e0">5 minutos</text>
+  <text x="158" y="420" text-anchor="middle" font-size="12" font-weight="bold" fill="#ff9f43">MODO DIFUSO</text>
+  <text x="158" y="442" text-anchor="middle" font-size="12" fill="#e0e0e0">5 minutos</text>
   <text x="158" y="460" text-anchor="middle" font-size="13" fill="#a0a0b0">Default Mode Network</text>
   <text x="158" y="478" text-anchor="middle" font-size="13" fill="#a0a0b0">Consolidação + Insights</text>
 
   <!-- Brain icon for diffuse mode -->
   <ellipse cx="420" cy="382" rx="28" ry="22" fill="#22204a" stroke="#ff9f43" stroke-width="1.5"/>
-  <text x="420" y="388" text-anchor="middle" font-size="18" fill="#ff9f43">☁</text>
+  <text x="420" y="388" text-anchor="middle" font-size="13" fill="#ff9f43">☁</text>
   <text x="420" y="416" text-anchor="middle" font-size="13" fill="#ff9f43">Processamento</text>
   <text x="420" y="432" text-anchor="middle" font-size="13" fill="#ff9f43">em background</text>
 
   <!-- After 4 pomodoros box -->
   <rect x="600" y="300" width="282" height="180" rx="10" fill="#1e1a36" stroke="#ff9f43" stroke-width="2"/>
-  <text x="741" y="326" text-anchor="middle" font-size="16" font-weight="bold" fill="#ff9f43">Após 4 Pomodoros</text>
+  <text x="741" y="326" text-anchor="middle" font-size="12" font-weight="bold" fill="#ff9f43">Após 4 Pomodoros</text>
   <rect x="614" y="334" width="254" height="2" fill="#ff9f43" opacity="0.4"/>
-  <text x="741" y="360" text-anchor="middle" font-size="15" fill="#e0e0e0">Pausa Longa: 15–30 min</text>
-  <text x="741" y="382" text-anchor="middle" font-size="14" fill="#a0a0b0">Recuperação profunda do</text>
-  <text x="741" y="400" text-anchor="middle" font-size="14" fill="#a0a0b0">córtex pré-frontal</text>
-  <text x="741" y="420" text-anchor="middle" font-size="14" fill="#a0a0b0">Consolidação de longo prazo</text>
+  <text x="741" y="360" text-anchor="middle" font-size="12" fill="#e0e0e0">Pausa Longa: 15–30 min</text>
+  <text x="741" y="382" text-anchor="middle" font-size="12" fill="#a0a0b0">Recuperação profunda do</text>
+  <text x="741" y="400" text-anchor="middle" font-size="12" fill="#a0a0b0">córtex pré-frontal</text>
+  <text x="741" y="420" text-anchor="middle" font-size="12" fill="#a0a0b0">Consolidação de longo prazo</text>
   <text x="741" y="445" text-anchor="middle" font-size="13" fill="#26de81">→ Ciclo recomeça revitalizado</text>
   <text x="741" y="466" text-anchor="middle" font-size="13" fill="#26de81">→ Maior capacidade de absorção</text>
 
