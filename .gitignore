@@ -53,3 +53,7 @@ mariadb_data/
 tmp/
 temp/
 *.tmp
+
+# Webhook logs e secrets
+scripts/webhook-matricula/logs/
+webhook-matricula/.env

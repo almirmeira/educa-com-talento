@@ -62,6 +62,24 @@ services:
     networks:
       - educa-network
 
+  # Webhook Matrícula Automática (Hotmart/Kiwify → Moodle)
+  webhook-matricula:
+    build:
+      context: ./scripts/webhook-matricula
+      dockerfile: Dockerfile
+    container_name: webhook-matricula
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:5000:5000"
+    env_file:
+      - ./webhook-matricula/.env
+    volumes:
+      - webhook_logs:/app/logs
+    depends_on:
+      - moodle
+    networks:
+      - educa-network
+
   # Website Next.js
   site:
     build:
@@ -85,4 +103,5 @@ volumes:
   mariadb_data:
   moodle_www:
   moodledata:
+  webhook_logs:
 
