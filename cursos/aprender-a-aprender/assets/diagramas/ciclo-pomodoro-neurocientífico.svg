@@ -1,0 +1,92 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+  <!-- Background -->
+  <rect width="900" height="500" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="450" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#00d4ff">Técnica Pomodoro — A Neurociência por Trás dos Intervalos</text>
+  <text x="450" y="56" text-anchor="middle" font-size="15" fill="#a0a0b0">Francesco Cirillo (anos 1980) | Barbara Oakley — Modo Focado &amp; Modo Difuso</text>
+
+  <!-- Main cycle circle -->
+  <circle cx="310" cy="240" r="165" fill="none" stroke="#2a2a4a" stroke-width="3"/>
+
+  <!-- 25 min focused segment arc (most of the circle, about 300 degrees = 5/6) -->
+  <!-- Start at top (270 deg), sweep 300 deg clockwise -->
+  <!-- Arc path from (310, 75) around to ~(310+165*cos(210), 240+165*sin(210)) -->
+  <!-- Using pie chart approach: center 310,240 radius 165 -->
+  <!-- 25min = 25/(25+5) = 5/6 of circle = 300 degrees -->
+  <!-- Start angle = -90 deg (top), end angle = -90 + 300 = 210 deg -->
+  <!-- Start point: (310 + 165*cos(-90°), 240 + 165*sin(-90°)) = (310, 75) -->
+  <!-- End point: (310 + 165*cos(210°), 240 + 165*sin(210°)) = (310 - 82.5, 240 + 143) ≈ (167.5, 323) -->
+  <path d="M 310,75 A 165,165 0 1 1 167.5,323" fill="#00d4ff" opacity="0.18" stroke="#00d4ff" stroke-width="3"/>
+  <!-- Pie wedge fill -->
+  <path d="M 310,240 L 310,75 A 165,165 0 1 1 167.5,323 Z" fill="#00d4ff" opacity="0.12"/>
+
+  <!-- 5 min break segment arc (60 degrees, rest of circle) -->
+  <!-- From (167.5, 323) sweeping 60 deg to (310, 75) -->
+  <path d="M 167.5,323 A 165,165 0 0 1 310,75" fill="#ff9f43" opacity="0.3" stroke="#ff9f43" stroke-width="3"/>
+  <path d="M 310,240 L 167.5,323 A 165,165 0 0 1 310,75 Z" fill="#ff9f43" opacity="0.15"/>
+
+  <!-- Center of circle -->
+  <circle cx="310" cy="240" r="95" fill="#1a1a2e"/>
+
+  <!-- Timer icon in center -->
+  <circle cx="310" cy="220" r="34" fill="none" stroke="#e0e0e0" stroke-width="2.5"/>
+  <line x1="310" y1="188" x2="310" y2="220" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+  <line x1="310" y1="220" x2="330" y2="232" stroke="#ff9f43" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="310" cy="220" r="4" fill="#e0e0e0"/>
+  <!-- Timer handle on top -->
+  <rect x="303" y="182" width="14" height="5" rx="2" fill="#e0e0e0"/>
+
+  <text x="310" y="272" text-anchor="middle" font-size="18" font-weight="bold" fill="#e0e0e0">1 Ciclo</text>
+
+  <!-- Labels for segments -->
+  <!-- Focused work label (right side, top) -->
+  <text x="510" y="160" text-anchor="middle" font-size="17" font-weight="bold" fill="#00d4ff">MODO FOCADO</text>
+  <text x="510" y="182" text-anchor="middle" font-size="14" fill="#e0e0e0">25 minutos</text>
+  <text x="510" y="200" text-anchor="middle" font-size="13" fill="#a0a0b0">Córtex Pré-Frontal Ativo</text>
+  <text x="510" y="218" text-anchor="middle" font-size="13" fill="#a0a0b0">Atenção voluntária direcionada</text>
+  <text x="510" y="236" text-anchor="middle" font-size="13" fill="#a0a0b0">Criação de traços de memória</text>
+
+  <!-- Brain icon for focused mode -->
+  <ellipse cx="510" cy="275" rx="30" ry="26" fill="#22204a" stroke="#00d4ff" stroke-width="1.5"/>
+  <text x="510" y="281" text-anchor="middle" font-size="18" fill="#00d4ff">⚡</text>
+  <text x="510" y="315" text-anchor="middle" font-size="13" fill="#00d4ff">Alta atividade</text>
+
+  <!-- Break label (bottom-left area) -->
+  <text x="158" y="420" text-anchor="middle" font-size="17" font-weight="bold" fill="#ff9f43">MODO DIFUSO</text>
+  <text x="158" y="442" text-anchor="middle" font-size="14" fill="#e0e0e0">5 minutos</text>
+  <text x="158" y="460" text-anchor="middle" font-size="13" fill="#a0a0b0">Default Mode Network</text>
+  <text x="158" y="478" text-anchor="middle" font-size="13" fill="#a0a0b0">Consolidação + Insights</text>
+
+  <!-- Brain icon for diffuse mode -->
+  <ellipse cx="420" cy="382" rx="28" ry="22" fill="#22204a" stroke="#ff9f43" stroke-width="1.5"/>
+  <text x="420" y="388" text-anchor="middle" font-size="18" fill="#ff9f43">☁</text>
+  <text x="420" y="416" text-anchor="middle" font-size="13" fill="#ff9f43">Processamento</text>
+  <text x="420" y="432" text-anchor="middle" font-size="13" fill="#ff9f43">em background</text>
+
+  <!-- After 4 pomodoros box -->
+  <rect x="600" y="300" width="282" height="180" rx="10" fill="#1e1a36" stroke="#ff9f43" stroke-width="2"/>
+  <text x="741" y="326" text-anchor="middle" font-size="16" font-weight="bold" fill="#ff9f43">Após 4 Pomodoros</text>
+  <rect x="614" y="334" width="254" height="2" fill="#ff9f43" opacity="0.4"/>
+  <text x="741" y="360" text-anchor="middle" font-size="15" fill="#e0e0e0">Pausa Longa: 15–30 min</text>
+  <text x="741" y="382" text-anchor="middle" font-size="14" fill="#a0a0b0">Recuperação profunda do</text>
+  <text x="741" y="400" text-anchor="middle" font-size="14" fill="#a0a0b0">córtex pré-frontal</text>
+  <text x="741" y="420" text-anchor="middle" font-size="14" fill="#a0a0b0">Consolidação de longo prazo</text>
+  <text x="741" y="445" text-anchor="middle" font-size="13" fill="#26de81">→ Ciclo recomeça revitalizado</text>
+  <text x="741" y="466" text-anchor="middle" font-size="13" fill="#26de81">→ Maior capacidade de absorção</text>
+
+  <!-- Data note at bottom -->
+  <rect x="30" y="450" width="540" height="38" rx="6" fill="#1e1a2e" stroke="#2a2a4a" stroke-width="1"/>
+  <text x="300" y="465" text-anchor="middle" font-size="13" fill="#ff6b6b" font-style="italic">"23 min 15 seg para recuperar o foco após uma interrupção"</text>
+  <text x="300" y="481" text-anchor="middle" font-size="12" fill="#a0a0b0">— Gloria Mark, Universidade da Califórnia em Irvine (2008)</text>
+
+  <!-- Cycle repeat arrow -->
+  <path d="M 475,240 Q 530,240 530,270 Q 530,310 500,316" stroke="#26de81" stroke-width="2" fill="none" stroke-dasharray="5,4" marker-end="url(#arrGreen2)"/>
+  <text x="550" y="270" font-size="13" fill="#26de81">repetir</text>
+
+  <defs>
+    <marker id="arrGreen2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#26de81"/>
+    </marker>
+  </defs>
+</svg>

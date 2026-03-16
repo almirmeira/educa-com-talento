@@ -44,6 +44,10 @@ Vamos explorar os **dois modos do seu cérebro**. E depois de entender isso, voc
 
 ---
 
+> 📊 **Diagrama:** ![Os Dois Modos do Cérebro](../assets/diagramas/modos-cerebro-focado-difuso.svg)
+
+*Figura: Modo Focado vs. Modo Difuso — Barbara Oakley (Oakland University). Alternância deliberada entre os dois modos para aprendizado ótimo.*
+
 ### Parte 1: Modo Focado — Atenção Dirigida e Pensamento Linear
 
 O **Modo Focado** é o que a maioria das pessoas pensa quando imagina "estudar".

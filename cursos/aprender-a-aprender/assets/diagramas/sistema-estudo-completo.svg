@@ -34,105 +34,105 @@
   <rect width="960" height="860" fill="#0a0e15"/>
 
   <!-- Title -->
-  <text x="480" y="36" font-family="'Courier New', monospace" font-size="20" font-weight="bold" fill="#00d4ff" text-anchor="middle">SISTEMA DE ESTUDO COMPLETO</text>
-  <text x="480" y="56" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" text-anchor="middle">Visão arquitetural de todos os módulos do curso "Aprender a Aprender"</text>
+  <text x="480" y="36" font-family="'Courier New', monospace" font-size="24" font-weight="bold" fill="#00d4ff" text-anchor="middle">SISTEMA DE ESTUDO COMPLETO</text>
+  <text x="480" y="56" font-family="'Courier New', monospace" font-size="17" fill="#8b949e" text-anchor="middle">Visão arquitetural de todos os módulos do curso "Aprender a Aprender"</text>
   <line x1="40" y1="66" x2="920" y2="66" stroke="#21262d" stroke-width="1"/>
 
   <!-- LAYER 1 — FUNDAMENTOS (Neurociência) — Bottom layer, widest -->
   <rect x="40" y="74" width="880" height="88" rx="8" fill="url(#layer1)" stroke="#3d63a8" stroke-width="2"/>
-  <text x="88" y="100" font-family="'Courier New', monospace" font-size="13" fill="#79b4f0" font-weight="bold">CAMADA 1 — FUNDAMENTOS NEUROLÓGICOS</text>
-  <text x="88" y="118" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">Módulos 1–2: Neurociência do aprendizado + Ilusões de aprendizado</text>
-  <text x="88" y="135" font-family="'Courier New', monospace" font-size="10" fill="#6a7a8a">Sinapses, LTP, neuroplasticidade, curva de Ebbinghaus, ilusão de fluência, Testing Effect</text>
+  <text x="88" y="100" font-family="'Courier New', monospace" font-size="18" fill="#79b4f0" font-weight="bold">CAMADA 1 — FUNDAMENTOS NEUROLÓGICOS</text>
+  <text x="88" y="118" font-family="'Courier New', monospace" font-size="16" fill="#8b949e">Módulos 1–2: Neurociência do aprendizado + Ilusões de aprendizado</text>
+  <text x="88" y="135" font-family="'Courier New', monospace" font-size="15" fill="#6a7a8a">Sinapses, LTP, neuroplasticidade, curva de Ebbinghaus, ilusão de fluência, Testing Effect</text>
   <!-- Blocks in layer -->
   <rect x="620" y="82" width="140" height="30" rx="4" fill="#1e2a3e" stroke="#3d63a8" stroke-width="1"/>
-  <text x="690" y="101" font-family="'Courier New', monospace" font-size="9" fill="#79b4f0" text-anchor="middle">NEUROPLASTICIDADE</text>
+  <text x="690" y="101" font-family="'Courier New', monospace" font-size="14" fill="#79b4f0" text-anchor="middle">NEUROPLASTICIDADE</text>
   <rect x="770" y="82" width="130" height="30" rx="4" fill="#1e2a3e" stroke="#3d63a8" stroke-width="1"/>
-  <text x="835" y="101" font-family="'Courier New', monospace" font-size="9" fill="#79b4f0" text-anchor="middle">TESTING EFFECT</text>
+  <text x="835" y="101" font-family="'Courier New', monospace" font-size="14" fill="#79b4f0" text-anchor="middle">TESTING EFFECT</text>
   <rect x="620" y="118" width="140" height="28" rx="4" fill="#1e2a3e" stroke="#3d63a8" stroke-width="1"/>
-  <text x="690" y="136" font-family="'Courier New', monospace" font-size="9" fill="#79b4f0" text-anchor="middle">CURVA EBBINGHAUS</text>
+  <text x="690" y="136" font-family="'Courier New', monospace" font-size="14" fill="#79b4f0" text-anchor="middle">CURVA EBBINGHAUS</text>
   <rect x="770" y="118" width="130" height="28" rx="4" fill="#1e2a3e" stroke="#3d63a8" stroke-width="1"/>
-  <text x="835" y="136" font-family="'Courier New', monospace" font-size="9" fill="#79b4f0" text-anchor="middle">ILUSÃO DE FLUÊNCIA</text>
+  <text x="835" y="136" font-family="'Courier New', monospace" font-size="14" fill="#79b4f0" text-anchor="middle">ILUSÃO DE FLUÊNCIA</text>
 
   <!-- Arrow down -->
   <path d="M480 162 L480 178 L472 170 M480 178 L488 170" fill="none" stroke="#21262d" stroke-width="2"/>
 
   <!-- LAYER 2 — TÉCNICAS -->
   <rect x="60" y="182" width="840" height="88" rx="8" fill="url(#layer2)" stroke="#3fb950" stroke-width="2"/>
-  <text x="104" y="208" font-family="'Courier New', monospace" font-size="13" fill="#56d364" font-weight="bold">CAMADA 2 — TÉCNICAS DE ALTA EFICÁCIA</text>
-  <text x="104" y="226" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">Módulos 3–4: Técnicas fundamentais + Processamento profundo</text>
-  <text x="104" y="243" font-family="'Courier New', monospace" font-size="10" fill="#6a7a8a">Retrieval practice, spaced repetition, interleaving, free recall, Técnica Feynman, elaborative interrogation</text>
+  <text x="104" y="208" font-family="'Courier New', monospace" font-size="18" fill="#56d364" font-weight="bold">CAMADA 2 — TÉCNICAS DE ALTA EFICÁCIA</text>
+  <text x="104" y="226" font-family="'Courier New', monospace" font-size="16" fill="#8b949e">Módulos 3–4: Técnicas fundamentais + Processamento profundo</text>
+  <text x="104" y="243" font-family="'Courier New', monospace" font-size="15" fill="#6a7a8a">Retrieval practice, spaced repetition, interleaving, free recall, Técnica Feynman, elaborative interrogation</text>
   <rect x="630" y="190" width="120" height="28" rx="4" fill="#1e3020" stroke="#3fb950" stroke-width="1"/>
-  <text x="690" y="208" font-family="'Courier New', monospace" font-size="9" fill="#56d364" text-anchor="middle">RETRIEVAL PRACTICE</text>
+  <text x="690" y="208" font-family="'Courier New', monospace" font-size="14" fill="#56d364" text-anchor="middle">RETRIEVAL PRACTICE</text>
   <rect x="760" y="190" width="120" height="28" rx="4" fill="#1e3020" stroke="#3fb950" stroke-width="1"/>
-  <text x="820" y="208" font-family="'Courier New', monospace" font-size="9" fill="#56d364" text-anchor="middle">SPACED REPETITION</text>
+  <text x="820" y="208" font-family="'Courier New', monospace" font-size="14" fill="#56d364" text-anchor="middle">SPACED REPETITION</text>
   <rect x="630" y="226" width="120" height="28" rx="4" fill="#1e3020" stroke="#3fb950" stroke-width="1"/>
-  <text x="690" y="244" font-family="'Courier New', monospace" font-size="9" fill="#56d364" text-anchor="middle">TÉCNICA FEYNMAN</text>
+  <text x="690" y="244" font-family="'Courier New', monospace" font-size="14" fill="#56d364" text-anchor="middle">TÉCNICA FEYNMAN</text>
   <rect x="760" y="226" width="120" height="28" rx="4" fill="#1e3020" stroke="#3fb950" stroke-width="1"/>
-  <text x="820" y="244" font-family="'Courier New', monospace" font-size="9" fill="#56d364" text-anchor="middle">INTERLEAVING</text>
+  <text x="820" y="244" font-family="'Courier New', monospace" font-size="14" fill="#56d364" text-anchor="middle">INTERLEAVING</text>
 
   <!-- Arrow down -->
   <path d="M480 270 L480 286 L472 278 M480 286 L488 278" fill="none" stroke="#21262d" stroke-width="2"/>
 
   <!-- LAYER 3 — FOCO -->
   <rect x="80" y="290" width="800" height="88" rx="8" fill="url(#layer3)" stroke="#f78166" stroke-width="2"/>
-  <text x="120" y="316" font-family="'Courier New', monospace" font-size="13" fill="#f78166" font-weight="bold">CAMADA 3 — FOCO E ATENÇÃO</text>
-  <text x="120" y="334" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">Módulo 5: Atenção seletiva, sustentada, Deep Work</text>
-  <text x="120" y="351" font-family="'Courier New', monospace" font-size="10" fill="#6a7a8a">Gestão de distrações, rituais de foco, blocos de trabalho profundo, ambiente de estudo</text>
+  <text x="120" y="316" font-family="'Courier New', monospace" font-size="18" fill="#f78166" font-weight="bold">CAMADA 3 — FOCO E ATENÇÃO</text>
+  <text x="120" y="334" font-family="'Courier New', monospace" font-size="16" fill="#8b949e">Módulo 5: Atenção seletiva, sustentada, Deep Work</text>
+  <text x="120" y="351" font-family="'Courier New', monospace" font-size="15" fill="#6a7a8a">Gestão de distrações, rituais de foco, blocos de trabalho profundo, ambiente de estudo</text>
   <rect x="620" y="298" width="120" height="28" rx="4" fill="#2a1515" stroke="#f78166" stroke-width="1"/>
-  <text x="680" y="316" font-family="'Courier New', monospace" font-size="9" fill="#f78166" text-anchor="middle">DEEP WORK</text>
+  <text x="680" y="316" font-family="'Courier New', monospace" font-size="14" fill="#f78166" text-anchor="middle">DEEP WORK</text>
   <rect x="750" y="298" width="110" height="28" rx="4" fill="#2a1515" stroke="#f78166" stroke-width="1"/>
-  <text x="805" y="316" font-family="'Courier New', monospace" font-size="9" fill="#f78166" text-anchor="middle">POMODORO+</text>
+  <text x="805" y="316" font-family="'Courier New', monospace" font-size="14" fill="#f78166" text-anchor="middle">POMODORO+</text>
   <rect x="620" y="334" width="120" height="28" rx="4" fill="#2a1515" stroke="#f78166" stroke-width="1"/>
-  <text x="680" y="352" font-family="'Courier New', monospace" font-size="9" fill="#f78166" text-anchor="middle">SEM DISTRAÇÃO</text>
+  <text x="680" y="352" font-family="'Courier New', monospace" font-size="14" fill="#f78166" text-anchor="middle">SEM DISTRAÇÃO</text>
   <rect x="750" y="334" width="110" height="28" rx="4" fill="#2a1515" stroke="#f78166" stroke-width="1"/>
-  <text x="805" y="352" font-family="'Courier New', monospace" font-size="9" fill="#f78166" text-anchor="middle">RITUAIS FOCO</text>
+  <text x="805" y="352" font-family="'Courier New', monospace" font-size="14" fill="#f78166" text-anchor="middle">RITUAIS FOCO</text>
 
   <!-- Arrow down -->
   <path d="M480 378 L480 394 L472 386 M480 394 L488 386" fill="none" stroke="#21262d" stroke-width="2"/>
 
   <!-- LAYER 4 — MENTALIDADE -->
   <rect x="100" y="398" width="760" height="88" rx="8" fill="url(#layer4)" stroke="#bc8cff" stroke-width="2"/>
-  <text x="136" y="424" font-family="'Courier New', monospace" font-size="13" fill="#bc8cff" font-weight="bold">CAMADA 4 — MENTALIDADE E PSICOLOGIA</text>
-  <text x="136" y="442" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">Módulo 6: Growth Mindset, desconforto produtivo, autocompaixão</text>
-  <text x="136" y="459" font-family="'Courier New', monospace" font-size="10" fill="#6a7a8a">Carol Dweck (Stanford), identidade de aprendiz, ressignificação do erro, resiliência</text>
+  <text x="136" y="424" font-family="'Courier New', monospace" font-size="18" fill="#bc8cff" font-weight="bold">CAMADA 4 — MENTALIDADE E PSICOLOGIA</text>
+  <text x="136" y="442" font-family="'Courier New', monospace" font-size="16" fill="#8b949e">Módulo 6: Growth Mindset, desconforto produtivo, autocompaixão</text>
+  <text x="136" y="459" font-family="'Courier New', monospace" font-size="15" fill="#6a7a8a">Carol Dweck (Stanford), identidade de aprendiz, ressignificação do erro, resiliência</text>
   <rect x="630" y="406" width="110" height="28" rx="4" fill="#1a1530" stroke="#bc8cff" stroke-width="1"/>
-  <text x="685" y="424" font-family="'Courier New', monospace" font-size="9" fill="#bc8cff" text-anchor="middle">GROWTH MINDSET</text>
+  <text x="685" y="424" font-family="'Courier New', monospace" font-size="14" fill="#bc8cff" text-anchor="middle">GROWTH MINDSET</text>
   <rect x="750" y="406" width="90" height="28" rx="4" fill="#1a1530" stroke="#bc8cff" stroke-width="1"/>
-  <text x="795" y="424" font-family="'Courier New', monospace" font-size="9" fill="#bc8cff" text-anchor="middle">RESILIÊNCIA</text>
+  <text x="795" y="424" font-family="'Courier New', monospace" font-size="14" fill="#bc8cff" text-anchor="middle">RESILIÊNCIA</text>
   <rect x="630" y="442" width="110" height="28" rx="4" fill="#1a1530" stroke="#bc8cff" stroke-width="1"/>
-  <text x="685" y="460" font-family="'Courier New', monospace" font-size="9" fill="#bc8cff" text-anchor="middle">AUTOCOMPAIXÃO</text>
+  <text x="685" y="460" font-family="'Courier New', monospace" font-size="14" fill="#bc8cff" text-anchor="middle">AUTOCOMPAIXÃO</text>
   <rect x="750" y="442" width="90" height="28" rx="4" fill="#1a1530" stroke="#bc8cff" stroke-width="1"/>
-  <text x="795" y="460" font-family="'Courier New', monospace" font-size="9" fill="#bc8cff" text-anchor="middle">DESCONFORTO</text>
+  <text x="795" y="460" font-family="'Courier New', monospace" font-size="14" fill="#bc8cff" text-anchor="middle">DESCONFORTO</text>
 
   <!-- Arrow down -->
   <path d="M480 486 L480 502 L472 494 M480 502 L488 494" fill="none" stroke="#21262d" stroke-width="2"/>
 
   <!-- LAYER 5 — HÁBITOS -->
   <rect x="120" y="506" width="720" height="88" rx="8" fill="url(#layer5)" stroke="#56bfbf" stroke-width="2"/>
-  <text x="154" y="532" font-family="'Courier New', monospace" font-size="13" fill="#56bfbf" font-weight="bold">CAMADA 5 — HÁBITOS E SISTEMAS</text>
-  <text x="154" y="550" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">Módulo 7: Hábitos Atômicos, sistemas de estudo, identidade</text>
-  <text x="154" y="567" font-family="'Courier New', monospace" font-size="10" fill="#6a7a8a">James Clear, loop de hábito (gatilho→rotina→recompensa), 1% melhor por dia, identidade antes de ações</text>
+  <text x="154" y="532" font-family="'Courier New', monospace" font-size="18" fill="#56bfbf" font-weight="bold">CAMADA 5 — HÁBITOS E SISTEMAS</text>
+  <text x="154" y="550" font-family="'Courier New', monospace" font-size="16" fill="#8b949e">Módulo 7: Hábitos Atômicos, sistemas de estudo, identidade</text>
+  <text x="154" y="567" font-family="'Courier New', monospace" font-size="15" fill="#6a7a8a">James Clear, loop de hábito (gatilho→rotina→recompensa), 1% melhor por dia, identidade antes de ações</text>
   <rect x="620" y="514" width="110" height="28" rx="4" fill="#102525" stroke="#56bfbf" stroke-width="1"/>
-  <text x="675" y="532" font-family="'Courier New', monospace" font-size="9" fill="#56bfbf" text-anchor="middle">LOOP DE HÁBITO</text>
+  <text x="675" y="532" font-family="'Courier New', monospace" font-size="14" fill="#56bfbf" text-anchor="middle">LOOP DE HÁBITO</text>
   <rect x="740" y="514" width="80" height="28" rx="4" fill="#102525" stroke="#56bfbf" stroke-width="1"/>
-  <text x="780" y="532" font-family="'Courier New', monospace" font-size="9" fill="#56bfbf" text-anchor="middle">IDENTIDADE</text>
+  <text x="780" y="532" font-family="'Courier New', monospace" font-size="14" fill="#56bfbf" text-anchor="middle">IDENTIDADE</text>
   <rect x="620" y="550" width="110" height="28" rx="4" fill="#102525" stroke="#56bfbf" stroke-width="1"/>
-  <text x="675" y="568" font-family="'Courier New', monospace" font-size="9" fill="#56bfbf" text-anchor="middle">SISTEMAS ESTUDO</text>
+  <text x="675" y="568" font-family="'Courier New', monospace" font-size="14" fill="#56bfbf" text-anchor="middle">SISTEMAS ESTUDO</text>
   <rect x="740" y="550" width="80" height="28" rx="4" fill="#102525" stroke="#56bfbf" stroke-width="1"/>
-  <text x="780" y="568" font-family="'Courier New', monospace" font-size="9" fill="#56bfbf" text-anchor="middle">1% POR DIA</text>
+  <text x="780" y="568" font-family="'Courier New', monospace" font-size="14" fill="#56bfbf" text-anchor="middle">1% POR DIA</text>
 
   <!-- Arrow down -->
   <path d="M480 594 L480 610 L472 602 M480 610 L488 602" fill="none" stroke="#21262d" stroke-width="2"/>
 
   <!-- LAYER 6 — ULTRALEARNING -->
   <rect x="140" y="614" width="680" height="88" rx="8" fill="url(#layer6)" stroke="#d29922" stroke-width="2"/>
-  <text x="170" y="640" font-family="'Courier New', monospace" font-size="13" fill="#d29922" font-weight="bold">CAMADA 6 — ULTRALEARNING (Sprints)</text>
-  <text x="170" y="658" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">Módulo 8: 9 Princípios, projetos de 30–90 dias de alto impacto</text>
-  <text x="170" y="675" font-family="'Courier New', monospace" font-size="10" fill="#6a7a8a">Scott Young: Metalearning, Focus, Directness, Drill, Retrieval, Feedback, Retention, Intuição, Experimentação</text>
+  <text x="170" y="640" font-family="'Courier New', monospace" font-size="18" fill="#d29922" font-weight="bold">CAMADA 6 — ULTRALEARNING (Sprints)</text>
+  <text x="170" y="658" font-family="'Courier New', monospace" font-size="16" fill="#8b949e">Módulo 8: 9 Princípios, projetos de 30–90 dias de alto impacto</text>
+  <text x="170" y="675" font-family="'Courier New', monospace" font-size="15" fill="#6a7a8a">Scott Young: Metalearning, Focus, Directness, Drill, Retrieval, Feedback, Retention, Intuição, Experimentação</text>
   <rect x="630" y="622" width="170" height="28" rx="4" fill="#252005" stroke="#d29922" stroke-width="1"/>
-  <text x="715" y="640" font-family="'Courier New', monospace" font-size="9" fill="#d29922" text-anchor="middle">9 PRINCÍPIOS INTEGRADOS</text>
+  <text x="715" y="640" font-family="'Courier New', monospace" font-size="14" fill="#d29922" text-anchor="middle">9 PRINCÍPIOS INTEGRADOS</text>
   <rect x="630" y="658" width="170" height="28" rx="4" fill="#252005" stroke="#d29922" stroke-width="1"/>
-  <text x="715" y="676" font-family="'Courier New', monospace" font-size="9" fill="#d29922" text-anchor="middle">PROJETO DE 30-90 DIAS</text>
+  <text x="715" y="676" font-family="'Courier New', monospace" font-size="14" fill="#d29922" text-anchor="middle">PROJETO DE 30-90 DIAS</text>
 
   <!-- Arrow down -->
   <path d="M480 702 L480 718 L472 710 M480 718 L488 710" fill="none" stroke="#00d4ff" stroke-width="2"/>
@@ -140,16 +140,16 @@
   <!-- LAYER 7 — LLL (TOP LAYER, narrowest but brightest) -->
   <rect x="160" y="722" width="640" height="90" rx="8" fill="url(#layer7)" stroke="#00d4ff" stroke-width="3"/>
   <text x="480" y="750" font-family="'Courier New', monospace" font-size="15" font-weight="bold" fill="#00d4ff" text-anchor="middle">CAMADA 7 — LIFE LONG LEARNING</text>
-  <text x="480" y="768" font-family="'Courier New', monospace" font-size="11" fill="#e6edf3" text-anchor="middle">Módulo 9: Filosofia, identidade e prática permanente</text>
-  <text x="480" y="784" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Aprender + Desaprender + Reaprender | Curiosidade | Comunidade | Portfólio | PDI</text>
-  <text x="480" y="800" font-family="'Courier New', monospace" font-size="11" fill="#00d4ff" text-anchor="middle" font-weight="bold">"O Aprendiz Permanente"</text>
+  <text x="480" y="768" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3" text-anchor="middle">Módulo 9: Filosofia, identidade e prática permanente</text>
+  <text x="480" y="784" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">Aprender + Desaprender + Reaprender | Curiosidade | Comunidade | Portfólio | PDI</text>
+  <text x="480" y="800" font-family="'Courier New', monospace" font-size="16" fill="#00d4ff" text-anchor="middle" font-weight="bold">"O Aprendiz Permanente"</text>
 
   <!-- Side label -->
-  <text x="20" y="500" font-family="'Courier New', monospace" font-size="11" fill="#3b4450" text-anchor="middle" transform="rotate(-90 20 500)">CADA CAMADA APOIA A PRÓXIMA</text>
+  <text x="20" y="500" font-family="'Courier New', monospace" font-size="16" fill="#3b4450" text-anchor="middle" transform="rotate(-90 20 500)">CADA CAMADA APOIA A PRÓXIMA</text>
   <line x1="30" y1="74" x2="30" y2="812" stroke="#21262d" stroke-width="1" stroke-dasharray="6,4"/>
 
   <!-- Footer -->
   <line x1="40" y1="824" x2="920" y2="824" stroke="#21262d" stroke-width="1"/>
-  <text x="480" y="844" font-family="'Courier New', monospace" font-size="10" fill="#3b4450" text-anchor="middle">Curso "Aprender a Aprender" — Educa com Talento | 9 Módulos | ~18h | 59 Aulas</text>
-  <text x="480" y="858" font-family="'Courier New', monospace" font-size="10" fill="#3b4450" text-anchor="middle">Neurociência → Técnicas → Foco → Mentalidade → Hábitos → Ultralearning → LLL</text>
+  <text x="480" y="844" font-family="'Courier New', monospace" font-size="15" fill="#3b4450" text-anchor="middle">Curso "Aprender a Aprender" — Educa com Talento | 9 Módulos | ~18h | 59 Aulas</text>
+  <text x="480" y="858" font-family="'Courier New', monospace" font-size="15" fill="#3b4450" text-anchor="middle">Neurociência → Técnicas → Foco → Mentalidade → Hábitos → Ultralearning → LLL</text>
 </svg>

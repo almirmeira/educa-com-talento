@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="500" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+
+  <!-- Background -->
+  <rect width="900" height="500" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="450" y="36" text-anchor="middle" fill="#e0e0e0" font-size="24" font-weight="bold">Curva de Dunning-Kruger</text>
+  <text x="450" y="58" text-anchor="middle" fill="#a0a0b0" font-size="17">Kruger &amp; Dunning, Cornell University (1999) — Unskilled and Unaware of It</text>
+
+  <!-- Grid area -->
+  <rect x="100" y="80" width="760" height="310" fill="#12122a" rx="6"/>
+
+  <!-- Grid lines horizontal -->
+  <line x1="100" y1="80"  x2="860" y2="80"  stroke="#2a2a4a" stroke-width="1"/>
+  <line x1="100" y1="157" x2="860" y2="157" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="100" y1="234" x2="860" y2="234" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="100" y1="311" x2="860" y2="311" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="100" y1="390" x2="860" y2="390" stroke="#2a2a4a" stroke-width="1"/>
+
+  <!-- Grid lines vertical -->
+  <line x1="100" y1="80" x2="100" y2="390" stroke="#3a3a5a" stroke-width="2"/>
+  <line x1="290" y1="80" x2="290" y2="390" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="480" y1="80" x2="480" y2="390" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="670" y1="80" x2="670" y2="390" stroke="#2a2a4a" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="860" y1="80" x2="860" y2="390" stroke="#3a3a5a" stroke-width="2"/>
+
+  <!-- Y axis labels -->
+  <text x="92" y="84" text-anchor="end" fill="#a0a0b0" font-size="15">Alta</text>
+  <text x="92" y="394" text-anchor="end" fill="#a0a0b0" font-size="15">Baixa</text>
+
+  <!-- Y axis title -->
+  <text x="28" y="240" text-anchor="middle" fill="#c0c0d0" font-size="16" transform="rotate(-90,28,240)">Confiança Percebida</text>
+
+  <!-- X axis title -->
+  <text x="480" y="422" text-anchor="middle" fill="#c0c0d0" font-size="17">Experiência / Conhecimento →</text>
+  <text x="115" y="406" fill="#a0a0b0" font-size="15">Pouco</text>
+  <text x="820" y="406" text-anchor="end" fill="#a0a0b0" font-size="15">Muito</text>
+
+  <!-- ========================================= -->
+  <!-- METACOGNIÇÃO PRECISA — dashed horizontal line -->
+  <!-- At y=230 (approximately realistic confidence level) -->
+  <!-- ========================================= -->
+  <line x1="100" y1="230" x2="860" y2="230" stroke="#26de81" stroke-width="2" stroke-dasharray="8,5"/>
+  <text x="866" y="234" fill="#26de81" font-size="15" font-weight="bold">← Metacognição</text>
+  <text x="866" y="250" fill="#26de81" font-size="15">     Precisa</text>
+
+  <!-- ========================================= -->
+  <!-- THE DUNNING-KRUGER CURVE (orange/amber) -->
+  <!-- Points: start (100,390)=zero experience/confidence -->
+  <!-- Rise steeply to peak (210,92)=Pico da Tolice -->
+  <!-- Fall to valley (430,340)=Vale da Desilusão -->
+  <!-- Rise gradually to (670,200)=Rampa Iluminação -->
+  <!-- Plateau at (860,190)=Platô Sustentabilidade -->
+  <!-- ========================================= -->
+  <path d="M 100,390
+           C 130,380 150,300 175,180
+           C 185,140 200,92 215,90
+           C 230,92 250,120 275,180
+           C 310,260 360,330 430,345
+           C 490,355 530,350 560,330
+           C 600,305 635,260 670,205
+           C 720,190 780,188 860,185"
+        fill="none" stroke="#ff9f43" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Area under curve -->
+  <path d="M 100,390
+           C 130,380 150,300 175,180
+           C 185,140 200,92 215,90
+           C 230,92 250,120 275,180
+           C 310,260 360,330 430,345
+           C 490,355 530,350 560,330
+           C 600,305 635,260 670,205
+           C 720,190 780,188 860,185
+           L 860,390 L 100,390 Z"
+        fill="#ff9f43" fill-opacity="0.06"/>
+
+  <!-- ========================================= -->
+  <!-- ZONE LABELS -->
+  <!-- ========================================= -->
+
+  <!-- ZONE 1: Pico da Tolice / Monte da Estupidez -->
+  <circle cx="215" cy="90" r="8" fill="#ff9f43" stroke="#1a1a2e" stroke-width="2"/>
+  <rect x="100" y="92" width="220" height="64" fill="#1a1200" rx="8" stroke="#ff9f43" stroke-width="1.5"/>
+  <text x="210" y="113" text-anchor="middle" fill="#ff9f43" font-size="17" font-weight="bold">Pico da Tolice</text>
+  <text x="210" y="131" text-anchor="middle" fill="#c07030" font-size="15">"Monte da Estupidez"</text>
+  <text x="210" y="149" text-anchor="middle" fill="#906020" font-size="14">"Sei tudo sobre isso!"</text>
+  <line x1="215" y1="98" x2="215" y2="92" stroke="#ff9f43" stroke-width="1.5"/>
+
+  <!-- ZONE 2: Vale da Desilusão -->
+  <circle cx="430" cy="345" r="8" fill="#ff6b6b" stroke="#1a1a2e" stroke-width="2"/>
+  <rect x="332" y="356" width="196" height="60" fill="#1a0808" rx="8" stroke="#ff6b6b" stroke-width="1.5"/>
+  <text x="430" y="376" text-anchor="middle" fill="#ff6b6b" font-size="17" font-weight="bold">Vale da Desilusão</text>
+  <text x="430" y="394" text-anchor="middle" fill="#c05050" font-size="15">"Isso é mais difícil</text>
+  <text x="430" y="409" text-anchor="middle" fill="#c05050" font-size="15">do que eu pensava"</text>
+  <line x1="430" y1="353" x2="430" y2="356" stroke="#ff6b6b" stroke-width="1.5"/>
+
+  <!-- ZONE 3: Rampa da Iluminação -->
+  <circle cx="610" cy="285" r="7" fill="#00d4ff" stroke="#1a1a2e" stroke-width="2"/>
+  <rect x="558" y="222" width="188" height="56" fill="#0a1a28" rx="8" stroke="#00d4ff" stroke-width="1.5"/>
+  <text x="652" y="242" text-anchor="middle" fill="#00d4ff" font-size="17" font-weight="bold">Rampa da</text>
+  <text x="652" y="258" text-anchor="middle" fill="#00d4ff" font-size="17" font-weight="bold">Iluminação</text>
+  <text x="652" y="274" text-anchor="middle" fill="#508090" font-size="15">"Estou aprendendo!"</text>
+  <line x1="620" y1="278" x2="620" y2="278" stroke="#00d4ff" stroke-width="1.5"/>
+
+  <!-- ZONE 4: Platô da Sustentabilidade -->
+  <circle cx="830" cy="186" r="7" fill="#26de81" stroke="#1a1a2e" stroke-width="2"/>
+  <rect x="685" y="156" width="210" height="56" fill="#0a1a12" rx="8" stroke="#26de81" stroke-width="1.5"/>
+  <text x="790" y="176" text-anchor="middle" fill="#26de81" font-size="17" font-weight="bold">Platô da</text>
+  <text x="790" y="192" text-anchor="middle" fill="#26de81" font-size="17" font-weight="bold">Sustentabilidade</text>
+  <text x="790" y="208" text-anchor="middle" fill="#408060" font-size="15">Competência real</text>
+  <line x1="830" y1="193" x2="830" y2="212" stroke="#26de81" stroke-width="1.5" stroke-dasharray="3,3"/>
+
+  <!-- ========================================= -->
+  <!-- BOTTOM NOTE -->
+  <!-- ========================================= -->
+  <rect x="100" y="435" width="760" height="52" fill="#12122a" rx="8" stroke="#2a2a4a" stroke-width="1"/>
+  <text x="450" y="456" text-anchor="middle" fill="#c0c0d0" font-size="17" font-weight="bold">Impacto para o Aprendizado</text>
+  <text x="450" y="476" text-anchor="middle" fill="#8080a0" font-size="16">A metacognição precisa é a saída do Pico da Tolice: questionar o que você sabe é o primeiro passo para aprender de verdade.</text>
+
+</svg>

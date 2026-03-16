@@ -60,6 +60,13 @@ Resultado: o grupo que estudou em blocos se saiu melhor **durante o aprendizado*
 
 **Doug Rohrer** e **Kelli Taylor**, da **Universidade do Sul da Flórida**, replicaram esse efeito em matemática em 2007. Estudantes que praticaram problemas de geometria intercalados com outros tipos tiveram desempenho de 43% superior em testes finais comparados ao grupo que estudou em blocos.
 
+---
+
+![Interleaving vs Blocos — Comparação de Eficácia](../assets/diagramas/retrieval-practice-vs-rereading.svg)
+*Figura: Interleaving vs. Estudo em Bloco — durante o treino o bloco parece melhor, mas no teste final o interleaving supera em 43% — Kornell & Bjork (2008), UCLA*
+
+---
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │           INTERLEAVING vs. ESTUDO EM BLOCO                   │

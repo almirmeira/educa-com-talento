@@ -67,6 +67,10 @@ Cada neurônio tem três partes principais que você precisa conhecer:
     transportando o sinal elétrico/químico
 ```
 
+> 📊 **Diagrama:** ![Estrutura do Neurônio e o Aprendizado](../assets/diagramas/estrutura-neuronio-aprendizado.svg)
+
+*Figura: Estrutura completa do neurônio — dendritos, soma, axônio com mielina e sinapse. Base neurobiológica do LTP e da neuroplasticidade.*
+
 - **Dendritos**: São como antenas. Eles *recebem* sinais de outros neurônios. Quanto mais dendritos desenvolvidos, mais conexões possíveis.
 - **Corpo Celular**: O núcleo de processamento. Integra os sinais recebidos.
 - **Axônio**: O cabo de transmissão. Envia o sinal adiante para outros neurônios.
@@ -153,6 +157,10 @@ Isso não é metáfora. É biologia.
 ---
 
 ### Parte 4: O Neurônio Dendrítico do Prof. Pier
+
+> 📊 **Diagrama:** ![O Neurônio Dendrítico — Prof. Pierluigi Piazzi](../assets/diagramas/neuronio-dendritico-pier.svg)
+
+*Figura: O conceito de neurônio dendrítico do Prof. Pier — quanto mais conexões entre conceitos, mais robusto e resistente ao esquecimento é o aprendizado.*
 
 O Prof. **Pierluigi Piazzi** tem uma metáfora pedagógica que eu considero genial pela sua simplicidade e poder de clareza. Ele fala do **neurônio dendrítico**.
 

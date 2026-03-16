@@ -49,6 +49,13 @@ A genialidade do sistema Cornell não está em como você anota, mas em como a *
 
 A página é dividida em três zonas:
 
+---
+
+![Cornell Notes — Estrutura da Página](../assets/diagramas/cornell-notes-layout.svg)
+*Figura: Estrutura completa da página Cornell Notes com os 5 Rs — Walter Pauk, Universidade Cornell (anos 1950)*
+
+---
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                    PÁGINA CORNELL                            │

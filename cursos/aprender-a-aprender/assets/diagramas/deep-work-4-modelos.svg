@@ -1,0 +1,69 @@
+<svg viewBox="0 0 900 540" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+  <!-- Background -->
+  <rect width="900" height="540" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="450" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#00d4ff">Os 4 Modelos de Deep Work — Cal Newport</text>
+  <text x="450" y="56" text-anchor="middle" font-size="15" fill="#a0a0b0">"Deep Work" (2016) | Universidade de Georgetown</text>
+
+  <!-- Card 1: MONÁSTICO (top-left) -->
+  <rect x="20" y="72" width="420" height="200" rx="12" fill="#1e1e36" stroke="#00d4ff" stroke-width="2.5"/>
+  <!-- Header -->
+  <rect x="20" y="72" width="420" height="50" rx="12" fill="#00d4ff" opacity="0.18"/>
+  <text x="80" y="104" font-size="20" font-weight="bold" fill="#00d4ff">MONÁSTICO</text>
+  <!-- Icon: monastery/complete isolation -->
+  <text x="370" y="108" text-anchor="middle" font-size="30" fill="#00d4ff">🏔</text>
+  <!-- Content -->
+  <text x="38" y="142" font-size="15" fill="#e0e0e0">Elimina quase todas as obrigações</text>
+  <text x="38" y="162" font-size="15" fill="#e0e0e0">superficiais. Vida dedicada ao Deep Work.</text>
+  <text x="38" y="190" font-size="14" fill="#a0a0b0">Exemplo: Donald Knuth — sem e-mail desde 1990.</text>
+  <text x="38" y="210" font-size="14" fill="#a0a0b0">Responde cartas 1x por trimestre.</text>
+  <rect x="38" y="228" width="384" height="30" rx="6" fill="#00d4ff" opacity="0.08"/>
+  <text x="46" y="248" font-size="13" fill="#00d4ff">Ideal para: acadêmicos, escritores, artistas com controle total da agenda</text>
+
+  <!-- Card 2: BIMODAL (top-right) -->
+  <rect x="460" y="72" width="420" height="200" rx="12" fill="#1e1e36" stroke="#ff9f43" stroke-width="2.5"/>
+  <rect x="460" y="72" width="420" height="50" rx="12" fill="#ff9f43" opacity="0.18"/>
+  <text x="520" y="104" font-size="20" font-weight="bold" fill="#ff9f43">BIMODAL</text>
+  <!-- Icon: calendar split -->
+  <text x="830" y="108" text-anchor="middle" font-size="30" fill="#ff9f43">📅</text>
+  <text x="478" y="142" font-size="15" fill="#e0e0e0">Divide o tempo em blocos: períodos de</text>
+  <text x="478" y="162" font-size="15" fill="#e0e0e0">reclusão total alternados com dias normais.</text>
+  <text x="478" y="190" font-size="14" fill="#a0a0b0">Exemplo: Carl Jung — torre em Bollingen (semanas</text>
+  <text x="478" y="210" font-size="14" fill="#a0a0b0">de isolamento) + consultório em Zurique.</text>
+  <rect x="478" y="228" width="384" height="30" rx="6" fill="#ff9f43" opacity="0.08"/>
+  <text x="486" y="248" font-size="13" fill="#ff9f43">Ideal para: quem pode criar períodos de reclusão total (dias/semanas)</text>
+
+  <!-- Card 3: RÍTMICO (bottom-left) -->
+  <rect x="20" y="290" width="420" height="200" rx="12" fill="#1e1e36" stroke="#26de81" stroke-width="2.5"/>
+  <rect x="20" y="290" width="420" height="50" rx="12" fill="#26de81" opacity="0.18"/>
+  <text x="80" y="322" font-size="20" font-weight="bold" fill="#26de81">RÍTMICO</text>
+  <!-- Icon: recurring clock -->
+  <text x="370" y="326" text-anchor="middle" font-size="30" fill="#26de81">⏰</text>
+  <!-- MAIS RECOMENDADO badge -->
+  <rect x="210" y="298" width="180" height="22" rx="6" fill="#26de81" opacity="0.25"/>
+  <text x="300" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#26de81">★ MAIS RECOMENDADO</text>
+  <text x="38" y="358" font-size="15" fill="#e0e0e0">Bloco fixo diário no mesmo horário.</text>
+  <text x="38" y="378" font-size="15" fill="#e0e0e0">Independente de motivação ou humor.</text>
+  <text x="38" y="406" font-size="14" fill="#a0a0b0">Exemplo: Jerry Seinfeld — escrevia piadas</text>
+  <text x="38" y="426" font-size="14" fill="#a0a0b0">toda manhã, sem exceção. "Não quebre a corrente."</text>
+  <rect x="38" y="444" width="384" height="30" rx="6" fill="#26de81" opacity="0.08"/>
+  <text x="46" y="464" font-size="13" fill="#26de81">Ideal para: a maioria das pessoas — rotina consistente, horário fixo diário</text>
+
+  <!-- Card 4: JORNALÍSTICO (bottom-right) -->
+  <rect x="460" y="290" width="420" height="200" rx="12" fill="#1e1e36" stroke="#ff6b6b" stroke-width="2.5"/>
+  <rect x="460" y="290" width="420" height="50" rx="12" fill="#ff6b6b" opacity="0.18"/>
+  <text x="520" y="322" font-size="20" font-weight="bold" fill="#ff6b6b">JORNALÍSTICO</text>
+  <!-- Icon: newspaper/laptop -->
+  <text x="830" y="326" text-anchor="middle" font-size="30" fill="#ff6b6b">📰</text>
+  <text x="478" y="358" font-size="15" fill="#e0e0e0">Encaixa Deep Work em qualquer janela</text>
+  <text x="478" y="378" font-size="15" fill="#e0e0e0">de tempo disponível. Sem horário fixo.</text>
+  <text x="478" y="406" font-size="14" fill="#a0a0b0">Requer: capacidade de entrar em foco</text>
+  <text x="478" y="426" font-size="14" fill="#a0a0b0">profundo em poucos minutos. Mais difícil.</text>
+  <rect x="478" y="444" width="384" height="30" rx="6" fill="#ff6b6b" opacity="0.08"/>
+  <text x="486" y="464" font-size="13" fill="#ff6b6b">Ideal para: agenda imprevisível + habilidade de foco rápido já desenvolvida</text>
+
+  <!-- Formula bar at bottom -->
+  <rect x="20" y="506" width="860" height="24" rx="6" fill="#16213e" stroke="#2a2a4a" stroke-width="1"/>
+  <text x="450" y="523" text-anchor="middle" font-size="14" fill="#e0e0e0">Resultado de Alto Desempenho = <tspan font-weight="bold" fill="#00d4ff">Tempo</tspan> × <tspan font-weight="bold" fill="#ff9f43">Intensidade do Foco</tspan>  —  Newport, 2016</text>
+</svg>

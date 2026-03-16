@@ -58,6 +58,13 @@ Depois de uma semana, testaram todos os grupos novamente.
 
 Os resultados foram devastadores para quem acreditava na releitura.
 
+---
+
+![Retrieval Practice vs Releitura](../assets/diagramas/retrieval-practice-vs-rereading.svg)
+*Figura: Comparação entre Retrieval Practice e releitura passiva — Karpicke & Roediger (2006)*
+
+---
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │       RETENÇÃO APÓS 1 SEMANA — Karpicke & Roediger (2006)   │

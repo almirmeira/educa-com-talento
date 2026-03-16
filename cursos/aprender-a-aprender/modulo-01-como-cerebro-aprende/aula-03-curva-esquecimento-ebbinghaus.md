@@ -95,6 +95,10 @@ CURVA DO ESQUECIMENTO DE EBBINGHAUS (1885)
 ⚠️  Sem revisão, você perde ~79% do conteúdo em 1 mês
 ```
 
+> 📊 **Diagrama:** ![Curva do Esquecimento de Ebbinghaus](../assets/diagramas/curva-esquecimento-ebbinghaus.svg)
+
+*Figura: Curva do Esquecimento de Ebbinghaus (1885) — retenção sem revisão (vermelho) vs. com revisão espaçada (ciano). Fonte: Ebbinghaus, H. (1885). Über das Gedächtnis.*
+
 Agora vem a parte boa: **Ebbinghaus também descobriu a solução**.
 
 ---

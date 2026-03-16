@@ -98,6 +98,11 @@ Desempenho
 
 ---
 
+![A curva de aprendizado com as 4 etapas e o plateau onde a maioria desiste](../assets/diagramas/curva-aprendizado-plateau.svg)
+*Figura: A Curva de Aprendizado — as 4 etapas e o Vale da Frustração onde 80% abandona antes do salto de qualidade (Vygotsky — Zona Proximal de Desenvolvimento)*
+
+---
+
 ### Parte 2: Frustração Como Sinal de Crescimento
 
 Aqui está o reframe mais importante desta aula — e talvez de todo o módulo.

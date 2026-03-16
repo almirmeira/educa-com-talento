@@ -1,0 +1,76 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <!-- Background -->
+  <rect width="900" height="500" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#e0e0e0">A Curva de Aprendizado: Por Que a Maioria Desiste</text>
+  <text x="450" y="60" text-anchor="middle" font-size="16" fill="#a0a0b0">Zona Proximal de Desenvolvimento — Vygotsky</text>
+
+  <!-- Chart area background -->
+  <rect x="80" y="75" width="760" height="360" rx="8" fill="#12122a"/>
+
+  <!-- Y-axis label -->
+  <text x="30" y="260" text-anchor="middle" font-size="16" fill="#a0a0b0" transform="rotate(-90,30,260)">Nível de Competência</text>
+
+  <!-- X-axis label -->
+  <text x="460" y="475" text-anchor="middle" font-size="16" fill="#a0a0b0">Tempo e Prática</text>
+
+  <!-- Axes -->
+  <line x1="110" y1="410" x2="820" y2="410" stroke="#a0a0b0" stroke-width="2"/>
+  <line x1="110" y1="100" x2="110" y2="415" stroke="#a0a0b0" stroke-width="2"/>
+
+  <!-- Arrow heads -->
+  <polygon points="820,405 832,410 820,415" fill="#a0a0b0"/>
+  <polygon points="105,100 110,88 115,100" fill="#a0a0b0"/>
+
+  <!-- Plateau shaded area (red zone) -->
+  <rect x="380" y="250" width="210" height="160" rx="4" fill="#ff6b6b" opacity="0.15"/>
+  <text x="485" y="320" text-anchor="middle" font-size="15" font-weight="bold" fill="#ff6b6b">PLATEAU</text>
+  <text x="485" y="340" text-anchor="middle" font-size="14" fill="#ff6b6b">Vale da Frustração</text>
+
+  <!-- S-curve path -->
+  <!-- Phase 1: Entusiasmo - initial rise (cyan) -->
+  <path d="M 130 390 Q 180 380 230 340 Q 260 310 290 270" stroke="#00d4ff" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Phase 2: Realidade - slowdown (orange) -->
+  <path d="M 290 270 Q 330 255 380 250" stroke="#ff9f43" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Phase 3: Plateau (red) -->
+  <path d="M 380 250 Q 430 252 490 255 Q 530 257 590 253" stroke="#ff6b6b" stroke-width="4" fill="none" stroke-linecap="round" stroke-dasharray="8,4"/>
+  <!-- Phase 4: Maestria - steep rise (green) -->
+  <path d="M 590 253 Q 630 230 670 190 Q 710 145 760 110" stroke="#26de81" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- Phase labels -->
+  <!-- Phase 1 label: Entusiasmo -->
+  <rect x="120" y="280" width="165" height="44" rx="5" fill="#00d4ff" opacity="0.15"/>
+  <text x="202" y="299" text-anchor="middle" font-size="15" font-weight="bold" fill="#00d4ff">1. Entusiasmo</text>
+  <text x="202" y="317" text-anchor="middle" font-size="14" fill="#00d4ff">Inicial</text>
+
+  <!-- Phase 2 label: Realidade -->
+  <rect x="283" y="190" width="130" height="44" rx="5" fill="#ff9f43" opacity="0.15"/>
+  <text x="348" y="210" text-anchor="middle" font-size="15" font-weight="bold" fill="#ff9f43">2. Encontro</text>
+  <text x="348" y="228" text-anchor="middle" font-size="14" fill="#ff9f43">com a Realidade</text>
+
+  <!-- Phase 4 label: Maestria -->
+  <rect x="670" y="108" width="110" height="44" rx="5" fill="#26de81" opacity="0.15"/>
+  <text x="725" y="128" text-anchor="middle" font-size="15" font-weight="bold" fill="#26de81">4. Maestria</text>
+  <text x="725" y="146" text-anchor="middle" font-size="14" fill="#26de81">Avançada</text>
+
+  <!-- "A maioria desiste AQUI" annotation -->
+  <!-- Arrow pointing down to plateau -->
+  <line x1="485" y1="360" x2="485" y2="395" stroke="#ff6b6b" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="480,390 485,403 490,390" fill="#ff6b6b"/>
+
+  <!-- Annotation box -->
+  <rect x="360" y="360" width="252" height="38" rx="6" fill="#ff6b6b" opacity="0.22"/>
+  <text x="486" y="376" text-anchor="middle" font-size="15" font-weight="bold" fill="#ff6b6b">A maioria desiste AQUI</text>
+  <text x="486" y="394" text-anchor="middle" font-size="13" fill="#ff6b6b">80% abandonam neste ponto</text>
+
+  <!-- Dot markers on curve -->
+  <circle cx="230" cy="340" r="6" fill="#00d4ff"/>
+  <circle cx="380" cy="250" r="6" fill="#ff9f43"/>
+  <circle cx="590" cy="253" r="6" fill="#ff6b6b"/>
+  <circle cx="760" cy="110" r="6" fill="#26de81"/>
+
+  <!-- Decorative connector between plateau end and maestria -->
+  <text x="600" y="240" font-size="13" fill="#26de81">→ Quem persiste</text>
+  <text x="600" y="257" font-size="13" fill="#26de81">   supera o plateau</text>
+</svg>

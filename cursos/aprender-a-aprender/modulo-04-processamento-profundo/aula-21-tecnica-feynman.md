@@ -85,6 +85,13 @@ A Técnica Feynman é um **teste de realidade**. Quando você tenta explicar um 
 
 ### Parte 2: Os 4 Passos da Técnica Feynman
 
+---
+
+![Técnica Feynman — 4 Passos](../assets/diagramas/tecnica-feynman-4-passos.svg)
+*Figura: Os 4 Passos da Técnica Feynman — do free recall à simplificação iterativa — Richard Feynman, Caltech*
+
+---
+
 **Passo 1 — Escreva tudo que você sabe (Retrieval)**
 
 Pegue uma folha em branco. Escreva o nome do conceito no topo. Agora, escreva tudo que você sabe sobre ele — sem consultar nenhum material.

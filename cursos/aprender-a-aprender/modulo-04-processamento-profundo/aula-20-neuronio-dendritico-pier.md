@@ -55,6 +55,13 @@ Agora, a metáfora pedagógica do Prof. Pier.
 
 Piazzi usa o neurônio não como unidade biológica, mas como **metáfora de conhecimento**. Cada vez que você aprende algo novo — de verdade, com profundidade — você cria um "neurônio" representando aquele conceito. Mas um neurônio isolado é fraco. Um neurônio rico em conexões é poderoso.
 
+---
+
+![Neurônio Dendrítico — Metáfora de Piazzi](../assets/diagramas/neuronio-dendritico-pier.svg)
+*Figura: O Neurônio Dendrítico de Pierluigi Piazzi — conceitos com múltiplas conexões são muito mais resistentes ao esquecimento*
+
+---
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │             O NEURÔNIO DENDRÍTICO DE PIAZZI                  │

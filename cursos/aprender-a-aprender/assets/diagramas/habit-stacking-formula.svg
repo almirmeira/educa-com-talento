@@ -1,0 +1,77 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <!-- Background -->
+  <rect width="900" height="520" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="450" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#e0e0e0">Habit Stacking — Empilhamento de Hábitos</text>
+  <text x="450" y="58" text-anchor="middle" font-size="16" fill="#a0a0b0">BJ Fogg → James Clear</text>
+
+  <!-- Formula box (prominent) -->
+  <rect x="60" y="74" width="780" height="62" rx="10" fill="#00d4ff" opacity="0.14" stroke="#00d4ff" stroke-width="2"/>
+  <text x="450" y="101" text-anchor="middle" font-size="18" font-weight="bold" fill="#00d4ff">DEPOIS QUE</text>
+  <text x="450" y="101" text-anchor="start" font-size="18" font-weight="bold" fill="#00d4ff" x="90" y="101"> </text>
+  <!-- Full formula as one line -->
+  <text x="450" y="100" text-anchor="middle" font-size="17" font-weight="bold" fill="#e0e0e0">
+    DEPOIS QUE <tspan fill="#ff9f43">[HÁBITO EXISTENTE]</tspan> → EU FAREI <tspan fill="#26de81">[NOVO HÁBITO DE ESTUDO]</tspan>
+  </text>
+  <text x="450" y="122" text-anchor="middle" font-size="14" fill="#a0a0b0">Use um comportamento já automático como ponto de ancoragem para o novo hábito</text>
+
+  <!-- Chain 1 -->
+  <rect x="60" y="154" width="340" height="68" rx="8" fill="#ff9f43" opacity="0.18" stroke="#ff9f43" stroke-width="1.5"/>
+  <text x="80" y="178" font-size="13" font-weight="bold" fill="#ff9f43">HÁBITO ÂNCORA</text>
+  <text x="80" y="198" font-size="17" fill="#e0e0e0">Ligo o computador</text>
+  <text x="80" y="214" font-size="14" fill="#a0a0b0">Evento diário existente</text>
+
+  <!-- Arrow 1 -->
+  <line x1="400" y1="188" x2="448" y2="188" stroke="#00d4ff" stroke-width="3"/>
+  <polygon points="444,183 458,188 444,193" fill="#00d4ff"/>
+  <text x="424" y="182" text-anchor="middle" font-size="22" fill="#00d4ff">→</text>
+
+  <rect x="460" y="154" width="380" height="68" rx="8" fill="#26de81" opacity="0.18" stroke="#26de81" stroke-width="1.5"/>
+  <text x="480" y="178" font-size="13" font-weight="bold" fill="#26de81">NOVO HÁBITO</text>
+  <text x="480" y="198" font-size="17" fill="#e0e0e0">Reviso Anki 15 min</text>
+  <text x="480" y="214" font-size="14" fill="#a0a0b0">Novo comportamento de estudo</text>
+
+  <!-- Chain 2 -->
+  <rect x="60" y="244" width="340" height="68" rx="8" fill="#ff9f43" opacity="0.18" stroke="#ff9f43" stroke-width="1.5"/>
+  <text x="80" y="268" font-size="13" font-weight="bold" fill="#ff9f43">HÁBITO ÂNCORA</text>
+  <text x="80" y="288" font-size="17" fill="#e0e0e0">Termino o almoço</text>
+  <text x="80" y="304" font-size="14" fill="#a0a0b0">Evento diário existente</text>
+
+  <!-- Arrow 2 -->
+  <text x="424" y="272" text-anchor="middle" font-size="22" fill="#00d4ff">→</text>
+
+  <rect x="460" y="244" width="380" height="68" rx="8" fill="#26de81" opacity="0.18" stroke="#26de81" stroke-width="1.5"/>
+  <text x="480" y="268" font-size="13" font-weight="bold" fill="#26de81">NOVO HÁBITO</text>
+  <text x="480" y="288" font-size="17" fill="#e0e0e0">Leio 10 páginas</text>
+  <text x="480" y="304" font-size="14" fill="#a0a0b0">Leitura técnica ou de desenvolvimento</text>
+
+  <!-- Chain 3 -->
+  <rect x="60" y="334" width="340" height="68" rx="8" fill="#ff9f43" opacity="0.18" stroke="#ff9f43" stroke-width="1.5"/>
+  <text x="80" y="358" font-size="13" font-weight="bold" fill="#ff9f43">HÁBITO ÂNCORA</text>
+  <text x="80" y="378" font-size="17" fill="#e0e0e0">Deito para dormir</text>
+  <text x="80" y="394" font-size="14" fill="#a0a0b0">Evento noturno existente</text>
+
+  <!-- Arrow 3 -->
+  <text x="424" y="362" text-anchor="middle" font-size="22" fill="#00d4ff">→</text>
+
+  <rect x="460" y="334" width="380" height="68" rx="8" fill="#26de81" opacity="0.18" stroke="#26de81" stroke-width="1.5"/>
+  <text x="480" y="358" font-size="13" font-weight="bold" fill="#26de81">NOVO HÁBITO</text>
+  <text x="480" y="378" font-size="17" fill="#e0e0e0">Revisão mental do dia</text>
+  <text x="480" y="394" font-size="14" fill="#a0a0b0">3 pontos aprendidos (Free Recall)</text>
+
+  <!-- Chain links decoration (vertical connector left side) -->
+  <line x1="230" y1="222" x2="230" y2="244" stroke="#ff9f43" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="230" y1="312" x2="230" y2="334" stroke="#ff9f43" stroke-width="2" stroke-dasharray="4,3"/>
+
+  <!-- Bottom info boxes -->
+  <rect x="60" y="424" width="380" height="76" rx="8" fill="#12122a" stroke="#ff9f43" stroke-width="1.5"/>
+  <text x="250" y="447" text-anchor="middle" font-size="15" font-weight="bold" fill="#ff9f43">Chave do sucesso:</text>
+  <text x="250" y="468" text-anchor="middle" font-size="14" fill="#e0e0e0">O hábito âncora deve ser</text>
+  <text x="250" y="486" text-anchor="middle" font-size="14" fill="#e0e0e0">sólido, diário e automático</text>
+
+  <rect x="460" y="424" width="380" height="76" rx="8" fill="#12122a" stroke="#26de81" stroke-width="1.5"/>
+  <text x="650" y="447" text-anchor="middle" font-size="15" font-weight="bold" fill="#26de81">Dica de ouro:</text>
+  <text x="650" y="468" text-anchor="middle" font-size="14" fill="#e0e0e0">Comece com 1-2 empilhamentos.</text>
+  <text x="650" y="486" text-anchor="middle" font-size="14" fill="#e0e0e0">Consolide antes de adicionar mais.</text>
+</svg>

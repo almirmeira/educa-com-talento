@@ -1,0 +1,58 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <!-- Background -->
+  <rect width="900" height="480" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="450" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#e0e0e0">Modelo 70-20-10 de Aprendizado Profissional</text>
+  <text x="450" y="58" text-anchor="middle" font-size="16" fill="#a0a0b0">Centre for Creative Leadership (CCL)</text>
+
+  <!-- Bar chart area -->
+  <!-- 70% bar - blue/cyan -->
+  <rect x="80" y="80" width="534" height="100" rx="8" fill="#00d4ff" opacity="0.85"/>
+  <text x="97" y="125" font-size="46" font-weight="bold" fill="#1a1a2e">70%</text>
+  <text x="235" y="115" font-size="20" font-weight="bold" fill="#1a1a2e">EXPERIÊNCIA PRÁTICA</text>
+  <text x="235" y="138" font-size="15" fill="#1a1a2e">Projetos reais, desafios, erros e acertos</text>
+  <text x="235" y="158" font-size="14" fill="#1a1a2e">Stretch assignments, on-the-job learning</text>
+
+  <!-- 20% bar - orange -->
+  <rect x="80" y="198" width="152" height="100" rx="8" fill="#ff9f43" opacity="0.88"/>
+  <text x="97" y="243" font-size="46" font-weight="bold" fill="#1a1a2e">20%</text>
+
+  <!-- 20% label box beside bar -->
+  <rect x="246" y="198" width="378" height="100" rx="8" fill="#ff9f43" opacity="0.14" stroke="#ff9f43" stroke-width="1.5"/>
+  <text x="262" y="227" font-size="20" font-weight="bold" fill="#ff9f43">MENTORIA E REDE</text>
+  <text x="262" y="250" font-size="15" fill="#e0e0e0">Mentores, colegas, comunidades</text>
+  <text x="262" y="271" font-size="14" fill="#a0a0b0">Feedback de pares e líderes</text>
+  <text x="262" y="289" font-size="14" fill="#a0a0b0">Grupos de prática e discussão</text>
+
+  <!-- 10% bar - green -->
+  <rect x="80" y="316" width="76" height="100" rx="8" fill="#26de81" opacity="0.88"/>
+  <text x="88" y="361" font-size="34" font-weight="bold" fill="#1a1a2e">10%</text>
+
+  <!-- 10% label box beside bar -->
+  <rect x="170" y="316" width="378" height="100" rx="8" fill="#26de81" opacity="0.14" stroke="#26de81" stroke-width="1.5"/>
+  <text x="186" y="345" font-size="20" font-weight="bold" fill="#26de81">EDUCAÇÃO FORMAL</text>
+  <text x="186" y="368" font-size="15" fill="#e0e0e0">Cursos, livros, certificações, workshops</text>
+  <text x="186" y="389" font-size="14" fill="#a0a0b0">Pós-graduações, plataformas online</text>
+  <text x="186" y="407" font-size="14" fill="#a0a0b0">Conferências e treinamentos estruturados</text>
+
+  <!-- Key insight box -->
+  <rect x="625" y="198" width="245" height="218" rx="10" fill="#12122a" stroke="#a0a0b0" stroke-width="1.5"/>
+  <text x="747" y="222" text-anchor="middle" font-size="15" font-weight="bold" fill="#ff6b6b">ERRO COMUM:</text>
+  <text x="747" y="242" text-anchor="middle" font-size="14" fill="#e0e0e0">A maioria investe</text>
+  <text x="747" y="260" text-anchor="middle" font-size="14" fill="#e0e0e0">70% em cursos e</text>
+  <text x="747" y="278" text-anchor="middle" font-size="14" fill="#e0e0e0">negligencia os 90%</text>
+  <text x="747" y="296" text-anchor="middle" font-size="14" fill="#e0e0e0">mais eficazes!</text>
+
+  <line x1="650" y1="320" x2="850" y2="320" stroke="#a0a0b0" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="747" y="342" text-anchor="middle" font-size="13" fill="#26de81">Life Long Learning</text>
+  <text x="747" y="360" text-anchor="middle" font-size="13" fill="#e0e0e0">distribui-se pelas</text>
+  <text x="747" y="378" text-anchor="middle" font-size="13" fill="#e0e0e0">3 categorias de</text>
+  <text x="747" y="396" text-anchor="middle" font-size="13" fill="#e0e0e0">forma equilibrada</text>
+
+  <!-- X-axis scale indicators -->
+  <line x1="80" y1="435" x2="614" y2="435" stroke="#a0a0b0" stroke-width="1.5" stroke-dasharray="none" opacity="0.4"/>
+  <text x="80" y="452" text-anchor="middle" font-size="13" fill="#a0a0b0">0%</text>
+  <text x="347" y="452" text-anchor="middle" font-size="13" fill="#a0a0b0">50%</text>
+  <text x="614" y="452" text-anchor="middle" font-size="13" fill="#a0a0b0">100%</text>
+</svg>

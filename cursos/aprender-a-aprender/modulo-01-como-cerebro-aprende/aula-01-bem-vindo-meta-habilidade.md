@@ -78,6 +78,10 @@ Pensa em analogia com computadores: você pode ter os melhores softwares do mund
   A base sustenta tudo o que vem acima
 ```
 
+> 📊 **Diagrama:** ![A Pirâmide das Habilidades do Século XXI](../assets/diagramas/piramide-habilidades-seculo-xxi.svg)
+
+*Figura: Hierarquia das habilidades mais valorizadas no século XXI — "Aprender a Aprender" como meta-habilidade no topo.*
+
 O economista e ganhador do Prêmio Nobel **James Heckman** (Universidade de Chicago) demonstrou em seus estudos que o retorno sobre investimento em habilidades cognitivas fundamentais é exponencialmente maior do que o retorno em habilidades específicas. Em outras palavras: é mais valioso aprender a aprender do que aprender qualquer coisa específica.
 
 E o mercado está confirmando isso na prática. O Fórum Econômico Mundial, no relatório *Future of Jobs 2025*, colocou **capacidade de aprendizado contínuo** como uma das três habilidades mais valorizadas pelos empregadores globais. Não programação. Não IA. Não gestão de projetos. A capacidade de aprender coisas novas continuamente.

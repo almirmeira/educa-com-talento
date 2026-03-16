@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="500" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+
+  <!-- Background -->
+  <rect width="900" height="500" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="450" y="36" text-anchor="middle" fill="#e0e0e0" font-size="24" font-weight="bold">Estrutura do Neurônio e o Aprendizado</text>
+  <text x="450" y="58" text-anchor="middle" fill="#a0a0b0" font-size="18">Como a informação flui na célula nervosa — Base da Neuroplasticidade</text>
+
+  <!-- ========================================= -->
+  <!-- DENDRITES (left side — 3 dendrites) -->
+  <!-- ========================================= -->
+
+  <!-- Dendrite 1 — top-left -->
+  <line x1="210" y1="240" x2="310" y2="265" stroke="#00d4ff" stroke-width="4" stroke-linecap="round"/>
+  <line x1="150" y1="200" x2="210" y2="240" stroke="#00d4ff" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="110" y1="165" x2="155" y2="205" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+  <!-- Dendrite branch tips -->
+  <circle cx="110" cy="163" r="5" fill="#00d4ff" opacity="0.7"/>
+  <circle cx="148" cy="185" r="4" fill="#00d4ff" opacity="0.5"/>
+
+  <!-- Dendrite 2 — center-left -->
+  <line x1="200" y1="285" x2="310" y2="280" stroke="#00d4ff" stroke-width="4" stroke-linecap="round"/>
+  <line x1="130" y1="285" x2="200" y2="285" stroke="#00d4ff" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="80" y1="270" x2="132" y2="285" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="79" cy="270" r="5" fill="#00d4ff" opacity="0.7"/>
+
+  <!-- Dendrite 3 — bottom-left -->
+  <line x1="215" y1="320" x2="310" y2="298" stroke="#00d4ff" stroke-width="4" stroke-linecap="round"/>
+  <line x1="155" y1="350" x2="215" y2="322" stroke="#00d4ff" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="112" y1="382" x2="157" y2="352" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="112" cy="384" r="5" fill="#00d4ff" opacity="0.7"/>
+  <circle cx="152" cy="370" r="4" fill="#00d4ff" opacity="0.5"/>
+
+  <!-- Dendrite label -->
+  <rect x="20" y="254" width="80" height="32" fill="#0d2040" rx="6" stroke="#00d4ff" stroke-width="1"/>
+  <text x="60" y="274" text-anchor="middle" fill="#00d4ff" font-size="16" font-weight="bold">Dendritos</text>
+
+  <!-- Input label -->
+  <rect x="20" y="138" width="210" height="48" fill="#0a1a30" rx="6" stroke="#00a0c0" stroke-width="1"/>
+  <text x="125" y="158" text-anchor="middle" fill="#80d0e0" font-size="16" font-weight="bold">Estímulos /</text>
+  <text x="125" y="178" text-anchor="middle" fill="#80d0e0" font-size="16" font-weight="bold">Informação Nova</text>
+  <line x1="125" y1="186" x2="125" y2="210" stroke="#00a0c0" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="121,210 125,220 129,210" fill="#00a0c0"/>
+
+  <!-- ========================================= -->
+  <!-- CELL BODY (Soma) -->
+  <!-- ========================================= -->
+  <circle cx="385" cy="280" r="72" fill="#0d2040" stroke="#00d4ff" stroke-width="3"/>
+
+  <!-- Nucleus inside -->
+  <circle cx="385" cy="280" r="38" fill="#1a3a5a" stroke="#4090c0" stroke-width="2" stroke-dasharray="5,3"/>
+  <circle cx="385" cy="280" r="20" fill="#2a5a7a" stroke="#70b0d0" stroke-width="1.5"/>
+  <text x="385" y="277" text-anchor="middle" fill="#a0d0e0" font-size="15" font-weight="bold">Núcleo</text>
+  <text x="385" y="295" text-anchor="middle" fill="#70a0b0" font-size="14">(DNA)</text>
+
+  <!-- Soma label -->
+  <text x="385" y="368" text-anchor="middle" fill="#00d4ff" font-size="17" font-weight="bold">Corpo Celular</text>
+  <text x="385" y="388" text-anchor="middle" fill="#70b0c0" font-size="16">(Soma)</text>
+
+  <!-- ========================================= -->
+  <!-- AXON (right side) -->
+  <!-- ========================================= -->
+
+  <!-- Axon hillock -->
+  <line x1="457" y1="280" x2="510" y2="280" stroke="#26de81" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Myelin sheaths -->
+  <!-- Sheath 1 -->
+  <rect x="510" y="269" width="54" height="22" rx="10" fill="#1a4a2a" stroke="#26de81" stroke-width="2"/>
+  <line x1="537" y1="280" x2="537" y2="280" stroke="#26de81" stroke-width="6"/>
+
+  <!-- Node of Ranvier 1 -->
+  <line x1="564" y1="280" x2="578" y2="280" stroke="#26de81" stroke-width="4"/>
+
+  <!-- Sheath 2 -->
+  <rect x="578" y="269" width="54" height="22" rx="10" fill="#1a4a2a" stroke="#26de81" stroke-width="2"/>
+
+  <!-- Node of Ranvier 2 -->
+  <line x1="632" y1="280" x2="646" y2="280" stroke="#26de81" stroke-width="4"/>
+
+  <!-- Sheath 3 -->
+  <rect x="646" y="269" width="54" height="22" rx="10" fill="#1a4a2a" stroke="#26de81" stroke-width="2"/>
+
+  <!-- End of axon -->
+  <line x1="700" y1="280" x2="730" y2="280" stroke="#26de81" stroke-width="4"/>
+
+  <!-- Axon label -->
+  <text x="620" y="244" text-anchor="middle" fill="#26de81" font-size="17" font-weight="bold">Axônio</text>
+  <line x1="620" y1="248" x2="620" y2="269" stroke="#26de81" stroke-width="1.5" stroke-dasharray="3,3"/>
+
+  <!-- Myelin label -->
+  <rect x="505" y="304" width="210" height="40" fill="#0a2a1a" rx="6" stroke="#26de81" stroke-width="1"/>
+  <text x="610" y="322" text-anchor="middle" fill="#50c870" font-size="16" font-weight="bold">Mielina — velocidade</text>
+  <text x="610" y="340" text-anchor="middle" fill="#408850" font-size="15">(acelera a transmissão)</text>
+
+  <!-- Transmission label -->
+  <text x="650" y="218" text-anchor="middle" fill="#80d0b0" font-size="17">Transmissão</text>
+  <polygon points="718,222 728,218 718,214" fill="#26de81"/>
+  <line x1="680" y1="218" x2="726" y2="218" stroke="#26de81" stroke-width="2"/>
+
+  <!-- ========================================= -->
+  <!-- SYNAPTIC TERMINAL (right end) -->
+  <!-- ========================================= -->
+
+  <!-- Axon terminals (boutons) -->
+  <circle cx="750" cy="260" r="10" fill="#ff9f43" stroke="#ffcf93" stroke-width="2"/>
+  <circle cx="750" cy="280" r="12" fill="#ff9f43" stroke="#ffcf93" stroke-width="2"/>
+  <circle cx="750" cy="302" r="10" fill="#ff9f43" stroke="#ffcf93" stroke-width="2"/>
+  <line x1="730" y1="280" x2="738" y2="260" stroke="#26de81" stroke-width="2"/>
+  <line x1="730" y1="280" x2="738" y2="280" stroke="#26de81" stroke-width="2"/>
+  <line x1="730" y1="280" x2="738" y2="302" stroke="#26de81" stroke-width="2"/>
+
+  <!-- Synapse label -->
+  <rect x="760" y="252" width="120" height="56" fill="#2a1800" rx="6" stroke="#ff9f43" stroke-width="1.5"/>
+  <text x="820" y="274" text-anchor="middle" fill="#ff9f43" font-size="16" font-weight="bold">Sinapse</text>
+  <text x="820" y="292" text-anchor="middle" fill="#c07030" font-size="15">Conexão entre</text>
+  <text x="820" y="308" text-anchor="middle" fill="#c07030" font-size="15">neurônios</text>
+
+  <!-- ========================================= -->
+  <!-- BOTTOM: Prof. Pier note -->
+  <!-- ========================================= -->
+  <rect x="20" y="420" width="520" height="62" fill="#12122a" rx="8" stroke="#2a2a4a" stroke-width="1"/>
+  <text x="270" y="442" text-anchor="middle" fill="#ffd700" font-size="17" font-weight="bold">Neurônio Dendrítico — Prof. Pierluigi Piazzi</text>
+  <text x="270" y="462" text-anchor="middle" fill="#a0a0b0" font-size="16">Mais dendritos = mais conexões = menor esquecimento</text>
+  <text x="270" y="478" text-anchor="middle" fill="#7070a0" font-size="15">Revisão ativa cria dendritos. Releitura passiva, não.</text>
+
+  <!-- LTP note -->
+  <rect x="555" y="420" width="320" height="62" fill="#0a2a1a" rx="8" stroke="#26de81" stroke-width="1"/>
+  <text x="715" y="442" text-anchor="middle" fill="#26de81" font-size="17" font-weight="bold">LTP — Potenciação de Longo Prazo</text>
+  <text x="715" y="462" text-anchor="middle" fill="#70c090" font-size="16">"Neurônios que disparam juntos,</text>
+  <text x="715" y="478" text-anchor="middle" fill="#70c090" font-size="16">conectam-se juntos." — Hebb</text>
+
+</svg>

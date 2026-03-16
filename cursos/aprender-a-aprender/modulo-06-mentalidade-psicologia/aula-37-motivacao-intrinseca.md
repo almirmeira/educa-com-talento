@@ -90,6 +90,11 @@ Quando as 3 necessidades são FRUSTRADAS:
 
 ---
 
+![As três necessidades psicológicas básicas da Teoria da Autodeterminação](../assets/diagramas/sdt-tres-necessidades.svg)
+*Figura: Teoria da Autodeterminação (SDT) — Autonomia, Competência e Pertencimento como base da Motivação Intrínseca — Deci & Ryan, University of Rochester (1985)*
+
+---
+
 ### Parte 2: O Paradoxo da Recompensa
 
 Agora chegamos a um dos experimentos mais famosos — e mais contraintuitivos — de toda a psicologia social.

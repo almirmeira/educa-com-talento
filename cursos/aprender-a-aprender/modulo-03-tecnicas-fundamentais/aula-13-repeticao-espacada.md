@@ -49,6 +49,13 @@ Ebbinghaus passava meses memorizando listas de sílabas sem sentido — "DAX", "
 
 O resultado mais famoso é a **Curva do Esquecimento**, uma das descobertas mais citadas na história da psicologia:
 
+---
+
+![Curva do Esquecimento de Ebbinghaus](../assets/diagramas/curva-esquecimento-ebbinghaus.svg)
+*Figura: Curva do Esquecimento — Hermann Ebbinghaus (1885) — o esquecimento é rápido e inevitável, mas cada revisão reconstrói e estabiliza a memória*
+
+---
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │           CURVA DO ESQUECIMENTO — Ebbinghaus (1885)          │
@@ -128,6 +135,13 @@ Muito bem — os princípios são claros. Mas como implementar isso na prática 
 A resposta vem de dois lugares: o **Sistema Leitner** e o **algoritmo SM-2**.
 
 **Sebastian Leitner**, jornalista alemão, criou nos anos 1970 um sistema físico elegante usando caixas de flashcards:
+
+---
+
+![Sistema Leitner — 5 Caixas de Revisão Espaçada](../assets/diagramas/sistema-leitner-5-caixas.svg)
+*Figura: Sistema Leitner — cartões sobem de caixa ao acertar e voltam à Caixa 1 ao errar — Sebastian Leitner (1972)*
+
+---
 
 ```
 ┌──────────────────────────────────────────────────────────────┐

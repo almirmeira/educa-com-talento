@@ -1,0 +1,141 @@
+<svg viewBox="0 0 700 900" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+  <!-- Background -->
+  <rect width="700" height="900" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="350" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#00d4ff">Sistema Cornell Notes — Estrutura da Página</text>
+  <text x="350" y="56" text-anchor="middle" font-size="15" fill="#a0a0b0">Walter Pauk — Universidade Cornell (anos 1950)</text>
+
+  <!-- Page outline -->
+  <rect x="60" y="74" width="490" height="668" rx="6" fill="#12122a" stroke="#2a2a5a" stroke-width="2.5"/>
+
+  <!-- Vertical divider (separating Pistas from Notas) at x=60+160=220 -->
+  <line x1="220" y1="74" x2="220" y2="668" stroke="#00d4ff" stroke-width="2" stroke-dasharray="none"/>
+
+  <!-- Horizontal divider above Resumo area, 80px from bottom: y=74+668-80=662-80=582 -->
+  <line x1="60" y1="588" x2="550" y2="588" stroke="#00d4ff" stroke-width="2"/>
+
+  <!-- Column headers -->
+  <!-- Left: PISTAS -->
+  <rect x="60" y="74" width="160" height="48" rx="6" fill="#00d4ff" opacity="0.15"/>
+  <text x="140" y="96" text-anchor="middle" font-size="15" font-weight="bold" fill="#00d4ff">PISTAS /</text>
+  <text x="140" y="114" text-anchor="middle" font-size="15" font-weight="bold" fill="#00d4ff">PERGUNTAS</text>
+
+  <!-- Right: ANOTACOES -->
+  <rect x="220" y="74" width="330" height="48" rx="0" fill="#2a2a4a" opacity="0.6"/>
+  <text x="385" y="104" text-anchor="middle" font-size="15" font-weight="bold" fill="#e0e0e0">ANOTAÇÕES DURANTE A AULA</text>
+
+  <!-- Pistas column content -->
+  <text x="80" y="160" font-size="15" font-weight="bold" fill="#00d4ff">Palavras-chave</text>
+  <rect x="68" y="168" width="140" height="2" fill="#00d4ff" opacity="0.3"/>
+  <text x="80" y="195" font-size="14" fill="#a0a0b0">• Conceito central</text>
+  <text x="80" y="215" font-size="14" fill="#a0a0b0">• Termo técnico</text>
+  <text x="80" y="235" font-size="14" fill="#a0a0b0">• Autor/fonte</text>
+
+  <text x="80" y="275" font-size="15" font-weight="bold" fill="#00d4ff">Perguntas</text>
+  <rect x="68" y="283" width="140" height="2" fill="#00d4ff" opacity="0.3"/>
+  <text x="80" y="308" font-size="14" fill="#a0a0b0">• O que é?</text>
+  <text x="80" y="328" font-size="14" fill="#a0a0b0">• Por que funciona?</text>
+  <text x="80" y="348" font-size="14" fill="#a0a0b0">• Como aplicar?</text>
+  <text x="80" y="368" font-size="14" fill="#a0a0b0">• Qual a evidência?</text>
+
+  <text x="80" y="408" font-size="15" font-weight="bold" fill="#00d4ff">Conceitos</text>
+  <rect x="68" y="416" width="140" height="2" fill="#00d4ff" opacity="0.3"/>
+  <text x="80" y="440" font-size="14" fill="#a0a0b0">• Definição</text>
+  <text x="80" y="460" font-size="14" fill="#a0a0b0">• Fórmula</text>
+  <text x="80" y="480" font-size="14" fill="#a0a0b0">• Princípio</text>
+
+  <!-- Pista recovery label -->
+  <rect x="66" y="510" width="146" height="66" rx="6" fill="#00d4ff" opacity="0.08" stroke="#00d4ff" stroke-width="1"/>
+  <text x="139" y="530" text-anchor="middle" font-size="13" fill="#00d4ff" font-style="italic">Cubra as notas</text>
+  <text x="139" y="548" text-anchor="middle" font-size="13" fill="#00d4ff" font-style="italic">Recite o conteúdo</text>
+  <text x="139" y="566" text-anchor="middle" font-size="13" fill="#00d4ff" font-style="italic">com as pistas</text>
+
+  <!-- Notes column content -->
+  <text x="238" y="160" font-size="15" font-weight="bold" fill="#e0e0e0">Ideias principais</text>
+  <text x="238" y="182" font-size="14" fill="#a0a0b0">• Conceito A — explicação e contexto</text>
+  <text x="238" y="200" font-size="14" fill="#a0a0b0">• Conceito B — detalhe relevante</text>
+  <rect x="238" y="208" width="320" height="1" fill="#2a2a5a"/>
+
+  <text x="238" y="235" font-size="15" font-weight="bold" fill="#e0e0e0">Detalhes</text>
+  <text x="238" y="256" font-size="14" fill="#a0a0b0">→ Dado / fórmula / data específica</text>
+  <text x="238" y="276" font-size="14" fill="#a0a0b0">→ Referência: Autor (ano)</text>
+  <text x="238" y="296" font-size="14" fill="#a0a0b0">→ Exceção ou contra-argumento</text>
+  <rect x="238" y="303" width="320" height="1" fill="#2a2a5a"/>
+
+  <text x="238" y="330" font-size="15" font-weight="bold" fill="#e0e0e0">Exemplos</text>
+  <text x="238" y="352" font-size="14" fill="#a0a0b0">Ex. 1: caso concreto e observável</text>
+  <text x="238" y="372" font-size="14" fill="#a0a0b0">Ex. 2: aplicação prática no contexto</text>
+  <rect x="238" y="380" width="320" height="1" fill="#2a2a5a"/>
+
+  <text x="238" y="407" font-size="14" fill="#a0a0b0">— Conexão com tema anterior:</text>
+  <text x="238" y="427" font-size="14" fill="#a0a0b0">   Remete à ideia de [aula X]</text>
+  <text x="238" y="455" font-size="14" fill="#a0a0b0">— Pergunta para pesquisa futura:</text>
+  <text x="238" y="475" font-size="14" fill="#a0a0b0">   "O que acontece quando...?"</text>
+
+  <!-- Notes area decorative lines -->
+  <line x1="238" y1="495" x2="540" y2="495" stroke="#2a2a5a" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="238" y1="510" x2="540" y2="510" stroke="#2a2a5a" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="238" y1="525" x2="540" y2="525" stroke="#2a2a5a" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="238" y1="540" x2="540" y2="540" stroke="#2a2a5a" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="238" y1="555" x2="540" y2="555" stroke="#2a2a5a" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="238" y1="570" x2="540" y2="570" stroke="#2a2a5a" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- RESUMO zone -->
+  <rect x="60" y="588" width="490" height="154" rx="0" fill="#ff9f43" opacity="0.07"/>
+  <text x="305" y="612" text-anchor="middle" font-size="15" font-weight="bold" fill="#ff9f43">RESUMO COM SUAS PALAVRAS</text>
+  <text x="305" y="636" text-anchor="middle" font-size="14" fill="#e0e0e0">Sintetize o essencial em 2-3 frases com suas próprias palavras.</text>
+  <text x="305" y="658" text-anchor="middle" font-size="14" fill="#a0a0b0">Preencher APÓS a aula ou leitura — nunca durante.</text>
+  <line x1="80" y1="674" x2="530" y2="674" stroke="#ff9f43" stroke-width="1" stroke-dasharray="4,3" opacity="0.5"/>
+  <line x1="80" y1="694" x2="530" y2="694" stroke="#ff9f43" stroke-width="1" stroke-dasharray="4,3" opacity="0.5"/>
+  <line x1="80" y1="714" x2="530" y2="714" stroke="#ff9f43" stroke-width="1" stroke-dasharray="4,3" opacity="0.5"/>
+  <line x1="80" y1="734" x2="530" y2="734" stroke="#ff9f43" stroke-width="1" stroke-dasharray="4,3" opacity="0.5"/>
+
+  <!-- 5 Rs on the right side -->
+  <rect x="570" y="74" width="110" height="668" rx="8" fill="#16213e" stroke="#2a2a4a" stroke-width="1.5"/>
+  <text x="625" y="100" text-anchor="middle" font-size="14" font-weight="bold" fill="#00d4ff">Os 5 Rs</text>
+
+  <rect x="578" y="114" width="94" height="84" rx="6" fill="#00d4ff" opacity="0.1" stroke="#00d4ff" stroke-width="1"/>
+  <text x="625" y="132" text-anchor="middle" font-size="14" font-weight="bold" fill="#00d4ff">R1</text>
+  <text x="625" y="150" text-anchor="middle" font-size="13" fill="#e0e0e0">Record</text>
+  <text x="625" y="168" text-anchor="middle" font-size="12" fill="#a0a0b0">Durante</text>
+  <text x="625" y="184" text-anchor="middle" font-size="12" fill="#a0a0b0">a aula</text>
+
+  <text x="625" y="214" text-anchor="middle" font-size="18" fill="#a0a0b0">↓</text>
+
+  <rect x="578" y="228" width="94" height="84" rx="6" fill="#ff9f43" opacity="0.1" stroke="#ff9f43" stroke-width="1"/>
+  <text x="625" y="246" text-anchor="middle" font-size="14" font-weight="bold" fill="#ff9f43">R2</text>
+  <text x="625" y="264" text-anchor="middle" font-size="13" fill="#e0e0e0">Reduce</text>
+  <text x="625" y="282" text-anchor="middle" font-size="12" fill="#a0a0b0">Preencher</text>
+  <text x="625" y="298" text-anchor="middle" font-size="12" fill="#a0a0b0">pistas</text>
+
+  <text x="625" y="328" text-anchor="middle" font-size="18" fill="#a0a0b0">↓</text>
+
+  <rect x="578" y="342" width="94" height="84" rx="6" fill="#26de81" opacity="0.1" stroke="#26de81" stroke-width="1"/>
+  <text x="625" y="360" text-anchor="middle" font-size="14" font-weight="bold" fill="#26de81">R3</text>
+  <text x="625" y="378" text-anchor="middle" font-size="13" fill="#e0e0e0">Recite</text>
+  <text x="625" y="396" text-anchor="middle" font-size="12" fill="#a0a0b0">Cobrir e</text>
+  <text x="625" y="412" text-anchor="middle" font-size="12" fill="#a0a0b0">recitar</text>
+
+  <text x="625" y="442" text-anchor="middle" font-size="18" fill="#a0a0b0">↓</text>
+
+  <rect x="578" y="456" width="94" height="84" rx="6" fill="#00d4ff" opacity="0.08" stroke="#00d4ff" stroke-width="1"/>
+  <text x="625" y="474" text-anchor="middle" font-size="14" font-weight="bold" fill="#00d4ff">R4</text>
+  <text x="625" y="492" text-anchor="middle" font-size="13" fill="#e0e0e0">Reflect</text>
+  <text x="625" y="510" text-anchor="middle" font-size="12" fill="#a0a0b0">Perguntas</text>
+  <text x="625" y="526" text-anchor="middle" font-size="12" fill="#a0a0b0">profundas</text>
+
+  <text x="625" y="556" text-anchor="middle" font-size="18" fill="#a0a0b0">↓</text>
+
+  <rect x="578" y="570" width="94" height="84" rx="6" fill="#ff9f43" opacity="0.1" stroke="#ff9f43" stroke-width="1"/>
+  <text x="625" y="588" text-anchor="middle" font-size="14" font-weight="bold" fill="#ff9f43">R5</text>
+  <text x="625" y="606" text-anchor="middle" font-size="13" fill="#e0e0e0">Review</text>
+  <text x="625" y="624" text-anchor="middle" font-size="12" fill="#a0a0b0">Revisão</text>
+  <text x="625" y="640" text-anchor="middle" font-size="12" fill="#a0a0b0">periódica</text>
+
+  <!-- Bottom note -->
+  <text x="350" y="790" text-anchor="middle" font-size="14" fill="#e0e0e0">Coluna de Pistas (~30%) + Coluna de Notas (~70%) + Zona de Resumo (base)</text>
+  <text x="350" y="812" text-anchor="middle" font-size="14" fill="#a0a0b0">R3 (Recite) = Retrieval Practice embutido nas anotações</text>
+  <text x="350" y="836" text-anchor="middle" font-size="14" fill="#a0a0b0">Anote à mão — a lentidão força o processamento ativo (Mueller &amp; Oppenheimer, 2014)</text>
+  <text x="350" y="860" text-anchor="middle" font-size="13" fill="#a0a0b0">Preencha a Coluna de Pistas e o Resumo APÓS a aula — nunca durante</text>
+</svg>

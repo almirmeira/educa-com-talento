@@ -48,6 +48,10 @@ Com seu aluno de pós-doutorado **Justin Kruger**, Dunning passou os anos seguin
 
 O Efeito Dunning-Kruger é melhor visualizado através de uma curva que descreve a relação entre competência real e confiança percebida ao longo de uma jornada de aprendizado:
 
+> 📊 **Diagrama:** ![Curva de Dunning-Kruger](../assets/diagramas/curva-dunning-kruger.svg)
+
+*Figura: Curva de Dunning-Kruger — Pico da Tolice, Vale da Desilusão, Rampa da Iluminação e Platô da Sustentabilidade. Kruger, J. &amp; Dunning, D. (1999). Journal of Personality and Social Psychology, 77(6), 1121–1134.*
+
 ```
 CURVA DUNNING-KRUGER — COMPETÊNCIA vs. CONFIANÇA
 ──────────────────────────────────────────────────────────────

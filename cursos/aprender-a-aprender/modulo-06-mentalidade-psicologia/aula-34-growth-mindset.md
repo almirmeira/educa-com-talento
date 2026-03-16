@@ -84,6 +84,11 @@ FIXED MINDSET vs. GROWTH MINDSET
 
 ---
 
+![Comparação visual entre Fixed Mindset e Growth Mindset](../assets/diagramas/growth-vs-fixed-mindset.svg)
+*Figura: Fixed Mindset vs. Growth Mindset — as duas mentalidades fundamentais segundo Carol Dweck (Stanford)*
+
+---
+
 ### Parte 2: Como Cada Mindset Responde às Situações
 
 A diferença não é apenas teórica. Ela se manifesta em comportamentos concretos e observáveis. Vou te dar quatro situações e mostrar como cada mindset responde:

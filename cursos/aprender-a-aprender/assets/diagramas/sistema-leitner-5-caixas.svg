@@ -1,0 +1,90 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+  <!-- Background -->
+  <rect width="900" height="480" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="bold" fill="#00d4ff">Sistema Leitner — 5 Caixas de Revisão Espaçada</text>
+  <text x="450" y="64" text-anchor="middle" font-size="16" fill="#a0a0b0">Criado por Sebastian Leitner (1972)</text>
+
+  <!-- Box 1 -->
+  <rect x="30" y="100" width="100" height="80" rx="8" fill="#2a1a1a" stroke="#ff6b6b" stroke-width="2.5"/>
+  <text x="80" y="128" text-anchor="middle" font-size="16" font-weight="bold" fill="#ff6b6b">CAIXA 1</text>
+  <!-- flashcard icon -->
+  <rect x="60" y="135" width="40" height="28" rx="3" fill="#ff6b6b" opacity="0.25" stroke="#ff6b6b" stroke-width="1.2"/>
+  <rect x="65" y="140" width="30" height="18" rx="2" fill="none" stroke="#ff6b6b" stroke-width="1"/>
+  <text x="80" y="192" text-anchor="middle" font-size="14" fill="#e0e0e0">Todos os</text>
+  <text x="80" y="210" text-anchor="middle" font-size="14" fill="#e0e0e0">Dias</text>
+
+  <!-- Box 2 -->
+  <rect x="170" y="88" width="120" height="95" rx="8" fill="#2a1e14" stroke="#ff9f43" stroke-width="2.5"/>
+  <text x="230" y="116" text-anchor="middle" font-size="16" font-weight="bold" fill="#ff9f43">CAIXA 2</text>
+  <rect x="207" y="123" width="46" height="32" rx="3" fill="#ff9f43" opacity="0.2" stroke="#ff9f43" stroke-width="1.2"/>
+  <rect x="213" y="129" width="34" height="20" rx="2" fill="none" stroke="#ff9f43" stroke-width="1"/>
+  <text x="230" y="197" text-anchor="middle" font-size="14" fill="#e0e0e0">A cada</text>
+  <text x="230" y="215" text-anchor="middle" font-size="14" fill="#e0e0e0">2 Dias</text>
+
+  <!-- Box 3 -->
+  <rect x="330" y="74" width="140" height="110" rx="8" fill="#1e221a" stroke="#ffd43b" stroke-width="2.5"/>
+  <text x="400" y="104" text-anchor="middle" font-size="16" font-weight="bold" fill="#ffd43b">CAIXA 3</text>
+  <rect x="375" y="112" width="50" height="36" rx="3" fill="#ffd43b" opacity="0.18" stroke="#ffd43b" stroke-width="1.2"/>
+  <rect x="381" y="118" width="38" height="23" rx="2" fill="none" stroke="#ffd43b" stroke-width="1"/>
+  <text x="400" y="200" text-anchor="middle" font-size="14" fill="#e0e0e0">Semanal</text>
+
+  <!-- Box 4 -->
+  <rect x="510" y="58" width="160" height="126" rx="8" fill="#182022" stroke="#26de81" stroke-width="2.5"/>
+  <text x="590" y="90" text-anchor="middle" font-size="16" font-weight="bold" fill="#26de81">CAIXA 4</text>
+  <rect x="565" y="100" width="56" height="40" rx="3" fill="#26de81" opacity="0.15" stroke="#26de81" stroke-width="1.2"/>
+  <rect x="572" y="107" width="42" height="26" rx="2" fill="none" stroke="#26de81" stroke-width="1"/>
+  <text x="590" y="203" text-anchor="middle" font-size="14" fill="#e0e0e0">Quinzenal</text>
+
+  <!-- Box 5 -->
+  <rect x="710" y="40" width="180" height="144" rx="8" fill="#181a26" stroke="#00d4ff" stroke-width="2.5"/>
+  <text x="800" y="74" text-anchor="middle" font-size="16" font-weight="bold" fill="#00d4ff">CAIXA 5</text>
+  <rect x="773" y="84" width="60" height="44" rx="3" fill="#00d4ff" opacity="0.12" stroke="#00d4ff" stroke-width="1.2"/>
+  <rect x="780" y="91" width="46" height="30" rx="2" fill="none" stroke="#00d4ff" stroke-width="1"/>
+  <text x="800" y="205" text-anchor="middle" font-size="14" fill="#e0e0e0">Mensal</text>
+
+  <!-- "Correct" arrows (right-pointing, between boxes) -->
+  <!-- Box1 -> Box2 -->
+  <path d="M132,135 L167,118" stroke="#26de81" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
+  <!-- Box2 -> Box3 -->
+  <path d="M292,120 L327,110" stroke="#26de81" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
+  <!-- Box3 -> Box4 -->
+  <path d="M472,115 L507,100" stroke="#26de81" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
+  <!-- Box4 -> Box5 -->
+  <path d="M672,98 L707,88" stroke="#26de81" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
+
+  <!-- "Correct" label -->
+  <text x="155" y="105" font-size="13" fill="#26de81">Acerto</text>
+  <text x="315" y="97" font-size="13" fill="#26de81">Acerto</text>
+  <text x="476" y="90" font-size="13" fill="#26de81">Acerto</text>
+  <text x="672" y="77" font-size="13" fill="#26de81">Acerto</text>
+
+  <!-- Wrong answer loop-back arrows (from each box back to Box1) -->
+  <!-- Curved arc below -->
+  <path d="M230,186 Q160,260 80,183" stroke="#ff6b6b" stroke-width="2" fill="none" stroke-dasharray="6,4" marker-end="url(#arrowRed)"/>
+  <path d="M400,187 Q240,280 82,183" stroke="#ff6b6b" stroke-width="2" fill="none" stroke-dasharray="6,4" marker-end="url(#arrowRed)"/>
+  <path d="M590,187 Q320,310 82,184" stroke="#ff6b6b" stroke-width="2" fill="none" stroke-dasharray="6,4" marker-end="url(#arrowRed)"/>
+  <path d="M800,187 Q400,340 82,185" stroke="#ff6b6b" stroke-width="2" fill="none" stroke-dasharray="6,4" marker-end="url(#arrowRed)"/>
+
+  <!-- "Erro" labels near arcs -->
+  <text x="165" y="260" font-size="13" fill="#ff6b6b">Erro → Caixa 1</text>
+  <text x="310" y="292" font-size="13" fill="#ff6b6b">Erro → Caixa 1</text>
+  <text x="470" y="318" font-size="13" fill="#ff6b6b">Erro → Caixa 1</text>
+  <text x="610" y="346" font-size="13" fill="#ff6b6b">Erro → Caixa 1</text>
+
+  <!-- Legend area -->
+  <rect x="30" y="400" width="840" height="64" rx="8" fill="#16213e" stroke="#2a2a4a" stroke-width="1.5"/>
+  <text x="450" y="424" text-anchor="middle" font-size="15" font-weight="bold" fill="#e0e0e0">Como funciona: todos os cartões novos entram na Caixa 1</text>
+  <text x="450" y="448" text-anchor="middle" font-size="15" fill="#a0a0b0">Acertou → sobe para próxima caixa   |   Errou → volta para Caixa 1   |   Caixas maiores = revisão menos frequente</text>
+
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#26de81"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#ff6b6b"/>
+    </marker>
+  </defs>
+</svg>

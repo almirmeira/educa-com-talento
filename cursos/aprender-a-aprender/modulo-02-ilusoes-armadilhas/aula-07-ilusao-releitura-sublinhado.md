@@ -123,6 +123,10 @@ Deixa eu dar um nuance importante: sublinhado não é inútil em absoluto. O pro
 
 ### Parte 3: O Experimento Definitivo — Karpicke & Roediger (2006)
 
+> 📊 **Diagrama:** ![Testing Effect — Retrieval Practice vs. Releitura](../assets/diagramas/retrieval-practice-vs-rereading.svg)
+
+*Figura: Comparação de retenção — Releitura 4x (21%) vs. Estudar 1x + Testar 3x (61%). Karpicke, J.D. &amp; Roediger, H.L. (2006). Science, 319(5865), 966–968.*
+
 O estudo mais impactante sobre a superioridade do teste sobre a releitura foi publicado em 2006 por **Jeffrey Karpicke** e **Henry Roediger III**, ambos da Washington University em St. Louis.
 
 O experimento foi simples e elegante:

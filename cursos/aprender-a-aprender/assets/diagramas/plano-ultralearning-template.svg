@@ -5,126 +5,126 @@
   <!-- Title bar -->
   <rect x="0" y="0" width="960" height="56" fill="#161b22"/>
   <text x="480" y="26" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#00d4ff" text-anchor="middle">TEMPLATE DO PROJETO DE ULTRALEARNING</text>
-  <text x="480" y="46" font-family="'Courier New', monospace" font-size="11" fill="#8b949e" text-anchor="middle">Canvas para projetos de 30–90 dias | Baseado nos 9 Princípios de Scott Young</text>
+  <text x="480" y="46" font-family="'Courier New', monospace" font-size="16" fill="#8b949e" text-anchor="middle">Canvas para projetos de 30–90 dias | Baseado nos 9 Princípios de Scott Young</text>
 
   <!-- --- TOP ROW --- -->
 
   <!-- Block: Nome do Projeto + Prazo -->
   <rect x="16" y="68" width="460" height="72" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1.5"/>
-  <text x="26" y="86" font-family="'Courier New', monospace" font-size="10" fill="#00d4ff" font-weight="bold">IDENTIDADE DO PROJETO</text>
-  <text x="26" y="104" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Nome: ____________________________________________</text>
-  <text x="26" y="122" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Área/Habilidade: ____________   Início: __/__/__   Fim: __/__/__</text>
+  <text x="26" y="86" font-family="'Courier New', monospace" font-size="15" fill="#00d4ff" font-weight="bold">IDENTIDADE DO PROJETO</text>
+  <text x="26" y="104" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Nome: ____________________________________________</text>
+  <text x="26" y="122" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Área/Habilidade: ____________   Início: __/__/__   Fim: __/__/__</text>
 
   <!-- Block: Objetivo Final -->
   <rect x="488" y="68" width="456" height="72" rx="6" fill="#1a2332" stroke="#00d4ff" stroke-width="2"/>
-  <text x="498" y="86" font-family="'Courier New', monospace" font-size="10" fill="#00d4ff" font-weight="bold">① OBJETIVO FINAL — O que você será capaz de FAZER?</text>
-  <text x="498" y="104" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Seja verificável: "Serei capaz de _______________________"</text>
-  <text x="498" y="122" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">___________________________________________________</text>
+  <text x="498" y="86" font-family="'Courier New', monospace" font-size="15" fill="#00d4ff" font-weight="bold">① OBJETIVO FINAL — O que você será capaz de FAZER?</text>
+  <text x="498" y="104" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Seja verificável: "Serei capaz de _______________________"</text>
+  <text x="498" y="122" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">___________________________________________________</text>
 
   <!-- --- SECOND ROW --- -->
 
   <!-- Block: Metalearning -->
   <rect x="16" y="152" width="300" height="130" rx="6" fill="#161b22" stroke="#d29922" stroke-width="1.5"/>
-  <text x="26" y="170" font-family="'Courier New', monospace" font-size="10" fill="#d29922" font-weight="bold">② METALEARNING (10% do tempo)</text>
-  <text x="26" y="188" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">POR QUÊ: _______________________________</text>
-  <text x="26" y="206" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">O QUÊ (conceitos centrais):</text>
-  <text x="26" y="222" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">  • _______________________________</text>
-  <text x="26" y="238" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">  • _______________________________</text>
-  <text x="26" y="254" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">COMO (recursos): ________________________</text>
-  <text x="26" y="270" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">NÃO precisarei aprender: ________________</text>
+  <text x="26" y="170" font-family="'Courier New', monospace" font-size="15" fill="#d29922" font-weight="bold">② METALEARNING (10% do tempo)</text>
+  <text x="26" y="188" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">POR QUÊ: _______________________________</text>
+  <text x="26" y="206" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">O QUÊ (conceitos centrais):</text>
+  <text x="26" y="222" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">  • _______________________________</text>
+  <text x="26" y="238" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">  • _______________________________</text>
+  <text x="26" y="254" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">COMO (recursos): ________________________</text>
+  <text x="26" y="270" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">NÃO precisarei aprender: ________________</text>
 
   <!-- Block: Cronograma -->
   <rect x="328" y="152" width="300" height="130" rx="6" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
-  <text x="338" y="170" font-family="'Courier New', monospace" font-size="10" fill="#3fb950" font-weight="bold">③ CRONOGRAMA SEMANAL</text>
-  <text x="338" y="188" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Horas/semana: ____   Horário: __________</text>
-  <text x="338" y="206" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Semana 1: ______________________________</text>
-  <text x="338" y="222" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Semana 2: ______________________________</text>
-  <text x="338" y="238" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Semana 3: ______________________________</text>
-  <text x="338" y="254" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Semana 4: ______________________________</text>
-  <text x="338" y="275" font-family="'Courier New', monospace" font-size="9" fill="#3b4450">(ajuste conforme o projeto evolui)</text>
+  <text x="338" y="170" font-family="'Courier New', monospace" font-size="15" fill="#3fb950" font-weight="bold">③ CRONOGRAMA SEMANAL</text>
+  <text x="338" y="188" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Horas/semana: ____   Horário: __________</text>
+  <text x="338" y="206" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Semana 1: ______________________________</text>
+  <text x="338" y="222" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Semana 2: ______________________________</text>
+  <text x="338" y="238" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Semana 3: ______________________________</text>
+  <text x="338" y="254" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Semana 4: ______________________________</text>
+  <text x="338" y="275" font-family="'Courier New', monospace" font-size="14" fill="#3b4450">(ajuste conforme o projeto evolui)</text>
 
   <!-- Block: Directness -->
   <rect x="640" y="152" width="304" height="130" rx="6" fill="#161b22" stroke="#f78166" stroke-width="1.5"/>
-  <text x="650" y="170" font-family="'Courier New', monospace" font-size="10" fill="#f78166" font-weight="bold">④ DIRECTNESS — Prática no Contexto Real</text>
-  <text x="650" y="188" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Como vou usar este conhecimento na vida real?</text>
-  <text x="650" y="204" font-family="'Courier New', monospace" font-size="9" fill="#5a6370">___________________________________________</text>
-  <text x="650" y="222" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Atividade direta 1: _______________________</text>
-  <text x="650" y="238" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Atividade direta 2: _______________________</text>
-  <text x="650" y="254" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Atividade direta 3: _______________________</text>
-  <text x="650" y="275" font-family="'Courier New', monospace" font-size="9" fill="#3b4450">"Aprenda como vai usar — desde o dia 1"</text>
+  <text x="650" y="170" font-family="'Courier New', monospace" font-size="15" fill="#f78166" font-weight="bold">④ DIRECTNESS — Prática no Contexto Real</text>
+  <text x="650" y="188" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Como vou usar este conhecimento na vida real?</text>
+  <text x="650" y="204" font-family="'Courier New', monospace" font-size="14" fill="#5a6370">___________________________________________</text>
+  <text x="650" y="222" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Atividade direta 1: _______________________</text>
+  <text x="650" y="238" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Atividade direta 2: _______________________</text>
+  <text x="650" y="254" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Atividade direta 3: _______________________</text>
+  <text x="650" y="275" font-family="'Courier New', monospace" font-size="14" fill="#3b4450">"Aprenda como vai usar — desde o dia 1"</text>
 
   <!-- --- THIRD ROW --- -->
 
   <!-- Block: Drill -->
   <rect x="16" y="294" width="300" height="120" rx="6" fill="#161b22" stroke="#bc8cff" stroke-width="1.5"/>
-  <text x="26" y="312" font-family="'Courier New', monospace" font-size="10" fill="#bc8cff" font-weight="bold">⑤ DRILLS — Atacando o Gargalo</text>
-  <text x="26" y="330" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Gargalo identificado: ___________________</text>
-  <text x="26" y="348" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Drill planejado: ________________________</text>
-  <text x="26" y="366" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Gargalo 2: _____________________________</text>
-  <text x="26" y="384" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Drill 2: _______________________________</text>
-  <text x="26" y="403" font-family="'Courier New', monospace" font-size="9" fill="#3b4450">Direct → Drill → Integrate (ciclo contínuo)</text>
+  <text x="26" y="312" font-family="'Courier New', monospace" font-size="15" fill="#bc8cff" font-weight="bold">⑤ DRILLS — Atacando o Gargalo</text>
+  <text x="26" y="330" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Gargalo identificado: ___________________</text>
+  <text x="26" y="348" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Drill planejado: ________________________</text>
+  <text x="26" y="366" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Gargalo 2: _____________________________</text>
+  <text x="26" y="384" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Drill 2: _______________________________</text>
+  <text x="26" y="403" font-family="'Courier New', monospace" font-size="14" fill="#3b4450">Direct → Drill → Integrate (ciclo contínuo)</text>
 
   <!-- Block: Retrieval -->
   <rect x="328" y="294" width="300" height="120" rx="6" fill="#1a2332" stroke="#00d4ff" stroke-width="2"/>
-  <text x="338" y="312" font-family="'Courier New', monospace" font-size="10" fill="#00d4ff" font-weight="bold">⑥ RETRIEVAL — Teste para Consolidar</text>
-  <text x="338" y="330" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Diário (5-10 min): _____________________</text>
-  <text x="338" y="348" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Semanal (20-30 min): ___________________</text>
-  <text x="338" y="366" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Ferramenta (Anki?): ____________________</text>
-  <text x="338" y="384" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Teste final do projeto: _________________</text>
-  <text x="338" y="403" font-family="'Courier New', monospace" font-size="9" fill="#3b4450">"Teste-se para aprender, não para avaliar"</text>
+  <text x="338" y="312" font-family="'Courier New', monospace" font-size="15" fill="#00d4ff" font-weight="bold">⑥ RETRIEVAL — Teste para Consolidar</text>
+  <text x="338" y="330" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Diário (5-10 min): _____________________</text>
+  <text x="338" y="348" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Semanal (20-30 min): ___________________</text>
+  <text x="338" y="366" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Ferramenta (Anki?): ____________________</text>
+  <text x="338" y="384" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Teste final do projeto: _________________</text>
+  <text x="338" y="403" font-family="'Courier New', monospace" font-size="14" fill="#3b4450">"Teste-se para aprender, não para avaliar"</text>
 
   <!-- Block: Feedback -->
   <rect x="640" y="294" width="304" height="120" rx="6" fill="#161b22" stroke="#56d364" stroke-width="1.5"/>
-  <text x="650" y="312" font-family="'Courier New', monospace" font-size="10" fill="#56d364" font-weight="bold">⑦ FEEDBACK — Busque o Corretivo</text>
-  <text x="650" y="330" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Quem vai avaliar? ______________________</text>
-  <text x="650" y="348" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Frequência: ____________________________</text>
-  <text x="650" y="366" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Como garantir feedback corretivo?</text>
-  <text x="650" y="382" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">_______________________________________</text>
-  <text x="650" y="403" font-family="'Courier New', monospace" font-size="9" fill="#3b4450">Tipo 3 (corretivo) = mais valioso</text>
+  <text x="650" y="312" font-family="'Courier New', monospace" font-size="15" fill="#56d364" font-weight="bold">⑦ FEEDBACK — Busque o Corretivo</text>
+  <text x="650" y="330" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Quem vai avaliar? ______________________</text>
+  <text x="650" y="348" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Frequência: ____________________________</text>
+  <text x="650" y="366" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Como garantir feedback corretivo?</text>
+  <text x="650" y="382" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">_______________________________________</text>
+  <text x="650" y="403" font-family="'Courier New', monospace" font-size="14" fill="#3b4450">Tipo 3 (corretivo) = mais valioso</text>
 
   <!-- --- FOURTH ROW --- -->
 
   <!-- Block: Retention -->
   <rect x="16" y="426" width="300" height="110" rx="6" fill="#161b22" stroke="#ff7b72" stroke-width="1.5"/>
-  <text x="26" y="444" font-family="'Courier New', monospace" font-size="10" fill="#ff7b72" font-weight="bold">⑧ RETENÇÃO — Para Não Esquecer</text>
-  <text x="26" y="462" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Para o Anki (conceitos factuais): ________</text>
-  <text x="26" y="480" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">_________________________________________</text>
-  <text x="26" y="498" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Procedimentalizar (uso pós-projeto): _____</text>
-  <text x="26" y="516" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Zettelkasten (conceitual): _______________</text>
-  <text x="26" y="528" font-family="'Courier New', monospace" font-size="9" fill="#3b4450">LLL garante retenção de longo prazo</text>
+  <text x="26" y="444" font-family="'Courier New', monospace" font-size="15" fill="#ff7b72" font-weight="bold">⑧ RETENÇÃO — Para Não Esquecer</text>
+  <text x="26" y="462" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Para o Anki (conceitos factuais): ________</text>
+  <text x="26" y="480" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">_________________________________________</text>
+  <text x="26" y="498" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Procedimentalizar (uso pós-projeto): _____</text>
+  <text x="26" y="516" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Zettelkasten (conceitual): _______________</text>
+  <text x="26" y="528" font-family="'Courier New', monospace" font-size="14" fill="#3b4450">LLL garante retenção de longo prazo</text>
 
   <!-- Block: Intuição + Experimentação -->
   <rect x="328" y="426" width="300" height="110" rx="6" fill="#161b22" stroke="#8b949e" stroke-width="1.5"/>
-  <text x="338" y="444" font-family="'Courier New', monospace" font-size="10" fill="#e6edf3" font-weight="bold">⑧ INTUIÇÃO + ⑨ EXPERIMENTAÇÃO</text>
-  <text x="338" y="462" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Técnica Feynman — conceito para explicar:</text>
-  <text x="338" y="478" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">_________________________________________</text>
-  <text x="338" y="496" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Experimento original (hipótese):</text>
-  <text x="338" y="512" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">"Acho que ______ pode funcionar melhor"</text>
-  <text x="338" y="528" font-family="'Courier New', monospace" font-size="9" fill="#3b4450">Copiar → Adaptar → Criar</text>
+  <text x="338" y="444" font-family="'Courier New', monospace" font-size="15" fill="#e6edf3" font-weight="bold">⑧ INTUIÇÃO + ⑨ EXPERIMENTAÇÃO</text>
+  <text x="338" y="462" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Técnica Feynman — conceito para explicar:</text>
+  <text x="338" y="478" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">_________________________________________</text>
+  <text x="338" y="496" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Experimento original (hipótese):</text>
+  <text x="338" y="512" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">"Acho que ______ pode funcionar melhor"</text>
+  <text x="338" y="528" font-family="'Courier New', monospace" font-size="14" fill="#3b4450">Copiar → Adaptar → Criar</text>
 
   <!-- Block: Avaliação Final -->
   <rect x="640" y="426" width="304" height="110" rx="6" fill="#1a2332" stroke="#00d4ff" stroke-width="2"/>
-  <text x="650" y="444" font-family="'Courier New', monospace" font-size="10" fill="#00d4ff" font-weight="bold">AVALIAÇÃO FINAL (ao concluir)</text>
-  <text x="650" y="462" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Objetivo alcançado? ____________________</text>
-  <text x="650" y="480" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">O que funcionou melhor: ________________</text>
-  <text x="650" y="498" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">O que mudaria: _________________________</text>
-  <text x="650" y="516" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Próximo projeto de Ultralearning: _______</text>
-  <text x="650" y="528" font-family="'Courier New', monospace" font-size="9" fill="#3b4450">Cada sprint alimenta o próximo (LLL)</text>
+  <text x="650" y="444" font-family="'Courier New', monospace" font-size="15" fill="#00d4ff" font-weight="bold">AVALIAÇÃO FINAL (ao concluir)</text>
+  <text x="650" y="462" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Objetivo alcançado? ____________________</text>
+  <text x="650" y="480" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">O que funcionou melhor: ________________</text>
+  <text x="650" y="498" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">O que mudaria: _________________________</text>
+  <text x="650" y="516" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Próximo projeto de Ultralearning: _______</text>
+  <text x="650" y="528" font-family="'Courier New', monospace" font-size="14" fill="#3b4450">Cada sprint alimenta o próximo (LLL)</text>
 
   <!-- --- BOTTOM --- -->
 
   <!-- Instruction bar -->
   <rect x="16" y="549" width="928" height="52" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="480" y="567" font-family="'Courier New', monospace" font-size="10" fill="#e6edf3" text-anchor="middle" font-weight="bold">COMO USAR ESTE CANVAS</text>
-  <text x="480" y="583" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">① Preencha antes de começar  ② Execute e revise semanalmente  ③ Ajuste conforme aprende  ④ Avalie ao final</text>
-  <text x="480" y="595" font-family="'Courier New', monospace" font-size="9" fill="#3b4450" text-anchor="middle">A regra de 10%: gaste 10% do tempo total do projeto em Metalearning antes de começar</text>
+  <text x="480" y="567" font-family="'Courier New', monospace" font-size="15" fill="#e6edf3" text-anchor="middle" font-weight="bold">COMO USAR ESTE CANVAS</text>
+  <text x="480" y="583" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle">① Preencha antes de começar  ② Execute e revise semanalmente  ③ Ajuste conforme aprende  ④ Avalie ao final</text>
+  <text x="480" y="595" font-family="'Courier New', monospace" font-size="14" fill="#3b4450" text-anchor="middle">A regra de 10%: gaste 10% do tempo total do projeto em Metalearning antes de começar</text>
 
   <!-- Footer -->
-  <text x="480" y="628" font-family="'Courier New', monospace" font-size="10" fill="#3b4450" text-anchor="middle">Aula 53 | Módulo 8 — Ultralearning | Curso "Aprender a Aprender" — Educa com Talento</text>
+  <text x="480" y="628" font-family="'Courier New', monospace" font-size="15" fill="#3b4450" text-anchor="middle">Aula 53 | Módulo 8 — Ultralearning | Curso "Aprender a Aprender" — Educa com Talento</text>
 
   <!-- REVISÃO SEMANAL -->
   <rect x="16" y="610" width="928" height="56" rx="6" fill="#0f1318" stroke="#21262d" stroke-width="1"/>
-  <text x="26" y="626" font-family="'Courier New', monospace" font-size="10" fill="#3fb950" font-weight="bold">REVISÃO SEMANAL (todo domingo):</text>
-  <text x="26" y="642" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">1. O que aprendi?  |  2. Onde está meu gargalo?  |  3. Que feedback recebi?  |  4. O plano ainda está correto?  |  5. Next action?</text>
-  <text x="480" y="658" font-family="'Courier New', monospace" font-size="9" fill="#3b4450" text-anchor="middle">Baseado nos 9 Princípios do Ultralearning — Scott Young (HarperBusiness, 2019)</text>
+  <text x="26" y="626" font-family="'Courier New', monospace" font-size="15" fill="#3fb950" font-weight="bold">REVISÃO SEMANAL (todo domingo):</text>
+  <text x="26" y="642" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">1. O que aprendi?  |  2. Onde está meu gargalo?  |  3. Que feedback recebi?  |  4. O plano ainda está correto?  |  5. Next action?</text>
+  <text x="480" y="658" font-family="'Courier New', monospace" font-size="14" fill="#3b4450" text-anchor="middle">Baseado nos 9 Princípios do Ultralearning — Scott Young (HarperBusiness, 2019)</text>
 </svg>

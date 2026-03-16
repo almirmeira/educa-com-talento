@@ -69,6 +69,10 @@ EXTERNO  ──────► SENSORIAL  ──────► TRABALHO    ─�
                                    ESQUECIDO
 ```
 
+> 📊 **Diagrama:** ![Consolidação da Memória — Fluxo da Informação](../assets/diagramas/consolidacao-memoria-fluxo.svg)
+
+*Figura: Do mundo externo à Memória de Longo Prazo — processo de consolidação, técnicas eficazes e o que impede a retenção. Miller (1956) · Cowan (2001).*
+
 **1. Memória Sensorial**
 É o primeiro filtro. Todos os estímulos do ambiente — sons, imagens, sensações — passam primeiro pela memória sensorial. Ela dura pouquíssimo: entre 0.5 e 3 segundos.
 

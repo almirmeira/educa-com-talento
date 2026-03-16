@@ -4,28 +4,28 @@
 
   <!-- Title -->
   <text x="400" y="40" font-family="'Courier New', monospace" font-size="19" font-weight="bold" fill="#e0e0e0" text-anchor="middle">A Técnica Feynman — 4 Passos</text>
-  <text x="400" y="62" font-family="'Courier New', monospace" font-size="12" fill="#8080b0" text-anchor="middle">Richard Feynman · Prêmio Nobel de Física 1965 · Caltech</text>
+  <text x="400" y="62" font-family="'Courier New', monospace" font-size="17" fill="#8080b0" text-anchor="middle">Richard Feynman · Prêmio Nobel de Física 1965 · Caltech</text>
 
   <!-- Central circle -->
   <circle cx="400" cy="320" r="68" fill="#0f3460" stroke="#4a90e2" stroke-width="2"/>
-  <text x="400" y="312" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#4a90e2" text-anchor="middle">CICLO DE</text>
-  <text x="400" y="328" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#4a90e2" text-anchor="middle">DOMÍNIO</text>
-  <text x="400" y="344" font-family="'Courier New', monospace" font-size="11" fill="#6090c0" text-anchor="middle">Feynman</text>
+  <text x="400" y="312" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#4a90e2" text-anchor="middle">CICLO DE</text>
+  <text x="400" y="328" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#4a90e2" text-anchor="middle">DOMÍNIO</text>
+  <text x="400" y="344" font-family="'Courier New', monospace" font-size="16" fill="#6090c0" text-anchor="middle">Feynman</text>
 
   <!-- PASSO 1 — Top Left -->
   <rect x="60" y="95" width="220" height="140" fill="#16213e" rx="12" stroke="#00d4ff" stroke-width="2"/>
   <rect x="60" y="95" width="220" height="8" fill="#00d4ff" rx="6"/>
   <!-- Step number -->
   <circle cx="90" cy="116" r="14" fill="#00d4ff"/>
-  <text x="90" y="121" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1a1a2e" text-anchor="middle">1</text>
+  <text x="90" y="121" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#1a1a2e" text-anchor="middle">1</text>
   <!-- Step title -->
-  <text x="175" y="121" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#00d4ff" text-anchor="middle">ESCREVER</text>
+  <text x="175" y="121" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#00d4ff" text-anchor="middle">ESCREVER</text>
   <!-- Step content -->
-  <text x="170" y="148" font-family="'Courier New', monospace" font-size="11" fill="#a0c0e0" text-anchor="middle">Escreva tudo que sabe</text>
-  <text x="170" y="165" font-family="'Courier New', monospace" font-size="11" fill="#a0c0e0" text-anchor="middle">sobre o conceito.</text>
-  <text x="170" y="185" font-family="'Courier New', monospace" font-size="10" fill="#6080a0" text-anchor="middle">Sem consultar material.</text>
-  <text x="170" y="200" font-family="'Courier New', monospace" font-size="10" fill="#6080a0" text-anchor="middle">É retrieval practice puro.</text>
-  <text x="170" y="218" font-family="'Courier New', monospace" font-size="10" fill="#4a7090" text-anchor="middle">[ Folha em branco ]</text>
+  <text x="170" y="148" font-family="'Courier New', monospace" font-size="16" fill="#a0c0e0" text-anchor="middle">Escreva tudo que sabe</text>
+  <text x="170" y="165" font-family="'Courier New', monospace" font-size="16" fill="#a0c0e0" text-anchor="middle">sobre o conceito.</text>
+  <text x="170" y="185" font-family="'Courier New', monospace" font-size="15" fill="#6080a0" text-anchor="middle">Sem consultar material.</text>
+  <text x="170" y="200" font-family="'Courier New', monospace" font-size="15" fill="#6080a0" text-anchor="middle">É retrieval practice puro.</text>
+  <text x="170" y="218" font-family="'Courier New', monospace" font-size="15" fill="#4a7090" text-anchor="middle">[ Folha em branco ]</text>
 
   <!-- Arrow 1 -> Center -->
   <line x1="280" y1="185" x2="332" y2="262" stroke="#00d4ff" stroke-width="1.5" stroke-dasharray="5,3"/>
@@ -36,15 +36,15 @@
   <rect x="520" y="95" width="220" height="8" fill="#00ff88" rx="6"/>
   <!-- Step number -->
   <circle cx="550" cy="116" r="14" fill="#00ff88"/>
-  <text x="550" y="121" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1a1a2e" text-anchor="middle">2</text>
+  <text x="550" y="121" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#1a1a2e" text-anchor="middle">2</text>
   <!-- Step title -->
-  <text x="632" y="121" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#00ff88" text-anchor="middle">SIMPLIFICAR</text>
+  <text x="632" y="121" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#00ff88" text-anchor="middle">SIMPLIFICAR</text>
   <!-- Step content -->
-  <text x="628" y="148" font-family="'Courier New', monospace" font-size="11" fill="#a0d0b0" text-anchor="middle">Explique como para</text>
-  <text x="628" y="165" font-family="'Courier New', monospace" font-size="11" fill="#a0d0b0" text-anchor="middle">uma criança de 12 anos.</text>
-  <text x="628" y="185" font-family="'Courier New', monospace" font-size="10" fill="#60a080" text-anchor="middle">Sem jargão técnico.</text>
-  <text x="628" y="200" font-family="'Courier New', monospace" font-size="10" fill="#60a080" text-anchor="middle">Sem copiar definições.</text>
-  <text x="628" y="218" font-family="'Courier New', monospace" font-size="10" fill="#408060" text-anchor="middle">[ Linguagem simples ]</text>
+  <text x="628" y="148" font-family="'Courier New', monospace" font-size="16" fill="#a0d0b0" text-anchor="middle">Explique como para</text>
+  <text x="628" y="165" font-family="'Courier New', monospace" font-size="16" fill="#a0d0b0" text-anchor="middle">uma criança de 12 anos.</text>
+  <text x="628" y="185" font-family="'Courier New', monospace" font-size="15" fill="#60a080" text-anchor="middle">Sem jargão técnico.</text>
+  <text x="628" y="200" font-family="'Courier New', monospace" font-size="15" fill="#60a080" text-anchor="middle">Sem copiar definições.</text>
+  <text x="628" y="218" font-family="'Courier New', monospace" font-size="15" fill="#408060" text-anchor="middle">[ Linguagem simples ]</text>
 
   <!-- Arrow 2 -> Center -->
   <line x1="520" y1="185" x2="468" y2="262" stroke="#00ff88" stroke-width="1.5" stroke-dasharray="5,3"/>
@@ -55,16 +55,16 @@
   <rect x="60" y="385" width="220" height="8" fill="#ff9f43" rx="6"/>
   <!-- Step number -->
   <circle cx="90" cy="406" r="14" fill="#ff9f43"/>
-  <text x="90" y="411" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1a1a2e" text-anchor="middle">3</text>
+  <text x="90" y="411" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#1a1a2e" text-anchor="middle">3</text>
   <!-- Step title -->
-  <text x="168" y="411" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#ff9f43" text-anchor="middle">DIAGNOSTICAR</text>
+  <text x="168" y="411" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#ff9f43" text-anchor="middle">DIAGNOSTICAR</text>
   <!-- Step content -->
-  <text x="170" y="438" font-family="'Courier New', monospace" font-size="11" fill="#d0a080" text-anchor="middle">Identifique as lacunas:</text>
-  <text x="170" y="455" font-family="'Courier New', monospace" font-size="11" fill="#d0a080" text-anchor="middle">Onde travei?</text>
-  <text x="170" y="472" font-family="'Courier New', monospace" font-size="11" fill="#d0a080" text-anchor="middle">Onde fiquei vago?</text>
-  <text x="170" y="489" font-family="'Courier New', monospace" font-size="10" fill="#a07050" text-anchor="middle">Jargão que não consigo</text>
-  <text x="170" y="504" font-family="'Courier New', monospace" font-size="10" fill="#a07050" text-anchor="middle">explicar = lacuna real.</text>
-  <text x="170" y="522" font-family="'Courier New', monospace" font-size="10" fill="#805030" text-anchor="middle">[ Mapeie as lacunas ]</text>
+  <text x="170" y="438" font-family="'Courier New', monospace" font-size="16" fill="#d0a080" text-anchor="middle">Identifique as lacunas:</text>
+  <text x="170" y="455" font-family="'Courier New', monospace" font-size="16" fill="#d0a080" text-anchor="middle">Onde travei?</text>
+  <text x="170" y="472" font-family="'Courier New', monospace" font-size="16" fill="#d0a080" text-anchor="middle">Onde fiquei vago?</text>
+  <text x="170" y="489" font-family="'Courier New', monospace" font-size="15" fill="#a07050" text-anchor="middle">Jargão que não consigo</text>
+  <text x="170" y="504" font-family="'Courier New', monospace" font-size="15" fill="#a07050" text-anchor="middle">explicar = lacuna real.</text>
+  <text x="170" y="522" font-family="'Courier New', monospace" font-size="15" fill="#805030" text-anchor="middle">[ Mapeie as lacunas ]</text>
 
   <!-- Arrow Center -> 3 -->
   <line x1="335" y1="378" x2="237" y2="385" stroke="#ff9f43" stroke-width="1.5" stroke-dasharray="5,3"/>
@@ -75,21 +75,21 @@
   <rect x="520" y="385" width="220" height="8" fill="#ff6b9d" rx="6"/>
   <!-- Step number -->
   <circle cx="550" cy="406" r="14" fill="#ff6b9d"/>
-  <text x="550" y="411" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1a1a2e" text-anchor="middle">4</text>
+  <text x="550" y="411" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#1a1a2e" text-anchor="middle">4</text>
   <!-- Step title -->
-  <text x="630" y="411" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#ff6b9d" text-anchor="middle">ITERAR</text>
+  <text x="630" y="411" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#ff6b9d" text-anchor="middle">ITERAR</text>
   <!-- Step content -->
-  <text x="628" y="438" font-family="'Courier New', monospace" font-size="11" fill="#d080a0" text-anchor="middle">Volte ao material.</text>
-  <text x="628" y="455" font-family="'Courier New', monospace" font-size="11" fill="#d080a0" text-anchor="middle">Estude as lacunas.</text>
-  <text x="628" y="472" font-family="'Courier New', monospace" font-size="11" fill="#d080a0" text-anchor="middle">Simplifique mais ainda.</text>
-  <text x="628" y="489" font-family="'Courier New', monospace" font-size="10" fill="#a06080" text-anchor="middle">Repita passos 2, 3, 4</text>
-  <text x="628" y="504" font-family="'Courier New', monospace" font-size="10" fill="#a06080" text-anchor="middle">até dominar.</text>
-  <text x="628" y="522" font-family="'Courier New', monospace" font-size="10" fill="#805060" text-anchor="middle">[ Feedback loop ]</text>
+  <text x="628" y="438" font-family="'Courier New', monospace" font-size="16" fill="#d080a0" text-anchor="middle">Volte ao material.</text>
+  <text x="628" y="455" font-family="'Courier New', monospace" font-size="16" fill="#d080a0" text-anchor="middle">Estude as lacunas.</text>
+  <text x="628" y="472" font-family="'Courier New', monospace" font-size="16" fill="#d080a0" text-anchor="middle">Simplifique mais ainda.</text>
+  <text x="628" y="489" font-family="'Courier New', monospace" font-size="15" fill="#a06080" text-anchor="middle">Repita passos 2, 3, 4</text>
+  <text x="628" y="504" font-family="'Courier New', monospace" font-size="15" fill="#a06080" text-anchor="middle">até dominar.</text>
+  <text x="628" y="522" font-family="'Courier New', monospace" font-size="15" fill="#805060" text-anchor="middle">[ Feedback loop ]</text>
 
   <!-- Arrow 3 -> 4 (feedback loop bottom) -->
   <path d="M 280 460 Q 400 545 520 460" stroke="#ffd700" stroke-width="1.5" fill="none" stroke-dasharray="6,3"/>
   <polygon points="520,460 511,455 519,448" fill="#ffd700"/>
-  <text x="400" y="555" font-family="'Courier New', monospace" font-size="10" fill="#ffd700" text-anchor="middle">loop de melhoria contínua</text>
+  <text x="400" y="555" font-family="'Courier New', monospace" font-size="15" fill="#ffd700" text-anchor="middle">loop de melhoria contínua</text>
 
   <!-- Arrow Center -> 4 -->
   <line x1="465" y1="378" x2="563" y2="385" stroke="#ff6b9d" stroke-width="1.5" stroke-dasharray="5,3"/>
@@ -97,5 +97,5 @@
 
   <!-- Criterion badge -->
   <rect x="270" y="560" width="260" height="30" fill="#0f3460" rx="8" stroke="#4a90e2" stroke-width="1"/>
-  <text x="400" y="578" font-family="'Courier New', monospace" font-size="11" fill="#80b0e0" text-anchor="middle">Critério: qualquer pessoa inteligente entende</text>
+  <text x="400" y="578" font-family="'Courier New', monospace" font-size="16" fill="#80b0e0" text-anchor="middle">Critério: qualquer pessoa inteligente entende</text>
 </svg>

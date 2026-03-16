@@ -52,6 +52,10 @@ O sono não é um período de inatividade cerebral. É exatamente o oposto: dura
 
 O sono é dividido em ciclos de aproximadamente 90 minutos, e cada ciclo tem fases distintas:
 
+> 📊 **Diagrama:** ![Arquitetura do Sono e Consolidação da Memória](../assets/diagramas/arquitetura-sono-consolidacao.svg)
+
+*Figura: Arquitetura do sono ao longo de 8 horas — ciclos NREM/REM, consolidação de memória declarativa (N3) e criatividade (REM). Walker, M. (2017). Why We Sleep. Scribner.*
+
 ```
 ARQUITETURA DO SONO — UM CICLO (90 MIN)
 ───────────────────────────────────────────────────────
