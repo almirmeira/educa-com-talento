@@ -161,27 +161,6 @@ Reaprender é o ciclo que fecha o loop: depois de desaprender o que estava desat
 
 É diferente de "aprender pela primeira vez" porque você parte de uma base de experiência e prática — o que torna o reaprendizado frequentemente mais rápido e mais profundo do que o aprendizado inicial.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              O LOOP DO LIFE LONG LEARNING                        │
-│                                                                  │
-│   ┌────────────┐    O mundo     ┌──────────────┐                 │
-│   │  APRENDER  │────mudou────►  │  DESAPRENDER │                 │
-│   │  (adquirir │                │  (soltar o   │                 │
-│   │  novo)     │                │  obsoleto)   │                 │
-│   └────────────┘                └──────────────┘                 │
-│         ▲                              │                         │
-│         │                              ▼                         │
-│         │                    ┌──────────────────┐               │
-│         └────────────────────│   REAPRENDER     │               │
-│                              │   (reconstruir   │               │
-│                              │   com nova base) │               │
-│                              └──────────────────┘               │
-│                                                                  │
-│   Este loop se repete ao longo de TODA A VIDA                   │
-└──────────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ![A Espiral do Life Long Learning — aprender, desaprender e reaprender](../assets/diagramas/lll-espiral-aprendizagem.svg)

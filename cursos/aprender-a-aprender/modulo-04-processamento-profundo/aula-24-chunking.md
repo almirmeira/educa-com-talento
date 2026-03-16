@@ -66,25 +66,6 @@ Mas aqui está o truque genial que a mente usa para contornar isso: **compressã
 
 Se cada "item" na memória de trabalho pode ser um único dígito ou uma frase inteira com significado, você usa a capacidade de forma muito mais eficiente com significado do que com itens individuais.
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│           CAPACIDADE DA MEMÓRIA DE TRABALHO                  │
-│                          (Miller, 1956)                      │
-│                                                              │
-│  Sem chunking (itens individuais):                          │
-│  Capacidade: 7 itens                                        │
-│  8 5 3 1 7 9 4 = 7 dígitos                                  │
-│                                                              │
-│  Com chunking (itens significativos):                       │
-│  Capacidade: 7 chunks = muito mais informação               │
-│  "85+31+79+4" = 4 números de 2 dígitos = mais denso        │
-│  "NATO, NASA, FBI, CIA" = 4 siglas conhecidas = 16 letras  │
-│  "F = ma, E = mc², V = RI" = 3 fórmulas = princípios fís.  │
-│                                                              │
-│  Chunks maiores → mais informação na mesma capacidade       │
-└──────────────────────────────────────────────────────────────┘
-```
-
 Um expert na sua área tem chunks muito maiores do que um novato. Por isso o expert parece processar mais rápido, cometer menos erros, e "ver" coisas que o novato não vê — ele está operando com unidades de informação mais densas.
 
 ---

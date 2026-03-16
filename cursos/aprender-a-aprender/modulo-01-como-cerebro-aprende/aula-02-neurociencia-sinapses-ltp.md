@@ -50,23 +50,6 @@ Mas o número de neurônios não é o que importa. O que importa são as **conex
 
 Cada neurônio tem três partes principais que você precisa conhecer:
 
-```
-                    ESTRUTURA DO NEURÔNIO
-                    ─────────────────────
-
-        Dendrito              Corpo Celular           Axônio
-        (receptor)            (processador)           (transmissor)
-
-    ╔═══════╗            ╔═══════════╗           ═══════════════════►
-    ║▓▓▓▓▓▓▓╠════════════╣  NÚCLEO   ╠══════════►  Terminal Sináptico
-    ╚═══════╝            ╚═══════════╝                     │
-                                                           ▼
-    ─────────────── SINAPSE ──────────────────────── (próximo neurônio)
-
-    Neurotransmissores cruzam a fenda sináptica
-    transportando o sinal elétrico/químico
-```
-
 > 📊 **Diagrama:** ![Estrutura do Neurônio e o Aprendizado](../assets/diagramas/estrutura-neuronio-aprendizado.svg)
 
 *Figura: Estrutura completa do neurônio — dendritos, soma, axônio com mielina e sinapse. Base neurobiológica do LTP e da neuroplasticidade.*

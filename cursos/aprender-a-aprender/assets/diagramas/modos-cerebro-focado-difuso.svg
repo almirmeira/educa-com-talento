@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
 
   <!-- Background -->
-  <rect width="900" height="560" fill="#1a1a2e"/>
+  <rect width="900" height="600" fill="#1a1a2e"/>
 
   <!-- Title -->
-  <text x="450" y="40" text-anchor="middle" fill="#e0e0e0" font-size="28" font-weight="bold">Os Dois Modos do Cérebro</text>
+  <text x="450" y="40" text-anchor="middle" fill="#e0e0e0" font-size="22" font-weight="bold">Os Dois Modos do Cérebro</text>
   <text x="450" y="62" text-anchor="middle" fill="#a0a0b0" font-size="18">Barbara Oakley — Oakland University | Default Mode Network (DMN)</text>
 
   <!-- ========================================= -->

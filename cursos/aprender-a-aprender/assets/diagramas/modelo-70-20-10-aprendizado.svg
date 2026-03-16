@@ -1,6 +1,6 @@
-<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
   <!-- Background -->
-  <rect width="900" height="480" fill="#1a1a2e"/>
+  <rect width="900" height="520" fill="#1a1a2e"/>
 
   <!-- Title -->
   <text x="450" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#e0e0e0">Modelo 70-20-10 de Aprendizado Profissional</text>
@@ -9,14 +9,14 @@
   <!-- Bar chart area -->
   <!-- 70% bar - blue/cyan -->
   <rect x="80" y="80" width="534" height="100" rx="8" fill="#00d4ff" opacity="0.85"/>
-  <text x="97" y="125" font-size="46" font-weight="bold" fill="#1a1a2e">70%</text>
+  <text x="97" y="125" font-size="32" font-weight="bold" fill="#1a1a2e">70%</text>
   <text x="235" y="115" font-size="20" font-weight="bold" fill="#1a1a2e">EXPERIÊNCIA PRÁTICA</text>
   <text x="235" y="138" font-size="15" fill="#1a1a2e">Projetos reais, desafios, erros e acertos</text>
   <text x="235" y="158" font-size="14" fill="#1a1a2e">Stretch assignments, on-the-job learning</text>
 
   <!-- 20% bar - orange -->
   <rect x="80" y="198" width="152" height="100" rx="8" fill="#ff9f43" opacity="0.88"/>
-  <text x="97" y="243" font-size="46" font-weight="bold" fill="#1a1a2e">20%</text>
+  <text x="97" y="243" font-size="32" font-weight="bold" fill="#1a1a2e">20%</text>
 
   <!-- 20% label box beside bar -->
   <rect x="246" y="198" width="378" height="100" rx="8" fill="#ff9f43" opacity="0.14" stroke="#ff9f43" stroke-width="1.5"/>
@@ -27,7 +27,7 @@
 
   <!-- 10% bar - green -->
   <rect x="80" y="316" width="76" height="100" rx="8" fill="#26de81" opacity="0.88"/>
-  <text x="88" y="361" font-size="34" font-weight="bold" fill="#1a1a2e">10%</text>
+  <text x="88" y="361" font-size="32" font-weight="bold" fill="#1a1a2e">10%</text>
 
   <!-- 10% label box beside bar -->
   <rect x="170" y="316" width="378" height="100" rx="8" fill="#26de81" opacity="0.14" stroke="#26de81" stroke-width="1.5"/>

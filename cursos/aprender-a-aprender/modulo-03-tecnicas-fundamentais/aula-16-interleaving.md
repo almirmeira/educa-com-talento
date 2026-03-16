@@ -67,20 +67,6 @@ Resultado: o grupo que estudou em blocos se saiu melhor **durante o aprendizado*
 
 ---
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│           INTERLEAVING vs. ESTUDO EM BLOCO                   │
-│                                                              │
-│              DURANTE O ESTUDO      NO TESTE FINAL            │
-│                                                              │
-│  Bloco:         ██████████ 90%     ██████░░░░ 60%           │
-│  Interleaved:   ███████░░░ 72%     █████████░ 86%           │
-│                                                              │
-│  Paradoxo: pior durante o treino → melhor na avaliação       │
-│  Kornell & Bjork (2008), UCLA                                │
-└──────────────────────────────────────────────────────────────┘
-```
-
 O que está acontecendo aqui? Por que estudar de forma "mais difícil e bagunçada" produz resultados melhores?
 
 ---

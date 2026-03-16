@@ -129,20 +129,6 @@ Ele disse que para se tornar um comediante melhor, você precisa escrever piadas
 
 **Não quebre a corrente.**
 
-```
-CALENDÁRIO DE CONSISTÊNCIA
-═══════════════════════════
-
-Jan: X X X X X X X X X X X X X X X X X _ X X X X X X X X X X X X X
-                                         ↑
-                                   não quebre aqui
-
-  X = dia estudou (mesmo que 2 minutos)
-  _ = dia não estudou (o único objetivo é minimizar esses)
-
-  NUNCA dois _ seguidos (a regra dos 2 minutos garante isso)
-```
-
 ---
 
 ![A Corrente da Consistência — Don't Break the Chain de Jerry Seinfeld](../assets/diagramas/dont-break-the-chain.svg)

@@ -117,22 +117,6 @@ O Ultralearning coloca você no controle.
 
 Scott Young identificou 9 princípios que aparecem em todos os casos de Ultralearning de sucesso. Vamos fazer um sobrevoo agora — e vamos mergulhar em cada um nas próximas aulas.
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                  OS 9 PRINCÍPIOS DO ULTRALEARNING                   │
-│                                                                     │
-│  1. METALEARNING    — Mapeie o terreno antes de começar             │
-│  2. FOCUS           — Cultive a capacidade de concentração profunda  │
-│  3. DIRECTNESS      — Aprenda da forma mais próxima do uso real      │
-│  4. DRILL           — Ataque os gargalos com prática deliberada      │
-│  5. RETRIEVAL       — Teste-se para aprender, não para avaliar       │
-│  6. FEEDBACK        — Busque retorno de qualidade, ativamente        │
-│  7. RETENTION       — Construa sistemas para não esquecer            │
-│  8. INTUITION       — Desenvolva compreensão profunda, não superfic. │
-│  9. EXPERIMENTATION — Explore e crie seus próprios métodos           │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ![Os 9 Princípios do Ultralearning de Scott Young](../assets/diagramas/9-principios-ultralearning.svg)

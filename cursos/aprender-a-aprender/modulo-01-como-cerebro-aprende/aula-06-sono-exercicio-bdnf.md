@@ -56,33 +56,6 @@ O sono é dividido em ciclos de aproximadamente 90 minutos, e cada ciclo tem fas
 
 *Figura: Arquitetura do sono ao longo de 8 horas — ciclos NREM/REM, consolidação de memória declarativa (N3) e criatividade (REM). Walker, M. (2017). Why We Sleep. Scribner.*
 
-```
-ARQUITETURA DO SONO — UM CICLO (90 MIN)
-───────────────────────────────────────────────────────
-
-Nível de
-Consciência
-     │
- Alta├──╮
-     │  ╲     N1
-     │   ╲    (sono leve: transição)
-  Med├    ╲──────╮
-     │           ╲   N2
-     │            ╲  (sono leve: fusos do sono, complexos K)
-  Bai├             ╲────────╮
-     │                      ╲   N3/N4
-     │                       ╲  (SONO PROFUNDO: memória declarativa)
-  Mín├                        ╲──────────────────╮
-     │                                           │  REM
-     │                                           ╰──────╮
-  R. │                                               (memória procedural
-  E  │                                                + criatividade)
-  M  │
-     └────────────────────────────────────────────────────►
-     0      15min    30min    50min    70min    90min
-
-```
-
 As duas fases mais importantes para o aprendizado são:
 
 **NREM Profundo (N3/N4) — Sono de Ondas Lentas**

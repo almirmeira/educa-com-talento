@@ -124,29 +124,6 @@ Depois, reescreva a explicação. Dessa vez, mais simples ainda. Menos jargão. 
 
 Repita os passos 2, 3 e 4 até conseguir explicar o conceito de forma que qualquer pessoa inteligente sem conhecimento prévio consiga entender.
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│         OS 4 PASSOS DA TÉCNICA FEYNMAN                      │
-│                                                              │
-│  PASSO 1: Escreva tudo que sabe ─────────→ (free recall)   │
-│                                                              │
-│  PASSO 2: Explique como para ────────────→ (simplificação)  │
-│           uma criança de 12 anos                            │
-│                                                              │
-│  PASSO 3: Identifique as lacunas ────────→ (diagnóstico)   │
-│           "Onde travei? O que ficou vago?"                  │
-│                 │                                            │
-│                 ↓ (loop até dominar)                        │
-│  PASSO 4: Volte ao material ─────────────→ (iteração)      │
-│           Preencha as lacunas                               │
-│           Simplifique mais                                  │
-│                 │                                            │
-│                 └─────────────→ Passo 2 novamente          │
-│                                                              │
-│  Critério de domínio: qualquer pessoa inteligente entende  │
-└──────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ### Parte 3: Aplicação em Diferentes Áreas

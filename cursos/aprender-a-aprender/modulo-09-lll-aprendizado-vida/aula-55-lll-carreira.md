@@ -147,35 +147,6 @@ Se você quer construir um LLL profissional eficaz, o **Modelo 70-20-10** é um 
 
 Desenvolvido originalmente por **Morgan McCall, Robert Eichinger e Michael Lombardo** no **Center for Creative Leadership (CCL)** nos anos 1980, o modelo descreve como os profissionais mais eficazes aprendem:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              O MODELO 70-20-10 DE APRENDIZAGEM                   │
-│              Center for Creative Leadership (CCL)                │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  70% — EXPERIÊNCIA (on-the-job)                                  │
-│  Aprendizado que vem de desafios reais no trabalho               │
-│  → Projetos desafiadores e novos                                 │
-│  → Stretch assignments (tarefas acima do conforto atual)         │
-│  → Errar, refletir, ajustar e tentar novamente                   │
-│  → Construir sobre projetos anteriores com complexidade maior    │
-│                                                                  │
-│  20% — SOCIAL (mentoria e rede)                                  │
-│  Aprendizado que vem de outras pessoas                           │
-│  → Mentores formais e informais                                  │
-│  → Feedback de pares e superiores                                │
-│  → Observar e conversar com experts                              │
-│  → Comunidades de prática e grupos de estudo                     │
-│                                                                  │
-│  10% — EDUCAÇÃO FORMAL                                           │
-│  Cursos, livros, treinamentos estruturados                       │
-│  → Cursos online (Coursera, Alura, edX)                         │
-│  → Livros técnicos e de negócios                                 │
-│  → Workshops e conferências                                      │
-│  → Pós-graduações e certificações                                │
-└──────────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ![Modelo 70-20-10 de Aprendizado Profissional](../assets/diagramas/modelo-70-20-10-aprendizado.svg)

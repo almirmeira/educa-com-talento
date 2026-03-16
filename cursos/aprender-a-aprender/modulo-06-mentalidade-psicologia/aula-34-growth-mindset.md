@@ -60,28 +60,6 @@ Quem tem Growth Mindset acredita que habilidades e inteligência podem ser desen
 
 A consequência para o aprendizado é igualmente poderosa: desafios são oportunidades de crescimento. Erros são informações sobre o que precisa melhorar. Esforço é o mecanismo de desenvolvimento, não a prova da falta de talento. Feedback é combustível, não julgamento.
 
-```
-FIXED MINDSET vs. GROWTH MINDSET
-══════════════════════════════════
-
-┌─────────────────────────────┬──────────────────────────────┐
-│      FIXED MINDSET          │      GROWTH MINDSET          │
-├─────────────────────────────┼──────────────────────────────┤
-│ "Inteligência é inata"      │ "Inteligência é desenvolvida"│
-│ "Ou sou bom nisso ou não"   │ "Ainda não sei, mas posso    │
-│                             │  aprender"                   │
-│ Evita desafios              │ Abraça desafios              │
-│ Desiste diante de           │ Persiste diante de           │
-│  obstáculos                 │  obstáculos                  │
-│ Vê esforço como fraqueza    │ Vê esforço como caminho      │
-│ Ignora feedback crítico     │ Aprende com feedback         │
-│ Ameaçado pelo sucesso       │ Inspirado pelo sucesso       │
-│  dos outros                 │  dos outros                  │
-│ Resultado: platô precoce    │ Resultado: crescimento       │
-│ de realização               │ contínuo                     │
-└─────────────────────────────┴──────────────────────────────┘
-```
-
 ---
 
 ![Comparação visual entre Fixed Mindset e Growth Mindset](../assets/diagramas/growth-vs-fixed-mindset.svg)

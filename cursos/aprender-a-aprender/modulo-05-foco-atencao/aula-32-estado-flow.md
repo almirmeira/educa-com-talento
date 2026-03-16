@@ -118,23 +118,6 @@ O que acontece em diferentes regiões desse gráfico?
 
 **A diagonal central — Flow**: O desafio está ligeiramente acima do nível atual de habilidade. Suficientemente difícil para engajar completamente, mas não tão difícil que gere ansiedade paralisante.
 
-```
-                    GRÁFICO FLOW: DESAFIO × HABILIDADE
-       Alto │
-            │  ANSIEDADE  │      FLOW       │
-   Desafio  │             │   ╱╲╱╲╱╲╱╲      │
-            │─────────────╱────────────────│
-            │     APATIA  ╱  TÉDIO         │
-       Baixo│            ╱                 │
-            └────────────────────────────────
-            Baixo      Habilidade        Alto
-
-  ● FLOW = Desafio ligeiramente acima da habilidade atual
-  ● ANSIEDADE = Desafio muito acima da habilidade
-  ● TÉDIO = Desafio muito abaixo da habilidade
-  ● APATIA = Ambos baixos
-```
-
 Isso tem implicações práticas enormes para o estudo.
 
 Se você está estudando algo que domina completamente → está na zona de tédio. A solução não é estudar mais, é aumentar o nível de desafio.

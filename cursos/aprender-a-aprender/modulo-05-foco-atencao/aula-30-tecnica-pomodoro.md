@@ -59,24 +59,6 @@ O protocolo clássico é elegante na sua simplicidade:
 
 ---
 
-```
-PROTOCOLO POMODORO CLÁSSICO
-════════════════════════════
-
-[POMODORO 1]  25 min foco ──► 5 min pausa
-[POMODORO 2]  25 min foco ──► 5 min pausa
-[POMODORO 3]  25 min foco ──► 5 min pausa
-[POMODORO 4]  25 min foco ──► 15-30 min pausa longa
-
-Depois da pausa longa: reiniciar o ciclo
-
-REGRAS FUNDAMENTAIS:
-• Durante os 25 min: zero interrupções externas ou internas
-• Se interrupção acontecer: reiniciar o Pomodoro do zero
-• Pausa não é opcional: é parte do protocolo
-• Anote o que foi feito ao final de cada Pomodoro
-```
-
 A regra da reinicialização pode parecer draconiana, mas tem uma função importante: ela torna as interrupções custosas o suficiente para que você faça esforço real para evitá-las. Quando você sabe que uma interrupção de 30 segundos vai zerar 20 minutos de trabalho, você pensa duas vezes antes de pegar o celular.
 
 O processo de um Pomodoro completo tem cinco etapas:

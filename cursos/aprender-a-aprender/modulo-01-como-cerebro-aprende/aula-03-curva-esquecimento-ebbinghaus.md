@@ -73,28 +73,6 @@ Deixa isso afundar por um momento.
 
 Isso significa que se você assistir uma aula hoje e não fizer nada nos próximos 30 dias, menos de 1/4 do conteúdo ainda estará acessível na sua memória.
 
-```
-CURVA DO ESQUECIMENTO DE EBBINGHAUS (1885)
-──────────────────────────────────────────
-
-100% ├────•
-     │     ╲
- 80% │      ╲
-     │       ╲
- 60% │        •──── 20 min: 58%
-     │          ╲
- 40% │           ╲•─ 1 hora: 44%
-     │             ╲
- 20% │              •── 1 dia: 34%
-     │               •─ 6 dias: 25%
-     │                •─ 1 mês: 21%
-  0% └──────────────────────────────►
-     0  20min  1h   1d   6d   1mês
-                    Tempo
-
-⚠️  Sem revisão, você perde ~79% do conteúdo em 1 mês
-```
-
 > 📊 **Diagrama:** ![Curva do Esquecimento de Ebbinghaus](../assets/diagramas/curva-esquecimento-ebbinghaus.svg)
 
 *Figura: Curva do Esquecimento de Ebbinghaus (1885) — retenção sem revisão (vermelho) vs. com revisão espaçada (ciano). Fonte: Ebbinghaus, H. (1885). Über das Gedächtnis.*
@@ -108,25 +86,6 @@ Agora vem a parte boa: **Ebbinghaus também descobriu a solução**.
 Ebbinghaus não apenas mediu o esquecimento — ele mediu o que acontecia quando as pessoas revisavam o conteúdo. E descobriu algo que ele chamou de **"efeito do espaçamento"**: revisar o mesmo conteúdo em **momentos espaçados no tempo** é dramaticamente mais eficiente do que revisar o mesmo conteúdo várias vezes na mesma sessão.
 
 A cada vez que você revisa antes de esquecer completamente, a curva do esquecimento recomeça de um nível mais alto e cai mais devagar.
-
-```
-COM REVISÃO ESPAÇADA
-──────────────────────
-
-100% ├────•                 •           •               •
-     │     ╲              /│           /│              /│
- 80% │      ╲            / │          / │             / │
-     │       ╲          /  │         /  │            /  │
- 60% │        ╲        /   │        /   │           /   │
-     │         ╲      /    │       /    │          /    │
- 40% │          •────/     │──────/     │─────────/     │
-     │              ↑      ↑     ↑      ↑
-  0% └──────────────────────────────────────────────────►
-     Aprende  Revisão1  Revisão2  Revisão3  Revisão4
-              (24h)     (1 sem)   (1 mês)   (6 meses)
-
-✅  Com revisões, você mantém >80% mesmo após meses
-```
 
 O **Prof. Pierluigi Piazzi** vai um passo além de Ebbinghaus. Com base em décadas de experiência com estudantes brasileiros, ele define uma regra prática que funcionou para milhares de alunos:
 

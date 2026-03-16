@@ -56,32 +56,6 @@ Por que funciona? Porque você está usando um comportamento já existente — q
 
 É como pegar carona num veículo que já está em movimento.
 
-```
-HABIT STACKING — A FÓRMULA
-════════════════════════════
-
-FÓRMULA:
-"Depois que [HÁBITO EXISTENTE], eu farei [NOVO HÁBITO]"
-
-EXEMPLOS PARA APRENDIZADO:
-┌────────────────────────────────────────────────────────┐
-│ Depois que LIGAR O COMPUTADOR DE MANHÃ,                │
-│ eu farei 15 min de revisão no Anki                     │
-├────────────────────────────────────────────────────────┤
-│ Depois que TERMINAR O ALMOÇO,                          │
-│ eu lerei 10 páginas do livro técnico                   │
-├────────────────────────────────────────────────────────┤
-│ Depois que SERVIR O CAFÉ DA MANHÃ,                     │
-│ eu ouvirá 10 min de podcast em inglês                  │
-├────────────────────────────────────────────────────────┤
-│ Depois que ME DEITAR,                                  │
-│ eu revisarei mentalmente o que aprendi hoje (3 pontos) │
-├────────────────────────────────────────────────────────┤
-│ Depois que LIGAR O CARRO,                              │
-│ eu ligará o audiobook que estou lendo                  │
-└────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ![Fórmula e exemplos de Habit Stacking — empilhamento de hábitos](../assets/diagramas/habit-stacking-formula.svg)

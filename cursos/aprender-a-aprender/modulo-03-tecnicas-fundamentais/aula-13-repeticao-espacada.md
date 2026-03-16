@@ -56,31 +56,6 @@ O resultado mais famoso é a **Curva do Esquecimento**, uma das descobertas mais
 
 ---
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│           CURVA DO ESQUECIMENTO — Ebbinghaus (1885)          │
-│                                                              │
-│  100% │▓▓                                                    │
-│       │  ▓▓▓                                                 │
-│   80% │     ▓▓                                               │
-│       │       ▓▓                                             │
-│   60% │         ▓▓▓                                          │
-│       │            ▓▓▓▓                                      │
-│   40% │                ▓▓▓▓▓                                 │
-│       │                     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓          │
-│   20% │                                                      │
-│       │                                                      │
-│    0% └──────────────────────────────────────────────────── │
-│        Imediato  20min  1h  9h  1dia  2dias  6dias  31dias   │
-│                                                              │
-│  Após 20 minutos: esqueçeu ~42%                              │
-│  Após 1 hora:     esqueceu ~56%                              │
-│  Após 9 horas:    esqueceu ~64%                              │
-│  Após 1 dia:      esqueceu ~67%                              │
-│  Após 31 dias:    esqueceu ~79%                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 O esquecimento é agressivo, rápido e inevitável. Em 20 minutos, quase metade do que você acabou de aprender já foi. Em um dia, dois terços.
 
 Mas aqui está o lado positivo que Ebbinghaus também descobriu: **cada vez que você revisa, a curva fica mais suave**. Você esquece mais devagar. E a quantidade de esforço necessário para lembrar diminui.
@@ -142,20 +117,6 @@ A resposta vem de dois lugares: o **Sistema Leitner** e o **algoritmo SM-2**.
 *Figura: Sistema Leitner — cartões sobem de caixa ao acertar e voltam à Caixa 1 ao errar — Sebastian Leitner (1972)*
 
 ---
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│              SISTEMA LEITNER — 5 CAIXAS                      │
-│                                                              │
-│  CAIXA 1: revisar todo dia    ← cartões que você errou      │
-│  CAIXA 2: revisar a cada 2 dias                             │
-│  CAIXA 3: revisar a cada 4 dias                             │
-│  CAIXA 4: revisar a cada 8 dias                             │
-│  CAIXA 5: revisar a cada 16 dias ← cartões dominados        │
-│                                                              │
-│  Acertou → sobe uma caixa     Errou → volta à Caixa 1       │
-└──────────────────────────────────────────────────────────────┘
-```
 
 Todos os cartões novos entram na Caixa 1. Se você acertar, o cartão sobe para a Caixa 2. Acertar de novo, vai para a Caixa 3. Erro em qualquer ponto — volta para a Caixa 1. O sistema garante que você revise mais o que não sabe e menos o que já domina.
 

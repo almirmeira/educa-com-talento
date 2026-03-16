@@ -50,25 +50,6 @@ Vamos falar sobre **os tipos de memória** e por que o sistema funciona do jeito
 
 Quando os psicólogos cognitivos estudam memória, eles descrevem três sistemas principais que trabalham em sequência:
 
-```
-FLUXO DA INFORMAÇÃO PELA MEMÓRIA
-──────────────────────────────────────────────────────────────
-
-  MUNDO           MEMÓRIA           MEMÓRIA DE          MEMÓRIA DE
-EXTERNO  ──────► SENSORIAL  ──────► TRABALHO    ──────► LONGO PRAZO
-                 (0-3 seg)          (15-30 seg)          (indefinida)
-
-  Sons                               4 chunks              Ilimitada
-  Imagens    99% ignorado            de cada vez
-  Cheiros    1% capturado            Frágil e              Consolidada
-  Toque                              temporária            e duradoura
-
-              ↓                          ↓
-        Descartado                 Se não usar
-                                   ou revisar:
-                                   ESQUECIDO
-```
-
 > 📊 **Diagrama:** ![Consolidação da Memória — Fluxo da Informação](../assets/diagramas/consolidacao-memoria-fluxo.svg)
 
 *Figura: Do mundo externo à Memória de Longo Prazo — processo de consolidação, técnicas eficazes e o que impede a retenção. Miller (1956) · Cowan (2001).*

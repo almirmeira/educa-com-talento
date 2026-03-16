@@ -86,30 +86,6 @@ A DMN foi descoberta por acidente nos anos 1990, quando neurocientistas começar
 
 A resposta: ele está fazendo muita coisa — só que não de forma consciente.
 
-```
-MODO FOCADO vs. MODO DIFUSO
-──────────────────────────────────────────────────────────
-
-MODO FOCADO                    MODO DIFUSO
-───────────                    ───────────
-Córtex pré-frontal ativo       Default Mode Network ativa
-
-   [•]                            [•]···[•]
-    │ Linear                      ·↕·  Difuso·
-    │ Sequencial                  [•]···[•]
-    │ Padrões                     ·↕·   ↕·
-    ▼ conhecidos               [•]···[•]···[•]
-
-Lanterna: luz intensa          Holofote apagado,
-e estreita                     conexões espalhadas
-
-IDEAL PARA:                    IDEAL PARA:
-- Exercícios de revisão        - Insights e criatividade
-- Problemas familiares         - Consolidação da memória
-- Leitura analítica            - Conexões inusitadas
-- Redação estruturada          - Solução de problemas novos
-```
-
 O Modo Difuso é o responsável por:
 - **Insights criativos** — aquelas conexões inesperadas entre conceitos
 - **Consolidação de memória** — enquanto você descansa, o cérebro organiza e consolida o que aprendeu

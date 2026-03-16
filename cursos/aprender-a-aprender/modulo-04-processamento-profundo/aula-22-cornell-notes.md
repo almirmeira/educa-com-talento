@@ -56,27 +56,6 @@ A página é dividida em três zonas:
 
 ---
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                    PÁGINA CORNELL                            │
-│                                                              │
-│  COLUNA DE PISTAS          COLUNA DE NOTAS                  │
-│  (3 cm de largura)         (6 cm de largura)                │
-│                                                              │
-│  Palavras-chave │           Anotações durante a aula/leitura│
-│  Perguntas      │                                            │
-│  Pistas de      │           • Ideias principais             │
-│  recuperação    │           • Detalhes relevantes           │
-│                 │           • Exemplos                      │
-│                 │           • Datas, dados, fórmulas        │
-│                 │                                            │
-│                 │                                            │
-│  ─────────────────────────────────────────────────────────  │
-│  ZONA DE RESUMO (3 linhas no final da página)               │
-│  Resumo com suas próprias palavras — após a aula            │
-└──────────────────────────────────────────────────────────────┘
-```
-
 **Zona de Notas (6 cm)**: é a mais larga, onde você anota durante a aula ou leitura. Ideia principal, detalhes, exemplos, fórmulas, dados. Anote livremente, mas organize por ideias — não copie frases completas, use palavras-chave e frases curtas.
 
 **Coluna de Pistas (3 cm)**: preenchida APÓS a aula. Você revisa as notas e para cada bloco de informação, escreve na coluna da esquerda: uma palavra-chave, uma pergunta, ou uma pista que vai te ajudar a lembrar o bloco da direita.

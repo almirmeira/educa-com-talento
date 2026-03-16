@@ -63,21 +63,6 @@ Aprender a aprender é a meta-habilidade das meta-habilidades. É o multiplicado
 
 Pensa em analogia com computadores: você pode ter os melhores softwares do mundo, mas se o sistema operacional está desatualizado e lento, tudo vai travar. Quando você aprende a aprender, está atualizando o sistema operacional da sua mente.
 
-```
-┌─────────────────────────────────────────────────────────┐
-│              PIRÂMIDE DAS HABILIDADES                   │
-│                                                         │
-│                      ╔═══════╗                          │
-│                    ╔═╡  LLL  ╞═╗                        │
-│                  ╔═╡ META-HABILIDADE ╞═╗                │
-│               ╔══╡   APRENDER A APRENDER  ╞══╗          │
-│            ╔══╡    Inglês · Programação · IA   ╞══╗     │
-│         ╔══╡  Marketing · Gestão · Soft Skills    ╞══╗  │
-│       ╔══╡   Qualquer nova habilidade técnica       ╞══╗│
-└─────────────────────────────────────────────────────────┘
-  A base sustenta tudo o que vem acima
-```
-
 > 📊 **Diagrama:** ![A Pirâmide das Habilidades do Século XXI](../assets/diagramas/piramide-habilidades-seculo-xxi.svg)
 
 *Figura: Hierarquia das habilidades mais valorizadas no século XXI — "Aprender a Aprender" como meta-habilidade no topo.*

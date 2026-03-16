@@ -183,44 +183,6 @@ Agora vamos ao plano concreto. O **Plano de Vida Aprendiz** é um sistema simple
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                   PLANO DE VIDA APRENDIZ                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  NOME: _______________________  DATA: ____________              ║
-║                                                                  ║
-╠═════════════════════════════════╦════════════════════════════════╣
-║  ROTINA DIÁRIA DE APRENDIZADO   ║                                ║
-║  (20 minutos mínimos)           ║                                ║
-║  ───────────────────            ║  HORÁRIO: ____________        ║
-║  O que: ___________________     ║  LOCAL: ______________         ║
-║  Como: ____________________     ║  Gatilho: ____________        ║
-║  Quando: __________________     ║                                ║
-╠═════════════════════════════════╬════════════════════════════════╣
-║  PROJETO MENSAL DE APRENDIZADO  ║  PROJETO ANUAL ULTRALEARNING  ║
-║  ─────────────────────────────  ║  ─────────────────────────── ║
-║  Formato: livro / curso / skill ║  Tema: _________________      ║
-║  Este mês: _________________    ║  Objetivo: _____________      ║
-║  Próximo mês: ______________    ║  Prazo: ________________      ║
-╠═════════════════════════════════╬════════════════════════════════╣
-║  REVISÃO SEMANAL                ║  REVISÃO MENSAL               ║
-║  ──────────────                 ║  ─────────────                ║
-║  Dia/hora: _________________    ║  Dia/hora: _____________      ║
-║  3 perguntas:                   ║  3 perguntas:                 ║
-║  1. O que aprendi?              ║  1. O que aprendi?            ║
-║  2. O que vou aprender?         ║  2. PDI em dia?               ║
-║  3. O que preciso desaprender?  ║  3. Próximo sprint?           ║
-╠═════════════════════════════════╬════════════════════════════════╣
-║  COMUNIDADE DE APRENDIZAGEM     ║  PORTFÓLIO EM CONSTRUÇÃO      ║
-║  ──────────────────────────     ║  ─────────────────────────── ║
-║  Comunidade 1: _____________    ║  Plataforma: ___________      ║
-║  Comunidade 2: _____________    ║  Frequência: ___________      ║
-║  Mentor: ___________________    ║  Próximo conteúdo: _____      ║
-║  Quem mentoro: _____________    ║                                ║
-╚═════════════════════════════════╩════════════════════════════════╝
-```
-
 **Como sustentar o LLL nos momentos difíceis:**
 
 Vou ser honesto: haverá momentos em que o aprendizado vai ficando para depois. Uma semana de sobrecarga no trabalho. Um problema familiar. Uma crise. A rotina quebrada por viagem. A motivação que some sem aviso.

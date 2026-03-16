@@ -65,24 +65,6 @@ Os resultados foram devastadores para quem acreditava na releitura.
 
 ---
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│       RETENÇÃO APÓS 1 SEMANA — Karpicke & Roediger (2006)   │
-│              Washington University in St. Louis              │
-│                                                              │
-│  Grupo 1 — Releu 4x (sem teste):                            │
-│  ████████░░░░░░░░░░░░░░░░░░░░░░  21% de retenção           │
-│                                                              │
-│  Grupo 2 — Estudou 1x + Testou 3x:                         │
-│  ████████████████████████░░░░░░  61% de retenção           │
-│                                                              │
-│  Diferença: +40 pontos percentuais                          │
-│  Melhoria: +190% de retenção com retrieval                  │
-│                                                              │
-│  "Testing Effect" ou "Retrieval Practice Effect"            │
-└──────────────────────────────────────────────────────────────┘
-```
-
 O grupo que estudou uma vez e se testou três vezes reteve quase o triplo do que o grupo que releu quatro vezes.
 
 Deixa isso entrar. Quatro releituras versus um estudo mais três testes — e o grupo que testou ganhou por larga margem.

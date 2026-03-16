@@ -64,30 +64,6 @@ Isso se relaciona diretamente com o gráfico de Csikszentmihalyi que vimos na Au
 
 Pertencimento é a experiência de conexão genuína com outras pessoas — de importar-se com e para os outros no contexto da atividade. Em contextos de aprendizado, é a experiência de fazer parte de uma comunidade de aprendizes, de ter um professor que se importa genuinamente, de aprender junto com pessoas com quem você tem vínculo.
 
-```
-TEORIA DA AUTODETERMINAÇÃO — SDT
-══════════════════════════════════
-
-Quando as 3 necessidades são SATISFEITAS:
-┌───────────────────────────────────────────────────┐
-│  AUTONOMIA + COMPETÊNCIA + PERTENCIMENTO           │
-│          ↓                                         │
-│   MOTIVAÇÃO INTRÍNSECA                             │
-│   Aprendizado sustentável a longo prazo            │
-│   Bem-estar psicológico                            │
-│   Persistência diante de obstáculos               │
-└───────────────────────────────────────────────────┘
-
-Quando as 3 necessidades são FRUSTRADAS:
-┌───────────────────────────────────────────────────┐
-│  Controle externo + Tédio/Ansiedade + Isolamento   │
-│          ↓                                         │
-│   AMOTIVAÇÃO ou MOTIVAÇÃO EXTRÍNSECA FORÇADA       │
-│   Aprendizado mínimo e superficial                 │
-│   Abandono quando a pressão externa cessa          │
-└───────────────────────────────────────────────────┘
-```
-
 ---
 
 ![As três necessidades psicológicas básicas da Teoria da Autodeterminação](../assets/diagramas/sdt-tres-necessidades.svg)

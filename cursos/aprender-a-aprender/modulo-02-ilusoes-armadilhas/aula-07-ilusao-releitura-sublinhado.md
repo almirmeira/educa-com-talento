@@ -144,25 +144,6 @@ O experimento foi simples e elegante:
 
 Os grupos B, C e D alcançaram praticamente o mesmo resultado — todos muito superiores ao Grupo A.
 
-```
-COMPARAÇÃO VISUAL — KARPICKE & ROEDIGER (2006)
-───────────────────────────────────────────────────────
-
-Grupo A (4 releituras, sem teste):
-Retido após 1 semana: ▓▓▓▓░░░░░░░░░░░░░░░░  36%
-
-Grupo B (3 estudos + 1 teste):
-Retido após 1 semana: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80%
-
-Grupo C (1 estudo + 3 testes):
-Retido após 1 semana: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80%
-
-Grupo D (4 testes, sem estudo adicional):
-Retido após 1 semana: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80%
-
-→ Um único teste vale mais que três releituras
-```
-
 A conclusão dos pesquisadores foi direta: **um único teste vale mais do que três releituras adicionais** para a retenção de longo prazo.
 
 Isso ficou conhecido como o **"Efeito de Teste"** ou **Testing Effect**. E é a base da técnica de **retrieval practice** — prática de recuperação — que vamos estudar em profundidade no Módulo 3.

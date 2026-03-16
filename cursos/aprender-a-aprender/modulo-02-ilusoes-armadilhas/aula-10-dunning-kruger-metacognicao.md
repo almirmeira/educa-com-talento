@@ -52,35 +52,6 @@ O Efeito Dunning-Kruger é melhor visualizado através de uma curva que descreve
 
 *Figura: Curva de Dunning-Kruger — Pico da Tolice, Vale da Desilusão, Rampa da Iluminação e Platô da Sustentabilidade. Kruger, J. &amp; Dunning, D. (1999). Journal of Personality and Social Psychology, 77(6), 1121–1134.*
 
-```
-CURVA DUNNING-KRUGER — COMPETÊNCIA vs. CONFIANÇA
-──────────────────────────────────────────────────────────────
-
-Confiança
-   │
-   │
-100%│           •••••         ←Pico de Estupidez         ████
-   │         ••     ••                                  █████
-   │        •         •                               ███████
- 80%│       •           •                           █████████
-   │      •               •                       ███████████
-   │     •                  •                   █████████████
- 60%│    •                    •               ███████████████
-   │   •                       •••         █████████████████
-   │  •         VALE DA           •••   ███████████████████
- 40%│ •          DESILUSÃO            ████████████████████
-   │•                               █████████████████████
- 20%│←Inicio                       ██████████████████████
-   │                               ██████████████████████
-  0%└────────────────────────────────────────────────────►
-    ZERO       POUCO        MÉDIO        MUITO      ESPECIALISTA
-                          Competência Real
-
-    [1]        [2]          [3]          [4]
-Incomp.   Incomp.      Competente    Competência
-Inconsc.  Consciente   Consciente    Inconsciente
-```
-
 **Fase 1: Incompetência Inconsciente**
 "Eu não sei, e não sei que não sei."
 - Pouquíssimo conhecimento real

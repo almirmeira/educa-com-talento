@@ -60,26 +60,6 @@ A rotina é o comportamento em si — a ação que você executa em resposta ao 
 **Recompensa (Reward)**
 A recompensa é o benefício que a rotina entrega — o estado que satisfaz o desejo inicial. A recompensa também ensina ao cérebro se vale a pena repetir aquele loop no futuro.
 
-```
-O LOOP DO HÁBITO
-═════════════════
-
-        ┌─────────────────────────────────────────┐
-        │                                         │
-    GATILHO         DESEJO          ROTINA    RECOMPENSA
-  (Cue/Trigger) → (Craving)  →  (Response) → (Reward)
-        │                                         │
-        └─────────────────────────────────────────┘
-              ↑_________Loop de Reforço___________↑
-
-Exemplo — Hábito de checar celular:
-GATILHO: Notificação aparece (vibração/luz)
-DESEJO: Querer saber o que é, antecipação de novidade
-ROTINA: Pegar e desbloquear o celular
-RECOMPENSA: Informação/novidade (satisfaz o desejo)
-→ Loop reforçado: cérebro aprende "notificação → checar"
-```
-
 ---
 
 ![Loop do Hábito e as 4 Leis de James Clear](../assets/diagramas/loop-habito-4-leis.svg)

@@ -74,28 +74,6 @@ Essa é a fase de maior abandono em qualquer processo de aprendizado. Academias 
 
 Quem atravessa o plateau emerge numa qualidade diferente de desempenho. As conexões neurais que estavam sendo formadas durante o plateau consolidam-se. O que era difícil torna-se automático. E então um novo patamar de progresso começa — até o próximo plateau.
 
-```
-A CURVA DE APRENDIZADO
-═══════════════════════
-
-Desempenho
-    │
-    │                                      ╭──── Maestria
-    │                              ╭───────╯
-    │              ╭───────────────╯ ◄── Atravessa o plateau
-    │      ╭───────╯
-    │  ╭───╯ ◄── Entusiasmo inicial (progresso rápido)
-    │──╯
-    │      ┗━━━━━━━━━━┛
-    │        PLATEAU ◄── 80% desiste aqui
-    │          (Vale da Desilusão)
-    └────────────────────────────────────────────── Tempo
-
-  ● A maioria desiste no plateau
-  ● O salto maior de qualidade vem DEPOIS do plateau
-  ● Frustração = você está no limite de crescimento
-```
-
 ---
 
 ![A curva de aprendizado com as 4 etapas e o plateau onde a maioria desiste](../assets/diagramas/curva-aprendizado-plateau.svg)

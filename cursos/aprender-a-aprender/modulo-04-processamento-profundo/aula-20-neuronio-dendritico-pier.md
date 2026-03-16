@@ -62,27 +62,6 @@ Piazzi usa o neurônio não como unidade biológica, mas como **metáfora de con
 
 ---
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│             O NEURÔNIO DENDRÍTICO DE PIAZZI                  │
-│                                                              │
-│  NEURÔNIO POBRE (conceito isolado):                         │
-│                                                              │
-│            ●  Lei de Newton                                  │
-│          (sem conexões = fraca retenção, difícil acesso)    │
-│                                                              │
-│  NEURÔNIO RICO (conceito conectado):                        │
-│                                                              │
-│    Exemplos ─────●────── Fórmula F=ma                       │
-│    Aplicações ───┤Lei de ├─── Experimento                    │
-│    Exercícios ───┤Newton │─── Contraexemplo                  │
-│    Perguntas ────┤       ├─── Conexão com Galileu            │
-│    Visualização ─●──────── História do conceito             │
-│                                                              │
-│  Mais dendríticos = mais formas de acessar = mais memória  │
-└──────────────────────────────────────────────────────────────┘
-```
-
 Um neurônio ricamente conectado tem muitos caminhos de entrada. Se você não consegue lembrar pelo exemplo, lembra pela fórmula. Se a fórmula não vem, a história te leva lá. Se a história some, o exercício que você resolveu te puxa.
 
 Cada conexão é um dendrítico. E cada dendrítico que você cria intencionalmente durante o estudo fortalece a rede inteira.
