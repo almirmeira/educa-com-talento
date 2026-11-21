@@ -7,11 +7,11 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 5 — Gestão de Foco e Atenção |
-| **Aula** | 30 de 45 (03 de 06 no módulo) |
+| **Aula** | 30 de 59 (03 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Iniciante a Intermediário |
 | **Formato** | Videoaula com slides |
-| **Objetivos** | Conhecer a história e o protocolo Pomodoro; entender a base neurocientífica das pausas restauradoras; aprender variações do Pomodoro para diferentes perfis; escolher ferramentas adequadas e implementar imediatamente |
+| **Objetivos** | Conhecer a história e o protocolo Pomodoro; entender o que a pesquisa diz sobre as pausas restauradoras; aprender variações do Pomodoro para diferentes perfis; escolher ferramentas adequadas e implementar imediatamente |
 
 ---
 
@@ -19,9 +19,9 @@
 
 | Parte | Tempo | Conteúdo |
 |-------|-------|---------|
-| Abertura | 2 min | A história do timer de tomate que mudou a produtividade mundial |
+| Abertura | 2 min | A história do timer de tomate de Francesco Cirillo |
 | Parte 1 | 4 min | O protocolo Pomodoro: como funciona na prática |
-| Parte 2 | 4 min | Por que as pausas não são tempo perdido: neurociência do modo difuso |
+| Parte 2 | 4 min | Por que as pausas não são tempo perdido: o modo difuso e a pesquisa sobre pausas |
 | Parte 3 | 4 min | Variantes do Pomodoro para diferentes perfis e situações |
 | Parte 4 | 3 min | Ferramentas e como registrar a qualidade do foco |
 | Encerramento | 3 min | Exercício + próxima aula |
@@ -32,19 +32,19 @@
 
 ### Abertura
 
-Quero começar essa aula com uma história que vai de um timer de cozinha em forma de tomate para uma das técnicas de produtividade mais usadas no mundo.
+Quero começar essa aula com uma história que vai de um timer de cozinha em forma de tomate para uma das técnicas de produtividade mais conhecidas do mundo.
 
 Era o final dos anos 1980. Francesco Cirillo era um estudante universitário na Itália que estava tendo dificuldades sérias para se concentrar durante os estudos. Provavelmente você se identifica com essa situação — a sensação de sentar na frente do material e a mente ir para qualquer outro lugar menos para o conteúdo.
 
-Cirillo decidiu fazer um experimento consigo mesmo. Ele foi até a cozinha, pegou o timer de tomate que sua família usava para cozinhar — *pomodoro* em italiano — e se comprometeu a estudar com foco total pelo tempo que o timer durasse: 25 minutos.
+Cirillo decidiu fazer uma aposta consigo mesmo: "Será que eu consigo estudar — estudar de verdade — por 10 minutos?". Ele pegou um timer de cozinha em forma de tomate — *pomodoro* em italiano — e tentou. E, segundo ele mesmo conta, não ganhou a aposta de primeira.
 
 Sem interrupções. Sem desvios. Só o estudo e o tick-tock do timer.
 
-Depois que o timer tocou, ele fez uma pausa de 5 minutos. E repetiu.
+Com o tempo, chegou ao formato de blocos de 25 minutos com pausas curtas de 3 a 5 minutos, repetidos ao longo do estudo.
 
-O resultado foi tão positivo que Cirillo passou anos refinando esse método, testando variações, coletando dados. No início dos anos 1990, ele formalizou o que ficou conhecido mundialmente como a **Técnica Pomodoro**.
+O resultado foi tão positivo que Cirillo passou anos refinando esse método, testando variações, coletando dados. Em 1992, ele definiu a técnica na forma que ficou conhecida mundialmente como **Técnica Pomodoro**.
 
-Hoje essa técnica tem dezenas de millions de praticantes no mundo inteiro. É ensinada em universidades, adotada por empresas de tecnologia e recomendada por neurocientistas. E a razão pela qual funciona tão bem não é mistério — tem base sólida na ciência do cérebro.
+Hoje essa técnica é conhecida no mundo inteiro: o PDF original de Cirillo foi baixado mais de 2 milhões de vezes antes de virar livro, em 2018. É ensinada em universidades e adotada por empresas de tecnologia. E a pesquisa sobre pausas ajuda a entender por que ela funciona para muita gente — embora os estudos diretos sobre o Pomodoro ainda sejam recentes e pequenos.
 
 ---
 
@@ -67,9 +67,9 @@ O processo de um Pomodoro completo tem cinco etapas:
 2. **Defina o timer** para 25 minutos
 3. **Trabalhe na tarefa** até o timer tocar — sem pausas
 4. **Marque um X** numa folha de papel (registro visual do progresso)
-5. **Faça a pausa** de 5 minutos (levante, estique, hidrate — não fique na tela)
+5. **Faça a pausa** de 3 a 5 minutos (levante, estique, hidrate — não fique na tela)
 
-Esse X no papel é mais poderoso do que parece. Ele transforma uma atividade abstrata ("estudei") em progresso concreto e visível. E visibilidade de progresso é um dos maiores motivadores conhecidos pela psicologia.
+Esse X no papel é mais poderoso do que parece. Ele transforma uma atividade abstrata ("estudei") em progresso concreto e visível. E pesquisas de Teresa Amabile e Steven Kramer (2011) indicam que a sensação de progresso em um trabalho significativo é um dos fatores que mais melhoram a motivação no dia a dia.
 
 ---
 
@@ -83,11 +83,11 @@ Isso era meu intuito de estudante, e estava completamente errado.
 
 Vou te explicar a ciência por trás das pausas, porque quando você entender, vai parar de resistir a elas e vai começar a protegê-las como parte sagrada do processo.
 
-Barbara Oakley, professora de Engenharia na Oakland University e criadora do curso mais popular de todos os tempos na plataforma Coursera — o *Learning How to Learn* —, descreve dois modos fundamentais de processamento cerebral.
+Barbara Oakley, professora de Engenharia na Oakland University que criou, com Terrence Sejnowski, o *Learning How to Learn* — um dos cursos online mais procurados do mundo —, descreve dois modos fundamentais de processamento cerebral.
 
 O **modo focado** é aquele em que você está ativamente concentrado em um problema ou conteúdo. O cérebro está em alta atividade na área relevante para a tarefa — é o modo do Pomodoro.
 
-O **modo difuso** é um estado de processamento mais relaxado, ativado quando você não está ativamente pensando em um problema específico. É o modo da pausa, do banho, da caminhada. E aqui está o ponto crucial: **o modo difuso é onde a consolidação, a integração e os insights acontecem**.
+O **modo difuso** é um estado de processamento mais relaxado, ativado quando você não está ativamente pensando em um problema específico. É o modo da pausa, do banho, da caminhada. E aqui está o ponto crucial: **o modo difuso favorece a consolidação, a integração e os insights**.
 
 Quando você aprende algo novo no modo focado e depois descansa, o cérebro não para de trabalhar. Ele continua processando a informação no background, criando conexões entre o conteúdo novo e o que você já sabe, identificando padrões, consolidando na memória de longo prazo.
 
@@ -99,19 +99,19 @@ MODO FOCADO (durante o Pomodoro):
 │ Processamento ativo do conteúdo
 │ Alta demanda do córtex pré-frontal
 │ Criação de traços de memória iniciais
-│ [ESGOTAMENTO GRADUAL DA ATENÇÃO SUSTENTADA]
+│ [SEM PAUSA, A VIGILÂNCIA TENDE A CAIR]
 ▼
 
 PAUSA (5-15 min):
-│ Ativação da Default Mode Network (DMN)
+│ Modo difuso (que Oakley aproxima, como metáfora, da rede de modo padrão)
 │ Consolidação e integração de memórias
-│ Restauração do córtex pré-frontal
+│ Reativação da meta da tarefa (Ariga & Lleras, 2011)
 │ Criação de conexões entre ideias
 │ Geração de insights (o "eureka" da pausa)
 ▼
 
 PRÓXIMO MODO FOCADO:
-│ Córtex pré-frontal restaurado
+│ Atenção renovada para a tarefa
 │ Conteúdo anterior mais consolidado
 │ Maior capacidade de absorção
 └── APRENDIZADO MAIS EFICIENTE
@@ -121,13 +121,13 @@ Sabe aquele momento em que você estava preso num exercício, saiu para beber á
 
 As pausas do Pomodoro não são tempo perdido. São o momento em que boa parte do aprendizado de fato acontece.
 
-E tem mais: o córtex pré-frontal — responsável pela atenção voluntária que discutimos na aula anterior — se esgota com o uso sustentado, assim como um músculo. A pausa é a recuperação ativa desse músculo. Sem ela, a qualidade do foco nos Pomodoros subsequentes degrada progressivamente.
+E tem mais: num estudo de Ariga e Lleras (2011), duas pausas mentais breves bastaram para evitar a queda de desempenho numa tarefa longa e repetitiva. A explicação deles não é um "músculo" que se esgota, e sim a meta da tarefa que vai sumindo da consciência — e a pausa a reativa. Sem pausas, a qualidade do foco nos Pomodoros seguintes tende a cair.
 
 ---
 
 ### Parte 3: Variantes do Pomodoro
 
-O protocolo de 25/5 de Cirillo é um ponto de partida, não uma lei imutável. Ao longo dos anos, praticantes e pesquisadores desenvolveram variações para diferentes situações:
+O protocolo de 25/5 de Cirillo é um ponto de partida, não uma lei imutável. Ao longo dos anos, praticantes criaram variações para diferentes situações — convenções de uso, não protocolos testados em experimentos:
 
 **Para iniciantes (atenção ainda não treinada)**
 - Blocos de 15 minutos + 5 min pausa
@@ -136,14 +136,14 @@ O protocolo de 25/5 de Cirillo é um ponto de partida, não uma lei imutável. A
 
 **Para conteúdo de alta complexidade (matemática, programação, idiomas)**
 - Blocos de 50 minutos + 10 min pausa
-- A complexidade requer mais tempo para entrar no nível necessário de processamento
-- Pesquisa de Staffan Noteberg (autor de *Pomodoro Technique Illustrated*) sugere que para problemas muito complexos, a fase de aquecimento cognitivo leva mais de 25 min
+- Há quem prefira blocos maiores para ter tempo de entrar no problema
+- Atenção: 50 minutos passam do teto de 40 minutos que o próprio Cirillo recomenda; teste e observe o resultado
 
 **Flowmodoro (para quando o Flow aparece)**
-- Regra: se você entrou em estado de flow durante um Pomodoro, NÃO toque no timer
+- Apelido da técnica Flowtime (Zoe Read-Bivens, 2016): se você entrou em estado de flow durante um bloco, não pare no toque do timer — o que contraria a regra do próprio Cirillo, que manda parar quando o timer toca
 - Estenda o bloco enquanto o estado de flow se mantiver
 - Ao sair do flow naturalmente, faça a pausa proporcional ao tempo adicional
-- O objetivo é não interromper artificialmente um dos estados mais produtivos que existem
+- O objetivo é não interromper artificialmente um estado muito produtivo
 
 **Tabela de Variantes**:
 
@@ -152,7 +152,7 @@ O protocolo de 25/5 de Cirillo é um ponto de partida, não uma lei imutável. A
 │ Variante         │ Foco         │ Pausa curta  │ Pausa longa           │
 ├──────────────────┼──────────────┼──────────────┼───────────────────────┤
 │ Iniciante        │ 15 min       │ 5 min        │ 15 min (após 4 pomos) │
-│ Clássico         │ 25 min       │ 5 min        │ 15-30 min             │
+│ Clássico         │ 25 min       │ 3-5 min      │ 15-30 min             │
 │ Intermediário    │ 35 min       │ 7 min        │ 20-30 min             │
 │ Profissional     │ 50 min       │ 10 min       │ 30 min                │
 │ Flowmodoro       │ Até o flow   │ Proporcional │ Proporcional          │
@@ -171,20 +171,20 @@ Para quem está construindo o hábito de aprendizado contínuo — seja você um
 
 **Timer físico (recomendação número 1)**
 - Um timer de cozinha simples ou de mesa
-- Vantagem: não exige olhar para a tela, não tem notificações, o som mecânico do tick cria um ritmo condicionante
+- Vantagem: não exige olhar para a tela, não tem notificações e, segundo Cirillo, o tique-taque ajuda a sentir o tempo passar (em espaço compartilhado, prefira um que vibre)
 
 **Forest App**
 - Planta uma árvore virtual que cresce durante o Pomodoro
 - Se você sair do app para checar outras coisas, a árvore morre
-- Gamificação simples e eficaz; opção de árvores reais via parceria ambiental
+- Gamificação simples
 
 **Pomofocus.io**
 - Web app minimalista, gratuito, sem cadastro
 - Interface limpa, segue o protocolo clássico com variações configuráveis
 
 **Focus@Will**
-- Música cientificamente calibrada para manter foco
-- Combina bem com qualquer timer
+- Promete música calibrada para o foco, mas não há estudo independente conhecido que sustente a promessa
+- O que a pesquisa mostra com mais firmeza: música com letra atrapalha a leitura (Perham & Currie, 2014)
 
 **Registro de qualidade de foco**:
 
@@ -199,9 +199,9 @@ Essa prática de metacognição — refletir sobre a qualidade do próprio proce
 
 ### Encerramento
 
-Nessa aula você aprendeu que a Técnica Pomodoro, criada por Francesco Cirillo nos anos 1980, não é apenas uma "dica de produtividade" — ela tem base neurocientífica sólida.
+Nessa aula você aprendeu que a Técnica Pomodoro, criada por Francesco Cirillo nos anos 1980, não é apenas uma "dica de produtividade" — a pesquisa sobre pausas ajuda a explicar por que ela funciona, embora os estudos diretos sobre o Pomodoro ainda sejam recentes e pequenos (Biwer e col., 2023).
 
-Os blocos de foco treinam a atenção voluntária. As pausas ativam o modo difuso de Oakley, onde a consolidação e os insights acontecem. E a variante certa para cada pessoa existe — você só precisa experimentar.
+Os blocos de foco treinam a atenção voluntária. As pausas abrem espaço para o modo difuso de Oakley, que favorece a consolidação e os insights. E a variante certa para cada pessoa existe — você só precisa experimentar.
 
 O exercício desta aula é executar 4 Pomodoros seguidos de estudo real e registrar a qualidade do foco em cada um.
 
@@ -255,12 +255,12 @@ d) James Clear, no livro Hábitos Atômicos
 
 ---
 
-**2. O que acontece durante as pausas do Pomodoro, do ponto de vista neurocientífico?**
+**2. Segundo o que vimos nesta aula, o que acontece durante as pausas do Pomodoro?**
 
 a) O cérebro para de processar completamente
 b) A memória de curto prazo apaga o que foi aprendido
-c) Ativa-se o modo difuso (Default Mode Network), que consolida memórias, integra informações e gera insights
-d) O cortex pré-frontal fica em modo de espera sem atividade
+c) Abre-se espaço para o modo difuso, que favorece a consolidação de memórias, a integração de informações e os insights
+d) O córtex pré-frontal fica em modo de espera sem atividade
 
 **Gabarito**: c) — Modo difuso = consolidação, integração e insights
 
@@ -273,7 +273,7 @@ b) Quando o timer toca mas você ainda não terminou
 c) Quando você entrou em estado de flow — não interrompa artificialmente; estenda o bloco
 d) Nos primeiros dias de treino com Pomodoro
 
-**Gabarito**: c) — Flow é um estado ótimo que não deve ser interrompido artificialmente
+**Gabarito**: c) — Variante de praticantes (Flowtime), que contraria a regra original de Cirillo de parar ao toque do timer
 
 ---
 
@@ -292,7 +292,7 @@ d) 1 hora
 
 a) É mais preciso que apps digitais
 b) É mais barato
-c) Não exige olhar para a tela, não tem notificações e o som mecânico cria um ritmo condicionante de foco
+c) Não exige olhar para a tela, não tem notificações e o tique-taque ajuda a sentir o tempo passar
 d) Apps não têm função de timer adequada
 
 **Gabarito**: c) — Timer físico elimina a necessidade de interagir com dispositivos digitais
@@ -301,7 +301,7 @@ d) Apps não têm função de timer adequada
 
 ## Leitura Recomendada
 
-- **Cirillo, Francesco**. *The Pomodoro Technique*. Cirillo Consulting, 2006. (gratuito em pomodorotechnique.com)
+- **Cirillo, Francesco**. *The Pomodoro Technique*. Nova York: Currency, 2018. (versão original em PDF, 2006)
 - **Oakley, Barbara; Sejnowski, Terrence**. *Aprendendo a Aprender: Como Ter Sucesso em Matemática, Ciências e Qualquer Disciplina Difícil*. Alta Books, 2019.
 - **Noteberg, Staffan**. *Pomodoro Technique Illustrated*. Pragmatic Bookshelf, 2009.
 

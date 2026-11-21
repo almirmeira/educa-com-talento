@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 8 — Ultralearning: Aprendizado Acelerado em Projetos |
-| **Aula** | 53 (8 de 8 do módulo — Aula Final) |
+| **Aula** | 53 (8 de 8 do módulo — última aula do módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Avançado |
 | **Formato** | Videoaula com slides + template interativo |
@@ -33,7 +33,7 @@
 
 Chegamos à última aula do Módulo 8, e eu sinto que este momento merece uma pausa.
 
-Ao longo de 8 aulas, você percorreu um caminho que a maioria das pessoas nunca percorre conscientemente. Você aprendeu:
+Ao longo das 7 aulas anteriores, você percorreu um caminho que a maioria das pessoas nunca percorre conscientemente. Você aprendeu:
 
 - A **mapear o terreno** antes de entrar (Metalearning)
 - A **focar profundamente** em vez de estudar no piloto automático (Focus)
@@ -51,7 +51,7 @@ Esta é a aula em que teoria vira plano. E plano vira ação.
 
 E vou te contar uma coisa: existem duas categorias de pessoas que assistem a este tipo de conteúdo sobre Ultralearning e LLL. A primeira categoria acha fascinante, salva os links, talvez fale para os amigos — mas não faz nada. A segunda categoria age. Constrói o plano. Começa no primeiro dia possível.
 
-A diferença entre as duas categorias não é inteligência, não é talento, não é tempo disponível. É apenas a decisão de agir.
+A diferença entre as duas categorias, muitas vezes, começa por uma decisão: a de agir. E, quando um projeto fracassa, Young lembra que a tendência é culpar a motivação ou a força de vontade, mas o problema costuma estar na concepção do plano.
 
 Você está aqui. Você chegou até esta aula. Agora depende só de você dar o próximo passo.
 
@@ -93,7 +93,7 @@ Agora deixa eu guiar você pelo preenchimento das seções mais críticas.
 **Protocolo para o Dia 1:**
 
 1. **Reveja o template completo** — leia cada seção e confirme que faz sentido
-2. **Faça o Metalearning** (se ainda não completou): pesquise 1-2h, mapeie os recursos, converse com alguém que já domina
+2. **Faça o Metalearning** (se ainda não completou): pesquise — pela régua de Young, cerca de 10% do tempo total do projeto (num projeto de 30 horas, umas 3 horas) —, mapeie os recursos, converse com alguém que já domina
 3. **Configure os recursos**: instale o Anki, acesse a plataforma do curso, baixe os livros, entre nos grupos relevantes
 4. **Execute a primeira atividade direta**: não espere "aprender o suficiente para começar". Comece. Mesmo que seja desconfortável, mesmo que você faça mal. O desconforto é informação.
 5. **Registre no diário**: "Hoje aprendi X. O gargalo que encontrei foi Y. Amanhã vou focar em Z."
@@ -131,9 +131,9 @@ Ajustar não é falhar. Rigidez cega é que leva ao fracasso.
 
 **Ao final dos 30 dias**, faça uma avaliação estruturada:
 
-**Teste do Objetivo Final**: você consegue fazer o que definiu como meta? Demonstre — de preferência para alguém real, não apenas para si mesmo. O "Efeito Protegiê" (ensinar ou demonstrar para outros) é o melhor teste de retenção real.
+**Teste do Objetivo Final**: você consegue fazer o que definiu como meta? Demonstre — de preferência para alguém real, não apenas para si mesmo. O efeito protégé (ensinar ou demonstrar para outros) ajuda aqui: demonstrar para outra pessoa é mais exigente do que se convencer sozinho.
 
-**Revisão dos 9 Princípios**: o que funcionou? O que não funcionou? Onde você aplicou bem e onde escorregou? Essa reflexão constrói o que **Donald Schön**, professor do MIT, chamava de "reflexão na ação" — a capacidade de aprender continuamente sobre como você aprende.
+**Revisão dos 9 Princípios**: o que funcionou? O que não funcionou? Onde você aplicou bem e onde escorregou? Essa reflexão é o que **Donald Schön**, filósofo e professor do MIT, chamava de "reflexão sobre a ação" — a que se faz depois do fato; a "reflexão na ação" acontece durante, como nas revisões de domingo. As duas constroem a capacidade de aprender continuamente sobre como você aprende.
 
 **Portfólio**: documente o que você criou, aprendeu e pode demonstrar. Isso serve ao mesmo tempo como retenção (documentar consolida) e como evidência no mundo real (portfólio para carreira, LLL visível).
 
@@ -149,11 +149,11 @@ O conhecimento sobre Ultralearning sem a aplicação é apenas entretenimento in
 
 E tem uma coisa que eu quero que você carregue deste módulo: **você não precisa ser uma pessoa diferente para fazer isso**. Você não precisa ter mais tempo, mais talento, mais dinheiro. Você precisa de um objetivo claro, um plano concreto, e a decisão de começar.
 
-Os Ultralearners que estudamos não eram especiais no ponto de partida. Eram comuns em suas áreas, como você. O que os diferenciou foi o método e a consistência.
+Os Ultralearners que estudamos tinham pontos de partida variados — alguns com formação ou vantagens prévias. O que os diferenciou foi o método e a consistência.
 
 No próximo módulo — o **Módulo 9**, o módulo final do curso — vamos falar sobre algo ainda mais profundo: como tornar o aprendizado não apenas um projeto periódico, mas uma **identidade de vida**. O Life Long Learning como filosofia, compromisso e prática permanente.
 
-Você está a uma aula do encerramento mais inspirador deste curso. Te vejo lá.
+Você está a um módulo do encerramento deste curso. Te vejo lá.
 
 ---
 
@@ -293,7 +293,7 @@ Preencha o template acima com seu projeto real. Critérios de qualidade:
 
 ## Leitura Recomendada
 
-- **YOUNG, Scott**. *Ultralearning*, Capítulo 14 — Your First Ultralearning Project. HarperBusiness, 2019.
+- **YOUNG, Scott**. *Ultralearning*, Capítulo 13 — Your First Ultralearning Project. HarperBusiness, 2019. Edição brasileira: *Ultra-aprendizado*, cap. 13 — "Seu primeiro projeto de ultra-aprendizado". HarperCollins Brasil, 2020.
 - **CLEAR, James**. *Hábitos Atômicos*. Alta Books, 2019. (Para criar os hábitos que sustentam o projeto)
 - **DUHIGG, Charles**. *O Poder do Hábito*. Objetiva, 2012. (Loops de hábito aplicados ao aprendizado)
 

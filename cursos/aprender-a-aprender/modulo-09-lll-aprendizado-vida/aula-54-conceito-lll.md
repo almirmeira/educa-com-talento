@@ -33,7 +33,7 @@
 
 Em 1970, um escritor e futurista americano chamado **Alvin Toffler** publicou um livro chamado "Future Shock" — Choque do Futuro, na tradução brasileira. Nesse livro, ele fez uma previsão que, na época, muita gente considerou exagerada.
 
-Toffler escreveu: **"O analfabeto do século XXI não é quem não sabe ler ou escrever. É quem não sabe aprender, desaprender e reaprender."**
+Toffler escreveu que ensinar os alunos a **aprender, desaprender e reaprender** acrescentaria uma nova dimensão à educação. E citou o psicólogo **Herbert Gerjuoy**: **"O analfabeto de amanhã não será quem não sabe ler; será quem não aprendeu a aprender."** A frase que circula hoje — "o analfabeto do século XXI é quem não sabe aprender, desaprender e reaprender" — é uma fusão posterior desses dois trechos.
 
 1970. Cinquenta e seis anos atrás. Antes da internet. Antes do computador pessoal. Antes do smartphone. Antes da inteligência artificial.
 
@@ -53,7 +53,7 @@ E eu vou te mostrar por que adotar essa filosofia pode ser a decisão mais impac
 
 **Life Long Learning** — literalmente, "aprendizado por toda a vida" — é um conceito que tem raízes na filosofia educacional, mas ganhou urgência prática nas últimas décadas com a aceleração tecnológica e as mudanças no mundo do trabalho.
 
-A definição mais completa vem da **Comissão Europeia de Educação**: LLL é "toda atividade de aprendizagem empreendida ao longo da vida com o objetivo de melhorar conhecimento, habilidades, competências e perspectivas dentro de uma perspectiva pessoal, cívica, social e/ou relacionada ao emprego."
+Uma definição muito usada vem da **Comissão Europeia**, em 2001: LLL é "toda atividade de aprendizagem empreendida ao longo da vida com o objetivo de melhorar conhecimentos, habilidades e competências, numa perspectiva pessoal, cívica, social e/ou relacionada ao emprego."
 
 Mas deixa eu traduzir isso para linguagem humana.
 
@@ -71,7 +71,7 @@ Mas deixa eu traduzir isso para linguagem humana.
 
 A diferença entre filosofia e técnica é fundamental. Técnicas você aplica quando lembra e abandona quando a vida fica difícil. Filosofia é quem você é — ela permanece mesmo quando a rotina desaparece.
 
-**Origem histórica do LLL**: o conceito ganhou tração institucional nos anos 1970 com a **UNESCO** e organizações internacionais, mas sua raiz filosófica é muito mais antiga. **Confúcio** dizia "Não importa quão devagar você vá, desde que você não pare." **Aristóteles** falava do aprendizado como a felicidade máxima do ser humano. **John Dewey** construiu toda uma filosofia educacional baseada na ideia de que "educação não é preparação para a vida — educação é a vida em si."
+**Origem histórica do LLL**: o conceito ganhou tração institucional nos anos 1970 com a **UNESCO** e organizações internacionais, mas sua raiz filosófica é muito mais antiga. **Aristóteles** escreveu que aprender dá prazer a todos, não só aos filósofos, e via a vida dedicada a compreender como a forma mais completa de felicidade. **John Dewey** construiu toda uma filosofia educacional baseada na ideia, escrita em 1897, de que a educação "é um processo de viver e não uma preparação para a vida futura."
 
 O que mudou hoje é a **urgência**. Nos séculos passados, o conhecimento adquirido numa juventude era suficiente para uma vida inteira de trabalho. Hoje, não é mais. E é isso que torna o LLL não apenas desejável, mas necessário.
 
@@ -91,7 +91,8 @@ Pois bem: em 2020, o pesquisador e futurista **Jamais Cascio** propôs que o VUC
 │                                                                  │
 │  B — BRITTLE (Frágil)                                            │
 │      Sistemas que parecem sólidos colapsam repentinamente        │
-│      → Empresas sólidas falindo em meses (Kodak, Blockbuster)    │
+│      → Empresas sólidas pedindo falência (Blockbuster 2010,      │
+│        Kodak 2012)                                               │
 │      → Carreiras estáveis tornando-se obsoletas em anos          │
 │                                                                  │
 │  A — ANXIOUS (Ansioso)                                           │
@@ -102,8 +103,8 @@ Pois bem: em 2020, o pesquisador e futurista **Jamais Cascio** propôs que o VUC
 │  N — NONLINEAR (Não-linear)                                      │
 │      Causas e efeitos não têm proporção previsível               │
 │      → Um vírus muda o mundo do trabalho permanentemente         │
-│      → Uma tecnologia (IA generativa) revoluciona dezenas        │
-│        de indústrias em 18 meses                                 │
+│      → Uma tecnologia (IA generativa) transforma várias          │
+│        indústrias em pouquíssimo tempo                           │
 │                                                                  │
 │  I — INCOMPREHENSIBLE (Incompreensível)                          │
 │      A quantidade de informação e a velocidade das mudanças      │
@@ -113,28 +114,27 @@ Pois bem: em 2020, o pesquisador e futurista **Jamais Cascio** propôs que o VUC
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-E aqui está o dado mais alarmante de tudo:
+E aqui entra um conceito importante:
 
-**A meia-vida do conhecimento técnico está encolhendo dramaticamente.**
+**O conhecimento também tem prazo de validade.**
 
 "Meia-vida do conhecimento" é o tempo que leva para metade do que você sabe numa área se tornar desatualizado ou obsoleto.
 
-- Em **Tecnologia da Informação**: estimativas apontam para 2,5 anos
-- Em **Medicina**: cerca de 5 anos (um médico formado em 2020 já encontra diretrizes revisadas em inúmeras áreas)
-- Em **Engenharia**: 5-7 anos
-- Em **Ciências Sociais e Humanidades**: 15-20 anos
+- Circulam números redondos por área (TI 2,5 anos, medicina 5 anos, humanidades 15 a 20 anos), mas **nenhum deles tem fonte localizável** — trate-os como intuição, não como dado
+- A medida mais sólida vem da hepatologia: **Poynard e colegas (2002)** reavaliaram 474 conclusões sobre cirrose e hepatite publicadas entre 1945 e 1999; em 2000, 60% continuavam verdadeiras, 19% estavam obsoletas e 21% eram falsas — uma meia-vida de cerca de **45 anos**
+- O ritmo varia muito de área para área; desconfie de número redondo
 
-O **Relatório "Future of Jobs" do Fórum Econômico Mundial (WEF), edição 2023**, estimou que **50% dos trabalhadores precisarão de reskilling (requalificação) significativo nos próximos 5 anos** em função da automação, da IA e das mudanças nos modelos de negócio.
+O **Relatório "Future of Jobs" do Fórum Econômico Mundial (WEF), edição 2025**, estimou que **39% das habilidades centrais devem mudar até 2030** e que, **em cada 100 trabalhadores, 59 precisarão de treinamento** até lá, em função da automação, da IA e das mudanças nos modelos de negócio.
 
 Isso não é futurismo especulativo. É 2026, e já estamos vivendo isso.
 
-A **única resposta eficaz** ao mundo BANI com meia-vida de conhecimento em queda é exatamente o Life Long Learning: a capacidade contínua de aprender, desaprender e reaprender mais rápido do que o mundo muda.
+A **resposta mais consistente** ao mundo BANI e ao envelhecimento do conhecimento é exatamente o Life Long Learning: a capacidade contínua de aprender, desaprender e reaprender mais rápido do que o mundo muda.
 
 ---
 
 ### Parte 3: Os 3 Pilares do LLL
 
-Alvin Toffler colocou três verbos na sua frase profética: **aprender, desaprender e reaprender**. Esses são os 3 pilares do LLL.
+Alvin Toffler falou em ensinar três verbos: **aprender, desaprender e reaprender**. Esses são os 3 pilares do LLL.
 
 **PILAR 1: APRENDER**
 
@@ -151,15 +151,15 @@ Exemplos de desaprendizagem necessária:
 - Um profissional de marketing precisa desaprender que "mais conteúdo = mais resultado" para aprender que relevância e precisão importam mais do que volume
 - Um líder que foi criado na cultura de "mando e controle" precisa desaprender esse estilo para liderar equipes remotas e autônomas
 
-**Carol Dweck**, psicóloga da **Universidade de Stanford**, mostrou que a principal barreira ao desaprendizado é o **ego investido** no conhecimento antigo. Quanto mais experiente uma pessoa é, mais difícil pode ser desaprender — porque o conhecimento antigo é parte da identidade profissional.
+Pesquisas sobre o **efeito Einstellung** (Bilalić, McLeod e Gobet, 2008) mostram que **a solução familiar bloqueia a melhor**: enxadristas fortes que já enxergavam uma solução conhecida, ao procurar outra mais curta, renderam como jogadores cerca de três desvios-padrão mais fracos — e seus olhos continuavam voltando às casas da solução familiar. Quanto mais experiente uma pessoa é, mais difícil pode ser desaprender — porque o conhecimento antigo é parte da identidade profissional.
 
-A mente que consegue desaprender é a que **permanece aberta** mesmo depois de anos de expertise. É o que **Shunryu Suzuki**, mestre Zen japonês, chamava de "mente de principiante": "Na mente do expert, há poucas possibilidades. Na mente do principiante, há muitas."
+A mente que consegue desaprender é a que **permanece aberta** mesmo depois de anos de expertise. É o que **Shunryu Suzuki**, mestre Zen japonês, chamava de "mente de principiante": "Na mente do principiante há muitas possibilidades; na do especialista, há poucas."
 
 **PILAR 3: REAPRENDER**
 
 Reaprender é o ciclo que fecha o loop: depois de desaprender o que estava desatualizado, você adquire o novo entendimento, a nova habilidade, o novo modelo mental.
 
-É diferente de "aprender pela primeira vez" porque você parte de uma base de experiência e prática — o que torna o reaprendizado frequentemente mais rápido e mais profundo do que o aprendizado inicial.
+É diferente de "aprender pela primeira vez" porque você parte de uma base de experiência e prática — o que torna o reaprendizado frequentemente mais rápido do que o aprendizado inicial — Ebbinghaus já mostrava que reaprender algo esquecido leva menos tempo do que aprender pela primeira vez.
 
 ---
 
@@ -170,7 +170,7 @@ Reaprender é o ciclo que fecha o loop: depois de desaprender o que estava desat
 
 ### Encerramento
 
-Alvin Toffler tinha razão. O analfabeto do século XXI é quem não sabe aprender, desaprender e reaprender.
+Alvin Toffler tinha razão. Aprender, desaprender e reaprender virou uma alfabetização básica do nosso tempo.
 
 Mas a boa notícia — a razão pela qual este curso existe — é que essa tríade não é um talento. É uma habilidade. E habilidades se desenvolvem com método, prática e mentalidade certa.
 
@@ -184,19 +184,19 @@ Nas próximas aulas, vamos explorar como o LLL se aplica na carreira, como a cur
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│         MEIA-VIDA DO CONHECIMENTO TÉCNICO — ESTIMATIVAS 2025     │
+│      MEIA-VIDA DO CONHECIMENTO — O QUE AS FONTES SUSTENTAM       │
 ├─────────────────────────────┬────────────────────────────────────┤
-│  ÁREA                       │  ESTIMATIVA DE MEIA-VIDA           │
+│  FONTE / ÁREA               │  O QUE FOI MEDIDO                  │
 ├─────────────────────────────┼────────────────────────────────────┤
-│  Tecnologia da Informação   │  ~2,5 anos                         │
-│  IA e Machine Learning      │  ~1-2 anos (aceleração recente)    │
-│  Cibersegurança             │  ~2 anos                           │
-│  Medicina clínica           │  ~5 anos                           │
-│  Engenharia                 │  ~5-7 anos                         │
-│  Marketing digital          │  ~3 anos                           │
-│  Direito (regulatório)      │  Variável — pode ser meses         │
-│  Humanidades                │  ~15-20 anos                       │
-│  Habilidades humanas        │  Décadas (empatia, liderança)      │
+│  Hepatologia                │  474 conclusões (1945–1999): em    │
+│  (Poynard et al., 2002)     │  2000, 60% verdadeiras, 19%        │
+│                             │  obsoletas, 21% falsas             │
+│                             │  → meia-vida de ~45 anos           │
+│  Práticas médicas           │  363 artigos do NEJM (2001–2010)   │
+│  (Prasad et al., 2013)      │  testaram prática estabelecida;    │
+│                             │  146 (40%) a contrariaram          │
+│  Números redondos por área  │  Sem fonte localizável — tratar    │
+│  (TI 2,5 anos, medicina 5…) │  como intuição, não como dado      │
 └─────────────────────────────┴────────────────────────────────────┘
 ```
 
@@ -230,7 +230,7 @@ Preencha a tabela abaixo com honestidade. Pode ser difícil — especialmente a 
 
 ## Quiz de Retrieval
 
-**1.** Qual é a citação de Alvin Toffler sobre o analfabetismo do século XXI, e em que ano foi escrita?
+**1.** A frase popular atribuída a Alvin Toffler sobre o "analfabeto do século XXI" é literal? De onde ela vem, e em que ano foi publicada?
 
 **2.** O que significam as letras do mundo BANI?
 
@@ -238,28 +238,28 @@ Preencha a tabela abaixo com honestidade. Pode ser difícil — especialmente a 
 
 **4.** O que é "desaprender" e por que é o pilar mais difícil?
 
-**5.** Qual a estimativa de meia-vida do conhecimento técnico em Tecnologia da Informação?
+**5.** Qual é a medida mais sólida de meia-vida do conhecimento citada na aula, e o que ela ensina sobre os números redondos por área?
 
 ---
 
 ### Gabarito
 
-**1.** "O analfabeto do século XXI não é quem não sabe ler ou escrever. É quem não sabe aprender, desaprender e reaprender." — **Alvin Toffler**, no livro *Future Shock*, publicado em **1970**.
+**1.** **Não é literal.** É uma fusão posterior de dois trechos de *Future Shock*, de **Alvin Toffler**, publicado em **1970**: Toffler diz que ensinar os alunos a aprender, desaprender e reaprender acrescentaria uma nova dimensão à educação, e cita o psicólogo **Herbert Gerjuoy** — o analfabeto de amanhã será quem não aprendeu a aprender.
 
 **2.** BANI significa: **B**rittle (Frágil) — sistemas que colapsam repentinamente; **A**nxious (Ansioso) — a velocidade das mudanças gera ansiedade generalizada; **N**onlinear (Não-linear) — causas e efeitos desproporcionais e imprevisíveis; **I**ncomprehensible (Incompreensível) — a quantidade de informação supera a capacidade humana de compreensão total.
 
 **3.** Os 3 pilares são: (1) **Aprender** — adquirir conhecimento e habilidades novas continuamente; (2) **Desaprender** — soltar crenças, práticas e modelos mentais obsoletos; (3) **Reaprender** — reconstruir entendimento atualizado sobre temas que mudaram.
 
-**4.** "Desaprender" é **soltar crenças, práticas e modelos mentais que não servem mais**. É o pilar mais difícil porque, segundo Carol Dweck (Stanford), o **ego está investido** no conhecimento antigo — especialmente em profissionais experientes, para quem o conhecimento acumulado é parte da identidade. Desaprender exige humildade intelectual e "mente de principiante" (Shunryu Suzuki).
+**4.** "Desaprender" é **soltar crenças, práticas e modelos mentais que não servem mais**. É o pilar mais difícil porque a **solução familiar bloqueia a melhor** — o efeito Einstellung (Bilalić, McLeod e Gobet, 2008): enxadristas fortes, presos à solução conhecida, renderam como jogadores bem mais fracos. Isso pesa especialmente em profissionais experientes, para quem o conhecimento acumulado é parte da identidade. Desaprender exige humildade intelectual e "mente de principiante" (Shunryu Suzuki).
 
-**5.** A estimativa de meia-vida do conhecimento técnico em **TI é de aproximadamente 2,5 anos** — o que significa que metade do que um profissional de TI sabe hoje já estará desatualizado em menos de 3 anos.
+**5.** O estudo de **Poynard e colegas (2002)** em hepatologia: de 474 conclusões publicadas entre 1945 e 1999, 60% seguiam verdadeiras em 2000 — uma meia-vida de cerca de **45 anos**. Os números redondos por área (como "TI 2,5 anos" ou "medicina 5 anos") não têm fonte localizável; o ritmo varia muito, e número redondo merece desconfiança.
 
 ---
 
 ## Leitura Recomendada
 
 - **TOFFLER, Alvin**. *Future Shock* (Choque do Futuro). Random House, 1970.
-- **World Economic Forum**. *Future of Jobs Report 2023*. (Disponível gratuitamente em weforum.org)
+- **World Economic Forum**. *The Future of Jobs Report 2025*. (Disponível gratuitamente em weforum.org)
 - **DWECK, Carol**. *Mindset: A Nova Psicologia do Sucesso*. Objetiva, 2017.
 
 ---

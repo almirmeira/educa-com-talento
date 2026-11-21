@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 6 — Mentalidade e Psicologia do Aprendizado |
-| **Aula** | 37 de 45 (04 de 06 no módulo) |
+| **Aula** | 37 de 59 (04 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário |
 | **Formato** | Videoaula com slides |
@@ -21,7 +21,7 @@
 |-------|-------|---------|
 | Abertura | 2 min | A pergunta dos 10 anos: por que algumas pessoas continuam aprendendo quando não precisam mais? |
 | Parte 1 | 4 min | Teoria da Autodeterminação: as 3 necessidades psicológicas básicas |
-| Parte 2 | 4 min | O paradoxo da recompensa: por que dinheiro e notas matam a motivação intrínseca |
+| Parte 2 | 4 min | O paradoxo da recompensa: quando dinheiro e notas podem minar a motivação intrínseca |
 | Parte 3 | 4 min | Como criar condições para motivação intrínseca no estudo |
 | Parte 4 | 3 min | LLL e motivação intrínseca: o aprendiz permanente é movido de dentro |
 | Encerramento | 3 min | Exercício prático + próxima aula |
@@ -40,13 +40,13 @@ E ao mesmo tempo, existem pessoas que terminam a faculdade e nunca mais abrem um
 
 O que diferencia essas duas populações?
 
-A resposta está no tipo de motivação que move o aprendizado. E dois pesquisadores da Universidade de Rochester — Edward Deci e Richard Ryan — passaram décadas estudando exatamente isso. O resultado é a **Teoria da Autodeterminação**, uma das mais influentes da psicologia contemporânea.
+A resposta está no tipo de motivação que move o aprendizado. E dois pesquisadores da Universidade de Rochester — Edward Deci e Richard Ryan — passaram décadas estudando exatamente isso. O resultado é a **Teoria da Autodeterminação**, de grande influência na psicologia contemporânea.
 
 ---
 
 ### Parte 1: A Teoria da Autodeterminação
 
-Deci e Ryan desenvolveram a SDT — Self-Determination Theory — ao longo de décadas, publicando centenas de estudos em diferentes culturas, faixas etárias e contextos. A teoria identifica três necessidades psicológicas básicas que, quando satisfeitas, produzem motivação intrínseca e bem-estar psicológico. Quando frustradas, produzem amotivação, ansiedade e eventual abandono da atividade.
+Deci e Ryan desenvolveram a SDT — Self-Determination Theory — ao longo de décadas, e centenas de experimentos se seguiram ao primeiro estudo de Deci, de 1971 — só sobre o efeito das recompensas, uma meta-análise de 1999 reuniu 128. A teoria identifica três necessidades psicológicas básicas que, quando satisfeitas, produzem motivação intrínseca e bem-estar psicológico. Quando frustradas, diminuem a automotivação e o bem-estar.
 
 **Necessidade 1: Autonomia**
 
@@ -73,9 +73,9 @@ Pertencimento é a experiência de conexão genuína com outras pessoas — de i
 
 ### Parte 2: O Paradoxo da Recompensa
 
-Agora chegamos a um dos experimentos mais famosos — e mais contraintuitivos — de toda a psicologia social.
+Agora chegamos a um experimento famoso — e contraintuitivo — da psicologia social.
 
-Em 1973, Mark Lepper, David Greene e Richard Nisbett da Universidade de Stanford realizaram um experimento que ficou conhecido como o estudo do "sobre-justificação".
+Em 1973, Mark Lepper, David Greene e Richard Nisbett realizaram um experimento que ficou conhecido como o estudo da "sobrejustificação" (overjustification).
 
 Eles observaram crianças em pré-escola que, durante o tempo livre, espontaneamente escolhiam desenhar com canetas especiais — claramente tinham motivação intrínseca para isso.
 
@@ -85,16 +85,16 @@ Então introduziram três condições:
 - **Grupo 2 (Recompensa surpresa)**: As crianças desenharam normalmente, sem expectativa de recompensa, e receberam o certificado de surpresa ao final.
 - **Grupo 3 (Sem recompensa)**: Desenharam normalmente, sem nenhuma recompensa.
 
-Duas semanas depois, sem nenhuma recompensa disponível, os pesquisadores observaram novamente quanto tempo cada grupo espontaneamente dedicava a desenhar durante o tempo livre.
+Uma a duas semanas depois, sem nenhuma recompensa disponível, os pesquisadores observaram novamente quanto tempo cada grupo espontaneamente dedicava a desenhar durante o tempo livre.
 
 O resultado:
 
-- **Grupo 1 (Recompensa esperada)**: Tempo de desenho voluntário **caiu para menos da metade** do nível original.
+- **Grupo 1 (Recompensa esperada)**: Tempo de desenho voluntário **caiu de forma significativa** — ficou em cerca de metade do tempo do grupo sem recompensa (≈ 8,6% × 16,7% do tempo livre).
 - **Grupo 2 e 3**: Nenhuma mudança significativa.
 
-A recompensa esperada **destruiu** a motivação intrínseca que as crianças tinham antes do experimento.
+A recompensa esperada **minou** a motivação intrínseca que as crianças tinham antes do experimento. Mas atenção: o efeito vale para recompensas concretas esperadas e é moderado; recompensas inesperadas não tiveram efeito, e o retorno verbal positivo até aumentou a motivação (Deci, Koestner & Ryan, 1999).
 
-Por que isso acontece? O mecanismo é o que Deci chamou de "sobre-justificação": quando você adiciona uma recompensa externa a uma atividade que a pessoa já faz por prazer, o cérebro recalibra a razão de fazer aquela atividade. Em vez de "faço porque gosto", passa a ser "faço pela recompensa". Quando a recompensa desaparece, o comportamento desaparece com ela.
+Por que isso acontece? Lepper e colegas chamaram o mecanismo de "sobrejustificação"; Deci e Ryan explicam o mesmo efeito pela perda de autonomia, quando a recompensa passa a ser sentida como controle. A ideia: quando você adiciona uma recompensa externa a uma atividade que a pessoa já faz por prazer, o cérebro recalibra a razão de fazer aquela atividade. Em vez de "faço porque gosto", passa a ser "faço pela recompensa". Quando a recompensa desaparece, o comportamento desaparece com ela.
 
 Implicação direta para o estudo: quando o único motor do estudo é a nota ou a aprovação, o aprendizado cessa quando a pressão da prova passa. Não há motivação residual para aprender além do mínimo necessário.
 
@@ -150,9 +150,9 @@ PERTENCIMENTO:
 
 Chegamos ao ponto central desta aula — a conexão inevitável entre motivação intrínseca e Life Long Learning.
 
-O Life Long Learning não é possível a longo prazo movido apenas por motivação extrínseca. As notas acabam. As pressões de prazo acabam. Os chefes que pressionam mudam ou saem. O diploma é emoldurado e pendurado na parede.
+O Life Long Learning dificilmente se sustenta a longo prazo movido apenas por motivação extrínseca. As notas acabam. As pressões de prazo acabam. Os chefes que pressionam mudam ou saem. O diploma é emoldurado e pendurado na parede.
 
-O único motor que sustenta o aprendizado ao longo de décadas é a motivação intrínseca — especificamente a curiosidade genuína, o prazer no processo de descoberta, e a satisfação de crescer progressivamente.
+O motor mais duradouro do aprendizado ao longo de décadas tende a ser a motivação intrínseca — especificamente a curiosidade genuína, o prazer no processo de descoberta, e a satisfação de crescer progressivamente.
 
 E aqui está uma insight libertador que Deci e Ryan documentaram: a motivação intrínseca para aprender não é um traço de personalidade fixo que alguns têm e outros não. Ela pode ser cultivada. Ela floresce quando as condições certas estão presentes. E ela murcha quando são constantemente suprimidas por controle externo, ausência de autonomia e competência não reconhecida.
 
@@ -168,13 +168,13 @@ Isso é o que separa o Life Long Learner do estudante que para de aprender assim
 
 Nessa aula você aprendeu a Teoria da Autodeterminação de Deci e Ryan — as três necessidades de Autonomia, Competência e Pertencimento — e por que satisfazê-las cria motivação intrínseca sustentável.
 
-Você viu o paradoxo da recompensa: recompensas esperadas destroem a motivação intrínseca prévia, como demonstrado no experimento de Lepper et al. de 1973.
+Você viu o paradoxo da recompensa: recompensas concretas esperadas podem minar a motivação intrínseca prévia, como demonstrado no experimento de Lepper et al. de 1973.
 
 E você tem agora estratégias concretas para cultivar motivação intrínseca no seu estudo.
 
 O exercício é identificar o que te move intrinsecamente no seu estudo atual — e como potencializar essas fontes.
 
-Na próxima aula, vamos falar sobre autoeficácia — a crença específica na sua capacidade de executar com sucesso um comportamento. É diferente de autoestima, e é um dos preditores mais poderosos de desempenho real.
+Na próxima aula, vamos falar sobre autoeficácia — a crença específica na sua capacidade de executar com sucesso um comportamento. É diferente de autoestima, e é um preditor importante de desempenho real.
 
 ---
 
@@ -246,14 +246,14 @@ d) Inteligência, Esforço e Resultado
 
 ---
 
-**3. O que o experimento de Lepper, Greene e Nisbett (1973) sobre "sobre-justificação" demonstrou?**
+**3. O que o experimento de Lepper, Greene e Nisbett (1973) sobre "sobrejustificação" demonstrou?**
 
 a) Recompensas aumentam a motivação intrínseca de forma proporcional ao valor da recompensa
 b) Crianças pré-escolares têm motivação intrínseca baixa por natureza
-c) Recompensas esperadas para atividades intrinsecamente motivadas destroem a motivação intrínseca — o tempo espontâneo dedicado à atividade caiu para menos da metade
+c) Recompensas esperadas para atividades intrinsecamente motivadas minam a motivação intrínseca — no reencontro, o grupo da recompensa esperada desenhou cerca de metade do tempo do grupo sem recompensa
 d) Recompensas surpresa são igualmente prejudiciais às recompensas esperadas
 
-**Gabarito**: c) — Recompensa esperada destruiu motivação intrínseca; surpresa não causou dano
+**Gabarito**: c) — Recompensa esperada minou a motivação intrínseca; surpresa não causou dano
 
 ---
 
@@ -268,7 +268,7 @@ d) Competência e Flow ocorrem em zonas opostas do gráfico
 
 ---
 
-**5. Por que o LLL não é sustentável movido apenas por motivação extrínseca?**
+**5. Por que o LLL dificilmente se sustenta movido apenas por motivação extrínseca?**
 
 a) Porque a motivação extrínseca é menos eficaz no curto prazo
 b) Porque as fontes de motivação extrínseca — notas, aprovação, pressão externa — são temporárias e cessam; sem motivação intrínseca, o aprendizado para quando a pressão externa desaparece
@@ -282,7 +282,7 @@ d) Porque motivação extrínseca é biologicamente incompatível com aprendizad
 ## Leitura Recomendada
 
 - **Pink, Daniel H**. *Drive: A Surpreendente Verdade Sobre o que nos Motiva*. Elsevier, 2010. (Baseado diretamente na pesquisa de Deci e Ryan, para leitura prática)
-- **Deci, Edward L.; Ryan, Richard M**. "Self-determination and intrinsic motivation in human behavior". *Psychological Review*, 2000.
+- **Ryan, Richard M.; Deci, Edward L**. "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being". *American Psychologist*, 55(1), 2000.
 - **Lepper, Mark R.; Greene, David; Nisbett, Richard E**. "Undermining children's intrinsic interest with extrinsic reward". *Journal of Personality and Social Psychology*, 1973.
 
 ---

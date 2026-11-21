@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 7 — Hábitos e Sistemas de Aprendizado |
-| **Aula** | 42 de 45 (03 de 06 no módulo) |
+| **Aula** | 42 de 59 (03 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Iniciante a Intermediário |
 | **Formato** | Videoaula com slides |
@@ -36,9 +36,9 @@ Existe um problema muito comum quando as pessoas tentam criar novos hábitos: el
 
 "Vou começar a revisar meu Anki todo dia." Ótimo. Mas quando? Antes ou depois de acordar? Antes ou depois do trabalho? A qualquer hora? Sem um gatilho específico, o comportamento fica à mercê da motivação do momento — e a motivação, como já sabemos, é um recurso volátil.
 
-BJ Fogg, professor de Standford e pesquisador de comportamento há décadas, desenvolveu um conceito que ele chama de "Tiny Habits" — e no centro desse sistema está uma ideia brilhante: use um comportamento que você já faz como o gatilho para o novo comportamento.
+BJ Fogg, fundador e diretor do Laboratório de Design de Comportamento de Stanford, desenvolveu um conceito que ele chama de "Tiny Habits" — e no centro desse sistema está uma ideia brilhante: use um comportamento que você já faz como o gatilho para o novo comportamento.
 
-James Clear chamou isso de **Habit Stacking** — empilhamento de hábitos.
+James Clear popularizou o nome **Habit Stacking** — empilhamento de hábitos —, que ele diz ter tomado de S. J. Scott; Fogg chama a técnica de ancoragem.
 
 A lógica é elegante: se você já tem centenas de hábitos automáticos rodando todos os dias (escovar os dentes, fazer café, ligar o computador, sentar no carro), por que não usar esses comportamentos já automatizados como plataforma de lançamento para os novos?
 
@@ -98,7 +98,7 @@ Aqui está um exercício rápido de mapeamento:
 
 Para cada um desses, pergunte: "Que hábito de estudo ou aprendizado poderia vir logo depois disso?"
 
-A chave é o "logo depois" — não "em algum momento da manhã depois de acordar", mas "imediatamente após [hábito âncora]". A proximidade temporal entre o âncora e o novo comportamento é o que cria a associação neural.
+A chave é o "logo depois" — não "em algum momento da manhã depois de acordar", mas "imediatamente após [hábito âncora]". A proximidade temporal entre o âncora e o novo comportamento parece ajudar a criar a associação: num estudo pequeno, o fio dental usado logo depois da escovação formou um hábito mais forte do que usado antes (Judah et al., 2013).
 
 ---
 
@@ -106,7 +106,7 @@ A chave é o "logo depois" — não "em algum momento da manhã depois de acorda
 
 O Habit Stacking pode ser usado não apenas para empilhar um hábito sobre um âncora, mas para construir uma **cadeia inteira** — onde cada hábito funciona como gatilho para o próximo.
 
-James Clear chama isso de "habit chain" (corrente de hábitos). É uma sequência de comportamentos conectados que se ativam em cascata.
+Há quem chame isso de "habit chain" (corrente de hábitos); no cap. 5, Clear fala em pilhas maiores de hábitos ligados. É uma sequência de comportamentos conectados que se ativam em cascata.
 
 Aqui está um exemplo de corrente matinal de aprendizado:
 
@@ -157,11 +157,11 @@ Calibre o tamanho do novo hábito para o espaço temporal disponível entre os d
 
 **Erro 3: Sequência não lógica**
 
-O novo hábito deve fazer sentido logístico depois do âncora. "Depois de me deitar, vou abrir o laptop para revisar matéria complexa" vai contra o ritmo circadiano e a neurologia do sono. Mais adequado: "Depois de me deitar, vou fazer uma revisão mental de 3 pontos aprendidos hoje" — algo que não exige tela e que é compatível com o estado pré-sono.
+O novo hábito deve fazer sentido logístico depois do âncora. "Depois de me deitar, vou abrir o laptop para revisar matéria complexa" atrapalha o sono: num estudo de laboratório, ler em tela iluminada à noite suprimiu a melatonina e atrasou o sono (Chang et al., 2015). Mais adequado: "Depois de me deitar, vou fazer uma revisão mental de 3 pontos aprendidos hoje" — algo que não exige tela e que é compatível com o estado pré-sono.
 
 **Erro 4: Começar com muitos empilhamentos ao mesmo tempo**
 
-Não instale 10 novos hábitos empilhados de uma vez. Comece com 1 ou 2. Deixe solidificar por 2-3 semanas. Depois adicione mais. O empilhamento é acumulativo, mas precisa de tempo para cada hábito se automatizar.
+Não instale 10 novos hábitos empilhados de uma vez. Comece com 1 ou 2. Deixe rodar por 2-3 semanas para verificar se o empilhamento acontece com regularidade. Depois adicione mais. O empilhamento é acumulativo, mas cada hábito precisa de tempo para se automatizar — bem mais do que três semanas (em Lally et al., 2010, a média foi de 66 dias).
 
 ---
 
@@ -171,7 +171,7 @@ Nessa aula você aprendeu o Habit Stacking — a técnica de usar hábitos exist
 
 O exercício é identificar 3 hábitos âncora sólidos e criar um hábito de estudo ancorado em cada um.
 
-Na próxima aula, vamos aprender a Regra dos 2 Minutos — o antídoto mais poderoso que conheço para a procrastinação no início de sessões de estudo.
+Na próxima aula, vamos aprender a Regra dos 2 Minutos — um dos antídotos mais práticos que conheço para a procrastinação no início de sessões de estudo.
 
 ---
 
@@ -274,7 +274,7 @@ d) A corrente visual de Xs no calendário de hábitos
 
 ## Leitura Recomendada
 
-- **Clear, James**. *Hábitos Atômicos*. Alta Books, 2019. (Cap. 7: O Segredo de um Bom Auto-Controle)
+- **Clear, James**. *Hábitos Atômicos*. Alta Books, 2019. (Cap. 5: A Melhor Maneira de Criar um Novo Hábito)
 - **Fogg, BJ**. *Tiny Habits: The Small Changes That Change Everything*. Houghton Mifflin Harcourt, 2019.
 - **Fogg, BJ**. Site: tinyhabits.com (recursos gratuitos sobre habit stacking e recipe cards)
 

@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 6 — Mentalidade e Psicologia do Aprendizado |
-| **Aula** | 36 de 45 (03 de 06 no módulo) |
+| **Aula** | 36 de 59 (03 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário |
 | **Formato** | Videoaula com slides |
@@ -19,7 +19,7 @@
 
 | Parte | Tempo | Conteúdo |
 |-------|-------|---------|
-| Abertura | 2 min | O Vale da Desilusão e o momento em que 80% das pessoas desiste |
+| Abertura | 2 min | O Vale da Desilusão e o momento em que muitos desistem |
 | Parte 1 | 4 min | As 4 etapas da curva de aprendizado de qualquer habilidade |
 | Parte 2 | 4 min | Por que a frustração é sinal de crescimento, não de fracasso |
 | Parte 3 | 4 min | 5 estratégias para atravessar o plateau |
@@ -38,11 +38,11 @@ Você estava avançando, avançando, e de repente... nada. Dias, às vezes seman
 
 E então a voz aparece: "Talvez eu não tenha jeito para isso. Talvez não seja para mim. Talvez eu devesse tentar outra coisa."
 
-Se você já sentiu isso, você chegou ao que os pesquisadores de aprendizado chamam de **plateau** — e, mais dramaticamente, ao que o consultor de tecnologia Gartner batizou de "Vale da Desilusão" no famoso Ciclo Hype.
+Se você já sentiu isso, você chegou ao que os pesquisadores de aprendizado chamam de **plateau** — e, mais dramaticamente, ao que James Clear, em *Hábitos Atômicos*, chama de "Vale de Desilusão" (o nome lembra o Ciclo Hype da empresa Gartner, que trata de expectativas sobre tecnologias).
 
 A notícia ruim: todo aprendiz vai passar por isso. É inevitável.
 
-A notícia boa — e isso é o que vai mudar como você se relaciona com a frustração para sempre: você chega ao plateau exatamente quando está **prestes a dar um salto de qualidade**. A frustração não é sinal de fracasso. É sinal de que você está no limite do crescimento.
+A notícia boa — e isso é o que vai mudar como você se relaciona com a frustração para sempre: muitas vezes você chega ao plateau quando está **prestes a dar um salto de qualidade**. A frustração não é sinal de fracasso. É sinal de que você está no limite do crescimento.
 
 Vamos entender isso com precisão.
 
@@ -50,7 +50,7 @@ Vamos entender isso com precisão.
 
 ### Parte 1: As 4 Etapas da Curva de Aprendizado
 
-Toda habilidade, sem exceção, passa por uma curva de aprendizado com quatro etapas. Quanto mais você entender essa curva, menos vai ser pego de surpresa quando a frustração aparecer.
+Um modelo didático útil descreve a curva de aprendizado de uma habilidade em quatro etapas — as curvas reais variam de pessoa para pessoa. Quanto mais você entender essa curva, menos vai ser pego de surpresa quando a frustração aparecer.
 
 **Etapa 1: Entusiasmo Inicial**
 
@@ -68,7 +68,7 @@ Essa é a fase de "aterrissagem" — quando a empolgação inicial cede lugar à
 
 Aqui está o vale. O progresso parece ter parado completamente. Você pratica, estuda, se esforça — e não sente melhora. Às vezes parece que está piorando.
 
-Essa é a fase de maior abandono em qualquer processo de aprendizado. Academias de ginástica sabem disso muito bem: a maioria das pessoas que se matricula em janeiro desistiu até março — exatamente quando chegam ao plateau de adaptação física.
+Essa costuma ser a fase de maior abandono. Bryan e Harter, estudando aprendizes de telegrafia em 1897, estimaram que de 60% a 75% deles desanimavam no plateau.
 
 **Etapa 4: Maestria**
 
@@ -77,7 +77,7 @@ Quem atravessa o plateau emerge numa qualidade diferente de desempenho. As conex
 ---
 
 ![A curva de aprendizado com as 4 etapas e o plateau onde a maioria desiste](../assets/diagramas/curva-aprendizado-plateau.svg)
-*Figura: A Curva de Aprendizado — as 4 etapas e o Vale da Frustração onde 80% abandona antes do salto de qualidade (Vygotsky — Zona Proximal de Desenvolvimento)*
+*Figura: A Curva de Aprendizado — as 4 etapas e o Vale da Frustração onde muitos abandonam antes do salto de qualidade (Vygotsky — Zona Proximal de Desenvolvimento)*
 
 ---
 
@@ -85,13 +85,11 @@ Quem atravessa o plateau emerge numa qualidade diferente de desempenho. As conex
 
 Aqui está o reframe mais importante desta aula — e talvez de todo o módulo.
 
-Lev Vygotsky, psicólogo russo do início do século XX, desenvolveu o conceito de **Zona Proximal de Desenvolvimento**: a região entre o que você consegue fazer sozinho e o que consegue fazer com apoio adequado. É essa zona — desconfortável, desafiante, às vezes frustrante — onde o crescimento real acontece.
+Lev Vygotsky, psicólogo russo do início do século XX, desenvolveu o conceito de **Zona Proximal de Desenvolvimento**: a distância entre o que você consegue fazer sozinho e o que consegue fazer com a orientação de alguém mais experiente. Para Vygotsky, é nessa zona, com ajuda, que o desenvolvimento avança.
 
-Quando você está frustrado num aprendizado, isso significa que você está na Zona Proximal de Desenvolvimento. Você está além do que já domina, mas ainda não chegou ao ponto de domínio do novo nível. Essa posição de "nem lá nem cá" é exatamente onde as novas conexões neurais estão sendo forjadas.
+Uma leitura possível — interpretação minha, não de Vygotsky: quando você está frustrado num aprendizado, provavelmente está nessa zona. Você está além do que já domina, mas ainda não chegou ao ponto de domínio do novo nível. É nessa posição de "nem lá nem cá" que a ajuda certa faz mais diferença.
 
-O neurocientista Andrew Huberman, da Stanford School of Medicine, descreve o mecanismo neural: quando o cérebro está em estado de confusão cognitiva — quando encontra algo que não consegue resolver facilmente com os padrões existentes — ele libera epinefrina (adrenalina) em pequenas quantidades. Essa liberação é o estado neural necessário para a neuroplasticidade. A epinefrina literalmente "abre" o cérebro para novas conexões.
-
-A frustração não é o obstáculo ao crescimento. A frustração é o sinal de que o crescimento está acontecendo no nível neural.
+A frustração não é necessariamente o obstáculo ao crescimento. Muitas vezes, é o sinal de que você está trabalhando no limite do que já sabe.
 
 O problema não é a frustração. O problema é a interpretação da frustração — especialmente para quem tem Fixed Mindset. Se você interpreta a frustração como "sinal de que não tenho jeito para isso", você vai sair da Zona Proximal de Desenvolvimento exatamente quando estava prestes a avançar.
 
@@ -124,11 +122,11 @@ Exemplo: se você está travado no inglês conversacional, o gargalo pode estar 
 
 **Estratégia 4: Reduzir Velocidade Antes de Aumentar**
 
-Contraintuitivo, mas poderoso: quando você está travado num plateau, reduzir a velocidade de execução permite que o cérebro processe e corrigir padrões com mais precisão. É o que músicos fazem ao praticar — tocam o trecho difícil em câmera lenta até que se torne fluido, para depois aumentar a velocidade gradualmente.
+Contraintuitivo, mas poderoso: quando você está travado num plateau, reduzir a velocidade de execução permite que o cérebro processe e corrigir padrões com mais precisão. É o que músicos fazem ao praticar — tocam o trecho difícil em câmera lenta até que se torne fluido, para depois aumentar a velocidade gradualmente. A literatura de prática deliberada também descreve o caminho oposto — treinar um pouco acima do ritmo confortável para expor os erros; o ponto comum é sair do piloto automático.
 
 **Estratégia 5: Descanso Estratégico**
 
-Às vezes o plateau não é falta de prática — é excesso de prática sem recuperação. A consolidação de memórias acontece durante o descanso e o sono. Um descanso de 2-3 dias pode ser o que o cérebro precisa para consolidar o que foi aprendido e criar espaço para o próximo nível.
+Às vezes o plateau não é falta de prática — é excesso de prática sem recuperação. A consolidação de memórias acontece durante o descanso e o sono. Estudos mostraram ganhos após uma noite de sono e nas pausas curtas entre blocos de prática (Walker et al., 2002; Bönstrup et al., 2019); não há estudo que fixe quantos dias de descanso são ideais.
 
 ```
 DIAGNÓSTICO DO PLATEAU
@@ -145,7 +143,7 @@ Sinto que piorei         │ Consciência aumentou;  │ Buscar feedback externo
 Tudo parece difícil      │ Gargalo em sub-         │ Identificar e praticar
 ao mesmo tempo           │ habilidade específica   │ o componente travado
 ─────────────────────────┼────────────────────────┼────────────────────────
-Parece que               │ Saturação cognitiva;   │ Descanso de 2-3 dias
+Parece que               │ Saturação cognitiva;   │ Sono e pausas curtas
 "não entra mais nada"    │ falta de consolidação  │ antes de retomar
 ```
 
@@ -153,13 +151,11 @@ Parece que               │ Saturação cognitiva;   │ Descanso de 2-3 dias
 
 ### Parte 4: A História dos Ultralearners
 
-Scott Young passou um ano aprendendo o currículo de 4 anos do MIT em Ciência da Computação — sozinho, sem ser aluno oficial, passando nos mesmos exames dos alunos regulares. Ele documentou cada semana desse processo.
+Scott Young cursou em cerca de um ano as 33 disciplinas do currículo de Ciência da Computação do MIT — sozinho, sem matrícula nem diploma, usando as provas finais públicas do MIT OpenCourseWare e corrigindo-as pelos gabaritos. Ele documentou o processo no blog.
 
-O que mais me impressionou ao ler *Ultralearning* não foram as vitórias. Foram as descrições dos platôs. Young descreve semanas inteiras em que parecia ter parado de progredir. Períodos de frustração genuína. Momentos de dúvida sobre se a abordagem estava funcionando.
+O que mais me interessa no livro dele, *Ultra-aprendizado*, é um conselho prático para os momentos de travamento: não desistir facilmente de problemas difíceis — quando der vontade de largar, programe mais dez minutos de esforço. Mesmo que você não resolva, vai se lembrar melhor do caminho.
 
-E então vinha o salto. Um insight repentino. Uma conexão que se formava. Um nível de compreensão que de repente tornava tudo mais claro.
-
-Josh Waitzkin, campeão mundial de xadrez e depois de Tai Chi Chuan (um dos poucos que alcançou elite em duas disciplinas completamente diferentes), escreve em *The Art of Learning* sobre como o plateau é onde os melhores aprendizes se separam dos medianos: não porque sejam mais talentosos, mas porque são mais capazes de permanecer no desconforto do plateau sem desistir.
+Josh Waitzkin, campeão juvenil de xadrez dos EUA, mestre internacional e depois campeão mundial de Tai Chi Push Hands, defende em *The Art of Learning* "investir na perda" — expressão de seu professor William C. C. Chen: aceitar perder e errar para aprender. No espírito do livro, quem atravessa o plateau não é necessariamente o mais talentoso, mas quem consegue permanecer no desconforto sem desistir.
 
 Todo aprendiz permanente — todo praticante de **Life Long Learning** que cresce ao longo de décadas — conhece o plateau intimamente. Não é um obstáculo que um dia vai desaparecer. É uma visita recorrente em cada nova habilidade, em cada novo nível de uma habilidade existente.
 
@@ -233,25 +229,25 @@ d) A sensação de que uma matéria é muito difícil no primeiro contato
 
 ---
 
-**2. O que o neurocientista Andrew Huberman descreve como mecanismo neural da frustração no aprendizado?**
+**2. Segundo a estimativa de Bryan e Harter (1897), quantos aprendizes de telegrafia desanimavam no plateau?**
 
-a) Frustração ativa o sistema de fuga, impedindo o aprendizado
-b) Frustração libera cortisol que prejudica a memória de longo prazo
-c) Confusão cognitiva libera epinefrina que "abre" o cérebro para neuroplasticidade — a frustração é o estado neural do crescimento
-d) Frustração desativa o hipocampo temporariamente
+a) Cerca de 10%
+b) Cerca de um quarto
+c) Entre 60% e 75%
+d) Praticamente todos
 
-**Gabarito**: c) — Confusão cognitiva → epinefrina → neuroplasticidade
+**Gabarito**: c) — Estimativa de época, colhida em escolas e entre operadores de telegrafia
 
 ---
 
 **3. O que é a Zona Proximal de Desenvolvimento de Vygotsky e como se relaciona com o plateau?**
 
 a) A zona de conteúdo já dominado onde o desempenho é mais fluente
-b) O espaço entre o que você faz sozinho e o que faz com apoio — onde o crescimento real acontece; o plateau situa-se nessa zona
+b) O espaço entre o que você faz sozinho e o que faz com a orientação de alguém mais experiente — e o plateau pode ser lido como estar nessa zona
 c) A distância entre iniciante e expert numa habilidade
 d) O nível de desafio que cria flow, segundo Csikszentmihalyi
 
-**Gabarito**: b) — Zona Proximal = espaço do crescimento real; plateau acontece exatamente nessa zona
+**Gabarito**: b) — Zona Proximal = espaço entre o que você faz sozinho e com ajuda; uma leitura possível é que o plateau acontece nessa zona
 
 ---
 
@@ -266,7 +262,7 @@ d) Porque menos velocidade significa menos erros
 
 ---
 
-**5. O que separa quem atravessa o plateau de quem desiste, segundo Josh Waitzkin em "The Art of Learning"?**
+**5. O que separa quem atravessa o plateau de quem desiste, na leitura desta aula sobre "The Art of Learning", de Josh Waitzkin?**
 
 a) Nível de talento inato superior
 b) Acesso a professores melhores
@@ -279,9 +275,9 @@ d) Horas totais de prática
 
 ## Leitura Recomendada
 
-- **Young, Scott**. *Ultralearning: Aprenda Habilidades Radicais e Mude Sua Carreira*. Alta Books, 2019. (Cap. 8: Retenção)
+- **Young, Scott H**. *Ultra-aprendizado: domine habilidades valiosas, seja mais esperto que a competição e dê um impulso na sua carreira*. HarperCollins Brasil, 2020. (Princípio 4: Repetição)
 - **Waitzkin, Josh**. *The Art of Learning*. Free Press, 2007.
-- **Ericsson, Anders; Pool, Robert**. *Peak: Secrets from the New Science of Expertise*. Mariner Books, 2016.
+- **Ericsson, Anders; Pool, Robert**. *Peak: Secrets from the New Science of Expertise*. Houghton Mifflin Harcourt, 2016.
 
 ---
 

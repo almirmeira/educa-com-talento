@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 7 — Hábitos e Sistemas de Aprendizado |
-| **Aula** | 41 de 45 (02 de 06 no módulo) |
+| **Aula** | 41 de 59 (02 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário |
 | **Formato** | Videoaula com slides |
@@ -39,19 +39,21 @@ Todo começo de ano, toda virada de semestre, todo reinício depois das férias,
 "Vou ler 20 livros."
 "Vou melhorar minha escrita."
 
-E então, três semanas depois, 80% dessas metas estão esquecidas. Não porque as pessoas são fracas ou preguiçosas. Mas porque o problema com metas é estrutural — elas foram desenhadas para falhar.
+E então, semanas depois, muitas dessas metas já foram esquecidas. Acontece muito, mas não é regra: num estudo sueco (Oscarsson et al., 2020), 55% dos participantes ainda mantinham a resolução um ano depois. Quando a meta morre, não é porque as pessoas são fracas ou preguiçosas — é porque uma meta sozinha, sem um sistema que a sustente, costuma não se manter.
 
-James Clear chegou a essa conclusão de forma muito direta:
+James Clear resume a ideia assim, no cap. 1 de *Hábitos Atômicos* (em tradução livre):
 
 *"Você não sobe ao nível das suas metas. Você cai ao nível dos seus sistemas."*
 
-Esta é uma das frases mais citadas do mundo dos negócios, da produtividade e da educação nos últimos anos. E ela aponta para uma inversão fundamental de perspectiva.
+Essa frase aponta para uma inversão fundamental de perspectiva.
 
-Hoje vou te mostrar por que metas falham estruturalmente — e como sistemas resolvem cada um desses problemas.
+Metas não são inúteis: metas específicas e difíceis melhoram o desempenho (Locke & Latham, 2002), e o próprio Clear diz que elas servem para dar a direção. O problema é depender só delas. Hoje vou te mostrar por que metas sozinhas costumam falhar — e como sistemas resolvem cada um desses problemas.
 
 ---
 
 ### Parte 1: Os 4 Problemas das Metas
+
+A lista a seguir se inspira nos quatro problemas que Clear aponta no cap. 1 de *Hábitos Atômicos*, adaptada ao estudo.
 
 **Problema 1: Metas são temporárias; sistemas são permanentes**
 
@@ -91,7 +93,7 @@ Temporária (tem endpoint)   │ Permanente (parte da rotina)
 Felicidade adiada           │ Satisfação no processo diário
 Pressão binária (tudo/nada) │ Gradual, tolerante a variação
 Divorciada do processo      │ É o processo
-Depende de motivação        │ Automático, independe de motivação
+Depende de motivação        │ Tende ao automático com a repetição
 ```
 
 ---
@@ -114,15 +116,15 @@ MANHÃ (15 min):
 └── Gatilho: após o café da manhã
 
 TRAJETO (30 min ida + volta):
-├── Podcast em inglês (The Daily, 99% Invisible, Huberman)
+├── Podcast em inglês (notícias, ciência, entrevistas)
 └── Gatilho: fone no ouvido + entrar no carro/ônibus
 
 NOITE (30 min):
-├── Série ou filme sem legenda em português (Netflix, Prime)
+├── Série ou filme sem legenda em português
 └── Gatilho: após o jantar, na TV
 
 SEMANA (2x):
-├── Speaking practice: app Tandem ou HelloTalk com nativo
+├── Speaking practice: app de troca de idiomas com nativo
 └── Gatilho: quarta e sábado, às 19h
 
 TOTAL: ~90 min/dia, sem bloco de estudo "especial"
@@ -138,7 +140,7 @@ Outro exemplo — para quem precisa estudar para uma prova ou certificação:
 SISTEMA DE ESTUDOS PARA PROVA
 ═══════════════════════════════
 
-BLOCO DIÁRIO (90 min, 6h-7h30):
+BLOCO DIÁRIO (cerca de 90 min, 6h-7h30):
 ├── 25 min: leitura ativa do material novo (capítulo marcado)
 ├── 5 min: pausa
 ├── 25 min: retrieval practice (problemas/exercícios)
@@ -325,8 +327,8 @@ d) Simplificar o sistema ao mínimo possível antes de qualquer ajuste
 ## Leitura Recomendada
 
 - **Clear, James**. *Hábitos Atômicos*. Alta Books, 2019. (Cap. 1: The Surprising Power of Atomic Habits)
-- **Adams, Scott**. *How to Fail at Almost Everything and Still Win Big*. Portfolio, 2013. (Adams foi quem popularizou a ideia de sistemas vs. metas)
-- **Newport, Cal**. *Deep Work*. Alta Books, 2016. (Para sistemas de Deep Work)
+- **Adams, Scott**. *How to Fail at Almost Everything and Still Win Big*. Portfolio, 2013. (Clear credita a Adams a distinção entre sistemas e metas)
+- **Newport, Cal**. *Trabalho Focado: Como Ter Sucesso em um Mundo Distraído*. Alta Books, 2018 (orig. *Deep Work*, Grand Central, 2016). (Para sistemas de Deep Work)
 
 ---
 

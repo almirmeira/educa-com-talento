@@ -31,19 +31,19 @@
 
 ### Abertura
 
-**Richard Feynman** era um físico americano que ganhou o Nobel de Física em 1965 por seu trabalho em eletrodinâmica quântica. Mas além do brilhantismo científico, Feynman era famoso por uma habilidade extraordinária: ele conseguia explicar qualquer conceito físico — dos mais simples aos mais complexos — de formas que qualquer leigo conseguia entender.
+**Richard Feynman** era um físico americano que ganhou o Nobel de Física em 1965 por seu trabalho em eletrodinâmica quântica. Mas além do brilhantismo científico, Feynman era famoso por uma habilidade extraordinária: ele conseguia explicar conceitos físicos — inclusive muito complexos — de formas acessíveis a quem estava começando.
 
-Certa vez, alguém pediu para ele explicar por que partículas de spin 1/2 obedecem à estatística de Fermi-Dirac — um conceito profundamente técnico da física quântica.
+Certa vez, seu colega no Caltech, David Goodstein, pediu para ele explicar por que partículas de spin 1/2 obedecem à estatística de Fermi-Dirac — um conceito profundamente técnico da física quântica.
 
-Feynman foi para o quadro e ficou um tempo pensando. Depois disse: "Eu vou preparar uma aula de introdução sobre isso."
+Feynman foi para o quadro e ficou um tempo pensando. Depois disse: "Eu vou preparar uma aula para calouros sobre isso."
 
-Alguns dias depois, ele voltou e disse: "Sabe, eu não consegui. Se eu não consigo explicar isso de forma simples, é porque eu mesmo não entendi suficientemente bem ainda."
+Alguns dias depois, ele voltou e disse: "Sabe, não consegui reduzir isso ao nível dos calouros. Isso significa que nós realmente não entendemos." Nós — a física, não só ele.
 
 Essa história captura o coração do Princípio 8 do Ultralearning: **Intuição**.
 
 Intuição, no contexto do Ultralearning, não é um talento misterioso que você tem ou não tem. É o resultado de uma compreensão profunda — tão profunda que o conhecimento se torna como um instinto, uma ferramenta que você usa com fluidez sem precisar pensar nos detalhes.
 
-E a Técnica Feynman é o caminho mais poderoso para construí-la.
+E a Técnica Feynman é um caminho poderoso para construí-la.
 
 ---
 
@@ -55,49 +55,47 @@ Na maioria dos aprendizados convencionais, há dois tipos de estudantes:
 
 **O estudante profundo** entende o **porquê** por trás do quê. Entende como o conceito se conecta a outros conceitos. Consegue derivar a resposta a partir dos princípios, mesmo que não lembre a fórmula específica. Quando surge um problema novo, ele sente qual abordagem tende a funcionar — isso é intuição.
 
-Scott Young identifica **4 regras para construir intuição** no Ultralearning:
+Scott Young identifica **4 regras para construir intuição** no Ultralearning (com os nomes da edição brasileira):
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │        4 REGRAS PARA CONSTRUIR INTUIÇÃO — Scott Young            │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
-│  REGRA 1: Nunca avance sem entender                              │
-│  → Se você não entendeu, não pule para o próximo tópico          │
-│  → O desconforto de ficar preso num conceito é um sinal:         │
-│    é aqui que o aprendizado real acontece                        │
-│                                                                  │
-│  REGRA 2: Resolva problemas sem olhar a solução                  │
-│  → O esforço de tentar resolver — mesmo errando — cria           │
-│    conexões neurais mais profundas do que ler a resposta         │
+│  REGRA 1: Não desista facilmente de problemas difíceis           │
+│  → Ao travar, dê mais um tempo de esforço antes de olhar a       │
+│    solução (Young sugere um timer de mais dez minutos)           │
 │  → O desconforto produtivo é o preço da intuição                 │
 │                                                                  │
-│  REGRA 3: Construa exemplos concretos para abstrações            │
-│  → Para cada conceito abstrato, crie pelo menos 3 exemplos       │
-│    concretos do mundo real                                       │
-│  → "A teoria sem exemplos é como um mapa sem território"         │
+│  REGRA 2: Prove para entender                                    │
+│  → Não aceite um resultado só porque foi dado: tente             │
+│    reconstruí-lo e demonstrá-lo por conta própria                │
 │                                                                  │
-│  REGRA 4: Não permita confusão acumulada                         │
-│  → A confusão não resolvida hoje se transforma em lacuna         │
-│    de conhecimento amanhã                                        │
-│  → Marque o que não entendeu e resolva ativamente               │
+│  REGRA 3: Sempre comece com um exemplo concreto                  │
+│  → Para cada conceito abstrato, crie exemplos concretos do       │
+│    mundo real (meta deste curso: pelo menos 3)                   │
+│                                                                  │
+│  REGRA 4: Não se engane                                          │
+│  → Desconfie da sensação de que entendeu; faça as perguntas      │
+│    "idiotas" que revelam lacunas                                 │
+│  → Marque o que não entendeu e resolva ativamente                │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
 **A distinção entre conhecimento superficial e profundo** fica evidente quando você tenta explicar algo para outra pessoa. Se você consegue explicar de forma simples, você entendeu. Se começa a usar jargão como muleta ou fica confuso quando fazem perguntas básicas, você tem conhecimento superficial.
 
-No LLL de longo prazo, a intuição é o tesouro. Você pode esquecer detalhes — a data exata, a fórmula específica — mas a compreensão profunda permanece. É o que **John Dewey**, filósofo da educação da **Universidade de Columbia**, chamava de "educação para a vida" — conhecimento que persiste e se aplica porque foi verdadeiramente compreendido.
+No LLL de longo prazo, a intuição é o tesouro. Você pode esquecer detalhes — a data exata, a fórmula específica — mas a compreensão profunda tende a permanecer. Um estudo de **Conway, Cohen e Stanhope (1991)** com 373 ex-alunos de um curso de psicologia cognitiva mostrou isso: nomes próprios caíram mais rápido que conceitos, e, depois dos primeiros três anos, o que restava ficou estável.
 
 ---
 
 ### Parte 2: A Técnica Feynman no Ultralearning
 
-A **Técnica Feynman** (que você já viu em outros módulos, mas agora integrada ao Ultralearning) é um protocolo de 4 passos para construir intuição em qualquer assunto:
+A **Técnica Feynman** (que você já viu em outros módulos, mas agora integrada ao Ultralearning) é um protocolo para construir intuição em qualquer assunto. O nome foi dado por Scott Young, que admite não saber se Feynman usou esse método exato; no livro ele tem 3 passos. Aqui usamos a versão popular de 4 passos:
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │              A TÉCNICA FEYNMAN — 4 PASSOS                        │
-│                   Richard Feynman, Nobel 1965                    │
+│        inspirada em Richard Feynman (nome dado por Young)        │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
 │  PASSO 1: Escolha um conceito                                    │
@@ -139,9 +137,11 @@ Chegamos ao último dos 9 princípios — e ao mais avançado: **Experimentaçã
 
 Scott Young define assim: enquanto os outros 8 princípios falam sobre como **dominar** o que já existe em uma área, a Experimentação é sobre **ir além** — explorar, adaptar e criar seus próprios métodos e abordagens.
 
+A ideia de Young mais próxima das três fases abaixo é a tática "copie, depois crie"; a divisão em fases é uma organização deste curso.
+
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│           A JORNADA DA EXPERIMENTAÇÃO                            │
+│           A JORNADA DA EXPERIMENTAÇÃO (organização do curso)     │
 │                                                                  │
 │   Fase 1: COPIAR O MESTRE                                        │
 │   → Aprenda os métodos estabelecidos dos experts                 │
@@ -173,7 +173,7 @@ Isso serve a dois propósitos:
 
 2. **Engajamento**: a Experimentação mantém o interesse vivo. Quando você está testando uma hipótese própria, há um elemento de curiosidade genuína que alimenta o engajamento.
 
-**3 tipos de experimentos para fazer no seu projeto:**
+**3 tipos de experimentos para fazer no seu projeto** (Young fala em recursos, técnicas — o que aprender a seguir — e estilos; aqui adaptamos):
 
 **Variações de recursos**: teste 2-3 recursos diferentes para o mesmo tópico — um livro, um vídeo, um podcast — e avalie qual estilo de apresentação produz melhor compreensão para você.
 
@@ -251,17 +251,17 @@ Crie **1 experimento** para o seu projeto — algo que nenhum tutorial ou livro 
 
 **2.** Os 4 passos da Técnica Feynman: (1) Escolha um conceito e escreva o nome; (2) Explique como se ensinasse a uma criança de 12 anos, sem jargão; (3) Identifique onde travou — essas são as lacunas de compreensão; (4) Volte à fonte, preencha as lacunas e reescreva com analogias.
 
-**3.** As 4 regras: (1) Nunca avance sem entender; (2) Resolva problemas sem olhar a solução; (3) Construa exemplos concretos para abstrações; (4) Não permita confusão acumulada.
+**3.** As 4 regras: (1) Não desista facilmente de problemas difíceis; (2) Prove para entender; (3) Sempre comece com um exemplo concreto; (4) Não se engane.
 
 **4.** Os 8 princípios anteriores falam sobre como **dominar** o que já existe em uma área. A Experimentação é sobre **ir além** — explorar, criar e testar seus próprios métodos, abordagens e aplicações, indo da imitação para a adaptação e depois para a criação original.
 
-**5.** As 3 fases são: (1) **Copiar o mestre** — aprender os métodos estabelecidos e imitar experts; (2) **Adaptar e misturar** — combinar abordagens de diferentes fontes e questionar os métodos convencionais; (3) **Criar o próprio estilo** — desenvolver abordagens originais e contribuir com a área.
+**5.** As 3 fases (organização do curso, inspirada na tática "copie, depois crie" de Young) são: (1) **Copiar o mestre** — aprender os métodos estabelecidos e imitar experts; (2) **Adaptar e misturar** — combinar abordagens de diferentes fontes e questionar os métodos convencionais; (3) **Criar o próprio estilo** — desenvolver abordagens originais e contribuir com a área.
 
 ---
 
 ## Leitura Recomendada
 
-- **YOUNG, Scott**. *Ultralearning*, Capítulo 12 (Intuition) e Capítulo 13 (Experimentation). HarperBusiness, 2019.
+- **YOUNG, Scott**. *Ultralearning*, Capítulo 11 (Intuition) e Capítulo 12 (Experimentation). HarperBusiness, 2019. Edição brasileira: *Ultra-aprendizado*. HarperCollins Brasil, 2020.
 - **GLEICK, James**. *Genius: The Life and Science of Richard Feynman*. Pantheon Books, 1992.
 - **FEYNMAN, Richard**. *Surely You're Joking, Mr. Feynman!*. W. W. Norton, 1985. (Para entender como Feynman pensava sobre aprendizado)
 

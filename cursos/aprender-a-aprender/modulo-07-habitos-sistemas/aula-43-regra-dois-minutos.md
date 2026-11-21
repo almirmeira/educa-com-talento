@@ -7,11 +7,11 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 7 — Hábitos e Sistemas de Aprendizado |
-| **Aula** | 43 de 45 (04 de 06 no módulo) |
+| **Aula** | 43 de 59 (04 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Iniciante |
 | **Formato** | Videoaula com slides |
-| **Objetivos** | Compreender a Regra dos 2 Minutos de James Clear; entender a lei da inércia aplicada ao comportamento humano; usar o início mínimo para superar a procrastinação; escalar gradualmente hábitos após a instalação |
+| **Objetivos** | Compreender a Regra dos 2 Minutos de James Clear; usar a inércia como metáfora do comportamento humano; usar o início mínimo para superar a procrastinação; escalar gradualmente hábitos após a instalação |
 
 ---
 
@@ -21,7 +21,7 @@
 |-------|-------|---------|
 | Abertura | 2 min | O maior inimigo do estudo não é a falta de tempo — é a resistência de começar |
 | Parte 1 | 4 min | A Regra dos 2 Minutos: começar pequeno para instalar o hábito |
-| Parte 2 | 4 min | A lei da inércia aplicada ao comportamento humano |
+| Parte 2 | 4 min | A inércia como metáfora do comportamento humano |
 | Parte 3 | 4 min | Como escalar: do início mínimo à sessão completa |
 | Parte 4 | 3 min | Aplicações práticas: transformando hábitos em versões de 2 minutos |
 | Encerramento | 3 min | Exercício prático + próxima aula |
@@ -38,7 +38,7 @@ Se você for honesto, eu apostaria alto que é a segunda. Você sabe que precisa
 
 Você fica reorganizando o ambiente, bebendo mais um copo de água, respondendo "só mais essa" mensagem, assistindo "só mais um" vídeo. E de repente são 23h e você vai dormir sem ter estudado nada.
 
-Isso não é preguiça. É a lei da inércia aplicada ao comportamento humano. E James Clear tem uma solução elegantíssima para ela: **a Regra dos 2 Minutos**.
+Isso não é simples preguiça. A pesquisa descreve a procrastinação como uma falha de autorregulação: adiamos a tarefa que parece desagradável para aliviar o mal-estar do momento (Steel, 2007; Sirois & Pychyl, 2013). E James Clear tem uma solução elegantíssima para ela: **a Regra dos 2 Minutos**.
 
 ---
 
@@ -46,7 +46,7 @@ Isso não é preguiça. É a lei da inércia aplicada ao comportamento humano. E
 
 James Clear formula a regra de forma simples e direta:
 
-*"Quando você começa um novo hábito, ele deve levar menos de 2 minutos para fazer."*
+*"Quando você inicia um hábito, ele deve levar menos de dois minutos para ser executado."*
 
 A ideia é transformar cada hábito na sua versão mínima possível — tão pequena que a resistência de começar desaparece quase completamente.
 
@@ -69,7 +69,7 @@ A REGRA DOS 2 MINUTOS
 HÁBITO DESEJADO              │ VERSÃO DE 2 MINUTOS
 ─────────────────────────────┼──────────────────────────────
 "Estudar 2h por dia"         │ "Abrir o material de estudo"
-"Aprender inglês fluente"    │ "Ouvir 1 podcast em inglês"
+"Aprender inglês fluente"    │ "Dar o play num podcast em inglês"
 "Ler 20 livros por ano"      │ "Ler 1 página do livro atual"
 "Meditar todos os dias"      │ "Sentar e fechar os olhos"
 "Exercitar antes de estudar" │ "Calçar o tênis de corrida"
@@ -81,15 +81,15 @@ HÁBITO DESEJADO              │ VERSÃO DE 2 MINUTOS
 
 ### Parte 2: A Lei da Inércia Aplicada ao Comportamento
 
-Isaac Newton formulou a lei da inércia para objetos físicos: "Um objeto em repouso tende a permanecer em repouso; um objeto em movimento tende a permanecer em movimento."
+Isaac Newton formulou a lei da inércia para objetos físicos: um objeto em repouso tende a permanecer em repouso; um objeto em movimento tende a permanecer em movimento.
 
-Esse princípio se aplica, de forma surpreendentemente precisa, ao comportamento humano.
+Esse princípio serve como metáfora — não é uma lei psicológica — para o comportamento humano.
 
-Um estudante que está em repouso (não estudando) tende a permanecer em repouso. A resistência para começar é real, mensurável e neurobiológica — envolve a ativação do córtex pré-frontal para sobrepor a inércia dos padrões existentes.
+Um estudante que está em repouso (não estudando) tende a permanecer em repouso. A resistência para começar é real — e costuma ser maior quanto mais desagradável a tarefa parece.
 
 Mas um estudante em movimento (já lendo a primeira página, já com o Anki aberto, já com o caderno na frente) tende a permanecer em movimento. Depois de superar a resistência inicial de começar, o fluxo cognitivo muitas vezes se instala naturalmente.
 
-Isso explica um fenômeno que você provavelmente já experimentou: você resistiu por 40 minutos antes de começar a estudar, mas depois de começar, ficou 2 horas sem querer parar.
+Isso ajuda a entender um fenômeno que você provavelmente já experimentou: você resistiu muito tempo antes de começar a estudar, mas depois de começar, ficou horas sem querer parar. A evidência mais próxima disso é a tendência de retomar tarefas interrompidas (efeito Ovsiankina), confirmada em meta-análise (Ghibellini & Meier, 2025).
 
 O problema não era o estudo. Era o começo.
 
@@ -118,7 +118,7 @@ Mas espera — se o hábito é sempre de 2 minutos, como você vai de "ler uma p
 
 Essa é a pergunta certa. E a resposta é: a Regra dos 2 Minutos é para a **fase de instalação** do hábito, não para toda a vida.
 
-O processo tem três fases:
+Uma sugestão prática do curso tem três fases (Clear não fixa semanas: ele propõe dominar cada degrau antes de subir):
 
 **Fase 1 — Instalação (semanas 1-4)**
 Execute apenas a versão de 2 minutos. Todos os dias. Sem exceção. O objetivo é criar o gatilho-rotina-recompensa automático. Você está instalando o loop, não ainda obtendo o resultado final.
@@ -133,20 +133,20 @@ Uma vez que a versão mínima está acontecendo automaticamente sem resistência
 "Abrir o caderno + estudar por 20 minutos" (semana 7)
 
 **Fase 3 — Maturidade (mês 3 em diante)**
-O hábito está consolidado. A versão de 2 minutos agora é só o ritual de início — você automaticamente continua por mais tempo porque o loop está estabelecido e a identidade está instalada.
+O hábito tende a estar bem encaminhado — mas o tempo de automatização varia muito (de 18 a 254 dias em Lally et al., 2010). A versão de 2 minutos agora é só o ritual de início — você automaticamente continua por mais tempo porque o loop está estabelecido e a identidade está instalada.
 
 ```
 ESCALADA DO HÁBITO DE 2 MINUTOS
 ═════════════════════════════════
 
 Semana 1-2:  "Abrir o Anki" (30 seg) ─────────────── Resistência quase zero
-Semana 3-4:  + "Fazer 5 cards" (2 min) ──────────── Hábito se automatiza
+Semana 3-4:  + "Fazer 5 cards" (2 min) ──────────── Hábito ganha ritmo
 Semana 5-6:  + "Fazer 15 cards" (7 min) ─────────── Expansão gradual
 Semana 7-8:  + "Fazer 30 cards" (15 min) ────────── Hábito maduro
-Semana 9+:   "Sessão completa de Anki" (15-20 min)   LLL instalado
+Semana 9+:   "Sessão completa de Anki" (15-20 min)
 
   ● Nunca salte da versão de 2 min para a versão final diretamente
-  ● Expansão gradual respeita a neuroplasticidade do loop de hábito
+  ● Expansão gradual: domine cada degrau antes de subir
   ● O ritual de início (2 min) permanece mesmo na versão madura
 ```
 
@@ -162,9 +162,9 @@ Em dias normais, você executa o sistema completo. Em dias difíceis, você exec
 
 Cinco cards é melhor do que zero. E mais importante: cinco cards mantém a identidade de "sou alguém que estuda todos os dias", que é o que sustenta o comportamento a longo prazo.
 
-James Clear usa uma máxima: "Nunca pule dois dias seguidos." A Regra dos 2 Minutos é o mecanismo prático para cumprir essa máxima — porque sempre é possível fazer 2 minutos, mesmo no pior dos dias.
+James Clear usa uma máxima: "nunca quebre um hábito duas vezes" (cap. 16) — ou seja, nunca pule dois dias seguidos. A Regra dos 2 Minutos é o mecanismo prático para cumprir essa máxima — porque sempre é possível fazer 2 minutos, mesmo no pior dos dias.
 
-Para o **Life Long Learner**, a Regra dos 2 Minutos é especialmente valiosa em transições de vida: mudança de emprego, nascimento de filhos, períodos de alto stress. São exatamente esses momentos em que a maioria das pessoas "abandona" hábitos de aprendizado — e que nunca retomam depois.
+Para o **Life Long Learner**, a Regra dos 2 Minutos é especialmente valiosa em transições de vida: mudança de emprego, nascimento de filhos, períodos de alto stress. São exatamente esses momentos em que muitas pessoas "abandonam" hábitos de aprendizado — e que nunca retomam depois.
 
 Com a versão mínima de 2 minutos, você atravessa os períodos difíceis com o hábito intacto. E quando a tempestade passa, a retomada é natural — porque você nunca parou de verdade.
 
@@ -172,11 +172,11 @@ Com a versão mínima de 2 minutos, você atravessa os períodos difíceis com o
 
 ### Encerramento
 
-Nessa aula você aprendeu a Regra dos 2 Minutos de James Clear — transformar qualquer hábito na sua versão mínima para eliminar a resistência de começar — e entendeu a lei da inércia como explicação neurobiológica da procrastinação.
+Nessa aula você aprendeu a Regra dos 2 Minutos de James Clear — transformar qualquer hábito na sua versão mínima para eliminar a resistência de começar — e usou a inércia como metáfora para a resistência de começar.
 
 O exercício é transformar 3 hábitos de estudo desejados em versões de 2 minutos e praticá-los por 7 dias consecutivos.
 
-Na próxima aula, vamos falar sobre um dos temas mais contraintuitivos do aprendizado: por que a consistência sempre supera a intensidade — e por que estudar 20 minutos por dia é melhor do que 3 horas uma vez por semana.
+Na próxima aula, vamos falar sobre um dos temas mais contraintuitivos do aprendizado: por que a consistência costuma superar a intensidade — e por que estudar 20 minutos por dia tende a render mais do que 3 horas uma vez por semana.
 
 ---
 
@@ -255,7 +255,7 @@ d) O hábito se automatiza sozinho para a duração ideal sem intervenção
 
 ---
 
-**4. Como a lei da inércia de Newton se aplica ao comportamento de estudo?**
+**4. Como a lei da inércia de Newton serve de metáfora para o comportamento de estudo?**
 
 a) O estudo exige energia constante, como um objeto que precisa de força continua para se mover
 b) Um estudante em repouso tende a permanecer em repouso (alta resistência de início); um em movimento tende a continuar (a inércia do estudo se mantém uma vez iniciado)

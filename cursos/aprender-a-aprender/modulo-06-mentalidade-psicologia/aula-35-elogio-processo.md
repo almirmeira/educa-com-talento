@@ -7,11 +7,11 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 6 — Mentalidade e Psicologia do Aprendizado |
-| **Aula** | 35 de 45 (02 de 06 no módulo) |
+| **Aula** | 35 de 59 (02 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário |
 | **Formato** | Videoaula com slides |
-| **Objetivos** | Compreender por que elogiar inteligência cria Fixed Mindset; aprender a dar feedback processual, específico e acionável; aplicar o "ainda não" como ferramenta de Growth Mindset; criar um sistema de autoavaliação baseado em processo |
+| **Objetivos** | Compreender por que elogiar inteligência pode favorecer o Fixed Mindset; aprender a dar feedback processual, específico e acionável; aplicar o "ainda não" como ferramenta de Growth Mindset; criar um sistema de autoavaliação baseado em processo |
 
 ---
 
@@ -22,7 +22,7 @@
 | Abertura | 2 min | A descoberta mais contraintuitiva de Dweck: elogios fazem mal |
 | Parte 1 | 4 min | O experimento com crianças e os dois tipos de elogio |
 | Parte 2 | 4 min | Como o elogio de inteligência cria Fixed Mindset em adultos |
-| Parte 3 | 4 min | "Ainda não": as duas palavras mais poderosas na educação |
+| Parte 3 | 4 min | "Ainda não": duas palavras poderosas na educação |
 | Parte 4 | 3 min | Feedback de qualidade: específico, processual, acionável |
 | Encerramento | 3 min | Exercício prático + próxima aula |
 
@@ -38,32 +38,32 @@ E provavelmente você também.
 
 Vou te fazer uma pergunta: ao longo da sua vida, quais elogios você recebeu com mais frequência sobre o seu desempenho acadêmico? "Você é muito inteligente"? "Você tem muita facilidade"? "Você é muito talentoso"?
 
-Esses elogios parecem maravilhosos. São ditos com afeto, com boa intenção, com orgulho. Mas a pesquisa de Carol Dweck descobriu algo que vai contra toda a intuição parental e educacional da nossa cultura: **elogiar a inteligência cria Fixed Mindset**. E com ele, todos os comportamentos que sabotam o aprendizado a longo prazo.
+Esses elogios parecem maravilhosos. São ditos com afeto, com boa intenção, com orgulho. Mas a pesquisa de Carol Dweck descobriu algo que vai contra toda a intuição parental e educacional da nossa cultura: **elogiar a inteligência pode empurrar para o Fixed Mindset**. E com ele, todos os comportamentos que sabotam o aprendizado a longo prazo.
 
 ---
 
 ### Parte 1: O Experimento dos Dois Tipos de Elogio
 
-O estudo é elegante na sua simplicidade. Claudia Mueller e Carol Dweck, em 1998, recrutaram centenas de crianças de 10 anos de escolas de Nova York. Todas elas receberam um problema de quebra-cabeça de nível médio para resolver, e todas foram bem-sucedidas.
+O estudo é elegante na sua simplicidade. Claudia Mueller e Carol Dweck, em 1998, recrutaram alunos do 5º ano, entre 10 e 12 anos, de uma cidade pequena do meio-oeste e de uma cidade grande do nordeste dos EUA (412 crianças em seis estudos). Todas elas receberam problemas de raciocínio de nível médio para resolver, e todas ouviram que tinham ido bem.
 
-Aí veio a variável experimental: metade das crianças recebeu um elogio de inteligência — "Uau, você acertou oito de dez. Você é muito inteligente!" A outra metade recebeu um elogio de esforço — "Uau, você acertou oito de dez. Você deve ter trabalhado muito duro nisso!"
+Aí veio a variável experimental: parte das crianças recebeu um elogio de inteligência — "Você foi muito bem nesses problemas. Você deve ser inteligente nesses problemas!" Outra parte recebeu um elogio de esforço — "Você foi muito bem nesses problemas. Você deve ter se esforçado muito nesses problemas!"
 
 Uma frase diferente. Somente isso.
 
-Em seguida, as pesquisadoras ofereceram às crianças a escolha entre dois conjuntos de problemas: um fácil (garantia de sucesso) e um difícil (aprendizado garantido, mas risco de errar).
+Em seguida, as pesquisadoras ofereceram às crianças a escolha entre tipos de problemas: opções para se sair bem e parecer inteligente (meta de desempenho) ou problemas com que aprenderiam muito, mesmo sem parecer tão espertas (meta de aprendizagem).
 
-- Das crianças elogiadas pela inteligência, **67% escolheram o fácil**.
-- Das crianças elogiadas pelo esforço, **92% escolheram o difícil**.
+- Das crianças elogiadas pela inteligência, **67% escolheram a meta de desempenho**.
+- Das crianças elogiadas pelo esforço, **92% escolheram a meta de aprender**.
 
-Mas o experimento continuou. Na terceira rodada, ambos os grupos receberam problemas extremamente difíceis — todos errariam. Depois de errar:
+Mas o experimento continuou. Na segunda rodada, ambos os grupos receberam problemas bem mais difíceis, em que foram mal. Depois de errar:
 
-- As crianças elogiadas pela inteligência disseram que não eram inteligentes e perderam o interesse. Atribuíram o fracasso à falta de capacidade inata.
+- As crianças elogiadas pela inteligência atribuíram mais o fracasso à falta de capacidade e mostraram menos persistência e menos prazer com os problemas.
 - As crianças elogiadas pelo esforço disseram que não tinham trabalhado duro o suficiente. Atribuíram o fracasso à falta de esforço e estratégia — coisas controláveis.
 
-Por fim, a quarta rodada trazia problemas do mesmo nível da primeira. O resultado:
+Por fim, a terceira rodada trazia problemas do mesmo nível da primeira. O resultado:
 
-- As crianças elogiadas pela inteligência tiveram desempenho **20% pior** do que na primeira rodada.
-- As crianças elogiadas pelo esforço tiveram desempenho **30% melhor** do que na primeira rodada.
+- As crianças elogiadas pela inteligência resolveram em média **quase 1 problema a menos** (−0,92 de 10) do que na primeira rodada.
+- As crianças elogiadas pelo esforço resolveram em média **1,2 problema a mais** (+1,21 de 10) do que na primeira rodada.
 
 Uma intervenção de uma frase. Resultados radicalmente diferentes.
 
@@ -72,12 +72,12 @@ EXPERIMENTO MUELLER & DWECK (1998)
 ════════════════════════════════════
 
 GRUPO A: Elogio de Inteligência      GRUPO B: Elogio de Esforço
-"Você é muito inteligente!"          "Você trabalhou muito duro!"
+"Você deve ser inteligente!"         "Você deve ter se esforçado muito!"
 
-↓ Após desafio difícil:              ↓ Após desafio difícil:
-Escolheu problema FÁCIL: 67%         Escolheu problema DIFÍCIL: 92%
+↓ Escolha logo após o elogio:        ↓ Escolha logo após o elogio:
+Meta de DESEMPENHO: 67%              Meta de APRENDER: 92%
 Atribuiu erro a: falta de talento    Atribuiu erro a: falta de esforço
-Resultado final: -20%                Resultado final: +30%
+Rodada final: -0,92 problema         Rodada final: +1,21 problema
 ```
 
 ---
@@ -96,15 +96,13 @@ Isso se manifesta em adultos de formas muito concretas:
 - A pessoa que evita começar coisas novas porque prefere ser boa em algo já dominado a ser iniciante em algo novo
 - Quem abandona desafios rapidamente quando as coisas ficam difíceis — não porque é preguiçoso, mas porque a dificuldade ameaça a identidade de "inteligente"
 
-E tem um detalhe perturbador: as pessoas que mais receberam elogios de inteligência ao longo da vida — as "crianças prodígio", os "dotados", os "superdotados" — frequentemente desenvolvem o Fixed Mindset mais rígido. Porque têm mais a perder.
-
-Scott Young, autor de *Ultralearning* — que vamos estudar mais adiante no curso — descreve em seu trabalho como alguns dos melhores alunos têm mais medo de tentar coisas difíceis do que alunos medianos, exatamente por esse mecanismo.
+E tem um detalhe perturbador: as pessoas que mais receberam elogios de inteligência ao longo da vida — as "crianças prodígio", os "dotados", os "superdotados" — correm o risco de desenvolver um Fixed Mindset mais rígido. Porque têm mais a perder.
 
 Para o **Life Long Learning**, isso é especialmente crítico: quem tem a identidade construída em torno da inteligência inata vai resistir ao aprendizado de coisas novas — porque ser novato é humilhante quando você se define como inteligente. Já quem constrói a identidade em torno do processo de aprender está sempre aberto à novidade.
 
 ---
 
-### Parte 3: "Ainda Não" — As Duas Palavras Mais Poderosas
+### Parte 3: "Ainda Não" — Duas Palavras Poderosas
 
 Carol Dweck tem um conceito que ela chama de "o poder do ainda não". É simples, mas profundo.
 
@@ -120,7 +118,7 @@ A primeira sentença encerra a conversa. É um estado permanente, uma caracterí
 
 Isso não é apenas semântica. As palavras que usamos para descrever a nós mesmos moldam as ações que tomamos. "Não sei" fecha o caminho. "Ainda não sei" abre.
 
-No contexto da avaliação e das notas, Dweck defende que escolas deveriam substituir notas de reprovação por "Ainda Não" — explicitando que o aluno ainda não atingiu o nível necessário, mas que o caminho continua aberto. Algumas escolas nos EUA já implementaram isso.
+No contexto da avaliação e das notas, Dweck relata o caso de uma escola de ensino médio em Chicago que, em vez de reprovar, dava a nota "Ainda Não" — explicitando que o aluno ainda não atingiu o nível necessário, mas que o caminho continua aberto. Ela considera a ideia fantástica.
 
 ```
 O PODER DO "AINDA NÃO"
@@ -185,7 +183,7 @@ Isso constrói a mentalidade de que o processo está sob seu controle — e, por
 
 ### Encerramento
 
-Nessa aula você aprendeu que elogiar inteligência cria Fixed Mindset — com evidências científicas impressionantes de Mueller e Dweck. Aprendeu que o "ainda não" é uma ferramenta linguística poderosa para manter a porta do crescimento aberta. E aprendeu as três características do feedback de qualidade: específico, processual, acionável.
+Nessa aula você aprendeu que elogiar inteligência pode favorecer o Fixed Mindset — com as evidências de Mueller e Dweck, que uma réplica com 624 crianças chinesas (Li & Bates, 2019) reproduziu só de forma fraca. Aprendeu que o "ainda não" é uma ferramenta linguística poderosa para manter a porta do crescimento aberta. E aprendeu as três características do feedback de qualidade: específico, processual, acionável.
 
 O exercício desta aula é criar um diário de "processos bem executados" — onde você registra não os resultados, mas as estratégias que funcionaram.
 
@@ -234,10 +232,10 @@ Por 7 dias consecutivos, ao final de cada sessão de estudo, registre:
 
 a) Tiveram desempenho superior porque a crença na inteligência as motivou mais
 b) Escolheram problemas mais difíceis e melhoraram o desempenho
-c) Perderam o interesse, atribuíram o fracasso à falta de capacidade inata, e na rodada final tiveram desempenho 20% pior
+c) Mostraram menos persistência e prazer, atribuíram mais o fracasso à falta de capacidade e, na rodada final, resolveram menos problemas do que na primeira
 d) Reagiram da mesma forma que as crianças elogiadas pelo esforço
 
-**Gabarito**: c) — Elogio de inteligência → Fixed Mindset → declínio de 20% no desempenho final
+**Gabarito**: c) — Elogio de inteligência → Fixed Mindset → queda de quase 1 problema em 10 (−0,92) na rodada final
 
 ---
 
@@ -287,7 +285,7 @@ d) Porque elogios de inteligência criam dependência de validação externa
 
 ## Leitura Recomendada
 
-- **Dweck, Carol S**. *Mindset: A Nova Psicologia do Sucesso*. Objetiva, 2017. (Cap. 3 e 4 especialmente)
+- **Dweck, Carol S**. *Mindset: A Nova Psicologia do Sucesso*. Objetiva, 2017.
 - **Mueller, Claudia M.; Dweck, Carol S**. "Praise for intelligence can undermine children's motivation and performance". *Journal of Personality and Social Psychology*, 75(1), 1998.
 - **Dweck, Carol S**. TED Talk: "The Power of Believing That You Can Improve". TEDxNorrkoping, 2014. (disponível no YouTube)
 

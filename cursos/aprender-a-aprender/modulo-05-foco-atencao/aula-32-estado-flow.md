@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 5 — Gestão de Foco e Atenção |
-| **Aula** | 32 de 45 (05 de 06 no módulo) |
+| **Aula** | 32 de 59 (05 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário |
 | **Formato** | Videoaula com slides |
@@ -19,7 +19,7 @@
 
 | Parte | Tempo | Conteúdo |
 |-------|-------|---------|
-| Abertura | 2 min | Mihaly Csikszentmihalyi e 20 anos pesquisando a experiência ótima |
+| Abertura | 2 min | Mihaly Csikszentmihalyi e mais de quatro décadas pesquisando a experiência ótima |
 | Parte 1 | 4 min | As 9 características do estado de Flow |
 | Parte 2 | 4 min | O gráfico Desafio vs. Habilidade: a zona de Flow |
 | Parte 3 | 4 min | Como entrar em Flow deliberadamente: 4 condições |
@@ -34,19 +34,19 @@
 
 Você já teve aquela experiência em que estava tão imerso em algo que, quando olhou para o relógio, se surpreendeu com quanto tempo tinha passado? Talvez lendo um livro que não conseguia largar. Talvez resolvendo um desafio de programação que te prendeu por horas. Talvez tocando um instrumento. Talvez jogando xadrez.
 
-Essa experiência tem nome. E ela foi estudada sistematicamente por mais de vinte anos por um dos maiores psicólogos do século XX.
+Essa experiência tem nome. E ela foi estudada sistematicamente por mais de quatro décadas por um psicólogo que se tornou referência no século XX.
 
-Mihaly Csikszentmihalyi — e sim, é difícil de pronunciar, ele mesmo brincava que preferia ser chamado de "Mike" — nasceu na Hungria em 1934, sobreviveu à Segunda Guerra Mundial sendo prisioneiro de guerra, e decidiu dedicar a vida a uma pergunta que considerava a mais importante da psicologia: o que faz a vida valer a pena?
+Mihaly Csikszentmihalyi — e sim, é difícil de pronunciar, ele era conhecido pelos colegas como "Mike" — nasceu em 1934 em Fiume, então Reino da Itália (hoje Rijeka, na Croácia), numa família húngara. Viveu a Segunda Guerra Mundial entre os 7 e os 10 anos, perdeu parentes, e decidiu dedicar a vida a uma pergunta: o que faz a vida valer a pena?
 
-Depois de décadas pesquisando artistas, atletas, cirurgiões, músicos, físicos, monges budistas e cozinheiros — pessoas de todas as culturas e contextos que relatavam experiências de absoluta imersão e satisfação em suas atividades —, Csikszentmihalyi identificou um estado psicológico que chamou de **Flow**: a experiência ótima.
+Depois de décadas pesquisando artistas, atletas, músicos, mestres de xadrez e cirurgiões — e, mais tarde, operários de Chicago, pastores navajos, idosas coreanas e adolescentes de Tóquio, pessoas de culturas e contextos diferentes que relatavam experiências de absoluta imersão e satisfação em suas atividades —, Csikszentmihalyi identificou um estado psicológico que chamou de **Flow**: a experiência ótima.
 
-Ele faleceu em 2021, mas seu trabalho mudou para sempre a forma como a psicologia pensa sobre felicidade, motivação e aprendizado.
+Ele faleceu em 2021, mas seu trabalho influenciou profundamente a forma como a psicologia pensa sobre felicidade, motivação e aprendizado.
 
 ---
 
 ### Parte 1: As 9 Características do Estado de Flow
 
-Csikszentmihalyi identificou nove características que marcam o estado de Flow. Você vai reconhecer várias delas porque provavelmente já as experimentou — só não sabia que tinham nome.
+No livro *Flow*, de 1990, Csikszentmihalyi descreveu oito componentes da experiência; a lista de nove que uso aqui vem de trabalhos posteriores dele com colegas. No modelo de 2002 (Nakamura & Csikszentmihalyi), os itens 7, 8 e 9 aparecem como condições do flow, e os seis primeiros como suas características. Você vai reconhecer várias delas porque provavelmente já as experimentou — só não sabia que tinham nome.
 
 **1. Foco e concentração intensa**
 Toda a atenção disponível está direcionada para a tarefa. Não há espaço mental para preocupações, distrações ou pensamentos sobre outros temas. O mundo exterior "desaparece".
@@ -110,7 +110,7 @@ Imagine um gráfico com dois eixos. O eixo horizontal representa o nível da sua
 
 O que acontece em diferentes regiões desse gráfico?
 
-**Canto inferior esquerdo — Apatia**: Habilidade baixa, desafio baixo. Você é iniciante numa tarefa absolutamente trivial. Não há engajamento. Não há interesse. É o estado do tédio profundo sem nenhum estímulo.
+**Canto inferior esquerdo — Apatia**: Habilidade baixa, desafio baixo. Você é iniciante numa tarefa absolutamente trivial. Não há engajamento. Não há interesse. Não é o mesmo que tédio: é a ausência de desafio e de uso das suas habilidades.
 
 **Parte inferior — Tédio**: Habilidade alta, desafio baixo. Você é muito bom em algo que não oferece nenhum desafio real. Um expert fazendo tarefas elementares. Entediante, desmotivante, frustrante.
 
@@ -130,7 +130,7 @@ A zona de Flow está no ponto de equilíbrio delicado: desafiador o suficiente p
 
 ### Parte 3: Como Entrar em Flow Deliberadamente
 
-O Flow não é apenas uma feliz coincidência que acontece de vez em quando. Você pode criar as condições para que ele apareça com mais frequência e consistência. Csikszentmihalyi e pesquisadores subsequentes identificaram quatro condições centrais:
+O Flow não é apenas uma feliz coincidência que acontece de vez em quando. Você pode criar as condições para que ele apareça com mais frequência e consistência. A teoria tem três condições clássicas — objetivo claro, feedback imediato e equilíbrio entre desafio e habilidade. A elas eu somo uma quarta, o ambiente sem distrações, que é recomendação prática, não condição formal do modelo:
 
 **Condição 1: Objetivo claro e específico**
 
@@ -142,11 +142,11 @@ Esse é o coração do modelo. Se a tarefa é fácil demais, adicione dificuldad
 
 **Condição 3: Ambiente sem distrações**
 
-O Flow é frágil nos estágios iniciais. Uma notificação no momento em que você está prestes a mergulhar pode destruir a possibilidade de Flow naquela sessão. Tudo que aprendemos nas aulas anteriores sobre gestão de atenção se aplica aqui com ainda mais força.
+Na prática, uma notificação no momento em que você está prestes a mergulhar pode custar o Flow daquela sessão. Tudo que aprendemos nas aulas anteriores sobre gestão de atenção se aplica aqui com ainda mais força.
 
 **Condição 4: Feedback imediato**
 
-Organize seu estudo de forma que você receba retorno frequente sobre o desempenho. Exercícios com gabarito, flashcards com Anki, tutores ou grupos de estudo, sistemas de verificação imediata. Sem feedback, o Flow não se sustenta — porque a mente perde a âncora que mantém o engajamento.
+Organize seu estudo de forma que você receba retorno frequente sobre o desempenho. Exercícios com gabarito, flashcards, tutores ou grupos de estudo, sistemas de verificação imediata. Sem feedback, o Flow não se sustenta — porque a mente perde a âncora que mantém o engajamento.
 
 ```
 PROTOCOLO PARA INDUZIR FLOW
@@ -174,17 +174,17 @@ APÓS A SESSÃO:
 
 ### Parte 4: Flow e Aprendizado
 
-Por que o Flow é o estado ótimo para o aprendizado?
+Por que o Flow é um estado tão favorável ao aprendizado?
 
 Primeiro, porque no Flow toda a capacidade cognitiva disponível está direcionada para a tarefa. Não há espaço mental desperdiçado em preocupações, autocrítica ou distração. É o uso máximo da capacidade disponível.
 
-Segundo, porque o Flow ocorre naturalmente quando o desafio está na zona ótima — ligeiramente acima da habilidade atual. E essa é exatamente a condição que Vygotsky chamou de "zona proximal de desenvolvimento" — o espaço onde o crescimento acontece.
+Segundo, porque o Flow ocorre naturalmente quando o desafio está na zona ótima — ligeiramente acima da habilidade atual. Essa ideia lembra o que Vygotsky chamou de "zona de desenvolvimento proximal" — o espaço onde o crescimento acontece —, embora não seja a mesma coisa: na zona de Vygotsky, o aluno avança com a ajuda de um adulto ou de um colega mais capaz.
 
-Terceiro, porque a experiência autotélica do Flow — a recompensa intrínseca do processo em si — é o que sustenta o aprendizado a longo prazo. Quando estudar se torna intrinsecamente satisfatório, você não precisa de força de vontade para sentar e estudar. Você quer estudar porque o processo é agradável por si mesmo.
+Terceiro, porque a experiência autotélica do Flow — a recompensa intrínseca do processo em si — é o que sustenta o aprendizado a longo prazo. Quando estudar se torna intrinsecamente satisfatório, você não precisa de força de vontade para sentar e estudar. Você quer estudar porque o processo é agradável por si mesmo. Vale lembrar que muito aprendizado valioso também acontece fora do Flow: Ericsson observa que a prática deliberada, em si, não costuma ser prazerosa.
 
 E aqui está o insight mais poderoso que posso compartilhar com você sobre **Life Long Learning**: quem pratica Flow regularmente no aprendizado encontra o combustível interno que sustenta o crescimento ao longo de toda uma vida. Não é disciplina marcial. Não é sofrimento. É a descoberta de que aprender em condições certas é uma das experiências mais satisfatórias que a consciência humana pode ter.
 
-Csikszentmihalyi passou vinte anos estudando pessoas de todo o mundo e diferentes culturas para chegar a essa conclusão: a felicidade não está no descanso ou no prazer passivo — está no engajamento ativo e crescente com desafios que desenvolvem nossas capacidades.
+Csikszentmihalyi passou décadas estudando pessoas de diferentes culturas e escreveu que os melhores momentos da vida não costumam ser os passivos e relaxantes, e sim aqueles em que o corpo ou a mente se esticam até o limite, num esforço voluntário para realizar algo difícil e que vale a pena.
 
 Isso é o Flow. E está disponível para qualquer um que crie as condições certas.
 
@@ -285,11 +285,11 @@ d) Equilíbrio entre desafio e habilidade — o desafio ligeiramente acima da ha
 
 ---
 
-**5. Por que o Flow é considerado o estado ótimo para o aprendizado?**
+**5. Segundo a aula, por que o Flow favorece o aprendizado?**
 
 a) Porque é mais rápido que o estudo normal
 b) Porque elimina a necessidade de revisão posterior
-c) Porque toda a capacidade cognitiva está direcionada à tarefa, o desafio está na zona proximal de desenvolvimento, e a experiência autotélica sustenta a motivação intrínseca de longo prazo
+c) Porque toda a capacidade cognitiva está direcionada à tarefa, o desafio fica numa zona parecida com a zona de desenvolvimento proximal, e a experiência autotélica sustenta a motivação intrínseca de longo prazo
 d) Porque não exige esforço consciente
 
 **Gabarito**: c) — Combinação de foco total + zona de crescimento + motivação intrínseca sustentável
@@ -298,7 +298,7 @@ d) Porque não exige esforço consciente
 
 ## Leitura Recomendada
 
-- **Csikszentmihalyi, Mihaly**. *Flow: A Psicologia do Desempenho Ótimo*. Objetiva, 1999.
+- **Csikszentmihalyi, Mihaly**. *Flow: The Psychology of Optimal Experience*. Nova York: Harper & Row, 1990.
 - **Csikszentmihalyi, Mihaly**. *Criatividade: Flow e a Psicologia da Descoberta e Invenção*. Rocco, 2015.
 - **Kotler, Steven**. *The Rise of Superman: Decoding the Science of Ultimate Human Performance*. New Harvest, 2014.
 

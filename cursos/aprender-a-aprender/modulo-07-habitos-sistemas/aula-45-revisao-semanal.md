@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 7 — Hábitos e Sistemas de Aprendizado |
-| **Aula** | 45 de 45 (06 de 06 no módulo — última do módulo 7) |
+| **Aula** | 45 de 59 (06 de 06 no módulo — última do módulo 7) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário |
 | **Formato** | Videoaula com slides |
@@ -32,7 +32,7 @@
 
 ### Abertura
 
-David Allen é o autor de *Getting Things Done* — GTD —, um dos sistemas de produtividade pessoal mais influentes já criados. E uma das ideias centrais do GTD é o conceito de "fechar loops" — completar ciclos cognitivos que, se deixados em aberto, consomem energia mental de forma constante.
+David Allen é o autor de *Getting Things Done* — GTD —, um sistema de produtividade pessoal muito conhecido. E uma das ideias centrais do GTD é o conceito de "fechar loops" — resolver ciclos cognitivos que, se deixados em aberto, continuam puxando a atenção. A pesquisa dá apoio parcial: metas não cumpridas geram pensamentos intrusivos e atrapalham outras tarefas, mas um plano específico basta para desfazer esse efeito — fechar o loop não exige terminar a tarefa (Masicampo & Baumeister, 2011).
 
 Allen fala sobre isso no contexto de tarefas e projetos, mas a ideia se aplica perfeitamente ao aprendizado: seu sistema de estudo só funciona de forma completa se há um momento recorrente de revisão e ajuste — um ponto em que você para, olha para trás, e pergunta: "O que aprendi? O que absorvi de verdade? Onde estão as lacunas? O que precisa mudar?"
 
@@ -48,11 +48,11 @@ Vou te dar um cenário que é mais comum do que parece.
 
 Você estuda de forma razoavelmente consistente durante a semana. Tem sessões todos os dias, segue o sistema Pomodoro, usa o Anki. Mas ao final da semana, você sente uma sensação vaga de que "alguma coisa não está funcionando" — mas não consegue identificar o quê.
 
-Sem a revisão semanal, esse "algo não está funcionando" fica como um loop aberto consumindo energia cognitiva de fundo. Você pode estar estudando com a estratégia errada, estudando o conteúdo errado, ou tendo lacunas que não foram identificadas — e continuar assim por semanas, ou meses, sem perceber.
+Sem a revisão semanal, esse "algo não está funcionando" fica como um loop aberto puxando a sua atenção. Você pode estar estudando com a estratégia errada, estudando o conteúdo errado, ou tendo lacunas que não foram identificadas — e continuar assim por semanas, ou meses, sem perceber.
 
 A revisão semanal fecha esse loop. Ela converte a sensação vaga em dados concretos, e os dados concretos em decisões acionáveis.
 
-Mas há também um segundo benefício que a maioria das pessoas subestima: a revisão semanal é um momento de **retrieval ativo** — você está praticando a recordação do que aprendeu na semana. E, como vimos nos módulos anteriores, a recordação ativa é a técnica de memorização mais poderosa que existe.
+Mas há também um segundo benefício que a maioria das pessoas subestima: a revisão semanal é um momento de **retrieval ativo** — você está praticando a recordação do que aprendeu na semana. E, como vimos nos módulos anteriores, a recordação ativa está entre as técnicas de estudo de maior utilidade — ao lado da prática distribuída, segundo a revisão de Dunlosky et al. (2013).
 
 Revisar o que você estudou na semana não é apenas planejamento — é também aprendizado. Você está reconsolidando as memórias enquanto avalia o progresso.
 
@@ -62,7 +62,7 @@ Revisar o que você estudou na semana não é apenas planejamento — é também
 
 O protocolo que vou te apresentar foi desenhado especificamente para aprendizado — adaptando o GTD de Allen, o framework de Clear, e práticas de metacognição da literatura científica sobre aprendizado.
 
-É um bloco de 60 minutos, preferencialmente num dia e horário fixos (recomendo domingo à tarde ou segunda-feira cedo). Tem 5 etapas:
+É um bloco de 60 minutos, preferencialmente num dia e horário fixos (recomendo domingo à tarde ou segunda-feira cedo). Tem 5 etapas — os tempos de cada uma são proposta do curso, não vêm de um estudo:
 
 ---
 
@@ -70,7 +70,7 @@ O protocolo que vou te apresentar foi desenhado especificamente para aprendizado
 
 Antes de abrir qualquer material, anote de cabeça tudo que você estudou na semana. Não precisa ser detalhado — só os tópicos, conceitos, habilidades que foram parte do seu estudo.
 
-Por que de cabeça? Porque esse é um exercício de retrieval — você está praticando a recordação sem pistas, que é a forma mais eficaz de testar e consolidar a memória.
+Por que de cabeça? Porque esse é um exercício de retrieval — você está praticando a recordação sem pistas, que é uma das formas mais eficazes de testar e consolidar a memória.
 
 ```
 RETRIEVAL SEMANAL — MODELO
@@ -197,11 +197,11 @@ O **Life Long Learner** não é definido pelo volume de conteúdo que consome. �
 
 Quando você para, toda semana, para perguntar "o que aprendi? O que absorvi de verdade? Onde estou crescendo? Onde estou estagnado?" — você está praticando o que os filósofos gregos chamavam de *epimeleia heautou*: o cuidado de si mesmo. Cuidado não no sentido fraco de conforto, mas no sentido nobre de desenvolvimento intencional.
 
-Benjamin Franklin fazia algo similar: todo final do dia, ele revisar suas 13 virtudes e verificava onde havia falhado — não para se punir, mas para aprender e crescer. Os jesuítas têm o *examen* diário: uma prática de revisão e reflexão sobre o dia. Os melhores atletas reveem gravações dos seus treinos e jogos.
+Benjamin Franklin fazia algo similar: toda noite, marcava num caderninho as faltas contra suas 13 virtudes, concentrando a atenção numa virtude por semana (um ciclo de 13 semanas) — não para se punir, mas para aprender e crescer. Inácio de Loyola, fundador dos jesuítas, propôs nos *Exercícios Espirituais* (1548) o exame diário: uma prática de revisão e reflexão sobre o dia. Atletas de elite também revisam o próprio treino: segundo Clear, o maratonista Eliud Kipchoge faz anotações depois de cada treino.
 
 O denominador comum? Todos eles criaram sistemas de feedback para o próprio desenvolvimento. A revisão semanal é a sua versão desse sistema — adaptada para o aprendizado cognitivo, integrada às ferramentas do século XXI, e sustentada por décadas de pesquisa em ciências da aprendizagem.
 
-Quando você encerra este módulo e este curso com uma revisão semanal instalada como prática permanente, você tem algo que a maioria das pessoas nunca desenvolve: um mecanismo de melhoria contínua que funciona independentemente do tema que está aprendendo.
+Quando você encerra este módulo com uma revisão semanal instalada como prática permanente, você tem algo que muitas pessoas nunca desenvolvem: um mecanismo de melhoria contínua que funciona independentemente do tema que está aprendendo.
 
 Isso é o Life Long Learning não como slogan, mas como prática.
 
@@ -300,11 +300,11 @@ Execute pelo menos 2 das 4 ações:
 **1. Qual é o conceito de David Allen que inspira a revisão semanal no contexto do aprendizado?**
 
 a) Sistema de produtividade de dois minutos para tarefas rápidas
-b) "Fechar loops" — completar ciclos cognitivos que, se deixados em aberto, consomem energia mental de fundo continuamente
+b) "Fechar loops" — resolver ciclos cognitivos que, se deixados em aberto, continuam puxando a atenção (um plano específico já basta para fechá-los)
 c) Delegação de tarefas para maximizar foco no que importa
 d) Inbox zero: eliminar tudo que está pendente antes de criar novo
 
-**Gabarito**: b) — "Fechar loops" = completar ciclos cognitivos para liberar energia mental
+**Gabarito**: b) — "Fechar loops" = resolver ou planejar os ciclos em aberto para liberar a atenção
 
 ---
 
@@ -312,7 +312,7 @@ d) Inbox zero: eliminar tudo que está pendente antes de criar novo
 
 a) Para economizar tempo na revisão
 b) Para não influenciar a avaliação de lacunas
-c) Porque é um exercício de retrieval ativo — a recordação sem pistas é a forma mais poderosa de testar e consolidar a memória, e produz aprendizado adicional
+c) Porque é um exercício de retrieval ativo — a recordação sem pistas é uma das formas mais eficazes de testar e consolidar a memória, e produz aprendizado adicional
 d) Porque consultar o material na revisão viola as regras do sistema GTD
 
 **Gabarito**: c) — Retrieval sem pistas = teste de memória + consolidação adicional simultaneamente
@@ -355,8 +355,8 @@ d) Ela substitui a necessidade de professores e mentores externos
 ## Leitura Recomendada
 
 - **Allen, David**. *A Arte de Fazer Acontecer (Getting Things Done)*. Sextante, 2015. (Cap. 8 e 9 — sobre revisão semanal no sistema GTD)
-- **Clear, James**. *Hábitos Atômicos*. Alta Books, 2019. (Cap. 17 — Como os Melhores Praticantes Continuam Melhorando)
-- **Newport, Cal**. *So Good They Can't Ignore You*. Grand Central Publishing, 2012. (Sobre sistemas de melhoria deliberada e contínua)
+- **Clear, James**. *Hábitos Atômicos*. Alta Books, 2019. (Cap. 20 — O Lado Negativo de Criar Bons Hábitos, seção "Como rever seus hábitos e fazer ajustes")
+- **Newport, Cal**. *So Good They Can't Ignore You*. Business Plus, 2012. (Sobre sistemas de melhoria deliberada e contínua)
 
 ---
 

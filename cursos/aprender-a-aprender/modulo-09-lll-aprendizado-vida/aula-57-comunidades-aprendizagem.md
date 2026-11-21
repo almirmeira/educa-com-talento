@@ -11,7 +11,7 @@
 | **Duração estimada** | 20 minutos |
 | **Nível** | Todos os níveis |
 | **Formato** | Videoaula com slides |
-| **Objetivos** | Compreender o poder do aprendizado em comunidade; conhecer o Efeito Protegiê e o ensino recíproco; mapear tipos de comunidades de aprendizagem; dar o primeiro passo para ingressar em comunidades relevantes |
+| **Objetivos** | Compreender o poder do aprendizado em comunidade; conhecer o efeito protégé e o ensino recíproco; mapear tipos de comunidades de aprendizagem; dar o primeiro passo para ingressar em comunidades relevantes |
 
 ---
 
@@ -19,9 +19,9 @@
 
 | Parte | Tempo | Conteúdo |
 |-------|-------|---------|
-| Abertura | 2 min | O provérbio africano e por que ele é ciência |
+| Abertura | 2 min | Um provérbio de origem incerta e o que a pesquisa diz |
 | Parte 1 | 4 min | Dados sobre aprendizado em comunidade vs. solo |
-| Parte 2 | 4 min | O Efeito Protegiê e o ensino recíproco |
+| Parte 2 | 4 min | O efeito protégé e o ensino recíproco |
 | Parte 3 | 5 min | Tipos de comunidades e como criar a sua |
 | Encerramento | 3 min | Exercício prático + próxima aula |
 
@@ -33,13 +33,13 @@
 
 "Se você quer ir rápido, vá sozinho. Se quer ir longe, vá acompanhado."
 
-Esse provérbio africano é frequentemente citado em contextos de liderança e gestão. Mas ele tem uma aplicação poderosa e muito menos conhecida no contexto do **aprendizado**.
+Esse provérbio — costuma ser chamado de africano, mas ninguém conseguiu identificar de que povo ele vem — é frequentemente citado em contextos de liderança e gestão. Mas ele tem uma aplicação poderosa e muito menos conhecida no contexto do **aprendizado**.
 
-E o mais interessante é que a ciência confirma o provérbio — com dados.
+E o mais interessante é que a pesquisa dá apoio a essa ideia — com dados.
 
 Aprender sozinho tem suas vantagens: flexibilidade de horário, ritmo personalizado, ausência de comparações desnecessárias. Esses são reais.
 
-Mas aprender em comunidade tem vantagens que vão além: engajamento mais alto, retenção mais profunda, motivação mais sustentável, e acesso a perspectivas diversas que o aprendizado solo nunca oferece.
+Mas aprender em comunidade tem vantagens que vão além: engajamento mais alto, retenção mais profunda, motivação mais sustentável, e acesso a perspectivas diversas que o aprendizado solo dificilmente oferece.
 
 No contexto do **Life Long Learning** — um compromisso que dura décadas — a questão não é "melhor sozinho ou em comunidade?". A questão é: como você **combina o melhor dos dois**, usando comunidades estrategicamente para amplificar o que você aprende?
 
@@ -53,13 +53,13 @@ Vamos começar com pesquisa.
 
 Em 1984, **Annemarie Palincsar** e **Ann Brown**, pesquisadoras da **Universidade de Illinois**, publicaram um estudo sobre o que chamaram de **"ensino recíproco"** — uma técnica em que estudantes alternavam o papel de professor e aluno dentro de grupos.
 
-Os resultados foram impressionantes: estudantes em grupos de ensino recíproco mostraram **melhoria de 3 a 4 vezes na compreensão de textos** comparados ao estudo solo convencional.
+Os resultados foram expressivos: nos testes de compreensão de textos, o acerto dos alunos subiu de **menos de 40% para 70 a 80%** — **perto de dobrar**, chegando ao nível de leitores medianos da mesma série.
 
 Por quê? Porque quando você alterna entre aprender e ensinar, você processa o conteúdo em múltiplos níveis:
 - **Como aprendiz**: você recebe nova perspectiva
 - **Como professor**: você é forçado a organizar, articular e identificar lacunas no próprio conhecimento
 
-**David Kolb**, professor da **Case Western Reserve University**, mostrou que o aprendizado mais duradouro e transferível ocorre em ciclos de **experiência concreta → reflexão → conceituação → aplicação** — e que comunidades de aprendizagem naturalmente facilitam esses ciclos através do diálogo e da prática compartilhada.
+**David Kolb**, professor da **Case Western Reserve University**, descreveu o aprendizado como um ciclo de **experiência concreta → reflexão → conceituação → aplicação**. Kolb descreve o ciclo individual; a ligação com comunidade é uma leitura nossa: o diálogo e a prática compartilhada ajudam a percorrer esses ciclos.
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -87,18 +87,18 @@ A comunidade de aprendizagem atende diretamente ao vínculo social — e quando 
 
 ---
 
-### Parte 2: O Efeito Protegiê e o Ensino Recíproco
+### Parte 2: O Efeito Protégé e o Ensino Recíproco
 
-Um dos fenômenos mais poderosos e menos conhecidos do aprendizado em comunidade é o **Efeito Protegiê** (Protégé Effect) — a descoberta de que **ensinar consolida o aprendizado de forma mais profunda do que qualquer outra técnica**.
+Um fenômeno importante e pouco conhecido do aprendizado em comunidade é o **efeito protégé** (do francês *protégé*, pupilo) — a descoberta de que **ensinar aumenta o esforço para aprender e ajuda a consolidar o aprendizado**.
 
-O fenômeno foi estudado por **Michelene Chi** e colaboradores da **Universidade de Pittsburgh** em uma série de experimentos nos anos 1990. Eles descobriram que estudantes que preparavam materiais de ensino para outros estudantes retinham significativamente mais e compreendiam de forma mais profunda do que estudantes que apenas estudavam o material para si mesmos.
+O termo foi cunhado por **Catherine Chase, Doris Chin, Marily Oppezzo e Daniel Schwartz**, da **Universidade Stanford**, em 2009: alunos do 8º ano se esforçavam mais e aprendiam mais biologia quando estudavam para ensinar um agente virtual do que quando estudavam para si mesmos. Uma meta-análise de 28 estudos (Kobayashi, 2019) confirma a direção, com efeito pequeno a médio (g = 0,35 para preparar-se para ensinar; g = 0,56 para preparar e ensinar) — e o ganho depende de ensinar recuperando da memória, não lendo as anotações. Prática de recuperação e repetição espaçada continuam no topo.
 
-Por que ensinar é a forma mais poderosa de aprender?
+Por que ensinar ajuda a aprender?
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│             POR QUE ENSINAR É A MELHOR FORMA DE APRENDER         │
-│               Efeito Protegiê — Chi et al., Univ. Pittsburgh     │
+│                POR QUE ENSINAR AJUDA A APRENDER                  │
+│            Efeito protégé — Chase et al., Stanford, 2009         │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
 │  1. IDENTIFICAÇÃO DE LACUNAS                                     │
@@ -133,7 +133,7 @@ Existem muitos formatos de comunidades de aprendizagem — cada um com vantagens
 
 **TIPO 1: Grupos de Estudo**
 
-O formato mais clássico: pequenos grupos (3-7 pessoas) que se encontram regularmente para estudar um tema específico. Funciona melhor quando:
+O formato mais clássico: pequenos grupos (3-7 pessoas, como recomendação prática) que se encontram regularmente para estudar um tema específico. Funciona melhor quando:
 - Todos têm objetivo similar
 - Há comprometimento com presença regular
 - O grupo alterna papéis de professor e aprendiz
@@ -149,7 +149,7 @@ As melhores comunidades online para LLL têm rotinas de "o que você está apren
 
 **TIPO 3: Mastermind Groups**
 
-Grupos pequenos e exclusivos (4-8 pessoas) de alto comprometimento, onde cada membro traz um desafio ou objetivo e o grupo oferece perspectiva, feedback e accountability. Popularizado por **Napoleon Hill** no livro "Think and Grow Rich" (1937), os mastermind groups são hoje amplamente usados em desenvolvimento profissional e empreendedorismo.
+Grupos pequenos e exclusivos (4-8 pessoas, como recomendação prática) de alto comprometimento, onde cada membro traz um desafio ou objetivo e o grupo oferece perspectiva, feedback e accountability. Popularizado por **Napoleon Hill**, escritor de autoajuda, no livro "Think and Grow Rich" (1937), os mastermind groups são hoje amplamente usados em desenvolvimento profissional e empreendedorismo.
 
 Para o LLL, um mastermind de aprendizado seria um grupo que se reúne mensalmente onde cada membro compartilha:
 - O que aprendeu no último mês
@@ -158,9 +158,9 @@ Para o LLL, um mastermind de aprendizado seria um grupo que se reúne mensalment
 
 **TIPO 4: Mentorias**
 
-Mentoria é uma das formas mais eficazes de aprendizado acelerado — você obtém acesso à experiência acumulada de alguém que já percorreu o caminho que você está trilhando.
+Mentoria é uma forma eficaz de aprendizado acelerado — você obtém acesso à experiência acumulada de alguém que já percorreu o caminho que você está trilhando.
 
-O LLL recomenda **múltiplas mentorias em paralelo**: um mentor de carreira (mais avançado na profissão), um mentor de vida (mais experiente em vida pessoal) e, idealmente, alguém que você mesmo mentora — ativando o Efeito Protegiê.
+O LLL recomenda **múltiplas mentorias em paralelo**: um mentor de carreira (mais avançado na profissão), um mentor de vida (mais experiente em vida pessoal) e, idealmente, alguém que você mesmo mentora — ativando o efeito protégé.
 
 **Como criar e sustentar uma comunidade de aprendizagem:**
 
@@ -225,7 +225,7 @@ Na próxima aula, vamos falar sobre como tornar o aprendizado **visível** — o
    - Para a comunidade online: crie ou ative sua conta, faça uma **primeira contribuição** (não apenas leia — apresente-se, faça uma pergunta, responda algo)
    - Para a comunidade presencial: envie uma mensagem para 3 pessoas que poderiam compor um grupo de estudo ou mastermind; proponha o formato e a frequência
 
-4. **Bônus — Efeito Protegiê**: esta semana, encontre **uma pessoa** para quem você pode ensinar algo que aprendeu neste curso. Não precisa ser uma aula formal — uma conversa de café já funciona.
+4. **Bônus — efeito protégé**: esta semana, encontre **uma pessoa** para quem você pode ensinar algo que aprendeu neste curso. Não precisa ser uma aula formal — uma conversa de café já funciona.
 
 **Tempo estimado**: 30 minutos de mapeamento + ação esta semana.
 
@@ -235,7 +235,7 @@ Na próxima aula, vamos falar sobre como tornar o aprendizado **visível** — o
 
 **1.** O que o estudo de Palincsar e Brown (Universidade de Illinois, 1984) mostrou sobre ensino recíproco?
 
-**2.** O que é o "Efeito Protegiê" e por que ensinar consolida o aprendizado melhor do que estudar solo?
+**2.** O que é o "efeito protégé", quem cunhou o termo e por que ensinar ajuda a consolidar o aprendizado?
 
 **3.** Quais são os 4 tipos de comunidades de aprendizagem descritos na aula?
 
@@ -247,9 +247,9 @@ Na próxima aula, vamos falar sobre como tornar o aprendizado **visível** — o
 
 ### Gabarito
 
-**1.** O estudo de Palincsar e Brown revelou que estudantes em grupos de **ensino recíproco** — alternando papéis de professor e aluno — mostraram melhoria de **3 a 4 vezes na compreensão de textos** em comparação ao estudo solo convencional, porque o processamento em múltiplos papéis aprofunda a compreensão.
+**1.** O estudo de Palincsar e Brown revelou que estudantes em grupos de **ensino recíproco** — alternando papéis de professor e aluno — tiveram o acerto nos testes de compreensão de textos subindo de **menos de 40% para 70 a 80%** — **perto de dobrar** —, porque o processamento em múltiplos papéis aprofunda a compreensão.
 
-**2.** O Efeito Protegiê (Chi et al., Univ. Pittsburgh) é o fenômeno em que **ensinar consolida o aprendizado de forma mais profunda** do que estudar para si mesmo. Isso ocorre porque ensinar força: identificação de lacunas, organização do conhecimento, retrieval múltiplo em contextos diferentes, resposta a perguntas inesperadas e maior responsabilidade no processamento.
+**2.** O efeito protégé (termo de Chase, Chin, Oppezzo e Schwartz, Universidade Stanford, 2009) é o fenômeno em que **estudar para ensinar aumenta o esforço e o aprendizado** em comparação com estudar para si mesmo — um efeito pequeno a médio nas meta-análises, maior quando se ensina recuperando da memória. Isso ocorre porque ensinar força: identificação de lacunas, organização do conhecimento, retrieval múltiplo em contextos diferentes, resposta a perguntas inesperadas e maior responsabilidade no processamento.
 
 **3.** Os 4 tipos são: (1) **Grupos de estudo** — pequenos, regulares, com ensino recíproco; (2) **Comunidades online temáticas** — Reddit, Discord, LinkedIn; (3) **Mastermind groups** — pequenos e exclusivos, com alto comprometimento e accountability; (4) **Mentorias** — acesso à experiência acumulada de alguém mais avançado.
 

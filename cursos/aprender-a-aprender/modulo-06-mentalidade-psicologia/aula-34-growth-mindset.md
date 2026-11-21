@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 6 — Mentalidade e Psicologia do Aprendizado |
-| **Aula** | 34 de 45 (01 de 06 no módulo) |
+| **Aula** | 34 de 59 (01 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Iniciante a Intermediário |
 | **Formato** | Videoaula com slides |
@@ -19,7 +19,7 @@
 
 | Parte | Tempo | Conteúdo |
 |-------|-------|---------|
-| Abertura | 2 min | Carol Dweck e 30 anos pesquisando por que algumas pessoas crescem e outras ficam estagnadas |
+| Abertura | 2 min | Carol Dweck e décadas pesquisando por que algumas pessoas crescem e outras ficam estagnadas |
 | Parte 1 | 4 min | Fixed Mindset vs. Growth Mindset: a distinção fundamental |
 | Parte 2 | 4 min | Como cada mindset responde a erros, desafios, feedback e esforço |
 | Parte 3 | 4 min | A pesquisa de 7ª série: evidência científica da mudança de mindset |
@@ -40,7 +40,7 @@ Opção A: "Não sou bom nessa área. Algumas pessoas têm facilidade, outras n�
 
 Opção B: "Essa matéria ainda está além do meu nível atual. Preciso de mais prática, de uma estratégia diferente, talvez de ajuda. Mas posso melhorar."
 
-Essas duas respostas não são apenas filosofias diferentes. Elas produzem resultados radicalmente diferentes no aprendizado, na carreira e na vida. E Carol Dweck, professora de Psicologia na Universidade de Stanford, passou 30 anos de pesquisa documentando exatamente essa diferença.
+Essas duas respostas não são apenas filosofias diferentes. Elas produzem resultados radicalmente diferentes no aprendizado, na carreira e na vida. E Carol Dweck, professora de Psicologia na Universidade de Stanford, passou décadas pesquisando exatamente essa diferença.
 
 ---
 
@@ -105,21 +105,21 @@ Agora eu sei o que você pode estar pensando: "Legal a teoria, mas isso realment
 
 Sim. E existe uma pesquisa que é um dos meus exemplos favoritos no mundo da psicologia educacional para demonstrar isso.
 
-Lisa Blackwell, Kali Trzesniewski e Carol Dweck publicaram em 2007 no *Child Development Journal* um estudo com alunos de sétima série em Nova York. A situação dos alunos era clássica: ao fazer a transição para o ensino médio, as notas de matemática de muitos estudantes caem significativamente — o conteúdo fica mais difícil, as exigências aumentam, e quem tem Fixed Mindset interpreta essa dificuldade como prova de que "não é bom em matemática".
+Lisa Blackwell, Kali Trzesniewski e Carol Dweck publicaram em 2007 na revista *Child Development* um estudo com alunos de sétima série em Nova York. A situação dos alunos era clássica: ao fazer a transição para o ensino médio, as notas de matemática de muitos estudantes caem significativamente — o conteúdo fica mais difícil, as exigências aumentam, e quem tem Fixed Mindset interpreta essa dificuldade como prova de que "não é bom em matemática".
 
 Os pesquisadores dividiram os alunos em dois grupos:
 
-- **Grupo controle**: recebeu um seminário de 8 sessões sobre técnicas de estudo
-- **Grupo intervenção**: recebeu o mesmo seminário de técnicas de estudo + 2 sessões sobre neurociência do Growth Mindset (o cérebro cria novas conexões com o esforço, a inteligência não é fixa)
+- **Grupo controle**: recebeu um seminário de 8 sessões, uma por semana, sobre técnicas de estudo
+- **Grupo intervenção**: recebeu também 8 sessões com técnicas de estudo, mas aprendeu ainda a neurociência do Growth Mindset (o cérebro cria novas conexões com o esforço, a inteligência não é fixa)
 
-O resultado após dois anos de acompanhamento:
+O resultado ao fim do ano letivo:
 
 - No grupo controle, as notas continuaram declinando como esperado
-- No grupo intervenção, as notas pararam de cair e começaram a subir
+- No grupo intervenção, as notas pararam de cair e começaram a subir — uma diferença de cerca de 0,3 ponto na nota de matemática, em 91 alunos de uma escola
 
-Duas sessões sobre Growth Mindset produziram resultados mensuráveis nas notas de matemática por dois anos.
+Mudar a crença sobre a inteligência, mantendo as mesmas técnicas de estudo, produziu uma diferença mensurável nas notas de matemática.
 
-Dweck e seus colegas repetiram variações desse estudo múltiplas vezes, em diferentes países, diferentes faixas etárias, diferentes matérias. Os resultados são consistentes: **a crença sobre a natureza da inteligência afeta o desempenho real**.
+Variações desse estudo foram testadas depois em escala muito maior, inclusive num experimento nacional nos EUA (Yeager et al., 2019), e as meta-análises encontram efeitos reais, porém pequenos e variáveis, maiores entre alunos de desempenho mais baixo (Sisk et al., 2018; Macnamara & Burgoyne, 2023). A conclusão honesta: **a crença sobre a natureza da inteligência pode afetar o desempenho real — com efeito modesto, não mágico**.
 
 ---
 
@@ -127,7 +127,7 @@ Dweck e seus colegas repetiram variações desse estudo múltiplas vezes, em dif
 
 Aqui está a conexão que me parece mais importante de toda essa aula.
 
-O **Life Long Learning** — o compromisso de aprender ao longo de toda a vida, não apenas durante os anos formais de escola — só é possível de forma sustentável para quem tem Growth Mindset.
+O **Life Long Learning** — o compromisso de aprender ao longo de toda a vida, não apenas durante os anos formais de escola — fica muito mais fácil de sustentar para quem tem Growth Mindset.
 
 Pensa comigo: o mundo está mudando em velocidade exponencial. Tecnologias que não existiam há 5 anos são agora essenciais em diversas profissões. Habilidades que eram suficientes há 10 anos ficaram obsoletas. Um profissional que entrou no mercado de trabalho em 2010 e parou de aprender naquele ponto está hoje trabalhando com um conjunto de habilidades progressivamente desatualizado.
 
@@ -135,7 +135,7 @@ Quem tem Fixed Mindset em relação à aprendizagem interpreta essa necessidade 
 
 Quem tem Growth Mindset interpreta como oportunidade — "Há algo novo para dominar. Ótimo. Como faço?" Essa é a mentalidade fundamental do aprendiz permanente.
 
-E não é coincidência que as pessoas mais bem-sucedidas em carreiras de longo prazo — nas ciências, nas artes, nos negócios, no esporte — são notoriamente curiosas e dispostas a aprender continuamente. Einstein aprendeu violino. Darwin estudou geologia além da biologia. Elon Musk leu livros de física de foguetes quando decidiu entrar no setor espacial.
+E não por acaso, muitas pessoas que se mantêm relevantes em carreiras longas — nas ciências, nas artes, nos negócios, no esporte — costumam ser curiosas e dispostas a aprender continuamente.
 
 Growth Mindset não é ingenuidade. É a postura epistemológica correta diante de um mundo que nunca para de mudar.
 
@@ -196,14 +196,14 @@ Escolha uma das três áreas e defina uma ação concreta de Growth Mindset para
 
 ## Quiz de Retrieval
 
-**1. Carol Dweck é professora em qual universidade e pesquisa mindset há quantos anos?**
+**1. Carol Dweck é professora em qual universidade e pesquisa mindset há quanto tempo?**
 
 a) Harvard, 20 anos
-b) Stanford, ~30 anos
+b) Stanford, há décadas (desde os anos 1970)
 c) Yale, 15 anos
 d) Cambridge, 25 anos
 
-**Gabarito**: b) — Stanford University, pesquisa desenvolvida ao longo de aproximadamente 30 anos
+**Gabarito**: b) — Stanford University, pesquisa desenvolvida ao longo de décadas, desde os anos 1970
 
 ---
 
@@ -222,10 +222,10 @@ d) Inteligência depende principalmente do ambiente educacional
 
 a) Técnicas de estudo por si só melhoram notas significativamente
 b) O mindset não tem impacto mensurável nas notas de matemática
-c) Apenas 2 sessões sobre Growth Mindset produziram melhora nas notas de matemática por 2 anos, enquanto o grupo que recebeu apenas técnicas de estudo continuou declinando
+c) Aprender que o cérebro se desenvolve com o esforço, somado às técnicas de estudo, interrompeu a queda das notas de matemática até o fim do ano letivo, enquanto o grupo que recebeu apenas técnicas de estudo continuou declinando
 d) O Growth Mindset funciona apenas para alunos de alto desempenho inicial
 
-**Gabarito**: c) — Intervenção de Growth Mindset produziu efeito mensurável e duradouro nas notas
+**Gabarito**: c) — Intervenção de Growth Mindset produziu efeito mensurável nas notas (cerca de 0,3 ponto ao fim do ano letivo, em 91 alunos)
 
 ---
 
@@ -240,14 +240,14 @@ d) Aceita qualquer feedback sem questionamento
 
 ---
 
-**5. Por que o Growth Mindset é condição necessária para o Life Long Learning?**
+**5. Por que o Growth Mindset favorece o Life Long Learning?**
 
 a) Porque pessoas com Growth Mindset têm mais tempo livre
-b) Porque LLL exige a crença de que novas habilidades podem ser desenvolvidas — algo impossível de sustentar com Fixed Mindset, que interpreta a necessidade de aprender como sinal de incompetência
+b) Porque LLL se apoia na crença de que novas habilidades podem ser desenvolvidas — algo difícil de sustentar com Fixed Mindset, que interpreta a necessidade de aprender como sinal de incompetência
 c) Porque Growth Mindset torna o aprendizado mais rápido
 d) Porque LLL não exige esforço com Growth Mindset
 
-**Gabarito**: b) — LLL requer crer que novas habilidades são aprendíveis — exatamente a premissa do Growth Mindset
+**Gabarito**: b) — LLL se apoia na crença de que novas habilidades são aprendíveis — exatamente a premissa do Growth Mindset
 
 ---
 
