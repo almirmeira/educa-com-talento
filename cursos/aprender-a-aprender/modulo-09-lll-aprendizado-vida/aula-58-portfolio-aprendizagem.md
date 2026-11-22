@@ -41,7 +41,7 @@ No mercado de trabalho, no empreendedorismo, nas relações profissionais — qu
 
 O segundo. Com a mesma competência real, mas com competência **visível**.
 
-Mas o portfólio de aprendizagem não é apenas estratégia de carreira. É também, e principalmente, uma **ferramenta de aprendizado profundo**. Porque documentar o que você aprende é uma das formas mais eficazes de consolidar o conhecimento — é Retrieval, Intuição e Retenção em forma de criação.
+Mas o portfólio de aprendizagem não é apenas estratégia de carreira. É também, e principalmente, uma **ferramenta de aprendizado profundo**. Porque documentar o que você aprende é uma boa forma de consolidar o conhecimento — é Retrieval, Intuição e Retenção em forma de criação.
 
 Esta aula é sobre tornar seu aprendizado visível — para você mesmo e para o mundo.
 
@@ -60,7 +60,7 @@ Um **portfólio de aprendizagem** é uma coleção organizada de evidências do 
 │                                                                  │
 │  1. CONSOLIDAÇÃO (Retrieval + Reflexão)                          │
 │     Escrever sobre o que aprendeu força recuperação ativa e      │
-│     processamento em nível mais profundo — muito melhor          │
+│     processamento em nível mais profundo — melhor                │
 │     retenção do que apenas consumir o conteúdo                   │
 │                                                                  │
 │  2. CLAREZA                                                      │
@@ -70,7 +70,7 @@ Um **portfólio de aprendizagem** é uma coleção organizada de evidências do 
 │                                                                  │
 │  3. CRIAÇÃO DE VALOR PARA OUTROS                                 │
 │     Seu aprendizado documentado pode beneficiar alguém           │
-│     que está 6 meses atrás de onde você está agora              │
+│     que está 3 meses atrás de onde você está agora               │
 │                                                                  │
 │  4. EVIDÊNCIA PROFISSIONAL                                       │
 │     Em um mercado onde "habilidades" são difíceis de             │
@@ -79,7 +79,7 @@ Um **portfólio de aprendizagem** é uma coleção organizada de evidências do 
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-**Richard Feynman** — sim, ele de novo — dizia que o objetivo final de qualquer aprendizado é a capacidade de explicar. E documentar é exatamente isso: a prática sistemática de explicar o que você aprendeu, para si mesmo e para outros.
+**Richard Feynman** — sim, ele de novo — não conseguiu levar a explicação da estatística de Fermi-Dirac ao nível de uma aula para calouros e concluiu que ainda não entendia aquilo de verdade. A lição que tiramos daí (a frase é nossa, não dele): explicar é a prova do aprendizado. E documentar é exatamente isso: a prática sistemática de explicar o que você aprendeu, para si mesmo e para outros.
 
 No contexto do LLL, o portfólio não é um projeto que você faz uma vez — é um **arquivo vivo** que cresce com você ao longo de toda a jornada de aprendizado. Daqui a 5 anos, você vai olhar para o que escreveu hoje e ver como sua compreensão evoluiu. Isso em si é uma forma poderosa de medir o crescimento.
 
@@ -87,13 +87,13 @@ No contexto do LLL, o portfólio não é um projeto que você faz uma vez — é
 
 ### Parte 2: Learn in Public — A Prática de Shawn Wang
 
-Em 2018, **Shawn Wang** — conhecido como "swyx" na comunidade de tecnologia — publicou um artigo que se tornou viral e influenciou milhares de profissionais ao redor do mundo. O título era simples: **"Learn in Public"** — Aprenda em Público.
+Em 2018, **Shawn Wang** — conhecido como "swyx" na comunidade de tecnologia — publicou um ensaio curto. O título era simples: **"Learn in Public"** — Aprenda em Público.
 
-A ideia central: **o hábito mais poderoso que você pode criar como aprendiz é criar artefatos públicos do seu processo de aprendizagem**.
+A ideia central, que ele chama de "regra de ouro" e da qual as demais derivam: **criar artefatos públicos do seu processo de aprendizagem**.
 
-Shawn Wang aplicou isso na própria vida: enquanto aprendia programação para mudar de carreira, ele documentou tudo publicamente — artigos sobre o que aprendeu, projetos no GitHub, tweets sobre conceitos que estava processando, vídeos explicando coisas que acabara de entender.
+Shawn Wang conhece esse caminho por dentro: trabalhava no mercado financeiro, esgotou-se por volta dos 30 anos e aprendeu programação para mudar de carreira — com o freeCodeCamp e muitos outros recursos. Foi freelancer e depois trabalhou em empresas como a Netlify.
 
-Resultado: em menos de 2 anos, ele tinha uma audiência significativa, uma rede de conexões valiosas e oportunidades de emprego procurando por ele — não o contrário.
+O próprio ensaio descreve o efeito de longo prazo: com o tempo, as pessoas passam a procurar você para pedir ajuda.
 
 Mas a lição mais importante não é a de marketing. É a do aprendizado: **quando você se compromete a documentar publicamente, você estuda de forma diferente**. Mais cuidadosamente. Mais honestamente. Com mais atenção para entender verdadeiramente, não apenas para "passar no teste".
 
@@ -110,11 +110,11 @@ Mas a lição mais importante não é a de marketing. É a do aprendizado: **qua
 │         LEARN IN PUBLIC — PRINCÍPIOS DE SHAWN WANG               │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
-│  "Crie artefatos do seu aprendizado:                             │
-│   notas de blogs, vídeos, podcasts, esboços de código,           │
-│   visualizações de dados, anotações de conferência —             │
-│   qualquer coisa que queira que persista no mundo."             │
-│                                       — Shawn Wang               │
+│  Crie artefatos do seu aprendizado — o "rastro" do que           │
+│  aprendeu: blogs, tutoriais, cheatsheets, palestras,             │
+│  respostas em fóruns, vídeos, newsletter.                        │
+│  Faça a coisa que você gostaria de ter encontrado                │
+│  quando estava aprendendo.          (paráfrase do ensaio)        │
 │                                                                  │
 │  Por que funciona:                                               │
 │  ✓ Cria "oportunidades de sorte" — as pessoas certas             │
@@ -124,14 +124,14 @@ Mas a lição mais importante não é a de marketing. É a do aprendizado: **qua
 │  ✓ Gera feedback — quem lê traz perspectivas que enriquecem      │
 │  ✓ Cria senso de comunidade — outros aprendizes se conectam      │
 │                                                                  │
-│  A regra mais importante:                                        │
-│  "Não aprenda em público para impressionar. Aprenda em           │
-│   público para ser útil — especialmente para o seu              │
-│   eu do passado (6 meses atrás)."                               │
+│  Síntese nossa (não é citação de Wang):                          │
+│  Não aprenda em público para impressionar. Aprenda em            │
+│  público para ser útil — especialmente para o seu                │
+│  eu do passado (3 meses atrás).                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-A última frase é a chave. **Escreva para o você de 6 meses atrás** — a pessoa que está onde você estava antes de aprender isso. Isso define o tom certo: honesto, prático, sem pretensão de ser o expert máximo.
+A última frase é a chave. **Escreva para o você de 3 meses atrás** (no ensaio, swyx fala em conversar consigo mesmo de 3 meses atrás) — a pessoa que está onde você estava antes de aprender isso. Isso define o tom certo: honesto, prático, sem pretensão de ser o expert máximo.
 
 ---
 
@@ -148,7 +148,7 @@ Existem múltiplas formas de portfólio de aprendizagem, adequadas para diferent
 
 **FORMA 1: Blog / Artigos escritos**
 
-A forma mais clássica e mais poderosa para consolidação profunda. Escrever força você a organizar o pensamento, identificar lacunas e criar explicações claras.
+A forma mais clássica. Escrever força você a organizar o pensamento, identificar lacunas e criar explicações claras. Não há estudo comparando blog, projetos, vídeo e Zettelkasten entre si; a meta-análise de escrever para aprender (Bangert-Drowns e colegas, 2004) mostra efeito pequeno e positivo, maior quando a escrita inclui reflexão sobre o próprio aprendizado.
 
 **Plataformas**: Medium, Substack, LinkedIn Articles, Dev.to (tech), ou um blog próprio (WordPress, Ghost).
 
@@ -156,7 +156,7 @@ A forma mais clássica e mais poderosa para consolidação profunda. Escrever fo
 
 **FORMA 2: GitHub / Portfólio de Projetos**
 
-Para áreas técnicas (programação, data science, design), o portfólio de projetos é a evidência mais concreta possível de competência. **Código funcional > certificados**. **Projeto real > nota de curso**.
+Para áreas técnicas (programação, data science, design), o portfólio de projetos é uma evidência muito concreta de competência. **Código funcional > certificados**. **Projeto real > nota de curso**.
 
 Documente cada projeto com um README claro: o que é, por que construiu, o que aprendeu no processo.
 
@@ -180,7 +180,7 @@ Para quem se comunica melhor verbalmente: criar vídeos explicando conceitos ou 
 
 Esta é a objeção mais comum: "Mas eu não sei o suficiente para publicar."
 
-A resposta de Shawn Wang: **você não precisa ser o expert máximo. Você precisa estar pelo menos um passo à frente de alguém.**
+Uma boa resposta vem de **Rachel Thomas** (fast.ai, 2017): **você está na melhor posição para ajudar quem está um passo atrás de você.** Shawn Wang vai na mesma linha: assuma sem vergonha a sua condição de iniciante.
 
 E a Técnica Feynman nos diz: se você consegue explicar de forma simples, você já tem conhecimento suficiente para criar valor com ele.
 
@@ -202,8 +202,8 @@ E a Técnica Feynman nos diz: se você consegue explicar de forma simples, você
 │    já consolidou o aprendizado — isso é valor suficiente.        │
 │                                                                  │
 │  "Mas eu não tenho tempo."                                       │
-│  → 15 minutos por semana de documentação é suficiente para       │
-│    começar. Um artigo curto vale mais do que zero artigos.       │
+│  → 15 minutos por semana bastam para começar (sugestão prática,  │
+│    não estudo). Um artigo curto vale mais do que zero artigos.   │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -211,7 +211,7 @@ E a Técnica Feynman nos diz: se você consegue explicar de forma simples, você
 
 ### Encerramento
 
-O portfólio de aprendizagem é a forma mais tangível de tornar o LLL visível — para você, para sua rede, para o mercado.
+O portfólio de aprendizagem é uma das formas mais tangíveis de tornar o LLL visível — para você, para sua rede, para o mercado.
 
 Mas mais do que visibilidade, é uma prática de consolidação. Cada artigo que você escreve, cada projeto que documenta, cada vídeo que cria — é retrieval ativo, é Técnica Feynman aplicada, é retenção construída.
 
@@ -255,7 +255,7 @@ Na próxima aula — a **última do curso** — chegamos ao ponto de encerrament
 
 **2.** O que é a prática "Learn in Public" de Shawn Wang?
 
-**3.** Por que "escrever para o você de 6 meses atrás" é o princípio certo para o portfólio de aprendizagem?
+**3.** Por que "escrever para o você de 3 meses atrás" é o princípio certo para o portfólio de aprendizagem?
 
 **4.** Cite 3 das 5 formas de portfólio de aprendizagem descritas na aula.
 
@@ -265,11 +265,11 @@ Na próxima aula — a **última do curso** — chegamos ao ponto de encerrament
 
 ### Gabarito
 
-**1.** As 4 razões são: (1) **Consolidação** — documentar é Retrieval ativo que melhora a retenção; (2) **Clareza** — escrever revela lacunas que a leitura esconde; (3) **Criação de valor para outros** — seu aprendizado pode beneficiar quem está 6 meses atrás; (4) **Evidência profissional** — projetos e artigos são evidências verificáveis de competência no mercado.
+**1.** As 4 razões são: (1) **Consolidação** — documentar é Retrieval ativo que melhora a retenção; (2) **Clareza** — escrever revela lacunas que a leitura esconde; (3) **Criação de valor para outros** — seu aprendizado pode beneficiar quem está 3 meses atrás; (4) **Evidência profissional** — projetos e artigos são evidências verificáveis de competência no mercado.
 
 **2.** "Learn in Public" (Shawn Wang, 2018) é a prática de **criar artefatos públicos do processo de aprendizagem** — artigos, projetos, vídeos, posts — ao longo de toda a jornada de aprendizado. O objetivo é ser útil para outros aprendizes enquanto se consolida o próprio aprendizado, e criar visibilidade que gera oportunidades orgânicas.
 
-**3.** "Escrever para o você de 6 meses atrás" define o **tom correto** para o portfólio: honesto, prático e sem pretensão de ser o expert máximo. Quem está onde você estava 6 meses atrás precisa exatamente do que você aprendeu desde então — não do conhecimento de um expert de 10 anos. Isso resolve o bloqueio do "não sei o suficiente para publicar".
+**3.** "Escrever para o você de 3 meses atrás" (a formulação do ensaio de Shawn Wang) define o **tom correto** para o portfólio: honesto, prático e sem pretensão de ser o expert máximo. Quem está onde você estava 3 meses atrás precisa exatamente do que você aprendeu desde então — não do conhecimento de um expert de 10 anos. Isso resolve o bloqueio do "não sei o suficiente para publicar".
 
 **4.** Qualquer 3 entre: (1) Blog / artigos escritos (Medium, LinkedIn Articles); (2) GitHub / portfólio de projetos; (3) LinkedIn como diário de aprendizagem profissional; (4) Zettelkasten / Obsidian como portfólio privado; (5) Vídeo / podcast.
 
@@ -280,7 +280,7 @@ Na próxima aula — a **última do curso** — chegamos ao ponto de encerrament
 ## Leitura Recomendada
 
 - **WANG, Shawn ("swyx")**. "Learn in Public." swyx.io/learn-in-public, 2018. (Artigo original — leitura essencial)
-- **AHRENS, Sönke**. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking*. Create Space, 2017. (Método Zettelkasten)
+- **AHRENS, Sönke**. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking*. CreateSpace, 2017. (Método Zettelkasten)
 - **KLEON, Austin**. *Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered*. Workman Publishing, 2014.
 
 ---

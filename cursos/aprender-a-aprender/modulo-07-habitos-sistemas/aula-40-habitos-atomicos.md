@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 7 — Hábitos e Sistemas de Aprendizado |
-| **Aula** | 40 de 45 (01 de 06 no módulo) |
+| **Aula** | 40 de 59 (01 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Iniciante a Intermediário |
 | **Formato** | Videoaula com slides |
@@ -19,7 +19,7 @@
 
 | Parte | Tempo | Conteúdo |
 |-------|-------|---------|
-| Abertura | 2 min | James Clear e a obra que vendeu mais de 15 milhões de cópias |
+| Abertura | 2 min | James Clear e a obra que vendeu mais de 25 milhões de cópias |
 | Parte 1 | 4 min | O Loop do Hábito: Gatilho → Desejo → Rotina → Recompensa |
 | Parte 2 | 4 min | As 4 Leis para criar hábitos bons e quebrá-los ruins |
 | Parte 3 | 4 min | O poder do 1% ao dia e o compound effect |
@@ -32,7 +32,7 @@
 
 ### Abertura
 
-Em 2018, James Clear publicou um livro que eu recomendo para praticamente todo mundo que quero ver crescendo. Não é exagero dizer que *Hábitos Atômicos* é um dos livros mais práticos já escritos sobre mudança de comportamento. Vendeu mais de 15 milhões de cópias em mais de 50 idiomas — e se você me perguntar por que tantas pessoas o leram, a resposta é simples: funciona.
+Em 2018, James Clear publicou um livro que eu recomendo para praticamente todo mundo que quero ver crescendo. Para mim, *Hábitos Atômicos* é um dos livros mais práticos sobre mudança de comportamento. Segundo a editora americana, vendeu mais de 25 milhões de exemplares em mais de 60 idiomas — e se você me perguntar por que tantas pessoas o leram, a resposta é simples: funciona.
 
 Clear não inventou a ciência dos hábitos. Ele sintetizou décadas de pesquisa em psicologia comportamental, neurociência e ciência cognitiva num framework elegante e aplicável que qualquer pessoa consegue usar no dia a dia.
 
@@ -44,7 +44,7 @@ Hoje vamos entender esse framework e aplicá-lo diretamente ao estudo.
 
 ### Parte 1: O Loop do Hábito
 
-A base do framework de Clear é o que ele chama de Loop do Hábito. Na verdade, ele está construindo sobre pesquisas anteriores — especialmente o trabalho de Charles Duhigg em *O Poder do Hábito* —, mas adiciona precisão e aplicabilidade.
+A base do framework de Clear é o que ele chama de Loop do Hábito. Na verdade, ele está construindo sobre pesquisas anteriores — desde os estudos de B. F. Skinner sobre estímulo, resposta e reforço (1938) até o loop de três passos de Charles Duhigg em *O Poder do Hábito* —, e a contribuição dele é separar o desejo como etapa própria.
 
 O loop tem quatro componentes:
 
@@ -77,7 +77,7 @@ E essa é a chave: **hábitos são loops automáticos**. O objetivo é criar loo
 
 Clear propõe quatro leis, cada uma correspondendo a um elemento do Loop do Hábito:
 
-**Lei 1: Torne Óbvio (Gatilho)**
+**Lei 1: Torne Óbvio (Gatilho)** — na edição brasileira, "torne-o claro"
 
 O hábito só funciona se o gatilho é perceptível. Para criar um novo hábito, torne o gatilho visível e frequente.
 
@@ -133,7 +133,7 @@ LEIS PARA CRIAR            LEIS INVERSAS (PARA QUEBRAR)
 
 ### Parte 3: O Poder do 1% ao Dia
 
-Aqui está um dos conceitos matemáticos mais poderosos de todo o livro de Clear:
+Aqui está uma das ideias mais conhecidas do livro de Clear — uma ilustração aritmética, não uma medição (ninguém melhora exatamente 1% todo dia):
 
 Se você melhora 1% todo dia durante um ano, você se torna 37,78 vezes melhor ao final do ano.
 (1,01)^365 = 37,78
@@ -165,11 +165,11 @@ O PODER DO COMPOUND EFFECT NO APRENDIZADO
 
 O que isso significa para o aprendizado?
 
-Significa que a consistência importa infinitamente mais do que a intensidade no longo prazo. Vinte minutos de estudo todo dia supera, de forma esmagadora no longo prazo, estudar 3 horas uma vez por semana.
+Significa que a consistência pesa muito no longo prazo. Vinte minutos de estudo todo dia tendem a render mais do que estudar 3 horas uma vez por semana — a pesquisa sobre prática distribuída mostra que o mesmo tempo, espalhado, rende mais do que concentrado.
 
 Mas — e isso é crítico — a diferença é invisível nos primeiros dias e semanas. Nos primeiros 30 dias de melhoria de 1%, você está em 1,35x. Modesto. Não impressionante. É quando a maioria das pessoas desiste por não ver resultado "suficiente".
 
-A mágica acontece nos meses 6, 9, 12. Quando o compound effect começa a mostrar seu poder de forma inegável.
+Com o passar dos meses, o efeito acumulado vai ficando visível.
 
 ---
 
@@ -189,7 +189,7 @@ Aplicando as 4 Leis ao design de hábitos de estudo específicos:
 
 **Como**:
 - Protocolo claro e pré-definido (o que faz no primeiro minuto da sessão)
-- Duração fixada antes de começar (25 min Pomodoro, 45 min Deep Work, etc.)
+- Duração fixada antes de começar (25 min de Pomodoro, um bloco mais longo de trabalho profundo etc.)
 - Registro de conclusão (lei 4: torne satisfatório — o X no calendário)
 
 ```
@@ -255,7 +255,7 @@ Aplique as 4 Leis Inversas:
 
 **Parte 4 — Implementação**:
 
-Praticarei esse hábito por 21 dias consecutivos e registrarei diariamente. Meta: nunca quebrar a corrente mais de 1 vez seguida.
+Praticarei esse hábito por 21 dias consecutivos, como primeiro ciclo, e registrarei diariamente. (Os 21 dias não são o prazo de formação de um hábito: no estudo de Lally et al., 2010, a média foi de 66 dias, com faixa de 18 a 254.) Meta: nunca quebrar a corrente mais de 1 vez seguida — a regra de Clear de nunca falhar duas vezes.
 
 ---
 
@@ -318,7 +318,7 @@ d) Usar modo noturno para tornar a tela menos atraente
 
 ## Leitura Recomendada
 
-- **Clear, James**. *Hábitos Atômicos: Como Construir Bons Hábitos e Eliminar os Maus*. Alta Books, 2019. (Cap. 1-7)
+- **Clear, James**. *Hábitos Atômicos: Um Método Fácil e Comprovado de Criar Bons Hábitos e se Livrar dos Maus*. Alta Books (selo Alta Life), 2019. (Cap. 1-7)
 - **Fogg, BJ**. *Tiny Habits: The Small Changes That Change Everything*. Houghton Mifflin Harcourt, 2019.
 - **Duhigg, Charles**. *O Poder do Hábito: Por que fazemos o que fazemos na vida e nos negócios*. Objetiva, 2012.
 

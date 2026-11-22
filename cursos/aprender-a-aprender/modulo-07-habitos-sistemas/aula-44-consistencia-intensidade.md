@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 7 — Hábitos e Sistemas de Aprendizado |
-| **Aula** | 44 de 45 (05 de 06 no módulo) |
+| **Aula** | 44 de 59 (05 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Iniciante a Intermediário |
 | **Formato** | Videoaula com slides |
@@ -22,7 +22,7 @@
 | Abertura | 2 min | O maior mito dos estudantes: o "maratão" de fim de semana |
 | Parte 1 | 4 min | A matemática da consistência: dados sobre retenção e frequência |
 | Parte 2 | 4 min | Prof. Piazzi e a visão brasileira sobre estudo diário |
-| Parte 3 | 4 min | "Don't break the chain" — a regra de Seinfeld |
+| Parte 3 | 4 min | "Don't break the chain" — a regra atribuída a Seinfeld |
 | Parte 4 | 3 min | Consistência quando não há motivação: sistemas, identidade e ambiente |
 | Encerramento | 3 min | Exercício prático + próxima aula |
 
@@ -38,11 +38,11 @@ Existe um padrão de comportamento que eu vejo repetidamente entre estudantes qu
 "Tem um feriado na semana que vem — vou estudar 8 horas num dia."
 "Durante a semana não dá, mas no sábado eu pego tudo de volta."
 
-Isso é o que eu chamo do mito do "maratão de estudo". E a pesquisa em ciências cognitivas é absolutamente clara sobre isso: **o maratão não funciona para aprendizado de longo prazo**.
+Isso é o que eu chamo do mito do "maratão de estudo". E a pesquisa em ciências cognitivas aponta numa direção clara: **para o aprendizado de longo prazo, o maratão rende menos do que a prática distribuída**.
 
 Não é opinião. São dados.
 
-Hoje vamos entender por que a consistência — mesmo que em volumes menores diariamente — supera de forma esmagadora a intensidade episódica. E vamos criar sistemas práticos que tornam a consistência o caminho de menor resistência.
+Hoje vamos entender por que a consistência — mesmo que em volumes menores diariamente — tende a superar a intensidade episódica. E vamos criar sistemas práticos que tornam a consistência o caminho de menor resistência.
 
 ---
 
@@ -50,14 +50,14 @@ Hoje vamos entender por que a consistência — mesmo que em volumes menores dia
 
 Para entender por que consistência vence, precisamos voltar à curva do esquecimento de Ebbinghaus — que vimos nos módulos anteriores — e adicionar uma perspectiva de frequência de exposição.
 
-Hermann Ebbinghaus demonstrou que, sem revisão, esquecemos aproximadamente:
+Hermann Ebbinghaus mediu quanto trabalho economizava ao reaprender listas de sílabas sem sentido (num só sujeito: ele mesmo). Sem revisão, a parte do trabalho que precisou refazer foi de aproximadamente:
 - 40% do que aprendemos em 20 minutos
 - 56% após 1 hora
 - 66% após 1 dia
 - 75% após 6 dias
 - 79% após 1 mês
 
-Mas o ponto crucial que Ebbinghaus também descobriu: cada revisão **reseta a curva** e suaviza a inclinação. Depois da primeira revisão, você esquece mais devagar. Depois da segunda, mais devagar ainda.
+Mas Ebbinghaus também mostrou que cada dia de reestudo exige menos repetições (de 158 no primeiro dia para 31 no sexto) e que repetições distribuídas rendem mais do que concentradas. Em linguagem figurada: cada revisão **reseta a curva** e suaviza a inclinação. Depois da primeira revisão, você esquece mais devagar. Depois da segunda, mais devagar ainda.
 
 Isso significa que a frequência de revisão importa mais do que o volume em cada sessão.
 
@@ -72,10 +72,10 @@ Na próxima sexta, boa parte foi esquecida e precisa ser "reaprendida".
 Estudo 25 minutos todos os dias.
 Total semanal: 175 minutos (~3 horas) — similar ao Cenário A.
 Mas: cada dia, o conteúdo é revisado enquanto ainda está relativamente fresco.
-Retenção muito maior ao longo da semana.
+Retenção maior: em estudos reais, a prática distribuída rendeu 35% a mais após 4 dias (Bloom & Shuell, 1981) e 64% contra 32% após 4 semanas (Rohrer & Taylor, 2006) — embora, com 1 semana, tenha havido empate.
 
 ```
-CONSISTÊNCIA vs. INTENSIDADE — COMPARAÇÃO
+CONSISTÊNCIA vs. INTENSIDADE — ILUSTRAÇÃO (valores hipotéticos)
 ═══════════════════════════════════════════
 
 CENÁRIO A: 3h sexta-feira
@@ -96,7 +96,7 @@ CENÁRIO B: 25 min/dia (7 dias)
            ...
            Sex ████████░░  80% ← começa do 80%
 
-TOTAL SEMANAL: similar — mas RETENÇÃO é 2-3x maior no B
+TOTAL SEMANAL: similar — mas RETENÇÃO maior no B
 ```
 
 O estudo de 25 minutos por dia não apenas produz mais retenção — ele produz mais retenção com o **mesmo volume total de tempo**.
@@ -105,45 +105,43 @@ O estudo de 25 minutos por dia não apenas produz mais retenção — ele produz
 
 ### Parte 2: Prof. Piazzi e a Visão do Estudo Diário
 
-Pierluigi Piazzi — neurocientista e professor brasileiro, autor dos livros "Aprendendo Inteligência" —, chegou à mesma conclusão pela via da neurociência clínica e da observação de alunos ao longo de décadas.
+Pierluigi Piazzi — o Prof. Pier, professor de cursinho que deu aula a cerca de 100 mil alunos, autor de *Aprendendo Inteligência* —, chegou à mesma conclusão pela observação de alunos ao longo de décadas.
 
-A frase que mais uso do Prof. Pier é esta:
+A frase que mais uso do Prof. Pier é a resposta dele à pergunta "quanto estudar?":
 
-*"Estudar todo dia, mesmo que pouco, é melhor do que estudar muito de vez em quando."*
+*"Pouco... mas todo dia."*
 
-Pier argumenta que o cérebro precisa de exposição **regular e frequente** para criar memórias de longo prazo robustas. A memória não é como uma gaveta onde você joga informação e ela fica lá. É como um músculo que responde à frequência do uso, não apenas à intensidade de uma sessão única.
+Pier argumenta que o cérebro precisa de exposição **regular e frequente** para criar memórias de longo prazo robustas. A memória não é como uma gaveta onde você joga informação e ela fica lá. Pier compara o estudo à musculação: mil horas de academia, uma por dia, constroem o físico; quem deixa para os últimos cem dias e tenta dez horas por dia não chega lá.
 
-Ele também descreve o que chama de "custo de retomada": quando você não estuda por vários dias e retoma, o cérebro precisa de um tempo considerável para "reaquerer" o nível de ativação que havia antes. Esse tempo de retomada é puro desperdício — você está reconstruindo acesso a algo que poderia ter mantido com exposições regulares.
+Há também o que se pode chamar de "custo de retomada" (a expressão não aparece nos livros do Pier; a ideia vem da economia medida por Ebbinghaus): quando você não estuda por vários dias e retoma, precisa refazer parte do trabalho para voltar ao nível de antes. Esse tempo de retomada é desperdício — você está reconstruindo acesso a algo que poderia ter mantido com exposições regulares.
 
-Outro ponto poderoso de Piazzi: o estudo diário, mesmo que de 20-30 minutos, mantém o tema "ativo" no background do processamento cognitivo. O cérebro continua processando informações mesmo quando você não está conscientemente pensando nelas — especialmente durante o sono. A exposição frequente alimenta esse processamento de background de forma que a exposição esporádica não consegue.
+Outro ponto de Piazzi: estudar a matéria no mesmo dia, antes de uma noite de sono, porque é dormindo que se fixa o que foi estudado. A pesquisa sobre sono vai na mesma linha: o cérebro reativa e consolida memórias durante a noite (Diekelmann & Born, 2010). A exposição frequente aproveita mais noites de consolidação do que a exposição esporádica.
 
 ---
 
-### Parte 3: "Don't Break the Chain" — A Regra de Seinfeld
+### Parte 3: "Don't Break the Chain" — A Regra Atribuída a Seinfeld
 
-Jerry Seinfeld é considerado por muitos o maior comediante de stand-up de todos os tempos. Quando foi perguntado como ele havia desenvolvido um repertório tão vasto e consistentemente bom ao longo de décadas, sua resposta foi surpreendentemente simples.
+Jerry Seinfeld é um dos comediantes de stand-up mais conhecidos dos Estados Unidos. Sobre ele circula uma história famosa, contada por Brad Isaac, um comediante iniciante que disse ter recebido um conselho de Seinfeld num clube de comédia.
 
-Ele disse que para se tornar um comediante melhor, você precisa escrever piadas melhores. E para escrever piadas melhores, você precisa escrever piadas todos os dias. Então ele comprou um calendário grande e, cada dia que escrevia piadas, colocava um grande X vermelho naquele dia.
+Segundo o relato, Seinfeld disse que para se tornar um comediante melhor, você precisa escrever piadas melhores. E para escrever piadas melhores, você precisa escrever piadas todos os dias. Então ele comprou um calendário grande e, cada dia que escrevia piadas, colocava um grande X vermelho naquele dia.
 
-"Depois de alguns dias, você tem uma corrente. Você só continua e a corrente vai ficar mais longa a cada dia. Você vai gostar de ver essa corrente, especialmente quando você tem algumas semanas para trás. Seu único trabalho é não quebrar a corrente."
+Depois de alguns dias, você tem uma corrente; ela cresce a cada dia, e o seu único trabalho é não quebrá-la. Em 2014, o próprio Seinfeld disse que a ideia não era dele — por isso trate a história como relato, não como fato documentado. A técnica funciona do mesmo jeito.
 
 **Não quebre a corrente.**
 
 ---
 
 ![A Corrente da Consistência — Don't Break the Chain de Jerry Seinfeld](../assets/diagramas/dont-break-the-chain.svg)
-*Figura: A Corrente da Consistência — calendário de 30 dias mostrando o impacto de quebrar a corrente e a matemática do estudo diário (20 min/dia × 365 = 122 horas/ano) — Jerry Seinfeld*
+*Figura: A Corrente da Consistência — calendário de 30 dias mostrando o impacto de quebrar a corrente e a matemática do estudo diário (20 min/dia × 365 = 122 horas/ano) — regra atribuída a Jerry Seinfeld*
 
 ---
 
-Esse sistema funciona porque usa o progresso visível como recompensa (Lei 4 de Clear — Torne Satisfatório). A corrente crescendo é satisfatória por si só. E a perspectiva de quebrar uma corrente longa é suficientemente desagradável para motivar o comportamento mesmo em dias difíceis.
+Esse sistema funciona porque usa o progresso visível como recompensa (Lei 4 de Clear — Torne Satisfatório). E há evidência: numa meta-análise de 138 estudos, monitorar o progresso aumentou a chance de atingir a meta, sobretudo quando o registro era físico ou público (Harkin et al., 2016). A corrente crescendo é satisfatória por si só. E a perspectiva de quebrar uma corrente longa é suficientemente desagradável para motivar o comportamento mesmo em dias difíceis.
 
 Ferramentas para "Don't Break the Chain":
 - Calendário físico na parede (recomendação para início — a visualização física é poderosa)
-- App Streaks (iOS/Android)
-- App Habitify
-- App Productive
-- Planilha simples (Google Sheets) com condicional colorido
+- Aplicativo de hábitos no celular
+- Planilha simples com formatação condicional colorida
 
 ---
 
@@ -171,7 +169,7 @@ E isso é o que distingue quem aprende por anos dos que aprendem por semanas.
 
 ### Encerramento
 
-Nessa aula você viu, com dados concretos, por que a consistência supera a intensidade no aprendizado de longo prazo — através da curva de retenção de Ebbinghaus, da perspectiva do Prof. Piazzi, e da regra "Don't Break the Chain" de Seinfeld.
+Nessa aula você viu, com dados concretos, por que a consistência supera a intensidade no aprendizado de longo prazo — através da curva de retenção de Ebbinghaus, da perspectiva do Prof. Piazzi, e da regra "Don't Break the Chain", atribuída a Seinfeld.
 
 O exercício é criar um calendário visual de 30 dias e marcar cada dia em que estudar — mesmo que por apenas 20 minutos.
 
@@ -232,10 +230,10 @@ d) Porque o exercício de memória é mais eficiente em volumes menores
 
 ---
 
-**2. O que é o "custo de retomada" descrito pelo Prof. Piazzi?**
+**2. O que é o "custo de retomada" descrito na aula?**
 
 a) O custo financeiro de materiais de estudo
-b) O tempo necessário para o cérebro "reaquerer" o nível de ativação anterior após dias sem estudar — tempo puro de reconstrução de acesso, não de aprendizado novo
+b) O tempo necessário para voltar ao nível anterior após dias sem estudar — tempo de reconstrução do que já se sabia, não de aprendizado novo
 c) O esforço extra exigido para lembrar o conteúdo de uma prova antiga
 d) O custo cognitivo de mudar de um tema para outro
 
@@ -243,14 +241,14 @@ d) O custo cognitivo de mudar de um tema para outro
 
 ---
 
-**3. Qual é a origem da regra "Don't Break the Chain"?**
+**3. A quem se costuma atribuir a regra "Don't Break the Chain"?**
 
 a) James Clear a desenvolveu como parte do framework de Hábitos Atômicos
 b) É uma regra da neurociência soviética adaptada por Ebbinghaus
-c) Jerry Seinfeld a descreveu como sua estratégia de desenvolvimento de repertório: marcar um X no calendário todo dia que escrevia piadas, e não quebrar a corrente
+c) A Jerry Seinfeld, num relato de Brad Isaac: marcar um X no calendário todo dia em que escrevia piadas, e não quebrar a corrente (Seinfeld depois disse que a ideia não era dele)
 d) É uma variação do método Pomodoro adaptada para criadores de conteúdo
 
-**Gabarito**: c) — Seinfeld: calendário + X diário + "não quebre a corrente"
+**Gabarito**: c) — Atribuída a Seinfeld (relato de Brad Isaac): calendário + X diário + "não quebre a corrente"
 
 ---
 
@@ -278,8 +276,8 @@ d) Recompensas externas suficientemente atrativas
 
 ## Leitura Recomendada
 
-- **Piazzi, Pierluigi**. *Aprendendo Inteligência*. Aleph, 2007.
-- **Piazzi, Pierluigi**. *Ensinando Inteligência*. Aleph, 2008.
+- **Piazzi, Pierluigi**. *Aprendendo Inteligência*. Goya/Aleph, 2007.
+- **Piazzi, Pierluigi**. *Ensinando Inteligência*. Goya/Aleph, 2008.
 - **Clear, James**. *Hábitos Atômicos*. Alta Books, 2019. (Cap. 16: Como Manter Bons Hábitos Todos os Dias)
 - **Ebbinghaus, Hermann**. *Memory: A Contribution to Experimental Psychology*. Teachers College, 1913.
 

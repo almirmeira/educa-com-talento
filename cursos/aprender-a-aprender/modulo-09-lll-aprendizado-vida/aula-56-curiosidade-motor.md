@@ -19,7 +19,7 @@
 
 | Parte | Tempo | Conteúdo |
 |-------|-------|---------|
-| Abertura | 2 min | Einstein, a bomba atômica e a pergunta dos 7 anos |
+| Abertura | 2 min | Einstein e a curiosidade apaixonada |
 | Parte 1 | 5 min | A neurociência da curiosidade — dopamina e o sistema SEEKING |
 | Parte 2 | 5 min | Como cultivar a curiosidade ativamente |
 | Parte 3 | 4 min | A síndrome do "já sei disso" e a mente de principiante |
@@ -31,7 +31,7 @@
 
 ### Abertura
 
-**Albert Einstein** certa vez disse que não tinha talentos especiais — apenas era apaixonadamente curioso.
+**Albert Einstein** escreveu, numa carta de 1952 a Carl Seelig, que preparava sua biografia, que não tinha talentos especiais — apenas era apaixonadamente curioso.
 
 Isso pode soar como humildade falsa vindo de um dos maiores gênios da história. Mas a pesquisa em neurociência sugere que Einstein estava dizendo algo profundamente verdadeiro.
 
@@ -47,51 +47,51 @@ Porque se você sair desta aula com apenas uma coisa, que seja esta: **a curiosi
 
 ### Parte 1: A Neurociência da Curiosidade
 
-Em 2015, pesquisadores da **Universidade da Califórnia em Davis** liderados pelo neurocientista **Charan Ranganath** publicaram um estudo que mudou a forma como a ciência entendia a curiosidade.
+Em 2014, pesquisadores da **Universidade da Califórnia em Davis**, no laboratório do neurocientista **Charan Ranganath** e com **Matthias Gruber** como primeiro autor, publicaram um estudo muito citado sobre curiosidade e memória.
 
-O experimento era simples: participantes recebiam perguntas triviais (como "Qual é o apelido de Batman?" — "O Cavaleiro das Trevas"). Mas antes de revelar a resposta, os pesquisadores mediam o quanto cada pessoa estava curiosa sobre aquela resposta específica.
+O experimento era simples: participantes recebiam perguntas de conhecimentos gerais e, antes de ver cada resposta, diziam o quanto estavam curiosos sobre ela. Durante a espera pela resposta, aparecia na tela um rosto desconhecido.
 
 Os resultados foram reveladores:
 
-1. Quando as pessoas estavam **altamente curiosas** sobre a resposta, elas retinham muito melhor não apenas a resposta perguntada, mas também informações não relacionadas apresentadas junto — como nomes de rostos desconhecidos.
+1. Quando as pessoas estavam **altamente curiosas** sobre a resposta, elas retinham muito melhor não apenas a resposta perguntada, mas também informações não relacionadas apresentadas junto — como os rostos desconhecidos mostrados durante a espera. Esse ganho para os rostos foi pequeno, mas real.
 
 2. Nos cérebros dos participantes curiosos, havia **ativação intensa do núcleo accumbens** — o centro de recompensa do cérebro — e do **hipocampo** — a região central da formação de memórias.
 
-3. Mais importante: a curiosidade liberava **dopamina** — o neurotransmissor associado à recompensa e à motivação — preparando o cérebro para **absorver mais informação**.
+3. Os autores interpretam esse padrão como ação do circuito **dopaminérgico** — ligado à recompensa e à motivação — preparando o cérebro para **absorver mais informação**. Mas o exame (fMRI) não mede dopamina diretamente: essa parte é inferência, como os próprios autores reconhecem.
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │         CURIOSIDADE E CÉREBRO — O QUE ACONTECE                   │
-│         Ranganath et al., UC Davis, 2015                         │
+│         Gruber, Gelman & Ranganath, UC Davis, 2014               │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
 │  Estado de curiosidade                                           │
 │       ↓                                                          │
-│  Ativação do sistema dopaminérgico                               │
-│  (núcleo accumbens + circuito de recompensa)                     │
+│  Ativação do circuito de recompensa                              │
+│  (núcleo accumbens + mesencéfalo)                                │
 │       ↓                                                          │
-│  Dopamina liberada → prepara o hipocampo                        │
+│  Dopamina (inferida) → prepara o hipocampo                       │
 │       ↓                                                          │
 │  Hipocampo em modo de "absorção ativa"                           │
 │       ↓                                                          │
 │  RETENÇÃO SUPERIOR do conteúdo aprendido no estado curioso       │
 │                                                                  │
 │  Resultado: aprender em estado de curiosidade =                  │
-│  memória mais forte, mais duradoura e mais conectada             │
+│  memória mais forte, inclusive um dia depois                     │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-Em outras palavras: **a curiosidade não só motiva o aprendizado — ela o torna biologicamente mais eficiente**.
+Em outras palavras: **a curiosidade não só motiva o aprendizado — ela parece torná-lo mais eficiente**.
 
-Mas tem algo ainda mais fascinante. O neurocientista **Jak Panksepp** (1943-2017), da **Washington State University**, passou décadas mapeando os 7 sistemas emocionais primários do mamífero — sistemas evolutivamente antigos, presentes em todos os mamíferos, incluindo humanos.
+Mas tem algo ainda mais fascinante. O neurocientista **Jaak Panksepp** (1943-2017), que fez a maior parte da carreira na **Bowling Green State University** e, a partir de 2006, esteve na **Washington State University**, passou décadas mapeando os 7 sistemas emocionais primários do mamífero — sistemas evolutivamente antigos, presentes em todos os mamíferos, incluindo humanos.
 
-Um desses 7 sistemas ele chamou de **SEEKING** — o sistema de busca. É o que Panksepp descrevia como "a pulsão geral de curiosidade, interesse e expectativa antecipada" — o impulso que nos faz **explorar, investigar, descobrir**.
+Um desses 7 sistemas ele chamou de **SEEKING** — o sistema de busca. Panksepp o descrevia como uma disposição geral de busca, interesse e expectativa — o impulso que nos faz **explorar, investigar, descobrir**.
 
 O sistema SEEKING é ativado pela **antecipação da recompensa** — não necessariamente pela recompensa em si. É o prazer da busca, não apenas do encontro.
 
-Isso explica algo que todos conhecemos: às vezes a exploração de um assunto novo é mais prazerosa do que ter chegado ao domínio completo. A jornada ativa o SEEKING mais do que o destino.
+Na tese de Panksepp, construída sobretudo com pesquisa em animais, isso ajudaria a explicar algo que todos conhecemos: às vezes a exploração de um assunto novo é mais prazerosa do que ter chegado ao domínio completo. A jornada ativa o SEEKING mais do que o destino.
 
-**Para o LLL, isso é uma notícia extraordinária**: o próprio ato de aprender — especialmente quando movido por curiosidade genuína — ativa o sistema de recompensa do cérebro. **Aprender pode ser, literalmente, prazeroso do ponto de vista neurológico** — desde que a curiosidade esteja ativa.
+**Para o LLL, isso é uma boa notícia**: o próprio ato de aprender — especialmente quando movido por curiosidade genuína — ativa o circuito de recompensa do cérebro. **Aprender pode ser prazeroso** — desde que a curiosidade esteja ativa.
 
 ---
 
@@ -103,7 +103,7 @@ A curiosidade não é passiva. Ela não "acontece" com você — ela é cultivad
 
 A curiosidade se alimenta de conexões inesperadas entre domínios diferentes. Quando você lê apenas sobre sua área de especialidade, você aprofunda — mas não expande. Quando você lê sobre biologia, filosofia, história, arte ou física sendo um profissional de tecnologia, você cria as condições para insights cruzados que são a fonte de muitas inovações.
 
-**Rotina sugerida**: 80% do tempo de leitura na sua área principal + 20% em áreas completamente diferentes. Esse 20% é o investimento na barra horizontal do T.
+**Rotina sugerida** (uma proporção de partida, não um número científico): 80% do tempo de leitura na sua área principal + 20% em áreas completamente diferentes. Esse 20% é o investimento na barra horizontal do T.
 
 **PRÁTICA 2: Fazer Perguntas Melhores**
 
@@ -126,7 +126,7 @@ Busque **experiências intelectualmente desconfortáveis**:
 
 Há algo que os grandes aprendizes fazem naturalmente: eles buscam tanto pessoas muito mais experientes quanto pessoas muito menos experientes do que elas mesmas.
 
-Com quem tem mais experiência, você aprende. Com quem tem menos, você é forçado a explicar — e o ato de explicar revela lacunas e consolida conhecimento (Efeito Protegiê).
+Com quem tem mais experiência, você aprende. Com quem tem menos, você é forçado a explicar — e o ato de explicar revela lacunas e consolida conhecimento. Ensinar também aumenta o esforço para aprender: é o **efeito protégé** (Chase e colegas, Stanford, 2009).
 
 Ambas as conexões alimentam a curiosidade: a primeira porque expõe o quanto há ainda a aprender; a segunda porque revela o quanto você já avançou e o que pode transmitir.
 
@@ -165,9 +165,9 @@ O problema é que essa avaliação é frequentemente **prematura e incorreta**. 
 
 Pior: mesmo que você de fato já saiba aquilo, escutar a perspectiva de uma fonte diferente pode revelar **nuances, aplicações ou conexões** que você nunca havia considerado.
 
-**Shunryu Suzuki** (1904-1971), mestre Zen japonês que trouxe o budismo zen para os Estados Unidos, tem uma das citações mais poderosas sobre isso:
+**Shunryu Suzuki** (1904-1971), mestre Zen japonês, um dos que difundiram o zen nos Estados Unidos, onde chegou em 1959, tem uma frase célebre sobre isso (em tradução livre):
 
-> *"Na mente do expert, há poucas possibilidades. Na mente do principiante, há muitas."*
+> *"Na mente do principiante há muitas possibilidades; na do especialista, há poucas."*
 
 A **mente de principiante** — *shoshin*, em japonês — é a capacidade de se aproximar de qualquer assunto, mesmo aqueles que você já conhece bem, com abertura, sem pressuposições, com a disposição de descobrir algo novo.
 
@@ -206,7 +206,7 @@ A **mente de principiante** — *shoshin*, em japonês — é a capacidade de se
 
 ### Encerramento
 
-A curiosidade não é um luxo nem um talento raro. É o combustível biológico do aprendizado — ativado pelo sistema dopaminérgico, sustentado pelo sistema SEEKING, e cultivável através de práticas concretas.
+A curiosidade não é um luxo nem um talento raro. É um combustível do aprendizado — ligado ao circuito de recompensa do cérebro, associado por Panksepp ao sistema SEEKING, e cultivável através de práticas concretas.
 
 No LLL, a curiosidade é o que diferencia quem aprende porque precisa de quem aprende porque quer. E no longo prazo, é quem aprende porque quer que sustenta o aprendizado por décadas — muito além do que qualquer obrigação externa pode sustentar.
 
@@ -239,9 +239,9 @@ Na próxima aula, vamos explorar como o aprendizado se multiplica quando feito e
 
 ## Quiz de Retrieval
 
-**1.** O que o estudo de Charan Ranganath (UC Davis, 2015) revelou sobre curiosidade e memória?
+**1.** O que o estudo de Gruber, Gelman e Ranganath (UC Davis, 2014) revelou sobre curiosidade e memória?
 
-**2.** O que é o sistema SEEKING identificado por Jak Panksepp, e por que ele é relevante para o LLL?
+**2.** O que é o sistema SEEKING identificado por Jaak Panksepp, e por que ele é relevante para o LLL?
 
 **3.** Quais são as 4 práticas de cultivo de curiosidade descritas na aula?
 
@@ -253,11 +253,11 @@ Na próxima aula, vamos explorar como o aprendizado se multiplica quando feito e
 
 ### Gabarito
 
-**1.** O estudo de Ranganath (UC Davis) revelou que quando as pessoas estavam em **estado de curiosidade**, elas retinham muito melhor não apenas a informação pela qual estavam curiosas, mas também **informações não relacionadas** apresentadas ao mesmo tempo — sugerindo que a curiosidade prepara o cérebro para absorção geral de informação através da liberação de dopamina e ativação do hipocampo.
+**1.** O estudo (UC Davis, 2014) revelou que quando as pessoas estavam em **estado de curiosidade**, elas retinham muito melhor a informação pela qual estavam curiosas e, com ganho pequeno, também **informações não relacionadas** apresentadas ao mesmo tempo (rostos desconhecidos) — sugerindo que a curiosidade prepara o cérebro para absorver informação, com ativação do circuito de recompensa e do hipocampo. O papel da dopamina é inferido: o fMRI não a mede diretamente.
 
-**2.** O sistema SEEKING (Panksepp, Washington State University) é um dos 7 sistemas emocionais primários dos mamíferos — a "pulsão geral de curiosidade, interesse e expectativa antecipada" que nos faz explorar, investigar e descobrir. Para o LLL, ele é relevante porque é ativado pelo **ato de aprender movido por curiosidade** — tornando o aprendizado intrinsecamente prazeroso do ponto de vista neurológico.
+**2.** O sistema SEEKING (Panksepp, Bowling Green State University e, depois, Washington State University) é, na tese dele, um dos 7 sistemas emocionais primários dos mamíferos — uma disposição geral de busca, interesse e expectativa que nos faz explorar, investigar e descobrir. Para o LLL, ele é relevante porque seria ativado pelo **ato de aprender movido por curiosidade** — o que ajuda a entender por que aprender pode ser prazeroso. É uma tese baseada sobretudo em pesquisa com animais.
 
-**3.** As 4 práticas são: (1) Leitura diversificada — 80% área principal + 20% áreas diferentes; (2) Perguntas melhores — 3 "Por quês" ao final de cada dia; (3) Desconforto intelectual intencional — buscar perspectivas com que se discorda e ambientes de novidade; (4) Conexão com extremos de expertise — experts para aprender + iniciantes para explicar.
+**3.** As 4 práticas são: (1) Leitura diversificada — 80% área principal + 20% áreas diferentes, como proporção de partida; (2) Perguntas melhores — 3 "Por quês" ao final de cada dia; (3) Desconforto intelectual intencional — buscar perspectivas com que se discorda e ambientes de novidade; (4) Conexão com extremos de expertise — experts para aprender + iniciantes para explicar.
 
 **4.** A "síndrome do já sei disso" é o comportamento de desligar o processamento ativo quando você reconhece o rótulo de um conceito, **presumindo conhecer o conteúdo completamente** sem verificar. É perigosa porque: (a) frequentemente é incorreta — você reconhece o rótulo mas pode não ter a compreensão profunda; (b) mesmo quando você sabe, pode perder nuances, aplicações e perspectivas novas.
 
@@ -267,9 +267,9 @@ Na próxima aula, vamos explorar como o aprendizado se multiplica quando feito e
 
 ## Leitura Recomendada
 
-- **RANGANATH, Charan** et al. "States of Curiosity Modulate Hippocampus-Dependent Learning via the Dopaminergic Circuit." *Neuron*, 84(2), 2014.
+- **GRUBER, Matthias J.; GELMAN, Bernard D.; RANGANATH, Charan**. "States of Curiosity Modulate Hippocampus-Dependent Learning via the Dopaminergic Circuit." *Neuron*, 84(2), 486–496, 2014.
 - **PANKSEPP, Jaak; BIVEN, Lucy**. *The Archaeology of Mind: Neuroevolutionary Origins of Human Emotions*. W. W. Norton, 2012.
-- **SUZUKI, Shunryu**. *Zen Mind, Beginner's Mind*. Shambhala, 1970.
+- **SUZUKI, Shunryu**. *Zen Mind, Beginner's Mind*. Weatherhill, 1970 (reeditado pela Shambhala).
 
 ---
 

@@ -35,17 +35,17 @@ Em 1988, **Arie de Geus**, então chefe de planejamento estratégico da **Shell*
 
 O artigo se chamava *"Planning as Learning"* — Planejamento como Aprendizado.
 
-Nele, de Geus apresentou um achado perturbador: ao estudar as empresas mais longevas do mundo — as que sobreviveram por 100, 200, até 700 anos — ele descobriu que a **capacidade de aprender mais rápido do que os concorrentes** era o único diferencial sustentável a longo prazo.
+Nele, de Geus partiu de uma pesquisa da equipe de planejamento da Shell sobre 30 empresas com mais de 75 anos, que se destacavam pela capacidade de se ajustar ao ambiente. E concluiu que a única vantagem competitiva da empresa do futuro seria a capacidade de seus gestores de **aprender mais rápido do que os concorrentes**.
 
 Não tecnologia. Não capital. Não marca. Não tamanho.
 
 **Aprendizagem.**
 
-E de Geus foi além: ele disse que o **único recurso verdadeiramente renovável** que uma organização tem é a **capacidade de aprender e se adaptar**. Tudo o mais — tecnologia, produtos, estratégias, vantagens de mercado — tem prazo de validade. A aprendizagem não.
+E dá para ler o argumento dele assim: a **capacidade de aprender e se adaptar** funciona como um **recurso renovável** da organização. Tudo o mais — tecnologia, produtos, estratégias, vantagens de mercado — tem prazo de validade. A aprendizagem não.
 
 Agora pensa: o que vale para uma organização, vale com ainda mais força para um indivíduo.
 
-Num mercado de trabalho em transformação acelerada, com automação avançando, IA redefinindo funções e novas carreiras surgindo enquanto outras desaparecem, **a capacidade de aprender rapidamente é a vantagem competitiva mais sustentável que você pode cultivar**.
+Num mercado de trabalho em transformação acelerada, com automação avançando, IA redefinindo funções e novas carreiras surgindo enquanto outras desaparecem, **a capacidade de aprender rapidamente é uma das vantagens competitivas mais sustentáveis que você pode cultivar**.
 
 E é isso que o Life Long Learning oferece na dimensão da carreira: não apenas desenvolvimento pessoal, mas **competitividade profissional duradoura**.
 
@@ -59,6 +59,8 @@ O **Relatório Future of Jobs do WEF (2023)** estima que:
 - 44% das habilidades dos trabalhadores serão disruptadas nos próximos 5 anos
 - 60% dos trabalhadores precisarão de treinamento significativo antes de 2027
 - Empregos que crescem mais rápido incluem: analistas de dados, especialistas em IA, especialistas em sustentabilidade — todos com forte componente de aprendizagem contínua
+
+A edição **2025** atualiza: **39% das habilidades centrais** devem mudar até 2030, e **59 em cada 100 trabalhadores** precisarão de treinamento até lá.
 
 Em outras palavras: **não aprender continuamente é, na prática, perder terreno**.
 
@@ -89,15 +91,15 @@ Mas o LLL não é apenas sobre sobrevivência. É sobre **vantagem ativa**.
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-A distinção do último ponto é brutal, mas real. "15 anos de experiência" pode significar 15 anos de aprendizado ativo e crescimento — ou 1 ano repetido 15 vezes. O LLL é o que garante que você está na primeira categoria.
+A distinção do último ponto é brutal, mas real. "15 anos de experiência" pode significar 15 anos de aprendizado ativo e crescimento — ou 1 ano repetido 15 vezes. Há apoio indireto para isso: uma revisão sistemática de 62 avaliações sobre médicos (Choudhry e colegas, 2005) encontrou desempenho piorando com os anos de prática em 32 delas. O LLL é o que garante que você está na primeira categoria.
 
-**Cal Newport**, pesquisador de produtividade e carreira da **Universidade de Georgetown**, usa o conceito de "career capital" — capital de carreira. A ideia é simples: habilidades raras e valiosas são o capital que você usa para negociar autonomia, propósito e remuneração na carreira. E o LLL é o sistema de acumulação contínua desse capital.
+**Cal Newport**, professor de ciência da computação da **Universidade de Georgetown** e autor de livros sobre carreira, usa o conceito de "career capital" — capital de carreira. A ideia é simples: habilidades raras e valiosas são o capital que você usa para negociar autonomia, propósito e remuneração na carreira. E o LLL é o sistema de acumulação contínua desse capital.
 
 ---
 
 ### Parte 2: T-Shaped Skills — Profundidade + Largura
 
-Um dos conceitos mais poderosos para pensar a carreira no século XXI é o das **T-shaped skills** (habilidades em formato T), popularizado por **Tim Brown**, CEO da consultoria IDEO.
+Um dos conceitos mais úteis para pensar a carreira no século XXI é o das **T-shaped skills** (habilidades em formato T), popularizado por **Tim Brown**, CEO da consultoria IDEO (a imagem do T é anterior: aparece em 1991, como vimos na aula 27).
 
 A ideia é visual e direta:
 
@@ -130,7 +132,7 @@ No passado, a especialização profunda (o "I-shaped" — apenas vertical) era s
 
 Hoje, as soluções para os problemas mais relevantes exigem **integração de múltiplas perspectivas**. Um produto digital bem-sucedido precisa de tecnologia + design + psicologia do usuário + negócios. Uma política de saúde eficaz precisa de medicina + economia + ciências sociais + comunicação.
 
-O profissional T-shaped consegue **colaborar através das fronteiras disciplinares** — e isso o torna exponencialmente mais valioso do que alguém com apenas especialização vertical.
+O profissional T-shaped consegue **colaborar através das fronteiras disciplinares** — e isso o torna mais valioso do que alguém com apenas especialização vertical.
 
 **Como o LLL constrói o T:**
 
@@ -143,18 +145,18 @@ Qual é a sua barra vertical atual? E como você pode expandir sua barra horizon
 
 ### Parte 3: O Modelo 70-20-10 e o PDI
 
-Se você quer construir um LLL profissional eficaz, o **Modelo 70-20-10** é um framework muito útil e baseado em pesquisa.
+Se você quer construir um LLL profissional eficaz, o **Modelo 70-20-10** é um framework útil — como orientação, não como medida exata.
 
-Desenvolvido originalmente por **Morgan McCall, Robert Eichinger e Michael Lombardo** no **Center for Creative Leadership (CCL)** nos anos 1980, o modelo descreve como os profissionais mais eficazes aprendem:
+A pesquisa de base é do **Center for Creative Leadership (CCL)** nos anos 1980, com **Morgan McCall, Michael Lombardo e Ann Morrison** (*The Lessons of Experience*, 1988). As porcentagens 70-20-10 aparecem em 1996, com **Lombardo e Robert Eichinger**, a partir do autorrelato de executivos — e a proporção não tem base empírica sólida (Clardy, 2018). O modelo descreve de onde os executivos dizem ter aprendido:
 
 ---
 
 ![Modelo 70-20-10 de Aprendizado Profissional](../assets/diagramas/modelo-70-20-10-aprendizado.svg)
-*Figura: Modelo 70-20-10 de Aprendizagem Profissional — 70% Experiência Prática, 20% Mentoria e Rede, 10% Educação Formal — Centre for Creative Leadership (CCL)*
+*Figura: Modelo 70-20-10 de Aprendizagem Profissional — 70% Experiência Prática, 20% Mentoria e Rede, 10% Educação Formal — orientação derivada de pesquisas do Center for Creative Leadership (CCL), não medida exata*
 
 ---
 
-O insight mais importante desse modelo: **a maioria das pessoas faz o inverso**. Investe 70% do tempo em educação formal (cursos, livros) e negligencia a experiência desafiadora e a rede social de aprendizagem — que juntas são responsáveis por 90% do desenvolvimento.
+O que esse modelo ajuda a enxergar: **é comum apostar quase tudo no curso** (cursos, livros) e negligenciar a experiência desafiadora e a rede social de aprendizagem — que, no modelo, respondem pela maior parte do desenvolvimento.
 
 Isso não significa que você deve parar de fazer cursos. Significa que você deve **equilibrar as 3 fontes** intencionalmente.
 
@@ -242,13 +244,13 @@ Na próxima aula, vamos falar sobre o que alimenta o LLL no nível mais profundo
 
 4. **Agende as revisões trimestrais** no calendário agora — não depois.
 
-**Tempo estimado**: 1 hora (é o investimento mais importante que você vai fazer hoje na sua carreira).
+**Tempo estimado**: 1 hora (um dos investimentos mais importantes que você pode fazer hoje na sua carreira).
 
 ---
 
 ## Quiz de Retrieval
 
-**1.** O que Arie de Geus descobriu que as empresas mais longevas do mundo tinham em comum?
+**1.** O que as empresas longevas estudadas pela Shell tinham em comum, e o que Arie de Geus concluiu disso no artigo de 1988?
 
 **2.** O que são "T-shaped skills" e por que são importantes no mercado atual?
 
@@ -262,13 +264,13 @@ Na próxima aula, vamos falar sobre o que alimenta o LLL no nível mais profundo
 
 ### Gabarito
 
-**1.** Arie de Geus (Shell) descobriu que as empresas mais longevas — sobrevivendo por 100 a 700 anos — tinham como único diferencial sustentável a longo prazo a **capacidade de aprender mais rápido do que os concorrentes**. Não tecnologia, capital, marca ou tamanho — apenas a aprendizagem organizacional.
+**1.** A pesquisa da Shell sobre 30 empresas com mais de 75 anos mostrou que elas se destacavam pela **capacidade de se ajustar ao ambiente**. Daí Arie de Geus concluiu que a única vantagem competitiva da empresa do futuro seria a capacidade de seus gestores de **aprender mais rápido do que os concorrentes** — a aprendizagem organizacional.
 
 **2.** T-shaped skills são um perfil de competências que combina: a **barra vertical** (profundidade de expertise em uma área específica) com a **barra horizontal** (conhecimento amplo e variado de múltiplas áreas que permite colaboração interdisciplinar). São importantes porque as soluções para os problemas mais relevantes hoje exigem integração de múltiplas perspectivas.
 
-**3.** O Modelo 70-20-10 (CCL): **70% de experiência** (projetos desafiadores on-the-job), **20% de aprendizagem social** (mentoria, feedback, comunidades), **10% de educação formal** (cursos, livros, treinamentos).
+**3.** O Modelo 70-20-10 (derivado de pesquisas do CCL; proporção a partir de autorrelato, como orientação): **70% de experiência** (projetos desafiadores on-the-job), **20% de aprendizagem social** (mentoria, feedback, comunidades), **10% de educação formal** (cursos, livros, treinamentos).
 
-**4.** O modelo revela que a maioria das pessoas investe **de forma invertida** — gastando 70% do tempo em educação formal (cursos e livros) e negligenciando a experiência desafiadora e a rede social, que juntas representam 90% do desenvolvimento efetivo dos profissionais mais bem-sucedidos.
+**4.** Porque é comum investir **de forma invertida** — apostar quase tudo na educação formal (cursos e livros) e negligenciar a experiência desafiadora e a rede social, que no modelo respondem por 90% do desenvolvimento. A proporção é uma orientação, não uma medida exata.
 
 **5.** O PDI (Plano de Desenvolvimento Individual) é um documento que **mapeia estrategicamente** o que o profissional vai aprender nos próximos 12 meses, organizado nas 3 dimensões do 70-20-10 e alinhado com um objetivo de carreira de médio prazo. Ele transforma o LLL de intenção vaga em sistema estruturado e mensurável.
 
@@ -278,7 +280,7 @@ Na próxima aula, vamos falar sobre o que alimenta o LLL no nível mais profundo
 
 - **DE GEUS, Arie**. "Planning as Learning." *Harvard Business Review*, Março-Abril 1988.
 - **NEWPORT, Cal**. *So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love*. Business Plus, 2012.
-- **World Economic Forum**. *Future of Jobs Report 2023*. Disponível em weforum.org/reports.
+- **World Economic Forum**. *The Future of Jobs Report 2023* e *The Future of Jobs Report 2025*. Disponíveis em weforum.org/reports.
 
 ---
 

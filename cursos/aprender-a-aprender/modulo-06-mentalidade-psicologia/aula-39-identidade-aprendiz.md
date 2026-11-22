@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 6 — Mentalidade e Psicologia do Aprendizado |
-| **Aula** | 39 de 45 (06 de 06 no módulo) |
+| **Aula** | 39 de 59 (06 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário a Avançado |
 | **Formato** | Videoaula com slides |
@@ -34,8 +34,8 @@
 
 Deixa eu te fazer uma pergunta que parece simples mas vai revelar algo profundo: quando alguém te oferece um cigarro numa festa e você não fuma, qual resposta te parece mais forte?
 
-Opção A: "Não, obrigado, estou tentando parar de fumar."
-Opção B: "Não, obrigado, não sou fumante."
+Opção A: "Não, obrigado. Estou tentando parar."
+Opção B: "Não, obrigado. Não fumo."
 
 James Clear, autor de *Hábitos Atômicos*, usa exatamente esse exemplo. A Opção A diz que você está resistindo a um desejo. A Opção B diz que o cigarro simplesmente não é compatível com quem você é.
 
@@ -43,7 +43,7 @@ Uma frase. Uma diferença enorme.
 
 A Opção B é mais poderosa porque opera no nível da identidade — não no nível do comportamento ou da meta. E Clear argumenta que a mudança mais duradoura começa sempre no nível da identidade.
 
-Hoje, nesta última aula do Módulo 6, vamos entender como construir a **identidade de aprendiz permanente** — e por que isso é a integração mais poderosa de tudo que estudamos neste módulo.
+Hoje, nesta última aula do Módulo 6, vamos entender como construir a **identidade de aprendiz permanente** — e por que isso integra tudo que estudamos neste módulo.
 
 ---
 
@@ -84,11 +84,11 @@ de vontade             comportamento automaticamente
 
 E o mais importante: a identidade é construída através de **pequenas ações repetidas** que funcionam como "votos" para o tipo de pessoa que você quer ser.
 
-"Cada ação é um voto para o tipo de pessoa que você quer ser." — James Clear
+"Cada ação é um voto para o tipo de pessoa que deseja se tornar." — James Clear
 
-Quando você lê 10 páginas hoje, mesmo sem querer, está votando para a identidade de "leitor". Quando você resolve 5 flashcards no Anki antes de dormir, está votando para a identidade de "aprendiz consistente". Quando você escreve num diário de aprendizado, está votando para a identidade de "praticante reflexivo".
+Quando você lê 10 páginas hoje, mesmo sem querer, está votando para a identidade de "leitor". Quando você resolve 5 flashcards antes de dormir, está votando para a identidade de "aprendiz consistente". Quando você escreve num diário de aprendizado, está votando para a identidade de "praticante reflexivo".
 
-Cada votação individual não muda a identidade. Mas mil votos — acumulados ao longo de semanas e meses — criam uma maioria inegável.
+Cada votação individual não muda a identidade. Mas os votos, acumulados ao longo de semanas e meses, formam uma maioria — e Clear lembra que basta a maioria, não a unanimidade.
 
 ---
 
@@ -117,7 +117,7 @@ Seu ambiente deve refletir e reforçar a identidade desejada. Se você quer ser 
 
 **Portfolio de Aprendizado**
 
-Criar um registro visível e acumulativo do que você aprendeu é uma das formas mais poderosas de solidificar a identidade. Pode ser um blog, um repositório GitHub, notas compartilhadas, um diário físico, ou qualquer sistema que torne o aprendizado visível e concreto.
+Criar um registro visível e acumulativo do que você aprendeu é uma forma eficaz de solidificar a identidade. Pode ser um blog, um repositório GitHub, notas compartilhadas, um diário físico, ou qualquer sistema que torne o aprendizado visível e concreto.
 
 O portfolio não é para impressionar os outros — é para você. É a evidência concreta de que você é, de fato, o tipo de pessoa que aprende continuamente.
 
@@ -133,7 +133,7 @@ Existe uma forma sutil mas devastadora pela qual o Fixed Mindset se manifesta na
 
 "Sou desorganizado por natureza." — Isso é uma história, não um traço genético imutável.
 
-As histórias que contamos sobre nós mesmos moldam nossa percepção, que molda nossos comportamentos, que moldam nossos resultados, que "confirmam" as histórias. É um loop de profecia auto-realizável.
+As histórias que contamos sobre nós mesmos moldam nossa percepção, que molda nossos comportamentos, que moldam nossos resultados, que "confirmam" as histórias. É um loop de profecia autorrealizável (termo do sociólogo Robert Merton, 1948).
 
 O trabalho de construção de identidade inclui, necessariamente, reescrever as histórias que contradizem a identidade desejada.
 
@@ -182,9 +182,9 @@ Neste último trecho, quero integrar tudo que aprendemos no Módulo 6 numa visã
 
 E isso é o que o **Life Long Learning** significa em seu nível mais profundo. Não é uma quantidade de horas de estudo por ano. Não é um número de cursos concluídos. É uma identidade — a de alguém que crescer e aprender continuamente é parte inseparável de quem se é.
 
-Benjamin Franklin aprendia algo novo todo dia aos 80 anos. Leonardo da Vinci tinha cadernos de notas que misturavam anatomia, pintura, engenharia e botânica — porque curiosidade era sua identidade fundamental. Richard Feynman, físico americano e Nobel, ficou famoso não apenas pela física mas pela disposição de aprender qualquer coisa — desde arte até bongô.
+Leonardo da Vinci tinha cadernos de notas que misturavam matemática, mecânica, anatomia, arquitetura e o voo dos pássaros — porque curiosidade era sua identidade fundamental. Richard Feynman, físico americano e Nobel, ficou famoso não apenas pela física mas pela disposição de aprender qualquer coisa — aprendeu a desenhar já adulto e tocava bongô.
 
-Eles não aprendiam apesar de serem bem-sucedidos. Eram bem-sucedidos porque aprender era o que eram.
+Eles não aprendiam apesar de serem bem-sucedidos. Aprender fazia parte de quem eram.
 
 Essa identidade está disponível para qualquer pessoa disposta a construí-la — um voto de cada vez.
 
@@ -248,7 +248,7 @@ d) Priorizar o ambiente antes da identidade
 
 ---
 
-**2. O que significa "cada ação é um voto para o tipo de pessoa que você quer ser"?**
+**2. O que significa "cada ação é um voto para o tipo de pessoa que deseja se tornar"?**
 
 a) Que você deve votar nas eleições para mudar o ambiente externo
 b) Que comportamentos repetidos, mesmo pequenos, acumulam evidências que moldam a identidade — cada ação reforça ou contradiz a identidade desejada
@@ -262,7 +262,7 @@ d) Que você deve agir sempre de forma pública para ter accountability
 **3. Como as "histórias que contamos sobre nós mesmos" afetam o aprendizado?**
 
 a) Histórias são apenas narrativas e não têm impacto real no comportamento
-b) Histórias fixas sobre capacidade ("não tenho jeito para isso") criam profecias auto-realizáveis que sabotam o esforço; histórias de crescimento mantêm aberta a possibilidade de desenvolvimento
+b) Histórias fixas sobre capacidade ("não tenho jeito para isso") criam profecias autorrealizáveis que sabotam o esforço; histórias de crescimento mantêm aberta a possibilidade de desenvolvimento
 c) Histórias positivas sobre si mesmo sempre melhoram o desempenho
 d) Apenas histórias de fracasso têm impacto no comportamento
 
@@ -294,7 +294,7 @@ d) A identidade é mais básica e não incorpora os outros conceitos
 
 ## Leitura Recomendada
 
-- **Clear, James**. *Hábitos Atômicos: Como Construir Bons Hábitos e Eliminar os Maus*. Alta Books, 2019. (Cap. 2: Como seus Hábitos Moldam sua Identidade)
+- **Clear, James**. *Hábitos Atômicos: um método fácil e comprovado de criar bons hábitos e se livrar dos maus*. Alta Books, 2019. (Cap. 2: Por que seus hábitos moldam sua identidade)
 - **McAdams, Dan P**. *The Stories We Live By: Personal Myths and the Making of the Self*. William Morrow, 1993.
 - **Wilson, Timothy D**. *Redirect: Changing the Stories We Live By*. Back Bay Books, 2011.
 

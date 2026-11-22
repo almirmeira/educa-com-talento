@@ -22,7 +22,7 @@
 | Abertura | 2 min | A história do tirador de elite e o feedback que ninguém vê |
 | Parte 1 | 5 min | Princípio 6: Feedback — os 3 tipos e como buscar ativamente |
 | Parte 2 | 3 min | O medo do feedback e como superá-lo |
-| Parte 3 | 5 min | Princípio 7: Retention — as 3 estratégias de não esquecer |
+| Parte 3 | 5 min | Princípio 7: Retention — as estratégias de não esquecer |
 | Encerramento | 3 min | Exercício prático + próxima aula |
 
 ---
@@ -31,11 +31,11 @@
 
 ### Abertura
 
-Em 2015, pesquisadores da **Universidade de Chicago** publicaram um estudo curioso. Eles compararam dois grupos de profissionais: um grupo que recebia feedback detalhado e constante sobre seu desempenho, e outro que trabalhava sem feedback sistemático.
+Em 1996, os psicólogos **Avraham Kluger e Angelo DeNisi** publicaram uma grande meta-análise sobre feedback: 607 efeitos medidos, mais de 23 mil observações. Em média, o feedback melhorou o desempenho.
 
-O resultado? Depois de 1 ano, o grupo com feedback mostrou melhoria de desempenho 3 vezes maior do que o grupo sem feedback — mesmo que ambos os grupos tivessem trabalhado o mesmo número de horas.
+Mas há um detalhe curioso: em mais de um terço das intervenções, o feedback piorou o desempenho — principalmente quando desviava a atenção da tarefa para o ego da pessoa.
 
-O que esse estudo mostra é algo que os grandes experts do aprendizado sabem há décadas: **a prática sem feedback é prática que se repete em círculos**. Você pode passar anos fazendo a mesma coisa errada sem jamais saber que está errado.
+O que esse estudo mostra é que o feedback importa — e o tipo de feedback também. E há algo que os grandes experts do aprendizado sabem há décadas: **a prática sem feedback é prática que se repete em círculos**. Você pode passar anos fazendo a mesma coisa errada sem jamais saber que está errado.
 
 Um atirador de elite não treina no escuro. Cada tiro tem feedback imediato — onde a bala acertou, o quanto desviou, o que precisa ajustar. É essa retroalimentação contínua e específica que torna o treinamento eficaz.
 
@@ -80,13 +80,13 @@ Scott Young identifica **3 tipos de feedback** em ordem crescente de valor:
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-A maioria do feedback que recebemos na vida escolar e profissional é do **Tipo 1** — outcome: certo/errado, aprovado/reprovado, boa apresentação/ruim. Esse é o tipo menos útil para melhorar.
+Young diz que o feedback do **Tipo 1** — outcome: certo/errado, aprovado/reprovado, boa apresentação/ruim — é o mais comum e, em muitas situações, o único disponível. É também o menos informativo para melhorar.
 
 O Ultralearning vai atrás do **Tipo 3** — o feedback corretivo — de forma ativa e intencional.
 
 **Como buscar feedback de alta qualidade?**
 
-**Especialistas e mentores**: a fonte mais valiosa. Alguém que já domina o que você está aprendendo pode ver exatamente o que está errado e como corrigir. No mundo do LLL, construir uma rede de mentores em diferentes áreas é um investimento que se paga por décadas.
+**Especialistas e mentores**: a fonte mais valiosa. Alguém que já domina o que você está aprendendo pode ver exatamente o que está errado e como corrigir. No mundo do LLL, construir uma rede de mentores em diferentes áreas pode valer a pena por muitos anos.
 
 **Pares mais avançados**: nem sempre você tem acesso a um expert. Um par que está 1-2 níveis à sua frente frequentemente dá feedback muito prático — porque ainda lembra dos obstáculos que você está enfrentando.
 
@@ -102,7 +102,7 @@ Preciso falar sobre isso porque é real: **muita gente evita feedback porque fee
 
 Mostrar seu trabalho para um expert e ouvir que você errou é desconfortável. Postar seu código em um fórum e receber críticas é constrangedor. Gravar seu discurso e assistir é embaraçoso.
 
-Mas aqui está o que preciso te dizer: **o medo do feedback é o maior inimigo do aprendizado de alta qualidade**.
+Mas aqui está o que preciso te dizer: **o medo do feedback é um grande inimigo do aprendizado de alta qualidade**. E, como lembra Young, o medo costuma ser mais desconfortável do que a experiência em si.
 
 Quem evita feedback está, na prática, escolhendo continuar errando confortavelmente em vez de melhorar desconfortavelmente.
 
@@ -122,9 +122,9 @@ Você aprendeu muito nos princípios anteriores sobre como **adquirir** conhecim
 
 O **Princípio 7 — Retention** responde: de nada adianta aprender se você vai esquecer.
 
-A curva de esquecimento de **Hermann Ebbinghaus** (que você conheceu nos módulos anteriores) nos diz que, sem revisão, perdemos a maior parte do que aprendemos em dias ou semanas.
+A curva de esquecimento de **Hermann Ebbinghaus** (que você conheceu nos módulos anteriores) nos diz que, sem revisão, o esquecimento é mais rápido logo no começo. Com sílabas sem sentido, como as que ele usou, a maior parte se perde em dias; com material significativo, a queda é mais lenta, mas é real.
 
-No contexto de um projeto de Ultralearning, onde você absorve muito conteúdo em pouco tempo, o risco de esquecimento é especialmente alto. Scott Young identifica **3 estratégias principais de retenção**:
+No contexto de um projeto de Ultralearning, onde você absorve muito conteúdo em pouco tempo, o risco de esquecimento é especialmente alto. Scott Young descreve **quatro mecanismos de retenção**: espaçamento, procedimentalização, superaprendizado e mnemônicos. Aqui destacamos **3 estratégias principais** — os mnemônicos, para Young, servem de ponte, não de fundamento:
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -134,7 +134,7 @@ No contexto de um projeto de Ultralearning, onde você absorve muito conteúdo e
 │  1. ESPAÇAMENTO (Spaced Repetition)                              │
 │     Revisar o material em intervalos crescentes                  │
 │     → Anki ou similar para conceitos factuais                    │
-│     → Revisões programadas: 1 dia, 3 dias, 1 semana, 1 mês      │
+│     → Ponto de partida (não lei): 1 dia, 3 dias, 1 sem., 1 mês   │
 │     → Base: já estudado no Módulo 3 deste curso                  │
 │                                                                  │
 │  2. PROCEDIMENTALIZAÇÃO (Proceduralizing)                        │
@@ -145,7 +145,7 @@ No contexto de um projeto de Ultralearning, onde você absorve muito conteúdo e
 │       lembrar de "hello" se você usa 10x por dia                 │
 │     → Em programação: programar todo dia mantém o código fresco  │
 │                                                                  │
-│  3. OVERLEARNING (superprática)                                  │
+│  3. OVERLEARNING (superaprendizado)                              │
 │     Continuar praticando além do ponto de domínio inicial        │
 │     → Criar redundância: aprender o mesmo conceito de múltiplos  │
 │       ângulos e fontes                                           │
@@ -154,21 +154,21 @@ No contexto de um projeto de Ultralearning, onde você absorve muito conteúdo e
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-**A estratégia mais poderosa e mais subestimada é a Procedimentalização**.
+**Uma estratégia muito subestimada é a Procedimentalização**. Young diz que o conhecimento procedimental é muito mais durável — embora admita que as táticas para procedimentalizar são um pouco especulativas.
 
-Aqui está o segredo: **você não precisa memorizar o que usa regularmente**. O uso regular é a forma mais natural e eficaz de retenção.
+Aqui está o segredo: **você não precisa memorizar o que usa regularmente**. O uso regular é uma forma muito natural e eficaz de retenção.
 
 É por isso que você não esquece como andar de bicicleta ou dirigir — você procedimentalizou essas habilidades através do uso repetido. Elas saíram da memória declarativa (que Ebbinghaus mostrou ser vulnerável) e foram para a memória procedural (muito mais durável).
 
 **Implicação prática**: a melhor estratégia de retenção para habilidades complexas é **continuar usando** o que aprendeu, mesmo depois de terminado o projeto formal de Ultralearning. É aqui que o **LLL se conecta ao Ultralearning**:
 
-O projeto de Ultralearning dura 30-90 dias. O LLL garante que você continua usando, aplicando e construindo sobre esse conhecimento por anos — e assim ele nunca sai do sistema.
+No formato deste curso, o projeto de Ultralearning dura de 30 a 90 dias (o MIT Challenge de Young durou cerca de um ano). O LLL garante que você continua usando, aplicando e construindo sobre esse conhecimento por anos — e assim ele nunca sai do sistema.
 
 **Integrando Anki e Zettelkasten num projeto de Ultralearning:**
 
-Para conceitos factuais (vocabulário de idiomas, fórmulas, definições, datas): **Anki** com espaçamento automatizado é a ferramenta mais eficaz.
+Para conceitos factuais (vocabulário de idiomas, fórmulas, definições, datas): Young recomenda sistemas de repetição espaçada como o **Anki**, com espaçamento automatizado.
 
-Para ideias complexas, conexões e conhecimento conceitual: **Zettelkasten** (método de fichas atômicas) garante que você captura o entendimento de forma que pode ser resgatado e conectado futuramente.
+Para ideias complexas, conexões e conhecimento conceitual, a recomendação é deste curso (Módulo 4), não de Young: **Zettelkasten** (método de fichas atômicas) garante que você captura o entendimento de forma que pode ser resgatado e conectado futuramente.
 
 Juntos, os dois sistemas formam uma infraestrutura de retenção que funciona por anos após o projeto encerrado.
 
@@ -237,17 +237,17 @@ Na próxima aula, chegamos aos Princípios 8 e 9 — **Intuição** e **Experime
 
 **3.** Procedimentalização é transformar conhecimento **declarativo** (que se lembra memorizando) em conhecimento **procedural** (que se lembra fazendo). É o que acontece com andar de bicicleta ou dirigir — o uso repetido em contexto real transfere o conhecimento para uma memória muito mais durável.
 
-**4.** O Anki com espaçamento é ideal para **conhecimento factual** (vocabulário, fórmulas, definições) — informações discretas que precisam ser recuperadas de forma exata. Para **habilidades complexas e conceituais** (raciocínio, criatividade, solução de problemas), a procedimentalização e o uso em contexto real são mais eficazes.
+**4.** O Anki com espaçamento é indicado para **conhecimento factual** (vocabulário, fórmulas, definições) — informações discretas que precisam ser recuperadas de forma exata. Para **habilidades complexas e conceituais** (raciocínio, criatividade, solução de problemas), a procedimentalização e o uso em contexto real são mais eficazes.
 
-**5.** O LLL garante que o conhecimento adquirido em um projeto de Ultralearning **não se perde** — o aprendizado contínuo e o uso regular ao longo dos anos funcionam como a melhor estratégia de retenção de longo prazo. O Ultralearning aprende; o LLL retém.
+**5.** O LLL garante que o conhecimento adquirido em um projeto de Ultralearning **não se perde** — o aprendizado contínuo e o uso regular ao longo dos anos funcionam como uma das melhores estratégias de retenção de longo prazo. O Ultralearning aprende; o LLL retém.
 
 ---
 
 ## Leitura Recomendada
 
-- **YOUNG, Scott**. *Ultralearning*, Capítulo 10 (Feedback) e Capítulo 11 (Retention). HarperBusiness, 2019.
+- **YOUNG, Scott**. *Ultralearning*, Capítulo 9 (Feedback) e Capítulo 10 (Retention). HarperBusiness, 2019. Edição brasileira: *Ultra-aprendizado*. HarperCollins Brasil, 2020.
 - **HATTIE, John; TIMPERLEY, Helen**. "The Power of Feedback." *Review of Educational Research*, 77(1), 81–112, 2007.
-- **EBBINGHAUS, Hermann**. *Memory: A Contribution to Experimental Psychology*, 1885. (Clássico sobre a curva do esquecimento)
+- **EBBINGHAUS, Hermann**. *Über das Gedächtnis*, 1885 (trad. ingl.: *Memory: A Contribution to Experimental Psychology*, 1913). (Clássico sobre a curva do esquecimento)
 
 ---
 

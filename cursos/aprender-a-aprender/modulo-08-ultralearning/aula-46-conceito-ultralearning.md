@@ -32,13 +32,13 @@
 
 ### Abertura
 
-Setembro de 2011. Um jovem canadense de 23 anos chamado **Scott Young** publica no seu blog um anúncio que a maioria das pessoas na época considerou simplesmente impossível.
+Setembro de 2011. Um jovem canadense chamado **Scott Young** publica no seu blog um anúncio que a maioria das pessoas na época considerou simplesmente impossível.
 
 Ele iria completar o currículo inteiro de 4 anos do **MIT em Ciências da Computação** em apenas **12 meses**. Usando apenas os materiais gratuitos disponíveis no site do MIT — gravações de aulas, listas de exercícios, projetos. Sem matrícula. Sem professor. Sem diploma no final. Só o aprendizado.
 
 A maioria das pessoas ao redor dele disse que era loucura. "Você não vai aprender nada de verdade." "Isso é impossível." "4 anos de MIT em 12 meses — sério?"
 
-Doze meses depois, Scott Young havia completado os 33 cursos do currículo oficial do MIT. Com aprovação nos testes. Com projetos funcionando. Com portfólio construído. Em 1/4 do tempo e com uma fração ínfima do custo.
+Doze meses depois, Scott Young havia completado os 33 cursos do currículo oficial do MIT. Com aprovação nos testes. Com projetos funcionando. Em 1/4 do tempo e com uma fração ínfima do custo. Com ressalvas que ele mesmo publica: ele corrigiu as próprias provas com os gabaritos oficiais, a nota mínima era 50%, e laboratórios e disciplinas de pesquisa ficaram de fora.
 
 E isso não foi um fluke, uma sorte, uma aberração genética. Foi o resultado de um **sistema**. Um método. Uma abordagem completamente diferente de aprender.
 
@@ -52,20 +52,18 @@ Isso é o que chamamos de **Life Long Learning (LLL)** na prática mais intensa 
 
 ### Parte 1: Quem é Scott Young e o que é Ultralearning
 
-**Scott Young** nasceu em 1988 no Canadá. Não é um gênio. Não é produto de uma família acadêmica especial. Ele é um blogueiro, escritor e pesquisador do aprendizado — alguém que ficou obcecado com uma pergunta simples: **"Como se aprende da forma mais eficaz possível?"**
+**Scott Young** é canadense. Não é um gênio. Não é produto de uma família acadêmica especial. Ele é um blogueiro, escritor e pesquisador do aprendizado — alguém que ficou obcecado com uma pergunta simples: **"Como se aprende da forma mais eficaz possível?"**
 
 Depois do MIT Challenge, ele não parou. Fez mais experimentos radicais:
-- Aprendeu 4 idiomas em 1 ano viajando por países sem falar inglês
-- Aprendeu a desenhar em 30 dias com intensidade máxima
+- Passou um ano em 4 países (Espanha, Brasil, China e Coreia do Sul), 3 meses em cada, tentando não falar inglês
+- Treinou desenho de retratos durante 30 dias, com cerca de 100 horas de prática
 - Estudou cada um dos 9 princípios que descobriu durante anos de prática e pesquisa
 
-Em 2019, ele lançou o livro **"Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career"** — um dos livros mais importantes sobre aprendizado da última década.
+Em 2019, ele lançou o livro **"Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career"** — publicado no Brasil em 2020 como *Ultra-aprendizado*.
 
-A definição oficial dele é essa:
+No livro, a definição — que o próprio Young chama de imperfeita — é: uma estratégia de aquisição de habilidades e conhecimento que é tanto **autodirigida** quanto **intensiva**. A frase de divulgação do método vai além e fala em aprendizado agressivo e autodirigido para dominar habilidades difíceis mais rápido do que você imaginaria possível.
 
-> *"Ultralearning é uma estratégia de aprendizado agressivo, autodirigido, que permite dominar habilidades difíceis e adquirir conhecimento valioso de forma mais rápida do que você imaginaria possível."*
-
-Quero destacar três palavras dessa definição:
+Quero destacar três palavras dessas formulações:
 
 **Agressivo** — não no sentido de violento, mas no sentido de intencional ao extremo. Sem half-measures. Sem "vou estudar quando der."
 
@@ -115,7 +113,7 @@ O Ultralearning coloca você no controle.
 
 ### Parte 3: Os 9 Princípios — Visão Geral e Casos Históricos
 
-Scott Young identificou 9 princípios que aparecem em todos os casos de Ultralearning de sucesso. Vamos fazer um sobrevoo agora — e vamos mergulhar em cada um nas próximas aulas.
+Scott Young identificou 9 princípios que se repetem nos casos de Ultralearning que ele estudou. Vamos fazer um sobrevoo agora — e vamos mergulhar em cada um nas próximas aulas.
 
 ---
 
@@ -126,37 +124,37 @@ Scott Young identificou 9 princípios que aparecem em todos os casos de Ultralea
 
 Agora deixa eu te contar alguns casos históricos que mostram esses princípios em ação — porque o mais importante que você precisa entender é que **Ultralearning não é para gênios**. É um método.
 
-**Benny Lewis — O Pologlota de Dublin**
+**Benny Lewis — O Poliglota Irlandês**
 
 Benny Lewis é irlandês. Até os 21 anos, só falava inglês. Após 6 meses morando na Espanha, ainda não falava espanhol — e estava frustrado. Então ele mudou radicalmente sua abordagem: começou a **falar desde o primeiro dia**, aceitar erros como dados, buscar feedback nativo constantemente.
 
-Resultado? Hoje fala mais de 10 idiomas em nível de fluência conversacional. Seu livro "Fluent in 3 Months" virou um bestseller mundial. O segredo? Directness + Feedback + Recuperação ativa. Nenhum gênio linguístico — método deliberado.
+Resultado? Segundo Scott Young, ficou fluente em várias línguas, entre elas espanhol, italiano, gaélico, francês e português. Depois escreveu o livro "Fluent in 3 Months". O segredo? Directness + Feedback + Recuperação ativa. Nenhum gênio linguístico — método deliberado.
 
 **Eric Barone — ConcernedApe e o Stardew Valley**
 
-Em 2012, Eric Barone era um estudante universitário sem emprego, morando em Seattle. Ele decidiu criar um videogame sozinho. Sozinho mesmo: programação, arte, música, design, roteiro, tudo.
+Em 2011, Eric Barone tinha acabado de se formar em ciência da computação pela Universidade de Washington em Tacoma e trabalhava como porteiro de teatro, por salário mínimo. Ele decidiu criar um videogame sozinho. Sozinho mesmo: programação, arte, música, design, roteiro, tudo.
 
-Ele não sabia fazer nada disso. Mas passou **4 anos e meio** aprendendo cada habilidade com intensidade focada, praticando projetos reais desde o início (Directness), buscando feedback da comunidade de jogadores, iterando sem parar.
+Programar ele já sabia; arte, música e o resto, não. Passou **4 anos e meio** aprendendo cada habilidade com intensidade focada, praticando direto nos gráficos do próprio jogo (Directness), comparando seu trabalho com o de artistas que admirava, estudando teoria e tutoriais e refazendo os personagens dez vezes ou mais.
 
-Em 2016, lançou o **Stardew Valley**. Mais de 20 milhões de cópias vendidas. Mais de US$500 milhões em receita. Um único ser humano.
+Em fevereiro de 2016, lançou o **Stardew Valley**. Até dezembro de 2024, segundo o próprio desenvolvedor, foram mais de 41 milhões de cópias vendidas. Um único ser humano.
 
 **Tristan de Montebello — Do Zero ao Top Mundial em Oratória**
 
-Em 2017, Tristan de Montebello era um músico francês vivendo em Nova York. Ele decidiu se tornar um grande orador público em 7 meses. Partindo praticamente do zero em oratória competitiva.
+Tristan de Montebello, metade francês e metade americano, era músico e empreendedor. Ele decidiu se tornar um grande orador público em poucos meses. Partindo praticamente do zero em oratória competitiva.
 
 Ele aplicou Ultralearning: mapeou o campo (Metalearning), praticou discursos reais todo dia (Directness), gravou cada discurso e analisou (Feedback), treinou partes isoladas como pausas e contato visual (Drill).
 
-7 meses depois, chegou ao **top 5% mundial** no campeonato Toastmasters International.
+Em menos de 7 meses, ficou **entre os dez melhores** do Campeonato Mundial de Oratória da Toastmasters International, que reúne cerca de 30 mil competidores.
 
 **Nigel Richards — O Campeão de Scrabble**
 
-Esta é minha favorita. Nigel Richards é americano e já era campeão mundial de Scrabble em inglês. Em 2015, decidiu competir no campeonato mundial de Scrabble **em francês**. Pequeno detalhe: ele não falava francês.
+Esta é minha favorita. Nigel Richards é neozelandês, de Christchurch, e já tinha sido campeão mundial de Scrabble em inglês três vezes. Em 2015, decidiu competir no campeonato mundial de Scrabble **em francês**. Pequeno detalhe: ele não falava francês.
 
-Ele pegou o dicionário oficial do campeonato — cerca de 386.000 palavras em francês — e memorizou em 9 semanas. Não o significado. As palavras como sequências de letras para jogar Scrabble.
+Ele pegou o dicionário oficial do campeonato — cerca de 386 mil formas válidas em francês — e estudou em cerca de 9 semanas. Não o significado. As palavras como sequências de letras para jogar Scrabble.
 
 Ganhou o campeonato mundial. **Em francês. Sem falar francês.**
 
-O que todos esses casos têm em comum? Eles aplicaram os 9 princípios de forma consciente e intensa. E nenhum deles era um gênio. Eram pessoas comuns com um método extraordinário.
+O que todos esses casos têm em comum? Eles aplicaram os princípios de forma consciente e intensa. O próprio Young não descarta o talento — no caso de Richards, ele admite essa possibilidade —, mas o que se repete em todos eles é o método.
 
 ---
 
@@ -190,7 +188,7 @@ Ambos são necessários. Ambos se alimentam mutuamente.
 
 Nesta aula, você conheceu o que é Ultralearning, quem é Scott Young, quais são os 9 princípios em visão geral, e viu casos reais que provam que isso funciona para pessoas comuns.
 
-Nas próximas 7 aulas deste módulo, vamos mergulhar em cada princípio com profundidade. E na aula final — Aula 53 — você vai desenhar seu próprio projeto de Ultralearning de 30 dias.
+Nas próximas aulas deste módulo, vamos mergulhar nos princípios, dois a dois (Aulas 47 a 51), e ver casos de sucesso (Aula 52). E na aula final — Aula 53 — você vai desenhar seu próprio projeto de Ultralearning de 30 dias.
 
 Mas antes disso, quero que você já comece a pensar. Porque o Ultralearning começa na cabeça, antes de qualquer ação.
 
@@ -202,12 +200,11 @@ Mas antes disso, quero que você já comece a pensar. Porque o Ultralearning com
 ┌────────────────────────────────────────────────────────────────────┐
 │               ULTRALEARNING — LINHA DO TEMPO DE SCOTT YOUNG        │
 ├──────────┬─────────────────────────────────────────────────────────┤
-│  2011    │  MIT Challenge: 4 anos de CS em 12 meses                │
-│  2012    │  "No English Year": 4 idiomas em 4 países               │
-│  2014    │  Curso de arte intensivo: rosto humano em 30 dias        │
-│  2016    │  Publicação de artigos sobre os 9 princípios             │
+│  2011–12 │  MIT Challenge: 4 anos de CS em 12 meses                │
+│  2013–14 │  "O Ano Sem Inglês": 4 países, 3 meses em cada          │
+│  2016    │  Desafio de retratos: 30 dias, cerca de 100 horas        │
 │  2019    │  Livro "Ultralearning" publicado pela HarperBusiness     │
-│  2020+   │  Método adotado por milhões ao redor do mundo            │
+│  2020    │  Edição brasileira: "Ultra-aprendizado"                  │
 └──────────┴─────────────────────────────────────────────────────────┘
 ```
 
@@ -279,21 +276,21 @@ Mas antes disso, quero que você já comece a pensar. Porque o Ultralearning com
 
 ### Gabarito
 
-**1.** Uma estratégia de aprendizado **agressivo e autodirigido** que permite dominar habilidades difíceis e adquirir conhecimento valioso de forma mais rápida do que seria possível com métodos convencionais.
+**1.** No livro: uma estratégia de aquisição de habilidades e conhecimento que é tanto **autodirigida** quanto **intensiva** (definição que o próprio Young chama de imperfeita). A frase de divulgação fala em aprendizado agressivo e autodirigido para dominar habilidades difíceis mais rápido do que se imaginaria possível.
 
 **2.** Qualquer 3 entre: Metalearning, Focus, Directness, Drill, Retrieval, Feedback, Retention, Intuition, Experimentation.
 
-**3.** Em 2011, Scott Young completou o currículo de 4 anos do MIT em Ciências da Computação em apenas **12 meses**, usando apenas materiais gratuitos disponíveis online.
+**3.** Entre outubro de 2011 e setembro de 2012, Scott Young completou o currículo de 4 anos do MIT em Ciências da Computação em apenas **12 meses**, usando apenas materiais gratuitos disponíveis online e corrigindo as próprias provas com os gabaritos oficiais.
 
 **4.** O **LLL** é uma filosofia e prática contínua de aprendizado ao longo de toda a vida. O **Ultralearning** é uma ferramenta de alta intensidade e curto prazo usada dentro do LLL para dominar habilidades específicas rapidamente — como sprints dentro de uma maratona.
 
-**5.** Que Ultralearning **não é para gênios** — é um método. Eric Barone não tinha nenhum talento prévio em programação, arte ou música. Ele aprendeu cada habilidade com intensidade focada, usando Directness (praticando projetos reais desde o início) e Feedback contínuo da comunidade.
+**5.** Que Ultralearning é **autodirigido e baseado na prática direta** — é um método. Eric Barone já sabia programar, mas aprendeu sozinho arte, música e o resto, com intensidade focada, usando Directness (praticando direto nos gráficos do próprio jogo) e Feedback (criticando o próprio trabalho e comparando-o com o de artistas que admirava).
 
 ---
 
 ## Leitura Recomendada
 
-- **YOUNG, Scott**. *Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career*. HarperBusiness, 2019.
+- **YOUNG, Scott**. *Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career*. HarperBusiness, 2019. Edição brasileira: *Ultra-aprendizado*. Trad. Lucas Bandeira. Rio de Janeiro: HarperCollins Brasil, 2020.
 - **YOUNG, Scott**. Blog: scotthyoung.com — artigos sobre o MIT Challenge e os 9 princípios
 - **ERICSSON, Anders; POOL, Robert**. *Peak: Secrets from the New Science of Expertise*. Houghton Mifflin Harcourt, 2016.
 

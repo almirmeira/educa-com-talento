@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 6 — Mentalidade e Psicologia do Aprendizado |
-| **Aula** | 38 de 45 (05 de 06 no módulo) |
+| **Aula** | 38 de 59 (05 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário |
 | **Formato** | Videoaula com slides |
@@ -32,7 +32,7 @@
 
 ### Abertura
 
-Existe uma crença específica que, mais do que QI, mais do que talento, mais do que recursos, prediz se uma pessoa vai se esforçar de verdade diante de um desafio difícil.
+Existe uma crença específica que ajuda a prever se uma pessoa vai se esforçar de verdade diante de um desafio difícil — mesmo entre pessoas com habilidade parecida.
 
 Não é "acreditar em si mesmo" no sentido genérico das frases motivacionais. É algo muito mais específico, muito mais poderoso, e felizmente muito mais construível do que a maioria das pessoas imagina.
 
@@ -75,9 +75,9 @@ Por que essa distinção importa para o aprendizado?
 
 Porque você pode ter alta autoestima (se sentir bem sobre si mesmo) e ainda assim não acreditar que consegue aprender programação. Você pode ter autoconfiança geral e ainda evitar tentar coisas difíceis em áreas específicas.
 
-A autoeficácia de aprendizado — a crença de que você consegue adquirir habilidades com esforço e estratégia adequados — é o que prediz o comportamento real de estudo: se você vai persistir diante de dificuldades, se vai buscar estratégias diferentes quando uma não funciona, se vai aceitar desafios maiores progressivamente.
+A autoeficácia de aprendizado — a crença de que você consegue adquirir habilidades com esforço e estratégia adequados — ajuda a prever o comportamento real de estudo: se você vai persistir diante de dificuldades, se vai buscar estratégias diferentes quando uma não funciona, se vai aceitar desafios maiores progressivamente.
 
-Bandura documentou isso em dezenas de estudos: autoeficácia alta prediz esforço maior, persistência maior diante de obstáculos, e melhor desempenho — mesmo controlando pelo nível inicial de habilidade. Pessoa A com habilidade X mas alta autoeficácia frequentemente supera pessoa B com habilidade X mas baixa autoeficácia.
+Estudos de Bandura e colegas associam autoeficácia alta a esforço maior, persistência maior diante de obstáculos e melhor desempenho — numa meta-análise, uma correlação moderada (r ≈ 0,38, cerca de 14% da variância; Multon et al., 1991). Num estudo de Collins, apresentado em congresso em 1982, crianças com habilidade parecida em matemática, mas crença mais forte, resolveram mais problemas.
 
 ---
 
@@ -109,7 +109,7 @@ A persuasão social tem menos impacto do que as experiências de domínio, mas �
 
 **Fonte 4: Estado Fisiológico e Emocional**
 
-Quando você está com energia, descansado, bem alimentado, num estado emocional positivo — sua autoeficácia sobe naturalmente. Quando está exausto, estressado, ansioso — cai.
+Para Bandura, pesa a forma como você interpreta seus estados corporais e seu humor. Cansaço, estresse e ansiedade lidos como sinal de incapacidade derrubam a crença; a mesma ativação lida como preparação para o desafio pode até ajudar (Jamieson et al., 2010, viram melhora de desempenho numa prova após essa reinterpretação).
 
 Isso tem implicações práticas: gerenciar seu estado físico não é luxo, é parte da construção de autoeficácia. Sono de qualidade, exercício, hidratação, gestão do estresse — tudo isso afeta diretamente a crença na própria capacidade de executar.
 
@@ -117,19 +117,19 @@ Isso tem implicações práticas: gerenciar seu estado físico não é luxo, é 
 4 FONTES DE AUTOEFICÁCIA (Bandura)
 ════════════════════════════════════
 
-1. EXPERIÊNCIAS DE DOMÍNIO ████████████████████ (mais poderosa)
+1. EXPERIÊNCIAS DE DOMÍNIO (a fonte mais poderosa)
    "Fiz antes, posso fazer de novo"
    Como cultivar: buscar vitórias calibradas, progressivas
 
-2. APRENDIZADO VICÁRIO ████████████████
+2. APRENDIZADO VICÁRIO
    "Alguém como eu conseguiu"
    Como cultivar: encontrar modelos com perfil similar
 
-3. PERSUASÃO SOCIAL ████████████
+3. PERSUASÃO SOCIAL
    "Pessoas que respeito acreditam em mim"
    Como cultivar: buscar professores e mentores engajados
 
-4. ESTADO FISIOLÓGICO ████████
+4. ESTADO FISIOLÓGICO
    "Estou em boa forma para enfrentar isso"
    Como cultivar: sono, exercício, gestão do estresse
 ```
@@ -144,15 +144,15 @@ Se você tem baixa autoeficácia em uma área — matemática, escrita, programa
 
 Cada vitória — cada exercício resolvido, cada conceito dominado, cada habilidade incorporada — alimenta a Fonte 1 (experiências de domínio). Com o tempo, a autoeficácia no domínio cresce organicamente.
 
-O **progresso visível** é especialmente poderoso. Quando você pode ver concretamente que está crescendo — através de métricas, de revisões do Anki que ficam mais fáceis, de exercícios que antes eram impossíveis e hoje são fluentes — a autoeficácia recebe um reforço contínuo.
+O **progresso visível** é especialmente poderoso. Quando você pode ver concretamente que está crescendo — através de métricas, de revisões de flashcards que ficam mais fáceis, de exercícios que antes eram impossíveis e hoje são fluentes — a autoeficácia recebe um reforço contínuo.
 
-James Clear, no *Hábitos Atômicos*, fala sobre o prazer de colecionar "evidências de identidade" — cada pequena ação bem executada é um voto para a identidade de quem você quer se tornar. No contexto da autoeficácia, cada vitória de aprendizado é uma evidência de que você é o tipo de pessoa que aprende com esforço.
+James Clear, no *Hábitos Atômicos*, fala em acumular evidências da sua identidade: "cada atitude que você toma é um voto para o tipo de pessoa que deseja se tornar". No contexto da autoeficácia, cada vitória de aprendizado é uma evidência de que você é o tipo de pessoa que aprende com esforço.
 
 ---
 
 ### Parte 4: A Espiral Virtuosa
 
-Bandura descreveu algo que chamo de espiral virtuosa da autoeficácia:
+Bandura descreveu a influência recíproca entre crença e desempenho; a ideia de espirais de eficácia e desempenho foi difundida depois por Lindsley, Brass e Thomas (1995). É o que chamo de espiral virtuosa da autoeficácia:
 
 ```
 A ESPIRAL VIRTUOSA
@@ -188,7 +188,7 @@ E existe a espiral viciosa inversa:
 
 Baixa autoeficácia → Menos esforço → Menos sucesso → Confirma baixa autoeficácia → Menos esforço ainda...
 
-O insight poderoso é: é possível **interromper** a espiral viciosa injetando vitórias calibradas. Uma vitória real, conquistada com esforço, em um desafio de nível adequado, é suficiente para começar a redirecionar a espiral para o sentido virtuoso.
+O insight poderoso é: é possível **interromper** a espiral viciosa injetando vitórias calibradas. Uma vitória real, conquistada com esforço, em um desafio de nível adequado, pode ajudar a começar a redirecionar a espiral para o sentido virtuoso.
 
 Isso é especialmente importante para o **Life Long Learning**: o aprendiz permanente não é aquele que nunca teve autoeficácia baixa em nenhuma área. É aquele que sabe como construir autoeficácia em novas áreas — sistematicamente, através das quatro fontes de Bandura — cada vez que decide dominar algo novo.
 
@@ -296,7 +296,7 @@ d) Autoeficácia é inata; autoestima pode ser desenvolvida
 
 a) Não há relação comprovada entre estado físico e crença em capacidades
 b) Estado fisiológico é a fonte mais importante de autoeficácia, acima das experiências de domínio
-c) Quando em bom estado físico e emocional (descansado, energizado), a autoeficácia naturalmente sobe; quando exausto ou estressado, cai — gerenciar o estado físico é parte da construção de autoeficácia
+c) A forma como você interpreta seus estados corporais e emocionais (cansaço, ansiedade, ativação) influencia a crença na própria capacidade — gerenciar e reinterpretar esse estado é parte da construção de autoeficácia
 d) O estado fisiológico afeta apenas a autoestima, não a autoeficácia
 
 **Gabarito**: c) — Estado físico é a 4ª fonte de autoeficácia; gerenciá-lo é parte da estratégia

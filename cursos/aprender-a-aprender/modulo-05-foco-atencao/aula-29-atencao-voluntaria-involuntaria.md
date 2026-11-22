@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 5 — Gestão de Foco e Atenção |
-| **Aula** | 29 de 45 (02 de 06 no módulo) |
+| **Aula** | 29 de 59 (02 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário |
 | **Formato** | Videoaula com slides |
@@ -34,7 +34,7 @@
 
 Deixa eu te fazer uma pergunta que pode ser um pouco desconfortável: quantas vezes você olhou para o celular hoje?
 
-Não precisa responder em voz alta. Mas se você for honesto consigo mesmo, o número provavelmente é bem maior do que você gostaria de admitir. Estudos com smartphone logging mostram que usuários comuns desbloqueiam o celular entre 80 e 150 vezes por dia. Oitenta a cento e cinquenta vezes.
+Não precisa responder em voz alta. Mas se você for honesto consigo mesmo, o número provavelmente é bem maior do que você gostaria de admitir. Um estudo que registrou o uso real do celular (Andrews e col., 2015) encontrou uma média de cerca de 85 usos por dia — e os próprios participantes estimavam menos da metade disso. Dezenas de vezes por dia.
 
 Isso não é fraqueza de caráter. Isso não é falta de disciplina. Isso é o resultado de uma indústria multibilionária que investiu décadas de pesquisa em neurociência, psicologia comportamental e ciência de dados para tornar os produtos digitais **irresistíveis** para o cérebro humano.
 
@@ -50,13 +50,13 @@ A psicologia cognitiva divide a atenção humana em dois sistemas fundamentais. 
 
 **Atenção Voluntária (Top-Down / Goal-Driven)**
 
-A atenção voluntária é controlada pelo córtex pré-frontal — a parte mais evoluída do cérebro humano, responsável pelo planejamento, controle de impulsos e tomada de decisão. Ela é chamada de *top-down* (de cima para baixo) porque é controlada pelos seus objetivos, intenções e valores. É você decidindo conscientemente onde colocar sua atenção.
+A atenção voluntária depende sobretudo de uma rede frontoparietal dorsal, que inclui áreas do córtex pré-frontal ligadas ao planejamento, ao controle de impulsos e à tomada de decisão. Ela é chamada de *top-down* (de cima para baixo) porque é controlada pelos seus objetivos, intenções e valores. É você decidindo conscientemente onde colocar sua atenção.
 
-Quando você está estudando deliberadamente, resolvendo um problema complexo, ou praticando uma habilidade difícil — você está usando atenção voluntária. Ela é poderosa mas tem um custo: exige esforço e se esgota com o tempo.
+Quando você está estudando deliberadamente, resolvendo um problema complexo, ou praticando uma habilidade difícil — você está usando atenção voluntária. Ela é poderosa mas tem um custo: exige esforço e cansa com o uso prolongado.
 
 **Atenção Involuntária (Bottom-Up / Salience-Driven)**
 
-A atenção involuntária é muito mais antiga evolutivamente. Ela é controlada por estruturas subcorticais do cérebro — o sistema que nos manteve vivos na savana africana por milhões de anos. É chamada de *bottom-up* (de baixo para cima) porque é ativada por características do ambiente, não pelos seus objetivos.
+A atenção involuntária depende de outra rede, a ventral (temporoparietal e frontal inferior), que funciona como um "disjuntor": interrompe o que você está fazendo quando algo saliente ou inesperado aparece — um alerta que ajudou nossos ancestrais a sobreviver. É chamada de *bottom-up* (de baixo para cima) porque é ativada por características do ambiente, não pelos seus objetivos.
 
 O que ativa a atenção involuntária? Novidade, movimento, cores contrastantes, sons inesperados, rostos humanos, referências sexuais, ameaças potenciais — qualquer coisa que o cérebro ancestral identificava como relevante para a sobrevivência.
 
@@ -66,18 +66,18 @@ O que ativa a atenção involuntária? Novidade, movimento, cores contrastantes,
 ├────────────────────────────┬────────────────────────────────┤
 │  VOLUNTÁRIA (Top-Down)     │  INVOLUNTÁRIA (Bottom-Up)      │
 ├────────────────────────────┼────────────────────────────────┤
-│ Controlada pelo seu        │ Controlada pelo ambiente       │
-│ córtex pré-frontal         │ e estruturas subcorticais      │
+│ Controlada pelos objetivos │ Disparada pelo ambiente        │
+│ (rede frontoparietal)      │ (rede ventral, "disjuntor")    │
 │ Movida por: objetivos,     │ Movida por: novidade,          │
 │ intenções, valores         │ movimento, cor, som, ameaça    │
 │ Exige esforço consciente   │ Automática, involuntária       │
-│ Esgota-se com uso          │ Quase ilimitada                │
+│ Cansa com uso prolongado   │ Rápida, quase sem esforço      │
 │ Resultado: aprendizado     │ Resultado: distração           │
 │ profundo                   │ (quando não intencional)       │
 └────────────────────────────┴────────────────────────────────┘
 ```
 
-A questão crítica é esta: **os produtos digitais modernos foram projetados especificamente para explorar o sistema involuntário** — o mais primitivo, o mais automático, o mais difícil de controlar conscientemente.
+A questão crítica é esta: **muitos produtos digitais modernos são projetados para capturar o sistema involuntário** — o mais automático, o mais difícil de controlar conscientemente.
 
 ---
 
@@ -85,15 +85,15 @@ A questão crítica é esta: **os produtos digitais modernos foram projetados es
 
 Isso não é teoria conspiratória. É engenharia comportamental documentada.
 
-Tristan Harris foi designer de produto no Google e, internamente, ficou famoso por um slide que circulou pela empresa em 2013. O slide tinha o título: "Como tecnologia de persuasão coloca 1 bilhão de pessoas em transe". Harris depois fundou o Center for Humane Technology e se tornou uma das vozes mais importantes sobre ética em tecnologia.
+Tristan Harris trabalhou no Google como especialista em ética de design (*Design Ethicist*) e, em fevereiro de 2013, fez circular internamente uma apresentação chamada "A Call to Minimize Distraction & Respect Users' Attention" — um apelo para minimizar a distração e respeitar a atenção dos usuários. Harris depois cofundou o movimento Time Well Spent, que deu origem ao Center for Humane Technology, e se tornou uma das vozes mais conhecidas sobre ética em tecnologia.
 
 Mas o que ele descreveu já era amplamente conhecido dentro da indústria: aplicativos são projetados para **explorar vulnerabilidades cognitivas específicas** do cérebro humano. Deixa eu listar as principais:
 
-**Reforço intermitente variável**: Esse é o mesmo mecanismo que torna o caça-níquel viciante. Quando você puxa o feed do Instagram ou do Twitter, não sabe o que vai aparecer. Às vezes é algo interessante, às vezes é mundano. Essa imprevisibilidade da recompensa é o gatilho mais poderoso que existe para o sistema dopaminérgico. O feed infinito de scroll foi projetado precisamente por esse princípio.
+**Reforço intermitente variável**: Esse é o mesmo mecanismo que torna o caça-níquel viciante. Quando você puxa o feed do Instagram ou do Twitter, não sabe o que vai aparecer. Às vezes é algo interessante, às vezes é mundano. Recompensas imprevisíveis mantêm um comportamento com muita força (Skinner já mostrava isso com esquemas de reforço variável), e em macacos a atividade sustentada dos neurônios de dopamina é máxima justamente quando a recompensa é incerta (Fiorillo e col., 2003). O feed infinito funciona segundo esse mesmo princípio.
 
-**Notificações como interruptores de atenção**: Cada notificação é um estimulo de atenção involuntária: um som inesperado, uma vibração, uma luz pulsante, um número vermelho em um ícone. São ativadores do sistema bottom-up — seu cérebro foi programado evolutivamente para responder a esses estímulos. Receber uma notificação e não olhar é literalmente ir contra o design evolutivo do seu cérebro. Isso é quanto custou para construir esse produto.
+**Notificações como interruptores de atenção**: Cada notificação é um estímulo de atenção involuntária: um som inesperado, uma vibração, uma luz pulsante, um número vermelho em um ícone. São ativadores do sistema bottom-up — seu cérebro foi programado evolutivamente para responder a esses estímulos. Receber uma notificação e não olhar é ir contra a tendência natural do seu cérebro.
 
-**Faces humanas nos thumbnails**: O YouTube descobre via A/B testing constante que thumbnails com rostos humanos expressivos têm taxa de clique muito maior. Por quê? Porque o reconhecimento facial é uma das funções mais automáticas e prioritárias do cérebro — herdada de quando identificar uma face ameaçadora podia salvar a sua vida.
+**Faces humanas nos thumbnails**: Miniaturas de vídeo costumam trazer rostos humanos expressivos — e não é por acaso: nossos olhos se dirigem a um rosto em cerca de 100 milissegundos, mesmo quando estamos procurando outra coisa (Crouzet e col., 2010). Por quê? Porque o reconhecimento facial é uma das funções mais automáticas e prioritárias do cérebro — herdada de quando identificar uma face ameaçadora podia salvar a sua vida.
 
 **Reciprocidade social**: Os likes, comentários e reações criam um mecanismo de reciprocidade social. Quando alguém curtiu sua foto, você sente uma pressão quase física de responder. É o sistema social do cérebro — também automático — sendo explorado para te trazer de volta ao aplicativo.
 
@@ -107,31 +107,30 @@ Agora vem o dado que, quando eu vi pela primeira vez, me fez querer jogar o celu
 
 Gloria Mark é professora de Informática na Universidade da Califórnia em Irvine, e ela passou anos estudando como as interrupções digitais afetam o trabalho cognitivo. Ela e sua equipe acompanharam trabalhadores de conhecimento em seus ambientes naturais, medindo com precisão o que acontecia após cada interrupção.
 
-O resultado: depois de uma interrupção — qualquer interrupção, mesmo uma notificação olhada por dois segundos — uma pessoa leva em média **23 minutos e 15 segundos** para retornar ao mesmo nível de foco que tinha antes da interrupção.
+O resultado: quando um trabalho era interrompido e retomado no mesmo dia, a pessoa levava em média **23 minutos e 15 segundos** para voltar a ele — e, nesse meio-tempo, passava por cerca de duas outras tarefas.
 
 Vinte e três minutos. E quinze segundos.
 
-Agora faz o cálculo comigo. Se você está estudando por duas horas e olha para o celular só seis vezes — o que é bem conservador para a maioria das pessoas — você potencialmente desperdiçou toda a profundidade cognitiva que poderia ter alcançado nessas duas horas.
+Agora pensa no seu estudo. Se você olha para o celular seis vezes em duas horas, cada olhada pode puxar outra tarefa, e voltar ao exercício custa tempo. A equipe de Mark também mostrou que quem é interrompido compensa trabalhando mais rápido — mas com mais estresse e frustração (Mark e col., 2008).
 
 ```
-CÁLCULO DO CUSTO REAL DAS INTERRUPÇÕES
+O QUE O DADO DE 23 MINUTOS MEDE
 ════════════════════════════════════════
-Sessão de estudo: 2 horas (120 min)
-Interrupções: 6 (uma a cada 20 min)
-Tempo de recuperação por interrupção: 23 min
+O que os 23 min medem: tempo médio até RETOMAR uma
+tarefa interrompida (só as retomadas no mesmo dia),
+com ~2 outras tarefas no meio
+O que NÃO medem: "nível de foco" nem uma olhada de 2 s
 
-Tempo "perdido" em recuperação: 6 × 23 = 138 minutos
-Tempo disponível para foco real: 120 - 138 = NEGATIVO
-
-⚠ Com 6 interrupções em 2h, você NUNCA atingiu foco profundo.
-  Você passou o tempo todo em modo superficial.
+⚠ Por isso a conta "6 × 23 = 138 min > 120 min" não vale.
+  O custo real: retomadas lentas, tarefas encadeadas
+  e mais estresse.
 ```
 
-E existe mais um dado perturbador de Gloria Mark: a pesquisa mais recente dela mostra que o tempo médio que as pessoas conseguem manter o foco em uma única tela antes de mudar para outra **caiu de 2 minutos e 30 segundos** (início dos anos 2000) **para 47 segundos** (pesquisa de 2023).
+E existe mais um dado perturbador de Gloria Mark: nos estudos dela, o tempo médio que trabalhadores passam numa mesma tela do computador antes de trocar **caiu de cerca de 2 minutos e 30 segundos** (primeiro estudo, publicado em 2004) para 75 segundos (2012) e **47 segundos** (estudos dos últimos anos, reunidos no livro de 2023).
 
 Quarenta e sete segundos.
 
-Isso não é porque ficamos mais burros. É porque treinamos nosso cérebro para mudar de foco constantemente. E, como qualquer treinamento, esse comportamento criou uma adaptação neural que agora funciona automaticamente.
+Isso não é porque ficamos mais burros. Uma interpretação plausível é que criamos o hábito de mudar de foco constantemente — e hábitos podem ser treinados nas duas direções.
 
 A boa notícia é que o oposto também é verdade: você pode treinar a atenção voluntária. E é exatamente o que estamos fazendo nesse módulo.
 
@@ -145,13 +144,13 @@ Ok, chega de diagnóstico. Vamos às soluções.
 
 **Timers de app**: Aplicativos como Digital Wellbeing (Android) e Screen Time (iOS) permitem definir limites diários para apps específicos. Use para redes sociais. Quando o limite é atingido, o app bloqueia automaticamente.
 
-**Configuração de notificações**: Faça uma auditoria radical. A pergunta para cada app é: "Essa notificação me traz informação que preciso receber em tempo real?" Para 95% dos apps, a resposta é não. Desative tudo que não for essencial.
+**Configuração de notificações**: Faça uma auditoria radical. A pergunta para cada app é: "Essa notificação me traz informação que preciso receber em tempo real?" Para a grande maioria dos apps, a resposta é não. Desative tudo que não for essencial.
 
-**Separação física**: Durante sessões de estudo, o celular vai para outro cômodo. Não na gaveta, não virado para baixo — outro cômodo. Lembra da pesquisa do Ward (2017) que mencionamos na aula anterior? A simples presença visual do celular reduz a capacidade cognitiva. Não corra esse risco.
+**Separação física**: Durante sessões de estudo, o celular vai para outro cômodo. Não na gaveta, não virado para baixo — outro cômodo. Lembra da pesquisa do Ward (2017) que mencionamos na aula anterior? Ela sugeriu que a simples presença do celular reduz a capacidade cognitiva; uma replicação direta (2022) não encontrou o efeito, e uma meta-análise (2024) achou só um efeito pequeno na memória de trabalho. Ainda assim, celular em outro cômodo significa mais atrito para checá-lo.
 
 **Ambiente físico intencional**: Chegamos a um tema que teremos uma aula inteira ao final deste módulo. Mas já deixo o spoiler: seu ambiente físico — temperatura, iluminação, ruído, o que está visível na mesa — afeta diretamente sua capacidade de manter atenção voluntária.
 
-**A atenção como músculo**: Aqui está a perspectiva mais importante. Cada vez que você resiste ao impulso de checar o celular durante uma sessão de foco, você está fortalecendo o córtex pré-frontal. Cada vez que você cede, está fortalecendo o padrão de dispersão. O treino não é diferente do treino físico — consiste em resistência repetida, gradual e intencional.
+**A atenção como músculo**: Aqui está a perspectiva mais importante. Cada vez que você resiste ao impulso de checar o celular durante uma sessão de foco, você está reforçando o hábito de permanecer na tarefa. Cada vez que você cede, está fortalecendo o padrão de dispersão. Como em qualquer hábito, o treino consiste em repetição gradual e intencional.
 
 Como **aprendizes permanentes** que buscam crescer ao longo de toda a vida — o que é a essência do Life Long Learning — precisamos desenvolver essa capacidade de atenção voluntária como uma prioridade absoluta. Sem ela, todo o restante do que aprendemos nesse curso fica comprometido.
 
@@ -161,7 +160,7 @@ Como **aprendizes permanentes** que buscam crescer ao longo de toda a vida — o
 
 Nessa aula você aprendeu que existem dois sistemas de atenção: o voluntário, que você controla, e o involuntário, que o ambiente controla. E que a indústria digital investiu bilhões para dominar o segundo.
 
-Você viu os dados de Gloria Mark: 23 minutos e 15 segundos para recuperar o foco após uma interrupção. E você tem agora um arsenal de estratégias concretas para proteger sua atenção.
+Você viu os dados de Gloria Mark: 23 minutos e 15 segundos, em média, para retomar uma tarefa interrompida. E você tem agora um arsenal de estratégias concretas para proteger sua atenção.
 
 No exercício, você vai fazer uma auditoria de 24 horas — registrando cada interrupção que experimenta e quanto tempo leva para recuperar o foco. É perturbador, mas é o primeiro passo para a mudança.
 
@@ -205,11 +204,11 @@ Até lá!
 **1. O que caracteriza a atenção voluntária (top-down)?**
 
 a) É automática e controlada pelo ambiente
-b) É controlada pelo córtex pré-frontal e movida pelos objetivos da pessoa
+b) Apoia-se em redes frontoparietais (incluindo o córtex pré-frontal) e é movida pelos objetivos da pessoa
 c) É mais rápida que a atenção involuntária
 d) Foi desenvolvida evolutivamente para sobrevivência na savana
 
-**Gabarito**: b) — Voluntária = córtex pré-frontal + objetivos conscientes
+**Gabarito**: b) — Voluntária = rede frontoparietal dorsal + objetivos conscientes
 
 ---
 
@@ -224,7 +223,7 @@ d) Porque a tela brilha mais que o ambiente
 
 ---
 
-**3. Segundo Gloria Mark (UC Irvine), quanto tempo leva para recuperar o foco após uma interrupção?**
+**3. Segundo Gloria Mark (UC Irvine), quanto tempo, em média, as pessoas levavam para retomar um trabalho interrompido (no mesmo dia)?**
 
 a) 5 minutos
 b) 10 minutos
@@ -246,14 +245,14 @@ d) Motiva atletas de alto desempenho
 
 ---
 
-**5. Qual é a estratégia mais radical e eficaz para eliminar interrupções digitais durante estudo?**
+**5. Qual é a estratégia mais radical para eliminar interrupções digitais durante estudo?**
 
 a) Colocar o celular em silencioso
 b) Desativar apenas as notificações de redes sociais
 c) Virar o celular com a tela para baixo
-d) Colocar o celular em modo avião e em outro cômodo — elimina interrupções e a presença visual que reduz capacidade cognitiva
+d) Colocar o celular em modo avião e em outro cômodo — elimina as interrupções e cria atrito para checar o aparelho
 
-**Gabarito**: d) — Modo avião + outro cômodo é a combinação mais eficaz
+**Gabarito**: d) — Modo avião + outro cômodo é a combinação mais radical entre as opções
 
 ---
 
@@ -261,7 +260,7 @@ d) Colocar o celular em modo avião e em outro cômodo — elimina interrupçõe
 
 - **Mark, Gloria**. *Attention Span: A Groundbreaking Way to Restore Balance, Happiness and Productivity*. Hanover Square Press, 2023.
 - **Harris, Tristan**. Center for Humane Technology: humanetech.com
-- **Ward, Adrian F. et al**. "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity". *Journal of the Association for Consumer Research*, 2017.
+- **Ward, Adrian F. et al**. "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity". *Journal of the Association for Consumer Research*, 2(2), 2017.
 - **Fogg, BJ**. *Persuasive Technology: Using Computers to Change What We Think and Do*. Morgan Kaufmann, 2003.
 
 ---

@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 5 — Gestão de Foco e Atenção |
-| **Aula** | 31 de 45 (04 de 06 no módulo) |
+| **Aula** | 31 de 59 (04 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário a Avançado |
 | **Formato** | Videoaula com slides |
@@ -34,7 +34,7 @@
 
 Cal Newport é professor de Ciência da Computação na Universidade de Georgetown, em Washington, e é uma anomalia interessante no mundo acadêmico: ele nunca teve conta em nenhuma rede social. Nenhuma. Nem durante a faculdade, nem durante o doutorado, nem agora como professor publicado.
 
-E, ao mesmo tempo, ele é um dos acadêmicos mais produtivos da sua geração: publicou livros, artigos científicos, e mantém uma carreira de pesquisa prolífica.
+E, ao mesmo tempo, ele escreve livros, publica pesquisa e dá aulas — uma carreira bastante produtiva.
 
 A coincidência não é acidental. Em 2016, Newport publicou o livro *Deep Work* — Trabalho Focado, em português —, e nele ele apresenta uma hipótese que vai contra toda a cultura corporativa e acadêmica moderna: a capacidade de trabalhar com foco profundo, sem distrações, está se tornando cada vez mais rara. E, por isso mesmo, está se tornando cada vez mais valiosa.
 
@@ -73,13 +73,13 @@ Newport define os dois tipos de trabalho com precisão cirúrgica:
 └────────────────────────┴───────────────────────────────────┘
 ```
 
-Aqui está o insight que Newport desenvolve: em uma economia onde a inteligência artificial está automatizando progressivamente as tarefas de Shallow Work, os profissionais que conseguem executar Deep Work com regularidade estão em vantagem enorme.
+Aqui está o insight que Newport desenvolve: em uma economia em que máquinas inteligentes, automação e terceirização avançam sobre as tarefas mais fáceis de replicar, os profissionais que conseguem executar Deep Work com regularidade estão em vantagem enorme. Hoje, com a inteligência artificial, esse argumento ganha ainda mais peso — leitura minha, não do livro de 2016.
 
 E para estudantes, isso é ainda mais direto: aprender de verdade — absorver um conceito difícil, resolver um problema nunca visto antes, desenvolver uma habilidade complexa — é Deep Work. Fazer o que a maioria dos estudantes faz — reler passivamente, sublinhar com caneta colorida, estudar enquanto ouve música com letra — é Shallow Work disfarçado de estudo.
 
 Newport tem uma fórmula para o resultado do Deep Work:
 
-**Resultado de Alto Desempenho = Tempo × Intensidade do Foco**
+**Trabalho de Alta Qualidade Produzido = Tempo Gasto × Intensidade do Foco**
 
 Note que o tempo sozinho não é o diferencial. Intensidade do foco multiplicada pelo tempo é o que produz resultados excepcionais. Isso explica por que algumas pessoas produzem muito mais em 4 horas de Deep Work do que outras em 10 horas de Shallow Work disfarçado.
 
@@ -100,7 +100,7 @@ Newport reconhece que não existe uma forma única de praticar Deep Work. As pes
 
 O praticante monástico elimina ou minimiza radicalmente todas as obrigações superficiais e dedica a vida quase inteiramente ao Deep Work.
 
-Exemplo: Donald Knuth, o cientista da computação que escreveu a série de livros *The Art of Computer Programming* — um dos mais importantes da área. Knuth literalmente não tem e-mail. Publicou um aviso no seu site dizendo que aposentou o e-mail em 1990 e que pessoas que queiram se comunicar devem enviar cartas para o seu departamento, que ele lê uma vez por trimestre.
+Exemplo: Donald Knuth, o cientista da computação que escreveu a série de livros *The Art of Computer Programming* — um dos mais importantes da área. Knuth literalmente não tem e-mail desde 1º de janeiro de 1990. No seu site, ele explica que precisa de longas horas de concentração sem interrupção e que responde à correspondência em lote — algo como um dia a cada seis meses.
 
 Esse modelo é para poucos — acadêmicos, escritores, artistas. A maioria das pessoas tem obrigações que não permite essa abordagem.
 
@@ -108,7 +108,7 @@ Esse modelo é para poucos — acadêmicos, escritores, artistas. A maioria das 
 
 O praticante bimodal divide o tempo em dois: períodos de Deep Work intenso (dias ou semanas inteiras de reclusão total) alternados com períodos de disponibilidade normal.
 
-Exemplo: Carl Jung, o psicólogo suíço, construiu uma torre em Bollingen às margens de um lago suíço onde se recolhia periodicamente por semanas sem interrupções para escrever e pensar. Depois voltava ao trabalho clínico normal em Zurique.
+Exemplo: Carl Jung, o psicólogo suíço, construiu uma torre em Bollingen, à beira do lago de Zurique, onde se recolhia periodicamente, sem interrupções, para escrever e pensar. Depois voltava ao trabalho clínico normal no consultório em Küsnacht, perto de Zurique.
 
 Para estudantes: pode ser implementado como uma semana por mês de estudo intensivo, ou fins de semana inteiros dedicados a Deep Work em algum projeto.
 
@@ -116,7 +116,7 @@ Para estudantes: pode ser implementado como uma semana por mês de estudo intens
 
 O praticante rítmico incorpora o Deep Work em uma rotina diária com um horário fixo. Todos os dias, no mesmo horário, independentemente de motivação, ele executa seu bloco de Deep Work.
 
-Exemplo: o autor Jerry Seinfeld disse uma vez que escrevia piadas todo dia pela manhã, sem exceção. Cada dia que conseguia escrever, marcava um X num calendário. O objetivo era "não quebrar a corrente". Resultado: décadas de produção consistente.
+Exemplo: o método popularmente atribuído ao comediante Jerry Seinfeld (num relato de Brad Isaac, de 2007 — e o próprio Seinfeld contesta a autoria): escrever piadas todo dia e, a cada dia cumprido, marcar um X num calendário. O objetivo era "não quebrar a corrente".
 
 Esse é o modelo mais acessível para a maioria das pessoas — e especialmente para estudantes. Bloco fixo de Deep Work todos os dias, mesmo que de 90 minutos.
 
@@ -149,7 +149,7 @@ O praticante jornalístico encaixa o Deep Work em qualquer janela de tempo livre
 
 ### Parte 3: As Regras do Deep Work
 
-Newport propõe regras específicas para quem quer desenvolver uma prática de Deep Work. Vou te passar as mais importantes.
+Newport organiza a segunda parte do livro em quatro regras: trabalhe com profundidade, aceite o tédio, abandone as redes sociais e drene o raso. Vou te passar algumas táticas que ele propõe — rituais, grande gesto e placar fazem parte da primeira regra.
 
 **Trabalhe profundamente — crie rituais**
 
@@ -159,17 +159,17 @@ Assim como falamos do hiperfoco na Aula 28, o Deep Work funciona melhor com ritu
 
 Newport descreve o fenômeno do "grande gesto" como uma mudança radical de contexto que sinaliza para o cérebro a importância excepcional do trabalho que está prestes a fazer.
 
-JK Rowling alugou uma suíte em um hotel de luxo em Edimburgo para terminar o último livro de Harry Potter. Bill Gates fazia seus "Think Weeks" semi-anuais numa cabana isolada para pensar sem interrupção sobre o futuro da Microsoft.
+JK Rowling alugou uma suíte no hotel Balmoral, em Edimburgo, para terminar o último livro de Harry Potter, concluído ali em janeiro de 2007. Bill Gates, quando era CEO da Microsoft, ficou conhecido pelas "Think Weeks": duas vezes por ano, uma semana isolado num chalé, lendo e pensando sem interrupção sobre o futuro da tecnologia.
 
 Para estudantes, um grande gesto pode ser: estudar durante um fim de semana inteiro numa biblioteca longe de casa, alugar um espaço de coworking para uma semana de provas, ou reservar as primeiras 2 horas da manhã em um café tranquilo como espaço sagrado de estudo.
 
 **Não use a internet**
 
-Durante as sessões de Deep Work, internet só se for estritamente necessária para a tarefa. Não abrir e-mail, não checar redes sociais, não navegar. A internet é o oposto do Deep Work — ela foi projetada para fragmentar a atenção.
+Durante as sessões de Deep Work, internet só se for estritamente necessária para a tarefa. Não abrir e-mail, não checar redes sociais, não navegar. Boa parte da internet que usamos no dia a dia é o oposto do Deep Work — foi projetada para fragmentar a atenção.
 
 **Meça a profundidade**
 
-Newport sugere medir o tempo gasto em Deep Work versus Shallow Work. Uma meta razoável para quem está desenvolvendo essa habilidade: 4 horas de Deep Work por dia é excepcional. 1-2 horas diárias já é superior à maioria dos profissionais.
+Newport sugere medir o tempo gasto em Deep Work versus Shallow Work, num placar visível. Uma referência: nos estudos de Ericsson e colegas (1993), especialistas raramente passavam de cerca de 4 horas diárias de prática concentrada, e iniciantes ficavam por volta de 1 hora. Para quem está desenvolvendo essa habilidade, 1 a 2 horas diárias já são uma excelente meta para começar.
 
 ---
 
@@ -183,7 +183,7 @@ O protocolo que recomendo, construindo sobre o Pomodoro da aula anterior:
 PROTOCOLO DE DEEP WORK PARA ESTUDANTES
 ════════════════════════════════════════
 
-BLOCO DIÁRIO: 90-120 minutos
+BLOCO DIÁRIO: 90-120 minutos (sugestão do curso)
 ├── Horário fixo (preferencialmente manhã)
 ├── Ambiente exclusivo para estudo (mesma cadeira, mesa, café)
 ├── Celular em modo avião e fora do campo visual
@@ -245,7 +245,7 @@ Preencha:
 **Parte 3 — Calcule sua meta**:
 - Horas semanais de Deep Work planejadas: _____
 - Horas semanais de Shallow Work estimadas: _____
-- Proporção Deep/Total: _____% (meta: acima de 40%)
+- Proporção Deep/Total: _____% (meta de referência do curso: acima de 40%)
 
 **Compromisso**: Implementar esse protocolo por 2 semanas sem modificação, depois avaliar e ajustar.
 
@@ -286,31 +286,31 @@ d) A meta de 4 horas de Deep Work por dia
 
 ---
 
-**4. Qual é a fórmula de Newport para o resultado de alto desempenho?**
+**4. Qual é a fórmula de Newport para o trabalho de alta qualidade produzido?**
 
 a) Resultado = Tempo + Esforço
 b) Resultado = Horas trabalhadas × Número de tarefas
-c) Resultado de Alto Desempenho = Tempo × Intensidade do Foco
+c) Trabalho de Alta Qualidade Produzido = Tempo Gasto × Intensidade do Foco
 d) Resultado = Talento + Oportunidade
 
 **Gabarito**: c) — Tempo × Intensidade do Foco = o diferencial não é horas, é qualidade da atenção
 
 ---
 
-**5. Por que o Shallow Work está se tornando menos valioso com o avanço da IA?**
+**5. Segundo o argumento de Newport (que hoje vale também para a IA), por que o Shallow Work tende a perder valor?**
 
 a) Porque a IA cobra menos que humanos
-b) Porque o Shallow Work é composto por tarefas logísticas, repetitivas e de pouco valor único — exatamente o tipo que a IA automatiza com mais facilidade
+b) Porque o Shallow Work é composto por tarefas logísticas, repetitivas e de pouco valor único — exatamente o tipo que a automação e a terceirização substituem com mais facilidade
 c) Porque as empresas estão cortando custos
 d) Porque Shallow Work requer habilidades que a IA aprende rapidamente
 
-**Gabarito**: b) — Shallow Work = baixo valor único + fácil replicação = alvo óbvio para automação por IA
+**Gabarito**: b) — Shallow Work = baixo valor único + fácil replicação = alvo óbvio para automação e terceirização (hoje, também por IA)
 
 ---
 
 ## Leitura Recomendada
 
-- **Newport, Cal**. *Trabalho Focado: Como Ter Sucesso em um Mundo Distraído*. Alta Books, 2016.
+- **Newport, Cal**. *Trabalho Focado: Como Ter Sucesso em um Mundo Distraído*. Alta Books, 2018 (original: *Deep Work*, 2016).
 - **Newport, Cal**. *Seja tão bom que eles não possam ignorar você*. Alta Books, 2012.
 - **Newport, Cal**. Blog: calnewport.com/blog (gratuito, atualizado regularmente)
 

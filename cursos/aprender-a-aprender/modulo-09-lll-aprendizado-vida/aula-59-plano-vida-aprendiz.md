@@ -69,7 +69,7 @@ Pronto. Agora deixa eu guiar a revisão:
 │                                                                  │
 │  MÓDULO 2 — Ilusões de Aprendizado                               │
 │  → Fluência ilusória: ler ≠ aprender; sublinhar ≠ gravar         │
-│  → O experimento de Karpicke: retrieval bate releitura 3x        │
+│  → Recuperar supera reler (Roediger & Karpicke, 2006)            │
 │  → Efeito de ilusão de competência e como evitá-lo              │
 │                                                                  │
 │  MÓDULO 3 — Técnicas Fundamentais                                │
@@ -94,7 +94,7 @@ Pronto. Agora deixa eu guiar a revisão:
 │                                                                  │
 │  MÓDULO 7 — Hábitos e Sistemas                                   │
 │  → James Clear: identidade antes de ações                        │
-│  → Loop de hábito: gatilho → rotina → recompensa                 │
+│  → Loop do hábito (Duhigg): gatilho → rotina → recompensa        │
 │  → Sistema de estudo como hábito integrado à vida                │
 │                                                                  │
 │  MÓDULO 8 — Ultralearning                                        │
@@ -105,7 +105,7 @@ Pronto. Agora deixa eu guiar a revisão:
 │                                                                  │
 │  MÓDULO 9 — Life Long Learning                                   │
 │  → Aprender, desaprender e reaprender (Toffler, 1970)            │
-│  → Curiosidade como motor neurológico (Ranganath, UC Davis)      │
+│  → Curiosidade e memória (Gruber, Gelman & Ranganath, 2014)      │
 │  → Comunidades, portfólio, PDI                                   │
 │  → Agora: Plano de Vida Aprendiz                                 │
 └──────────────────────────────────────────────────────────────────┘
@@ -145,7 +145,7 @@ Leia devagar. Deixe cada frase ressoar.
 ║  Eu pratico a mente de principiante — mantendo a abertura        ║
 ║  mesmo onde já tenho expertise.                                  ║
 ║                                                                  ║
-║  Eu ensino o que aprendo — pois ensinar é a forma mais           ║
+║  Eu ensino o que aprendo — pois ensinar é uma forma              ║
 ║  profunda de aprender.                                           ║
 ║                                                                  ║
 ║  Eu cuido da minha curiosidade — a alimento com leitura,         ║
@@ -191,7 +191,7 @@ Isso é normal. É humano. E a resposta não é vergonha ou desistência — é 
 
 **3 estratégias para os momentos difíceis:**
 
-**1. A Regra dos 2 Minutos**: James Clear nos ensinou que nunca devemos quebrar uma cadeia de hábitos mais de uma vez seguida. Nos dias impossíveis, faça o mínimo: 2 minutos. Ler 1 página. Fazer 1 flashcard no Anki. Escrever 1 parágrafo. O ato de fazer algo — qualquer coisa — mantém a identidade viva: "Eu sou um aprendiz permanente."
+**1. A Regra dos 2 Minutos**: James Clear sugere começar um hábito por uma versão que leve menos de dois minutos. Nos dias impossíveis, faça o mínimo: 2 minutos. Ler 1 página. Fazer 1 flashcard no Anki. Escrever 1 parágrafo. O ato de fazer algo — qualquer coisa — mantém a identidade viva: "Eu sou um aprendiz permanente." E some a isso outra ideia de Clear: nunca quebre um hábito duas vezes seguidas. Perder um dia isolado não atrapalha de forma relevante a formação do hábito (Lally e colegas, 2010).
 
 **2. Adaptar, não abandonar**: se o projeto de Ultralearning precisar ser pausado por 2 semanas, pause com consciência e defina a data de retorno. Abandonar é o inimigo — pausar é humano e sustentável.
 
@@ -203,9 +203,9 @@ Isso é normal. É humano. E a resposta não é vergonha ou desistência — é 
 
 Chegamos ao final. E eu quero terminar com algo que vai além das técnicas e dos planos.
 
-Quando **Alvin Toffler** escreveu em 1970 sobre o analfabeto do século XXI, ele estava falando sobre uma ameaça. Mas eu prefiro ler a mesma frase como uma **promessa**.
+Quando **Alvin Toffler** escreveu em 1970 sobre ensinar a aprender, desaprender e reaprender — e citou o psicólogo Herbert Gerjuoy sobre o analfabeto de amanhã, que não aprendeu a aprender —, ele estava falando sobre uma ameaça. Mas eu prefiro ler a mesma ideia como uma **promessa**.
 
-A promessa de que quem aprende, desaprende e rereaprende está equipado para navegar qualquer futuro que surja. Para criar valor onde outros veem obsolescência. Para encontrar oportunidades onde outros veem incerteza. Para continuar crescendo quando outros param.
+A promessa de que quem aprende, desaprende e reaprende está equipado para navegar qualquer futuro que surja. Para criar valor onde outros veem obsolescência. Para encontrar oportunidades onde outros veem incerteza. Para continuar crescendo quando outros param.
 
 Você chegou até aqui. Esse curso não foi simples — exigiu tempo, atenção, reflexão e prática. O fato de você ter chegado até esta última aula diz algo sobre você: você é alguém que age sobre seus compromissos de aprendizagem.
 
@@ -256,10 +256,10 @@ O **Pacto com o Aprendizado**.
 ║  ________________________________  ___ / ___ / 2026            ║
 ║  Assinatura                        Data                          ║
 ║                                                                  ║
-║  "O analfabeto do século XXI não é quem não sabe ler ou         ║
-║   escrever. É quem não sabe aprender, desaprender                ║
-║   e reaprender."                                                 ║
-║                             — Alvin Toffler, 1970               ║
+║  "O analfabeto de amanhã será quem não aprendeu                  ║
+║   a aprender." — psicólogo Herbert Gerjuoy,                      ║
+║   citado por Alvin Toffler em Future Shock, 1970                 ║
+║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -348,7 +348,7 @@ E isso não é o final do curso.
 
 **3.** Quais são as 3 estratégias para sustentar o LLL nos momentos difíceis?
 
-**4.** Quais são as 4 dimensões do Plano de Vida Aprendiz?
+**4.** Quais são as 4 dimensões (ritmos) do Plano de Vida Aprendiz?
 
 **5.** O que significa ser um "Aprendiz Permanente" — não como técnica, mas como identidade?
 
@@ -360,9 +360,9 @@ E isso não é o final do curso.
 
 **2.** Os 7 compromissos: (1) 20 minutos diários de aprendizado; (2) 1 projeto de Ultralearning por ano; (3) participação em 1 comunidade de aprendizagem; (4) documentação regular do aprendizado; (5) revisão trimestral do Plano de Vida Aprendiz; (6) adaptar, não abandonar nos momentos difíceis; (7) celebrar o aprendizado — especialmente o difícil.
 
-**3.** As 3 estratégias: (1) A Regra dos 2 Minutos — fazer o mínimo possível para manter a identidade ativa; (2) Adaptar, não abandonar — pausar conscientemente com data de retorno definida; (3) A comunidade como âncora — quando a motivação interna some, a responsabilidade social sustenta.
+**3.** As 3 estratégias: (1) A Regra dos 2 Minutos — fazer uma versão mínima, de menos de 2 minutos, para manter a identidade ativa, sem quebrar o hábito duas vezes seguidas; (2) Adaptar, não abandonar — pausar conscientemente com data de retorno definida; (3) A comunidade como âncora — quando a motivação interna some, a responsabilidade social sustenta.
 
-**4.** As 4 dimensões do Plano de Vida Aprendiz: (1) Rotina diária de aprendizado (20 min mínimos + hábito estabelecido); (2) Projeto mensal + projeto anual de Ultralearning; (3) Revisões semanal e mensal; (4) Comunidade de aprendizagem + portfólio em construção.
+**4.** As 4 dimensões (ritmos) do Plano de Vida Aprendiz: (1) **Dia** — rotina diária de aprendizado (20 min como plano; 2 a 10 min como piso nos dias ruins); (2) **Semana** — revisão semanal do que foi aprendido; (3) **Trimestre** — revisão trimestral do Plano, como no Pacto; (4) **Ano** — pelo menos 1 projeto de Ultralearning. Comunidade de aprendizagem e portfólio correm em paralelo, de forma contínua.
 
 **5.** Ser um "Aprendiz Permanente" como identidade significa que o aprendizado não é uma atividade que você faz — é uma **característica de quem você é**. A identidade de aprendiz precede as ações: "Eu sou alguém que aprende continuamente" → portanto "Eu estudo todo dia". James Clear nos ensinou (Módulo 7) que a identidade é a base mais duradoura para qualquer comportamento. Quando o aprendizado é identidade — e não apenas obrigação — ele se sustenta por décadas, independentemente de circunstâncias externas.
 
@@ -381,12 +381,12 @@ E isso não é o final do curso.
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   "Qualquer um que para de aprender é velho —                    │
-│    seja aos 20 ou aos 80.                                        │
-│    Qualquer um que continua aprendendo permanece jovem.          │
-│    A maior coisa na vida é manter a mente jovem."               │
+│   Quem para de aprender envelhece — aos 20 ou aos 80;            │
+│   quem continua aprendendo permanece jovem.                      │
 │                                                                  │
-│                              — Henry Ford                        │
+│   (frase popular, atribuída a Henry Ford sem registro            │
+│    confirmado em fonte primária)                                 │
+│                                                                  │
 │                                                                  │
 │              PARABÉNS PELA CONCLUSÃO DO CURSO                    │
 │             "APRENDER A APRENDER" — EDUCA COM TALENTO            │

@@ -35,9 +35,9 @@ Você provavelmente já ouviu a famosa regra das **10.000 horas** popularizada p
 
 O problema é que Gladwell simplificou demais a pesquisa original. E essa simplificação leva muita gente a um equívoco enorme sobre como funciona o desenvolvimento de expertise.
 
-O pesquisador por trás das 10.000 horas é **Anders Ericsson**, professor de psicologia da **Florida State University**, um dos maiores especialistas do mundo em desenvolvimento de expertise. Ericsson passou décadas estudando violinistas, enxadristas, atletas de elite, médicos e outros experts de elite para entender o que os diferencia de amadores.
+O pesquisador por trás das 10.000 horas é **Anders Ericsson**, que foi professor de psicologia da **Florida State University** e se tornou referência no estudo da expertise. Ao longo da carreira, Ericsson estudou violinistas, enxadristas, atletas de elite, médicos e outros experts de elite para entender o que os diferencia de amadores.
 
-E a descoberta dele é fundamental: não são **10.000 horas de prática**. São **10.000 horas de prática deliberada**. Essa palavra — **deliberada** — muda tudo.
+E a correção que ele mesmo fez é fundamental: não há nada de mágico nas **10.000 horas**. No estudo de 1993, com violinistas de uma academia de música de Berlim, esse número era a média acumulada pelos melhores aos 20 anos — e metade deles nem tinha chegado lá. O que mais pesa é o tipo de prática: não qualquer prática, mas **prática deliberada**. Essa palavra — **deliberada** — muda tudo.
 
 A prática comum é aquela que você faz no piloto automático, repetindo o que já sabe confortavelmente. É o músico que toca as mesmas músicas que já domina. É o programador que refaz projetos iguais aos que já fez. É o vendedor que faz o mesmo pitch de sempre.
 
@@ -49,9 +49,9 @@ Isso é o que o Ultralearning chama de **Drill**.
 
 ### Parte 1: Princípio 4 — Drill e a Prática Deliberada
 
-**Drill**, no contexto do Ultralearning, significa praticar deliberadamente as sub-habilidades específicas onde você é mais fraco — o que Scott Young chama de **bottleneck** (gargalo).
+**Drill**, no contexto do Ultralearning, significa praticar deliberadamente as sub-habilidades específicas onde você é mais fraco — o **bottleneck** (gargalo). Scott Young compara isso à **etapa determinante da velocidade** de uma reação química: a etapa mais lenta limita o ritmo do todo.
 
-A lógica é simples mas poderosa: qualquer habilidade complexa é composta de sub-habilidades. O seu desempenho total é limitado pela sua sub-habilidade mais fraca. É como uma corrente — a resistência total é a do elo mais fraco.
+A lógica é simples mas poderosa: qualquer habilidade complexa é composta de sub-habilidades. O seu desempenho total é limitado pela sua sub-habilidade mais fraca. É como uma corrente — a resistência total é a do elo mais fraco. Young dá ainda um segundo motivo para o drill: a carga cognitiva — isolar uma parte libera atenção para ela.
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -64,17 +64,13 @@ A lógica é simples mas poderosa: qualquer habilidade complexa é composta de s
 │  Repete o que já sabe             Foca nas fraquezas             │
 │  Zona de conforto                 Zona de desconforto produtivo  │
 │  Piloto automático                Atenção máxima                 │
-│  Sem feedback sistemático         Feedback contínuo e específico │
+│  Sem feedback sistemático         Feedback e ajuste, ciclo curto │
 │  Progresso lento após inicial     Progresso contínuo             │
-│  10.000h podem ser desperdício    10.000h transformam em elite   │
-│                                                                  │
-│  "A maioria das pessoas ao longo de uma vida não alcança         │
-│   o que um praticante deliberado alcança em 2 anos."            │
-│                          — Anders Ericsson, FSU                  │
+│  Horas sem direção                Horas com metas específicas    │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-O protocolo de Drill do Ultralearning tem 3 etapas que Scott Young chama de **Direct-Drill-Integrate**:
+O protocolo de Drill do Ultralearning é a abordagem que Scott Young chama de **Direct-Then-Drill** (na edição brasileira, "Direcione e depois Repita"). Ela tem 3 etapas, que aqui vamos chamar de **Direct-Drill-Integrate**:
 
 **1. DIRECT (prática direta)**: você começa com a habilidade completa em contexto real (Directness). Durante essa prática, você identifica o que está te limitando mais — o gargalo.
 
@@ -123,7 +119,7 @@ Identificar o gargalo é uma habilidade em si. Aqui estão 3 estratégias:
 ┌──────────────────────────────────────────────────────────────────┐
 │         IDENTIFICANDO SEU GARGALO — EXEMPLOS POR ÁREA            │
 ├─────────────────────┬────────────────────────────────────────────┤
-│  HABILIDADE         │  GARGALO COMUM DE INICIANTES               │
+│  HABILIDADE         │  GARGALO PROVÁVEL (HIPÓTESE DE PARTIDA)    │
 ├─────────────────────┼────────────────────────────────────────────┤
 │  Oratória           │  Pausas — falar muito rápido por nervosismo│
 │  Escrita acadêmica  │  Construção de argumentos (não estrutura)  │
@@ -147,7 +143,7 @@ No Ultralearning, o **Retrieval** não é apenas uma técnica de estudo — é u
 
 Enquanto o Drill ataca a aquisição de novas habilidades, o Retrieval garante que o que foi aprendido **permanece acessível** e continua se consolidando ao longo do projeto.
 
-**Como integrar Retrieval num projeto de Ultralearning:**
+**Como integrar Retrieval num projeto de Ultralearning (proposta do curso, ajustável):**
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -168,14 +164,14 @@ Enquanto o Drill ataca a aquisição de novas habilidades, o Retrieval garante q
 │                                                                  │
 │  AO FINAL DO PROJETO                                             │
 │  → Teste completo: tente demonstrar a habilidade completa        │
-│  → Apresente para alguém (o Efeito Protegiê — ensinar consolida) │
+│  → Apresente para alguém (o efeito protégé — ensinar consolida)  │
 │  → Documente o que aprendeu no seu portfólio de aprendizagem     │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-**Por que isso importa especialmente no Ultralearning?** Porque projetos de Ultralearning são intensos — você absorve muito conteúdo em pouco tempo. Sem Retrieval sistemático, você enfrenta o que os pesquisadores chamam de "curva de esquecimento acelerada": o conteúdo novo empurra o antigo para fora da memória de trabalho.
+**Por que isso importa especialmente no Ultralearning?** Porque projetos de Ultralearning são intensos — você absorve muito conteúdo em pouco tempo. Sem Retrieval sistemático, você enfrenta o que os pesquisadores chamam de **interferência**: o conteúdo novo atrapalha a lembrança do antigo, e o antigo atrapalha o novo. Num experimento de Szpunar, McDermott e Roediger (2008), quem foi testado entre uma lista de palavras e outra lembrou cerca do dobro da última lista e teve muito menos intrusões das listas anteriores.
 
-O Retrieval cria âncoras — cada vez que você recupera uma informação ou habilidade, você está reconsolidando a memória e tornando o acesso futuro mais fácil e mais rápido.
+O Retrieval cria âncoras — cada vez que você recupera uma informação ou habilidade, você fortalece e organiza o caminho de volta até ela, tornando o acesso futuro mais fácil e mais rápido.
 
 **A conexão com Life Long Learning (LLL)** é direta: no LLL, você vai aprender muitas coisas ao longo de décadas. O Retrieval sistemático é o que garante que o aprendizado de hoje ainda estará disponível daqui a 5, 10, 20 anos. É o investimento de longo prazo do aprendizado.
 
@@ -209,7 +205,7 @@ Na próxima aula, avançamos para os Princípios 6 e 7 — **Feedback** e **Rete
 
 3. **Desenhe 1 semana de Drill** para o gargalo identificado:
    - Quanto tempo por dia para o drill específico? (sugestão: 20-30 min)
-   - Qual é a atividade de drill exata? (seja específico — não "praticar inglês", mas "fazer 10 ligações de conversação com nativos via Tandem app")
+   - Qual é a atividade de drill exata? (seja específico — não "praticar inglês", mas "fazer 10 conversas curtas com falantes nativos")
    - Como você vai medir se o drill está funcionando?
 
 4. **Adicione o Retrieval diário**: planeje 10 minutos de free recall ao final de cada sessão de estudo. O que especificamente você vai tentar recuperar?
@@ -236,20 +232,20 @@ Na próxima aula, avançamos para os Princípios 6 e 7 — **Feedback** e **Rete
 
 **1.** A prática comum repete o que já se sabe confortavelmente, opera na zona de conforto e não gera progresso real após o estágio inicial. A prática deliberada (Ericsson) foca especificamente nas **fraquezas**, opera na zona de desconforto produtivo, exige atenção máxima e sempre envolve feedback sobre o desempenho.
 
-**2.** O gargalo (bottleneck) é a **sub-habilidade mais fraca** que limita o desempenho geral em uma habilidade complexa — como o elo mais fraco de uma corrente. Atacar o gargalo tem o maior impacto na melhoria do desempenho total.
+**2.** O gargalo (bottleneck) é a **sub-habilidade mais fraca** que limita o desempenho geral em uma habilidade complexa — como o elo mais fraco de uma corrente, ou a etapa determinante da velocidade, na imagem de Young. Atacar o gargalo tem o maior impacto na melhoria do desempenho total.
 
 **3.** No ciclo Direct-Drill-Integrate: (1) você pratica a habilidade completa em contexto real (Direct) e identifica o gargalo; (2) isola aquela sub-habilidade e pratica intensamente fora do contexto (Drill); (3) volta à prática completa com a sub-habilidade fortalecida (Integrate) e repete o ciclo.
 
 **4.** O **Drill** ataca a **aquisição** de novas sub-habilidades — é ofensivo, foca no que ainda não se domina. O **Retrieval** garante a **consolidação e retenção** do que já foi aprendido — é defensivo contra o esquecimento. Ambos são necessários: o Drill acelera o aprendizado, o Retrieval garante que ele persiste.
 
-**5.** As 3 camadas são: (1) **Diário** — free recall de 5-10 min ao final de cada sessão; (2) **Semanal** — teste abrangente de 20-30 min usando Anki, problemas e aplicação integrada; (3) **Final do projeto** — demonstração completa da habilidade, apresentação para outros, documentação no portfólio.
+**5.** As 3 camadas propostas na aula são: (1) **Diário** — free recall de 5-10 min ao final de cada sessão; (2) **Semanal** — teste abrangente de 20-30 min usando Anki, problemas e aplicação integrada; (3) **Final do projeto** — demonstração completa da habilidade, apresentação para outros, documentação no portfólio.
 
 ---
 
 ## Leitura Recomendada
 
 - **ERICSSON, Anders; POOL, Robert**. *Peak: Secrets from the New Science of Expertise*. Houghton Mifflin Harcourt, 2016.
-- **YOUNG, Scott**. *Ultralearning*, Capítulo 8 (Drill) e Capítulo 9 (Retrieval). HarperBusiness, 2019.
+- **YOUNG, Scott**. *Ultralearning*, Capítulo 7 (Drill) e Capítulo 8 (Retrieval). HarperBusiness, 2019. Edição brasileira: *Ultra-aprendizado*. HarperCollins Brasil, 2020.
 - **ERICSSON, K. A.; KRAMPE, R. T.; TESCH-RÖMER, C**. "The Role of Deliberate Practice in the Acquisition of Expert Performance." *Psychological Review*, 100(3), 363–406, 1993.
 
 ---

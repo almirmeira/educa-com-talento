@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 5 — Gestão de Foco e Atenção |
-| **Aula** | 33 de 45 (06 de 06 no módulo) |
+| **Aula** | 33 de 59 (06 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário |
 | **Formato** | Videoaula com slides |
@@ -32,13 +32,13 @@
 
 ### Abertura
 
-Kurt Lewin foi um dos psicólogos sociais mais influentes do século XX. Nascido na Alemanha em 1890, criou o campo da psicologia social aplicada e formulou uma ideia que parece simples mas tem implicações profundas:
+Kurt Lewin foi um dos psicólogos sociais mais influentes do século XX. Nascido em 1890 em Mogilno, então Prússia (hoje Polônia), foi um dos pioneiros da psicologia social aplicada e, em 1936, formulou uma ideia que parece simples mas tem implicações profundas:
 
 **B = f(P, E)**
 
 Comportamento é uma função da Pessoa e do Ambiente.
 
-Lewin estava dizendo que o que você faz não depende apenas de quem você é — sua personalidade, sua força de vontade, sua disciplina. Depende também, de forma igualmente importante, do ambiente em que você está.
+Lewin estava dizendo que o que você faz não depende apenas de quem você é — sua personalidade, sua força de vontade, sua disciplina. Depende também do ambiente em que você está — as duas coisas atuam juntas.
 
 Isso tem uma consequência libertadora: se você quer mudar um comportamento, não precisa apenas mudar a si mesmo. Você pode mudar o ambiente.
 
@@ -48,13 +48,13 @@ Essa é a ideia central desta aula — e é uma das mais práticas e imediatamen
 
 ### Parte 1: O Ambiente Físico e o Desempenho Cognitivo
 
-Vamos aos dados. Porque aqui, felizmente, a ciência é específica o suficiente para nos dar números concretos para trabalhar.
+Vamos aos dados. Porque aqui, felizmente, a ciência oferece alguns números concretos para trabalhar — com as devidas ressalvas.
 
 **Temperatura**
 
-Uma pesquisa conduzida na Universidade de Cornell mostrou que quando a temperatura do ambiente de trabalho subiu de 20°C para 25°C, os erros de digitação caíram 44% e a produtividade aumentou significativamente. O Harvard Business Review revisou múltiplos estudos e concluiu que a temperatura ideal para trabalho cognitivo fica entre **20°C e 22°C**.
+Um estudo de Alan Hedge, da Universidade Cornell, feito num único escritório de seguros, mostrou que quando a temperatura subiu de 20°C para 25°C, os erros de digitação caíram 44% e a produção aumentou. Já uma análise de 24 estudos feita no Lawrence Berkeley National Laboratory (Seppänen, Fisk e Lei, 2006) encontrou o melhor desempenho em escritórios por volta de **21°C a 22°C**, com queda acima de 23–24°C.
 
-Frio demais? O cérebro gasta energia gerindo a temperatura corporal em vez de processar informação. Quente demais? Literalmente prejudica a capacidade de pensar — calor excessivo reduz a atividade do córtex pré-frontal.
+Frio demais? O desconforto disputa a sua atenção. Quente demais? Também prejudica: durante uma onda de calor em Boston, estudantes em prédios sem ar-condicionado ficaram cerca de 13% mais lentos em testes cognitivos (Cedeño Laurent e col., 2018, Harvard).
 
 O ar-condicionado ou ventilador regulado a 21°C não é capricho. É engenharia cognitiva.
 
@@ -62,7 +62,7 @@ O ar-condicionado ou ventilador regulado a 21°C não é capricho. É engenharia
 
 Luz natural é a mais eficaz para manter o estado de alerta e a qualidade da atenção. Se luz natural não está disponível, luz branca fria (6.500K) simula melhor a luz do dia e mantém a vigilância.
 
-Luz amarela quente (2.700-3.000K) é ideal para relaxamento e leitura antes de dormir — ela sinaliza ao cérebro que o dia está terminando, reduzindo a produção de cortisol e aumentando a melatonina. Exatamente o oposto do que você quer durante uma sessão de estudo intenso.
+Luz amarela quente (2.700-3.000K) é ideal para relaxamento e leitura antes de dormir — ela suprime menos a melatonina, o hormônio que sinaliza a noite, do que a luz branca e azulada. Exatamente o oposto do que você quer durante uma sessão de estudo intenso.
 
 Para estudar: **luz branca, luminosa, preferencialmente natural ou de frente** (não lateral, para evitar sombras sobre o material).
 
@@ -80,7 +80,7 @@ Leitura de         │ Silêncio ou ruído branco baixo
 compreensão        │ (~40-50 dB)
 ───────────────────┼──────────────────────────────
 Memorização,       │ Silêncio ou música instrumental
-flashcards, Anki   │ sem letra
+flashcards         │ sem letra
 ───────────────────┼──────────────────────────────
 Escrita criativa,  │ Ruído ambiente moderado
 brainstorming      │ (café, ~65-70 dB)
@@ -92,11 +92,13 @@ Tarefas repetitivas│ Música com letra funcionou
 de baixa demanda   │ em alguns estudos
 ```
 
+Só o valor de cerca de 70 dB para tarefas criativas vem de um estudo específico (Mehta e col., 2012); os demais valores da tabela são regras práticas.
+
 Música com letra prejudica a leitura e a escrita que envolvem linguagem — porque o processamento linguístico compete com o da música. Você literalmente divide o processamento verbal entre duas fontes.
 
-Ruído branco (o som de chuva, ventilador, ondas do mar) mascara sons irregulares do ambiente sem criar demanda cognitiva adicional. É uma excelente escolha neutra.
+Ruído branco (o som de chuva, ventilador, ondas do mar) mascara sons irregulares do ambiente, mas não ajuda todo mundo: em estudos de Söderlund e colegas, melhorou a memória de alunos desatentos e piorou a dos atentos. Teste em você.
 
-Apps como **Brain.fm**, **Noisli** e **myNoise** oferecem ruídos calibrados para diferentes tipos de trabalho cognitivo.
+Existem apps e sites gratuitos que oferecem esse tipo de som de fundo.
 
 ---
 
@@ -157,21 +159,21 @@ Aqui estão as práticas mais eficazes:
 
 **Desktop/Área de Trabalho**
 
-A área de trabalho do computador deve ter apenas o que você usa regularmente para o estudo. Ícones de redes sociais? Mova para uma pasta ou remova do desktop. A simples visibilidade de um ícone do Instagram ou YouTube já pode criar o impulso de abrir — o mesmo efeito da presença do celular que discutimos na Aula 29.
+A área de trabalho do computador deve ter apenas o que você usa regularmente para o estudo. Ícones de redes sociais? Mova para uma pasta ou remova do desktop. A simples visibilidade de um ícone do Instagram ou YouTube já pode criar o impulso de abrir — algo parecido com a discussão sobre a presença do celular, na Aula 29.
 
 Papel de parede: use algo neutro ou inspirador relacionado ao que você está estudando. Não use algo estimulante demais (paisagens com movimento) nem desorganizado (printscreen de conversas, fotos de festa).
 
 **Organização de Abas**
 
-Regra do professor: durante uma sessão de estudo, máximo de 5 abas abertas no navegador. Todas relacionadas diretamente à tarefa atual. As demais abas que você "vai precisar depois" devem ir para um app de bookmarks (Pocket, Notion, qualquer coisa) — não ficar abertas.
+Regra do professor: durante uma sessão de estudo, máximo de 5 abas abertas no navegador. Todas relacionadas diretamente à tarefa atual. As demais abas que você "vai precisar depois" devem ir para os favoritos do navegador ou um app de notas — não ficar abertas.
 
-O costume de ter 30 abas abertas simultaneamente é um comportamento que consome capacidade cognitiva (você sabe que elas estão lá) e cria a tentação constante de alternar entre elas.
+O costume de ter 30 abas abertas simultaneamente é um comportamento que pode consumir atenção (você sabe que elas estão lá) e cria a tentação constante de alternar entre elas.
 
 **Bloqueadores de sites**
 
 Apps como **Cold Turkey**, **Freedom**, ou a extensão **BlockSite** permitem bloquear sites específicos durante períodos definidos. Algumas versões tornam o desbloqueio suficientemente difícil (exigem reiniciar o computador, por exemplo) para que o custo da distração seja alto o suficiente para dissuadir o comportamento.
 
-Isso não é fraqueza. É design de sistema. Os melhores aprendizes permanentes que conheço usam bloqueadores, do mesmo jeito que atletas profissionais usam equipamentos específicos para otimizar o desempenho. É inteligência aplicada, não rendição.
+Isso não é fraqueza. É design de sistema. Usar bloqueadores é como os atletas profissionais usam equipamentos específicos para otimizar o desempenho. É inteligência aplicada, não rendição.
 
 **Smartphone**
 
@@ -228,9 +230,9 @@ AMBIENTE DIGITAL — TORNAR INDESEJADO INVISÍVEL:
 ☐ Desktop organizado e neutro
 ```
 
-Esse design de ambiente é o que torna o aprendizado contínuo — o Life Long Learning — sustentável sem depender de força de vontade. A força de vontade é um recurso esgotável; o ambiente bem projetado é uma estrutura permanente.
+Esse design de ambiente é o que torna o aprendizado contínuo — o Life Long Learning — sustentável sem depender de força de vontade. A ideia de que a força de vontade é um recurso que se esgota não se confirmou numa replicação com 23 laboratórios (Hagger e col., 2016); mas pessoas com mais autocontrole tendem a se expor menos à tentação (Hofmann e col., 2012) — e o ambiente bem projetado faz exatamente isso, como uma estrutura permanente.
 
-Os melhores aprendizes permanentes não são os mais disciplinados. São os que construíram ambientes que tornam o aprendizado o caminho de menor resistência.
+Muitas vezes, quem aprende com constância não é o mais disciplinado. É quem construiu ambientes que tornam o aprendizado o caminho de menor resistência.
 
 ---
 
@@ -293,7 +295,7 @@ Use o ambiente redesenhado por 3 dias seguidos. Ao final do terceiro dia, regist
 **1. Qual é a equação de Kurt Lewin e o que ela significa?**
 
 a) C = f(P + E): Comportamento é a soma da pessoa e do ambiente
-b) B = f(P, E): Comportamento é uma função da Pessoa e do Ambiente — ambos contribuem igualmente
+b) B = f(P, E): Comportamento é uma função da Pessoa e do Ambiente — os dois atuam juntos
 c) E = mc²: energia é massa vezes a velocidade da luz ao quadrado
 d) B = f(P): Comportamento depende apenas da pessoa
 
@@ -301,14 +303,14 @@ d) B = f(P): Comportamento depende apenas da pessoa
 
 ---
 
-**2. Qual é a faixa de temperatura ideal para trabalho cognitivo, segundo pesquisas citadas?**
+**2. Qual faixa de temperatura a aula sugere para trabalho cognitivo, com base na análise de Seppänen e colegas (2006)?**
 
 a) 16-18°C
 b) 18-20°C
-c) 20-22°C
+c) 20-22°C (melhor desempenho por volta de 21-22°C)
 d) 24-26°C
 
-**Gabarito**: c) — 20-22°C é a faixa identificada como ideal em múltiplos estudos, incluindo revisões do Harvard Business Review
+**Gabarito**: c) — Na análise de 24 estudos de Seppänen, Fisk e Lei (2006), o desempenho em escritório atinge o máximo por volta de 21-22°C e cai acima de 23-24°C
 
 ---
 
@@ -347,7 +349,7 @@ d) "Cada 1% de melhoria se acumula ao longo do tempo"
 
 ## Leitura Recomendada
 
-- **Clear, James**. *Hábitos Atômicos: Como Construir Bons Hábitos e Eliminar os Maus*. Alta Books, 2019. (Especialmente Capítulo 6: A Motivação É Superestimada; O Ambiente Muitas Vezes Importa Mais)
+- **Clear, James**. *Hábitos Atômicos: um método fácil e comprovado de criar bons hábitos e se livrar dos maus*. Alta Books, 2019. (Especialmente Capítulo 6: A Motivação É Superestimada; O Ambiente Muitas Vezes Importa Mais)
 - **Lewin, Kurt**. *Field Theory in Social Science*. Harper & Row, 1951.
 - **Waber, Ben; Magnolfi, Jennifer; Lindsay, Greg**. "Workspaces That Move People". *Harvard Business Review*, outubro 2014.
 

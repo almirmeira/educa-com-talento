@@ -7,7 +7,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Módulo** | 5 — Gestão de Foco e Atenção |
-| **Aula** | 28 de 45 (01 de 06 no módulo) |
+| **Aula** | 28 de 59 (01 de 06 no módulo) |
 | **Duração estimada** | 20 minutos |
 | **Nível** | Intermediário |
 | **Formato** | Videoaula com slides |
@@ -36,15 +36,15 @@ Você já parou para calcular qual é o recurso mais escasso na sua vida?
 
 A maioria das pessoas responderia "tempo". Faz sentido — todo mundo reclama que não tem tempo suficiente. Mas deixa eu te desafiar: o tempo é igual para todo mundo. Vinte e quatro horas por dia, para o CEO de uma empresa bilionária e para você. O que diferencia o que cada um consegue fazer com essas mesmas 24 horas não é o tempo — é a **atenção**.
 
-E a atenção, meu amigo, é o recurso mais escasso, mais valioso e mais ameaçado do século XXI.
+E a atenção, meu amigo, é um dos recursos mais escassos, mais valiosos e mais ameaçados do século XXI.
 
-Hoje vamos falar sobre uma habilidade que Chris Bailey, pesquisador canadense de produtividade que passou um ano inteiro experimentando todas as técnicas de foco existentes, chamou de **Hiperfoco**. E eu garanto que o que você vai aprender nessa aula vai mudar a forma como você estuda, trabalha e aprende — para sempre.
+Hoje vamos falar sobre uma habilidade que Chris Bailey, escritor canadense especializado em produtividade, chamou de **Hiperfoco** — termo que ele adaptou da literatura sobre TDAH para falar de um foco intenso escolhido. E eu acredito que o que você vai aprender nessa aula pode mudar a forma como você estuda, trabalha e aprende.
 
 ---
 
 ### Parte 1: O Livro Hiperfoco e os Dois Modos de Atenção
 
-Chris Bailey publicou o livro *Hiperfoco* em 2018, depois de um projeto radical: ele passou doze meses testando cientificamente as técnicas mais eficazes de produtividade e gestão de atenção. O resultado foi uma das obras mais práticas já escritas sobre o tema.
+Chris Bailey publicou o livro *Hiperfoco* em 2018 (no Brasil, em 2019), depois de mergulhar em estudos sobre atenção, conversar com pesquisadores e testar as técnicas na própria rotina. O resultado foi uma obra bem prática sobre o tema.
 
 A grande ideia central do livro é esta: **a atenção não é um recurso unitário**. Temos, na verdade, dois modos distintos de atenção, e os aprendizes de alto desempenho usam ambos estrategicamente.
 
@@ -67,7 +67,7 @@ O segundo modo é o **Scatterfocus** — e esse é o nome mais contraintuitivo q
 └───────────────────────┴────────────────────────────────────┘
 ```
 
-O scatterfocus é o modo em que o seu cérebro integra o que aprendeu, cria conexões entre ideias aparentemente não relacionadas e gera insights criativos. Sabe quando você tem aquela ideia genial no banho? É o scatterfocus em ação. O problema é que vivemos num mundo que preenche cada segundo de vazio com uma notificação, um vídeo, uma mensagem — eliminando completamente o scatterfocus da nossa vida.
+O scatterfocus é o modo em que o seu cérebro integra o que aprendeu, cria conexões entre ideias aparentemente não relacionadas e gera insights criativos. Sabe quando você tem aquela ideia genial no banho? É o scatterfocus em ação. O problema é que vivemos num mundo que preenche cada segundo de vazio com uma notificação, um vídeo, uma mensagem — encolhendo muito o espaço do scatterfocus na nossa vida.
 
 Mas hoje o foco principal é o hiperfoco. Vamos entender como funciona.
 
@@ -77,13 +77,13 @@ Mas hoje o foco principal é o hiperfoco. Vamos entender como funciona.
 
 Aqui tem uma descoberta científica que vai te chocar se você ainda acredita em multitasking.
 
-Em 2001, o psicólogo Nelson Cowan, da Universidade do Missouri, publicou uma pesquisa que ficou conhecida como a "regra do quatro". O estudo mostrou que a memória de trabalho humana — a memória que usamos para processar informações em tempo real — tem capacidade de manter aproximadamente **4 objetos de atenção simultâneos**.
+Em 2001, o psicólogo Nelson Cowan, da Universidade do Missouri, publicou um artigo de revisão intitulado "O número mágico 4". O trabalho mostrou que a memória de trabalho humana — a memória que usamos para processar informações em tempo real — tem capacidade de manter aproximadamente **4 blocos de informação ao mesmo tempo** (numa faixa de 3 a 5).
 
 Quatro.
 
 Não vinte, não dez. Quatro.
 
-E quando eu digo objetos, não estou falando só de tarefas. Estou falando de qualquer coisa que esteja ocupando espaço no seu "espaço atencional": a tarefa que você está fazendo, a preocupação que está na cabeça, o barulho do ambiente, a notificação que você viu mas não respondeu ainda.
+Cowan mediu isso em tarefas de memória; o que vem a seguir é uma ilustração didática, não uma medição. Pense em objetos não só como tarefas, mas como qualquer coisa que esteja ocupando espaço no seu "espaço atencional": a tarefa que você está fazendo, a preocupação que está na cabeça, o barulho do ambiente, a notificação que você viu mas não respondeu ainda.
 
 Agora faz o cálculo: se você está estudando (objeto 1), mas está com o celular do lado com notificações aparecendo (objeto 2), com a preocupação sobre aquela mensagem que precisa responder (objeto 3), e com o ruído de pessoas conversando ao fundo (objeto 4) — você usou os seus quatro objetos atencionais antes mesmo de começar a processar o conteúdo de verdade.
 
@@ -111,7 +111,7 @@ O hiperfoco é sobre liberar esse espaço atencional para um único objeto princ
 
 Chris Bailey propõe um protocolo elegante de quatro passos para entrar em hiperfoco. Vou te ensinar cada um deles agora.
 
-**Passo 1: Decidir**
+**Passo 1: Escolher (decidir)**
 
 Antes de começar qualquer sessão de estudo ou trabalho profundo, você precisa decidir explicitamente *o que* vai ser o objeto do seu hiperfoco. Não "vou estudar química". Mas "vou resolver os 10 exercícios do capítulo 5 de química orgânica".
 
@@ -128,11 +128,11 @@ Quais são os invasores? Tudo que pode sequestrar um dos seus quatro objetos ate
 - Pessoas que podem te interromper
 - Preocupações mentais não resolvidas (para essas, anote numa lista "para depois")
 
-Não é "colocar o celular no silencioso". É colocar em outro cômodo, ou em modo avião, ou virado para baixo longe do campo visual. Pesquisas mostram que a simples *presença* visível do smartphone — mesmo desligado — reduz a capacidade cognitiva disponível (Ward et al., 2017, University of Texas at Austin).
+Não é "colocar o celular no silencioso". É colocar em outro cômodo, ou em modo avião, ou virado para baixo longe do campo visual. Nos experimentos de Ward et al. (2017, University of Texas at Austin), a simples *presença* do smartphone sobre a mesa — mesmo desligado — reduziu a capacidade cognitiva disponível. O efeito é pequeno e nem sempre se repetiu em estudos posteriores (meta-análise de Böttger e col., 2023), mas afastar o celular custa pouco.
 
-**Passo 3: Duração**
+**Passo 3: Focar (com duração definida)**
 
-Decida por quanto tempo vai manter o hiperfoco antes de começar. Chris Bailey recomenda sessões de 15 a 45 minutos para iniciantes, podendo chegar a 60-90 minutos para praticantes experientes.
+Concentre-se no objeto escolhido. Uma dica de Bailey é decidir antes por quanto tempo vai manter o hiperfoco. Ele mesmo começou com blocos de 15 minutos, chegou a sessões de 45 minutos e recomenda uma pausa ao menos a cada 90 minutos.
 
 A duração importa porque cria um compromisso temporal claro. "Vou focar por 45 minutos" é muito mais sustentável mentalmente do que "vou focar até acabar".
 
@@ -148,12 +148,12 @@ Cada vez que você percebe a divagação e redireciona, está treinando o múscu
 
 Atletas de alto desempenho têm rituais pré-competição. Estão acostumados a preparar o corpo e a mente antes de uma partida importante. Estudantes de alto desempenho fazem o mesmo — só que poucos percebem isso conscientemente.
 
-Um ritual de entrada no hiperfoco é uma sequência de ações que seu cérebro associa ao estado de foco profundo. Com o tempo, o simples ato de executar o ritual já começa a ativar o estado desejado.
+Um ritual de entrada no hiperfoco é uma sequência de ações que você repete antes de focar. A ideia é que, com o tempo, executar o ritual ajude a entrar no estado desejado — rotinas assim são muito usadas no esporte, embora o mecanismo ainda esteja em estudo.
 
 Exemplos de rituais eficazes:
 
 ```
-RITUAL EXEMPLO (15-20 minutos de preparação):
+RITUAL EXEMPLO (cerca de 10 minutos de preparação):
 ─────────────────────────────────────────────
 1. Fechar todas as abas desnecessárias (2 min)
 2. Anotar preocupações numa lista "para depois" (3 min)
@@ -174,9 +174,9 @@ Isso é o que separa quem aprende de forma consistente de quem aprende apenas qu
 
 Vamos recapitular o que você aprendeu nessa aula:
 
-O hiperfoco é o estado de atenção concentrada em um único objeto principal, proposto por Chris Bailey. Ele funciona porque libera os quatro slots da memória de trabalho para o que realmente importa.
+O hiperfoco, no sentido proposto por Chris Bailey, é o estado de atenção concentrada em um único objeto principal. A ideia é liberar o espaço limitado da memória de trabalho — cerca de quatro blocos — para o que realmente importa.
 
-Os quatro passos são: **decidir, eliminar, durar, redirecionar**.
+Os quatro passos são: **escolher, eliminar, focar, redirecionar**.
 
 E você constrói esse estado através de rituais consistentes — porque os melhores aprendizes permanentes não dependem de inspiração, eles constroem sistemas.
 
@@ -220,14 +220,14 @@ Até lá!
 
 ## Quiz de Retrieval
 
-**1. Segundo Chris Bailey, quantos objetos de atenção a memória de trabalho humana consegue manter simultaneamente?**
+**1. Segundo Nelson Cowan (2001), quantos blocos de informação a memória de trabalho humana consegue manter ao mesmo tempo?**
 
-a) 7 objetos
-b) 4 objetos
-c) 10 objetos
-d) 2 objetos
+a) Cerca de 7 blocos
+b) Cerca de 4 blocos
+c) Cerca de 10 blocos
+d) Cerca de 2 blocos
 
-**Gabarito**: b) 4 objetos (pesquisa de Nelson Cowan, 2001)
+**Gabarito**: b) Cerca de 4 blocos, numa faixa de 3 a 5 (Nelson Cowan, 2001)
 
 ---
 
@@ -253,14 +253,14 @@ d) A internet
 
 ---
 
-**4. Pesquisa da Universidade do Texas (Ward et al., 2017) mostrou que:**
+**4. Os experimentos da Universidade do Texas (Ward et al., 2017) indicaram que:**
 
 a) O celular só distrai quando está tocando
-b) A simples presença visível do smartphone reduz a capacidade cognitiva, mesmo se desligado
+b) A simples presença do smartphone sobre a mesa reduziu a capacidade cognitiva disponível, mesmo desligado
 c) O celular não impacta o foco se estiver em silencioso
 d) O modo avião elimina completamente o impacto cognitivo do celular
 
-**Gabarito**: b) — A presença visual já consome espaço atencional
+**Gabarito**: b) — Efeito pequeno, que nem sempre se repetiu em estudos posteriores
 
 ---
 
@@ -277,7 +277,7 @@ d) Encerrar a sessão quando a mente divagar mais de 3 vezes
 
 ## Leitura Recomendada
 
-- **Bailey, Chris**. *Hiperfoco: Como Trabalhar Menos para Realizar Mais*. São Paulo: Alta Books, 2019.
+- **Bailey, Chris**. *Hiperfoco: como trabalhar menos e render mais*. São Paulo: Benvirá, 2019.
 - **Cowan, Nelson**. "The magical number 4 in short-term memory". *Behavioral and Brain Sciences*, 24(1), 2001.
 - **Ward, Adrian F. et al**. "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity". *Journal of the Association for Consumer Research*, 2(2), 2017.
 

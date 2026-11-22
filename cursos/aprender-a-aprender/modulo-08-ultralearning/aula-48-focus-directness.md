@@ -31,13 +31,13 @@
 
 ### Abertura
 
-Deixa eu te contar sobre dois estudantes de inglês que conheci — vou chamar de Ana e Bruno.
+Deixa eu te contar um caso ilustrativo, que junta histórias muito comuns: dois estudantes de inglês que vou chamar de Ana e Bruno.
 
 **Ana** estudou inglês por 5 anos em cursinhos. Fez gramática, exercícios de listening, completou todos os módulos. Sabia conjugar verbos em 12 tempos, conhecia 3.000 palavras de vocabulário, tirava notas altas nas provas. Mas quando viajou para os EUA pela primeira vez e um americano fez uma pergunta simples, ela travou completamente. Não conseguiu responder.
 
 **Bruno** estudou inglês por 6 meses — só 6 meses. Mas desde o primeiro dia, ele entrou em grupos de conversação online com nativos americanos. Cometia erros? Sim, montanhas de erros. Mas ele falava. Ele se comunicava. Quando foi para os EUA, conversou, negociou, fez amigos.
 
-Quem aprendeu mais? Bruno, em 6 meses, com 1/10 do tempo de Ana.
+Quem aprendeu mais? Bruno, em 6 meses, com bem menos tempo que Ana.
 
 A diferença não foi inteligência. Foi o princípio que vamos ver hoje: **Directness**.
 
@@ -59,36 +59,36 @@ Scott Young identifica **3 problemas distintos de foco** que afetam os aprendize
 │  PROBLEMA 1: Não consegue COMEÇAR a sessão de foco               │
 │  → Sintoma: procrastinação, "só mais 5 minutos" no celular       │
 │  → Causa: ativação da tarefa parece custo alto demais            │
-│  → Solução: rituais de entrada (mesmo ambiente, mesmo horário,   │
-│    mesma música ou silêncio, temporizador de 25 min visível)     │
+│  → Solução (Young): reconhecer o impulso de procrastinar e usar  │
+│    muletas em escada: regra dos 5 min → Pomodoro 25+5 → agenda   │
 │                                                                  │
 │  PROBLEMA 2: Não consegue SUSTENTAR o foco por muito tempo       │
-│  → Sintoma: mente vaga após 10-15 minutos, checar celular        │
-│  → Causa: capacidade de atenção sustentada subdesenvolvida       │
-│  → Solução: Pomodoro progressivo (25→35→45→55 min) + treinar     │
-│    deliberadamente trazer a mente de volta sem julgamento        │
+│  → Sintoma: reler o mesmo parágrafo sem absorver, checar celular │
+│  → Causa: distração vinda do ambiente, da tarefa ou da mente     │
+│  → Solução: sessões de 50 min a 1 h; notar a distração e voltar  │
+│    sem julgamento; começar de baixo (30 s → 1 min → 2 min)       │
 │                                                                  │
 │  PROBLEMA 3: Qualidade ERRADA de foco                            │
 │  → Sintoma: estuda por horas mas não processa profundamente      │
-│  → Causa: foco difuso em vez de foco concentrado no problema     │
-│  → Solução: eliminar multitasking, uma tarefa de cada vez,       │
-│    perguntar ativamente "o que estou tentando aprender agora?"   │
+│  → Causa (Young): ativação inadequada à complexidade da tarefa   │
+│  → Solução: calma e silêncio para tarefas complexas; mais        │
+│    estímulo tolerável nas simples; uma tarefa de cada vez        │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-**O que significa "qualidade errada de foco"?** É quando você passa horas "estudando" mas na verdade está em modo piloto automático — lendo sem processar, assistindo sem questionar, fazendo exercícios sem pensar no porquê. O corpo está lá, mas a mente está ausente.
+**O que significa "qualidade errada de foco"?** Para Young, é o nível de ativação errado para a tarefa: matemática pede calma e silêncio; uma tarefa simples tolera uma cafeteria. Na prática, aparece também quando você passa horas "estudando" mas na verdade está em modo piloto automático — lendo sem processar, assistindo sem questionar, fazendo exercícios sem pensar no porquê. O corpo está lá, mas a mente está ausente.
 
-**Cal Newport**, pesquisador da **Universidade de Georgetown** e autor de "Deep Work", mostrou que o trabalho cognitivo profundo — que ele chama de *deep work* — é a atividade mais valiosa e mais rara no mundo moderno. E é exatamente disso que o Ultralearning precisa: sessões de **trabalho cognitivo profundo dedicadas ao aprendizado**.
+**Cal Newport**, pesquisador da **Universidade de Georgetown** e autor de "Deep Work", defende a hipótese de que a capacidade de fazer trabalho cognitivo profundo — que ele chama de *deep work* — está ficando mais rara justamente quando fica mais valiosa. E é exatamente disso que o Ultralearning precisa: sessões de **trabalho cognitivo profundo dedicadas ao aprendizado**.
 
 **3 práticas fundamentais para o Focus no Ultralearning:**
 
-1. **Blocos dedicados**: reserve blocos de 1-2 horas para o projeto de Ultralearning, com hora marcada e ambiente preparado. Não "vou estudar quando der." Agenda, como reunião.
+1. **Blocos dedicados**: reserve sessões de 50 minutos a 1 hora (ou blocos maiores, com pausa ao fim de cada hora) para o projeto de Ultralearning, com hora marcada e ambiente preparado. Não "vou estudar quando der." Agenda, como reunião.
 
-2. **Ambiente sem distrações**: celular em outro cômodo (não apenas virado para baixo — a presença do celular reduz a capacidade cognitiva, mesmo sem olhar). Notificações desligadas. Ambiente associado ao estudo.
+2. **Ambiente sem distrações**: celular em outro cômodo (não apenas virado para baixo — estudos sugerem que a simples presença do celular pode atrapalhar, embora o efeito medido seja pequeno). Notificações desligadas. Ambiente associado ao estudo.
 
 3. **Ritualização**: um pequeno ritual de entrada — talvez revisar o objetivo da sessão, talvez 2 minutos de respiração — que sinaliza ao cérebro que agora começa o modo de foco profundo. O cérebro aprende padrões e responde a rituais.
 
-No contexto do **Life Long Learning (LLL)**, o Focus é uma habilidade que você desenvolve ao longo da vida inteira. Quanto mais você pratica sessões de foco profundo, mais fácil fica iniciar e sustentar. É um músculo.
+No contexto do **Life Long Learning (LLL)**, o Focus é uma habilidade que você desenvolve ao longo da vida inteira. Quanto mais você pratica sessões de foco profundo, mais fácil tende a ficar iniciar e sustentar. Só não leve a metáfora do músculo ao pé da letra: Young é cético quanto a treinar a atenção como uma habilidade geral.
 
 ---
 
@@ -96,13 +96,13 @@ No contexto do **Life Long Learning (LLL)**, o Focus é uma habilidade que você
 
 Agora chegamos ao princípio que, na minha opinião, é o mais transformador e o mais contraintuitivo do Ultralearning: **Directness**.
 
-A definição de Scott Young é direta: **"Aprenda da forma mais próxima possível de como vai usar o conhecimento."**
+A definição de Scott Young é direta: **aprender de maneira intimamente ligada à situação ou ao contexto em que você deseja usar a habilidade.**
 
-Para entender por que isso importa tanto, preciso te falar sobre o **Transfer Problem** — um dos problemas mais documentados e mais ignorados da educação.
+Para entender por que isso importa tanto, preciso te falar sobre o **Transfer Problem** — um problema bem documentado e muito ignorado na educação.
 
 **O Transfer Problem** diz o seguinte: conhecimento aprendido em um contexto **raramente transfere automaticamente** para um contexto diferente, mesmo que os dois pareçam relacionados.
 
-Isso foi demonstrado em dezenas de experimentos. O mais clássico é de **Mary Gick e Keith Holyoak**, da **Universidade de Michigan**, nos anos 1980. Eles mostraram que estudantes que resolviam um problema de estratégia militar raramente conseguiam aplicar a mesma lógica para resolver um problema análogo de biologia — mesmo que a solução fosse matematicamente idêntica. O contexto diferente bloqueava o transfer.
+Uma revisão de Douglas Detterman (1993) concluiu que os pesquisadores concordam quase totalmente que pouca transferência ocorre. Um experimento clássico é de **Mary Gick e Keith Holyoak**, da **Universidade de Michigan**, em 1980 e 1983. Eles mostraram que estudantes que conheciam a solução de um problema de estratégia militar (tomar uma fortaleza) raramente conseguiam aplicar a mesma lógica a um problema médico análogo (destruir um tumor com radiação) — mesmo que a estrutura da solução fosse a mesma. O contexto diferente bloqueava o transfer.
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -170,13 +170,15 @@ Isso não significa pular os fundamentos. Significa que a prática dos fundament
 └─────────────────────────┴────────────────────────────────────────┘
 ```
 
-**3 estratégias de Directness:**
+**4 táticas de Directness (Young descreve quatro):**
 
 **1. Aprendizado baseado em projeto (Project-Based Learning)**: em vez de estudar tópicos isolados, construa um projeto real que exige que você aprenda o que precisa. Quer aprender análise de dados? Escolha um conjunto de dados que te interessa e analise-o — aprenda o que precisar ao longo do caminho.
 
 **2. Imersão**: coloque-se no ambiente em que o conhecimento é usado. Quer aprender espanhol? Passe tempo em ambientes onde só se fala espanhol — comunidades, filmes, músicas, grupos de conversação. O contexto força o aprendizado contextual.
 
 **3. Simulação fiel**: quando o contexto real não está disponível, crie a simulação mais fiel possível. Um estudante de medicina pode simular diagnósticos com casos clínicos reais. Um estudante de vendas pode praticar com roleplay de situações reais de venda.
+
+**4. Abordagem exagerada**: pratique num nível de exigência acima do uso real. Tristan de Montebello treinou discursos para turmas de escola; Benny Lewis mirou a prova de nível mais alto do idioma.
 
 A pergunta central da Directness é sempre: **"Como eu me aprendendo isso vai usar esse conhecimento no mundo real? Posso praticar de uma forma mais parecida com esse uso desde agora?"**
 
@@ -187,7 +189,7 @@ A pergunta central da Directness é sempre: **"Como eu me aprendendo isso vai us
 Dois princípios hoje. Dois que mudam completamente a qualidade do que você aprende:
 
 - **Focus**: a atenção profunda como ingrediente que não pode ser substituído. Qualidade em vez de quantidade de horas.
-- **Directness**: aprender no contexto do uso real, eliminando o Transfer Problem antes que ele apareça.
+- **Directness**: aprender no contexto do uso real, reduzindo o Transfer Problem antes que ele apareça.
 
 Na prática do Life Long Learning, esses dois princípios precisam estar no seu dia a dia: não apenas nos projetos intensos de Ultralearning, mas em qualquer momento em que você esteja aprendendo algo que importa.
 
@@ -233,13 +235,13 @@ Na próxima aula, avançamos para os Princípios 4 e 5 — **Drill** e **Retriev
 
 **4.** O que Ana e Bruno da história de abertura ilustram sobre Directness?
 
-**5.** Quais são as 3 estratégias de Directness descritas na aula?
+**5.** Quais são as 4 táticas de Directness descritas na aula?
 
 ---
 
 ### Gabarito
 
-**1.** Os 3 problemas são: (1) não conseguir **começar** a sessão de foco; (2) não conseguir **sustentar** o foco por períodos longos; (3) foco de **qualidade errada** — estudo em modo piloto automático sem processamento profundo.
+**1.** Os 3 problemas são: (1) não conseguir **começar** a sessão de foco; (2) não conseguir **sustentar** o foco por períodos longos; (3) foco de **qualidade errada** — para Young, nível de ativação inadequado à complexidade da tarefa; na prática, estudo em modo piloto automático sem processamento profundo.
 
 **2.** O Transfer Problem é o fenômeno documentado pela pesquisa (Gick e Holyoak, Universidade de Michigan) que mostra que **conhecimento aprendido em um contexto raramente transfere automaticamente** para um contexto diferente. Isso explica por que estudantes com boas notas frequentemente não conseguem aplicar o conhecimento na prática real.
 
@@ -247,13 +249,13 @@ Na próxima aula, avançamos para os Princípios 4 e 5 — **Drill** e **Retriev
 
 **4.** Ana estudou inglês em contexto abstrato (gramática, exercícios isolados) — longe do uso real — e travou na conversa real. Bruno estudou em contexto direto (conversação com nativos) desde o início — e fluiu naturalmente. Ilustra que o contexto de aprendizado importa tanto quanto o conteúdo.
 
-**5.** As 3 estratégias são: (1) **Aprendizado baseado em projeto** — construir projetos reais; (2) **Imersão** — colocar-se no ambiente onde o conhecimento é usado; (3) **Simulação fiel** — criar a simulação mais realista possível do uso real.
+**5.** As 4 táticas são: (1) **Aprendizado baseado em projeto** — construir projetos reais; (2) **Imersão** — colocar-se no ambiente onde o conhecimento é usado; (3) **Simulação fiel** — criar a simulação mais realista possível do uso real; (4) **Abordagem exagerada** — praticar num nível de exigência acima do uso real.
 
 ---
 
 ## Leitura Recomendada
 
-- **YOUNG, Scott**. *Ultralearning*, Capítulo 6 (Focus) e Capítulo 7 (Directness). HarperBusiness, 2019.
+- **YOUNG, Scott**. *Ultralearning*, Capítulo 5 (Focus) e Capítulo 6 (Directness). HarperBusiness, 2019. Edição brasileira: *Ultra-aprendizado*. HarperCollins Brasil, 2020.
 - **NEWPORT, Cal**. *Deep Work: Rules for Focused Success in a Distracted World*. Grand Central Publishing, 2016.
 - **GICK, Mary L.; HOLYOAK, Keith J**. "Analogical Problem Solving." *Cognitive Psychology*, 12(3), 1980.
 
